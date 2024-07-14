@@ -1,0 +1,3602 @@
+[
+    {
+        "claim": "„Nije tačno da će mnogi uređaji poskupeti dvadeset odsto zbog ekoloških taksi. Tačno je da je ekološka taksa samo nekoliko procenata u odnosu na cenu.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Deficit opšte države drastično je ispod onoga kakav deficit imaju najznačnije zemlje EU, izuzev Nemačke koja izuzetno posluje i sa kojom ne možemo da se poredimo. Jedna Francuska ima dva i po puta veci deficit od Srbije. “",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В прошлом году по этому показателю [Получение разрешения на строительство в рейтинге Doing Business-ред.] Казахстан поднялся сразу на 17 позиций и занял 35 место в мире",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Профессора Калифорнийского университета (UCLA) Гордона Кляйна временно отстранили от работы, потому что тот отказался перенести экзамены для студентов афроамериканцев",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "В этом году было возбуждено 550 уголовных дел по насилию над детьми",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "У Казахстана вообще нет никакого опыта по выпуску вакцин",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Парламент Швейцарии одобрил закон о запрете вакцинации граждан",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Autoput Kragujevac–Batočina jedan je od prioriteta vlade, pre svega zbog ugovora sa Fijatom.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Vlada od početka godine nije uputila nijedan proevropski zakonski predlog Skupštini.",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“(Porodiljska prava) Ona su kod nas veća, izraženija i bolja nego u Nemačkoj. Tamo posle tri meseca ili šest meseci morate na posao, ovde možete i dve godine da ne idete na posao.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Svetska ekonomska kriza neće uticati na zaposlenost u Srbiji. Neće biti talasa otpuštanja…“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Svi ključni ekonomski indikatori pokazuju tendenciju oporavka od marta (2009.), što znači da je najgori period iza nas.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "За всю вторую пятилетку число рабочих мест в обрабатывающей промышленности увеличилось всего на 46 тысяч, а средняя зарплата в долларовом эквиваленте упала на 25%",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Образовывать феминитивы в русском нужно с помощью аффикса –к",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "”Politika davanja subvencija Vlade Republike Srbije je dobro promišljena i pametna, tako da mislim da ćemo svakako nastaviti sa njom. Dakle, pet domaćih investitora i to se na jedan uložen evro vraća četiri puta u budžet i striktno se prati.”",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "12% преступлений в Казахстане приходится на женщин",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Ввели в детские сады и школы программу психической диагностики и «лечения» детей. (Это может привести к массовой постановке психических диагнозов детям).",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Вакцина от COVID-19 будет вводится людям не пройдя никакой проверки и никакого тестирования. Чтобы апробировать вакцину от COVID-19 понадобится несколько десятков лет. После этого мы можем сказать насколько она опасна или нет, и о ее побочных эффектах/",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Subvencije pojedinim preduzećima padaju, ali ih i dalje ima. Prevashodno tu mislim na Gradsko saobraćajno preduzeće. Takođe, nabavkom novih autobusa, svim merama štednje koje smo započeli, i to preduzeće polako staje na svoje noge.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Krakowiacy żyją najdłużej w całej Polsce.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Ремдесивир используется как профилактика для медработников, лечащих пациентов с COVID-19",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Pripadnici LGBT-populacije imaju mogućnost da ostvaruju svoje pravo garantovano zakonom i Ustavom…kao i da niko od njih ne može biti ograničavan u ostvarivanju prava.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Согласно VAERS, с 2006 по 2019 год после прививки от ВПЧ в США 3000 стали инвалидами, 480 умерли, более чем у 300 появилась дисплазия шейки матки и более чем у 400 появился рак шейки матки",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Казахстан попал в ТОП-15 стран с наихудшими законами о доступе к информации",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Problem polega na tym, że wszystkie sprawy są zaskarżone w sądzie. (…) Sąd miał się w tych sprawach wypowiedzieć w czerwcu. Tylko Patryk Jaki zakwestionował wszystkie składy sędziowskie.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Resorno ministarstvo će ove godine povećati direktna davanja poljoprivrednim proizvodačima sa 12.000 na 14.000 dinara po hektaru zasejanih ratarskih kultura.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Księża płacą 243 zł podatku ryczałtowego kwartalnie, a przeciętny podatnik płaci 2500 (zł - przyp. Demagog) kwartalnie takiego podatku z PIT-u.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Odgovorno tvrdim ispred Ministarstva poljoprivrede da će ovogodišnji rod suncokreta biti između 300 i 320 hiljada tona, što je dovoljno za oko 130.000 tona jestivog ulja.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "TSUE ma prawo, a nawet ma obowiązek zwracać uwagę, że nasze prawo jest niezgodne z polską konstytucją, a przez to, z prawem unijnym.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Sramota je da u najbogatijem parčetu zemlje Srbije živi najveći broj korisnika socijalne pomoći i niko nije ponosan na takvu Vojvodinu.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "GFK Polonia miała pani publikowane 6,5 proc. (poparcia dla J. Palikota), e-wybory 7,5 proc.,",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Второй волны пандемии может не быть",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Оставили презумпцию согласия на изъятие ОРГАНОВ у умерших, хотя народ был против! То есть, каждый человек автоматически может стать донором органов, если НЕ успел отказаться. (Нужно либо при жизни написать отказ, либо родственники должны выразить несогласие)",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Onaj za koga glasa Srbija, a glasa za Aleksandra Vučića u nezapamćenom broju glasova, on ima pravo da odlučuje o tome ko će biti u nekoj budućoj rekonstrukciji Vlade ili neće.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Građanima savetujem da štede u dinarima jer, jedno je sigurno, ta dinarska kamatna stopa je mnogo veća od stope inflacije.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Srbija je u 2010. u SAD izvezla robu u vrednosti od 68 miliona dolara, dok je vrednost uvoza iz te zemlje bila 311 miliona dolara.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Антибиотики вылечивают от коронавируса",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Сегодня основу генерирующих мощностей (около 70%) составляют угольные электростанции, которые по своим технологическим характеристикам не могут обеспечить необходимый уровень маневренных мощностей. Только 12% от общей генерации приходится на маневренные источники — газотурбинные электростанции и гидроэлектростанции.",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Эрдоган запретил показ фильма «Борат 2» по всей Турции",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Nikada nisam lagao naš narod u Srbiji i da kažem bićemo sigurno do 2020. deo Evropske unije. Ja sam rekao da ćemo mi da ispunimo ono što je do nas, ono što mi možemo i što moramo da uradimo do 2019, a onda je na Austriji, Nemačkoj, Francuskoj i drugim evropskim zemljama da donesu odluku da li žele da nas prime u EU ili ne.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Naša struja je ubedljivo najjeftinija u Evropi, 30 odsto je jeftinija nego što imaju zemlje koje imaju najjeftiniju struju u regionu.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В Китае миллионы заразившихся коронавирусом",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Самый цитируемый в мире научный журнал (по данным 2019 Journal Citation Reports) в области иммунологии The Journal of Immunology опубликовал статью «Понимание сущности механизма действия высокоразбавленных биологических препаратов» о механизме действия отечественного «Эргоферона».",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "За всю вторую пятилетку число рабочих мест в обрабатывающей промышленности увеличилось всего на 46 тысяч, а средняя зарплата в долларовом эквиваленте упала на 25%",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Paweł Adamowicz (…) sam należał do partii aż do czasu, kiedy Platforma zdecydowała się z nim rozstać z uwagi na jego problemy z prawem.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Između 30 i 31 hiljade dinara je minimalac u Srbiji.”",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Jest to największy rząd w historii.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Izdato je 23 odsto više građevinskih dozvola avgusta ove godine u odnosu na avgust prošle godine.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В Швеции закончился мусор",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Będzie pobierane te 15 zł (w ramach opłaty audiowizualnej) od każdego licznika, a nie od telewizora.*",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Ja sam predsednik Vlade Srbije, izabran možda ne uz najveći broj mandata, ali uz najveći broj glasova u savremenoj istoriji Srbije.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Srbija će u spoljnotrgovinskoj razmeni poljoprivrednih proizvoda ove (2010.) godine ostvariti suficit veći od milijardu evra što je najbolji rezultat u njenoj istoriji“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„U prvim mesecima 2011. godine imamo odlične pokazatelje izvoza poljoprivrednih proizvoda iz Srbije, koji je za 40 odsto veći nego prošle godine.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ВОЗ объявила пандемию коронавируса COVID-19",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Jeden ruch w postaci programu 500+ zredukował biedę wśród dzieci o ponad 90%.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Tvrdim da penzije neće padati, već će one rasti, u skladu sa rastom zarada.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "В Казахстане жители жгут китайские дома, магазины и рестораны из-за вспышки коронавируса",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Издание The Washington Post включило вакцину против COVID-19, разрабатываемую в Казахстане, в список 200 перспективных, экспериментальных вакцин, которые, как оно считает, помогут остановить пандемию",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Dzisiaj, dzięki podpisowi złożonemu przez pana prezydenta na ustawie, minimalna stawka godzinowa to 17 zł, a nie 5 zł, jak jeszcze było 5 lat temu.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Даже при официальных темпах роста цен только за 7 месяцев домохозяйства понесли дополнительные затраты на продукты 225 млрд тенге",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Второй волны пандемии может не быть",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Даже Билл Гейтс сказал, что 700 тыс. людей первоначально умрут от вакцины",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Naša struja je ubedljivo najjeftinija u Evropi, 30 odsto je jeftinija nego što imaju zemlje koje imaju najjeftiniju struju u regionu.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Kada sam preuzeo vladu od tada su samo dve zemlje priznale nezavisnost Kosova. To su Antigva i Barbuda i Togo, ako se ne varam. Samo te dve zemlje, sve ostalo sam nasledio.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Država ne želi da idete ranije u penziju, država želi da radite pun radni vek. I zato ako odete ranije u penziju, kao i u većini zemalja u svetu, plaćate određeno umanjenje te penzije. Takozvane penale. Ranije je to bilo doživotno, a sada kažemo, pošto imamo više novca, pošto hoćemo da se zahvalimo penzionerima,kada ispunite starosni uslov, a to je 65 godina, država smatra da niste više ništa dužni i da su penali za vas stvar prošlosti.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Srbija je trenutno najpoželjnija lokacija za nove investicije u čitavoj Srednjoj i Istočnoj Evropi.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Круг реальных рынков сбыта и содержание поставок за время второй индустриально-инновационной пятилетки не изменились",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Из туннелей в Мельбурне подняли около 900 похищенных детей",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Gdy jeszcze byłem radnym miasta domagałem się, by przed strefą płatnego parkowania powstały bezpłatne parkingi.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": ".وزيرة الصحة وضعت نفسها ابتداء من يوم 20 مايو/أيار الجاري في إجراءات عزل نفسها منزلياً، نتيجة الاشتباه في إصابتها بفايروس كورونا المستجد",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Za isplatu penzija ranije je išlo 51,1 odsto iz PIO Fonda, dok je to sada 62,2 odsto, a svega 37,8 odsto iz budžeta“.",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Domaće mleko se redovno kontroliše i potpuno je ispravno.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Są już województwa takie jak na przykład województwo lubuskie, w którym w styczniu nastąpił 10% wzrost urodzeń.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "На сегодняшний день в стране функционируют 105 объектов возобновляемых источников энергии.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Predlog budžeta za 2011. godinu, koji je Vlada danas usvojila, predvideo je da se za oko 25 odsto povećaju transferi lokalnim samoupravama. Za te namene predviđeno je ukupno 32 milijarde dinara.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Według celów barcelońskich, które PO zgodziła się realizować, powinniśmy mieć 33% gwarantowanych miejsc dla dzieci w żłobkach.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Trenutno se radi na popisu državne imovine.",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Jeszcze jako UPR zebraliśmy 140 tysięcy podpisów pod ustawą o wprowadzeni kary śmierci. One zostały “zmielone” tutaj w Sejmie.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "41% бизнеса Казахстана испытывает большие финансовые проблемы",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Moram da vam kažem, da izračunali smo i prosečnu platu, odnosno prosečno primanje u Vojsci Srbije u novembru mesecu. Prosečna neto plata je bila 44.418 dinara, ali je prosečno primanje bilo 66.817 dinara. Primanje oficira, prosečno, je bilo 92.565 dinara, podoficira 75.000 dinara, profesionalnih vojnika 58.308 dinara, civilna lica su dobila prosečno 49.725 dinara(…) Kao što je i moj kolega Stefanović rekao, dnevnice su 1800 dinara. Obezbeđene su za sve pripadnike vojske i policije koji se nalaze na granici i koji se nalaze u kopnenoj zoni bezbednosti.”",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Kurs dinara ostaće stabilan do kraja godine.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Naš stav se oslanja na dva principa. Prvi je da Srbija poštuje teritorijalni integritet svake države članice UN, a tako i Ukrajine. Drugi je da Srbija ne može uvesti sankcije Rusiji, jer Rusija nikada nije uvela sankcije Srbiji.”",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Srbija bi mogla da postane ‘evropska sila’ u oblasti ribarstva i prerade ribe tako što bi uvozila ribu sa severnih mora, a potom je prerađenu prodavala Evropljanima.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Eutanazja to jest chyba w dwóch krajach w ogóle Unii Europejskiej, dwóch albo trzech krajach.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Inną kwotę świadczeń otrzymują opiekunowie dorosłych niepełnosprawnych, a inną opiekunowie dzieci niepełnosprawnych. Ta różnica jest bardzo duża, bo w przypadku dzieci jest to 1477 zł, a w przypadku dorosłych 520 zł i to tylko dla osób najmniej zarabiających. TK orzekł o niekonstytucyjnosci tego rozwiązania w 2014 roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Očekujem da ćemo sledeće godine imati najveću stopu ekonomskog rasta u regionu.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Jest to rozwiązanie niezgodne z Europejską Kartą Samorządu Terytorialnego (zmiana granicy województwa - przyp. Demagog), która mówi, że jeżeli chce się dokonać zmiany granic wspólnot lokalnych, to należy przeprowadzić referendum.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "В прошлом году по этому показателю [Получение разрешения на строительство в рейтинге Doing Business-ред.] Казахстан поднялся сразу на 17 позиций и занял 35 место в мире",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Od 1910. do 2013. imali smo svake godine dramatičan pad stočarske proizvodnje. Došli smo na nivo ispod 1910. godine.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“U ovom trenutku, Aerodrom donosi 27 miliona evra. Jel to činjenica? Jeste. Predsednik je rekao da je donosio 130.000 dobiti pre nego što su oni došli na vlast, posle je shvatio da nije rekao istinu, pošto nikad ispod 16, 17 miliona nije bilo, miliona evra.”",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В Казахстане ежегодно изымается от 20 до 40 тонн различных наркотических веществ.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Stavovi državnog sekretara Ministarstva finansija Slobodana Ilića u vezi otvaranja pogona fabrike ‘Gorenje’ u Zaječaru neće poremetiti dobre i stabilne odnose G17 plus i DS u koaliciji.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Procentualno, dajemo za socijalu više nego bilo koja druga zemlja.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Samo ove godine upisano je 23.000 dece u vrtiće, 12.000 u državnim, a 11.000 u privatnim vrtićima.”",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Mi smo u protekle dve godine vrednim radom uspeli da stabilizujemo našu državu i odbranimo je od bankrota. Sada imamo dolazak velikog broja stranih investicija koji su otvorili više od 120 hiljada radnih mesta, novih radnih mesta, naravno.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„U prošlom mandatu opozicija je predsedavala sa oko polovinom ukupnog broja skupštinskih odbora. Važno je reći da je u tom mandatu opozicija vodila izuzetno važne odbore kao što su Administrativni odbor, Odbor za odbranu i bezbednost, Odbor za finansije, lokalnu samoupravu.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Pregovori sa ministarstvom prosvete već daju rezultate i Niš je na korak od otvaranja Bogoslovskog fakulteta.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Феминитивы необходимы языку и обществу",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Wszystko się rozpoczęło w 2011 r. od orzeczenia Trybunału Konstytucyjnego, który to rejestrując symbole NOP–u, między innymi krzyż celtycki czy, przepraszam, to było „Zakaz pedałowania”, nie stwierdził żadnych naruszeń z punktu widzenia konstytucyjnego, potem sąd musiał to zarejestrować.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "В Казахстане отменили смертную казнь",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Resor ministra ekonomije Mlađana Dinkića je imao loše rezultate.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Ova vlada pre tri godine je obećala smanjenje taksi i parafiskalnih nameta. A šta je rezultat toga? Pre tri godine, bilo je 360, a sad je taj broj 384. Sа usvajanjem Zakona o privatnom obezbedjenju imaćemo još jednu novu, 385. taksu“.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В 2017 году благодаря депутатскому корпусу впервые на законодательном уровне была введена практика выплаты гонораров авторам за общественно значимую литературу. Подобному опыту нет аналогов в других странах мира",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Kada sam postao premijer, javni dug izražen u procentima bruto domaćeg proizvoda iznosio je, u zavisnosti od toga koji trenutak uzimate, od 77 do 79 odsto, a pre kraja godine nivo javnog duga biće ispod 50 odsto.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Zgodnie z prawem międzynarodowym Syryjczycy, którzy są uciekinierami czy Irakijczycy z Iraku Północnego, którzy uciekają z obszarów wojennych nabywają status uchodźcy uciekając do pierwszego bezpiecznego kraju sąsiedniego.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "...согласно данным научной статистики, в целом каждый наркоман втягивает в среднем от 5 до 17 человек в потребление наркотиков...",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Ova vlada pre tri godine je obećala smanjenje taksi i parafiskalnih nameta. A šta je rezultat toga? Pre tri godine, bilo je 360, a sad je taj broj 384. Sа usvajanjem Zakona o privatnom obezbedjenju imaćemo još jednu novu, 385. taksu“.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Правительство Казахстана запретило свободную покупку валюты",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Mom nasledniku dostavio sam finansijski izveštaj o stanju finansija u gradu… na gradskim računima trenutno ima blizu šest milijardi dinara.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Od preko 1.000 sudija koje nisu prošle reizbor, u Srpsku naprednu stranku se učlanilo oko 650.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Verujem da će sve to da bude uspešno i da će Srbija, praktično, u ovoj godini zaista imati onaj procenat privrednog rasta, kako su rekli i MMF i Svetska banka. Verujte, Srbija je jedina zemlja u Evropi sa rastom. Dakle, pogledajte zemlje oko nas.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Промывания носа могут помочь при профилактике респираторных заболеваний",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Kako su oni (u Nišu) pravili budžete svih prethodnih 25 godina, 30 godina? Tako što vam kažu, imaćemo prihode, kojih u stvari nema, prihodi precenjeni za 46,4 odsto. Precenjeni prihodi, a onda na tako precenjene prihode, naduvaju rashode, stvore sebi nemoguće obaveze koje su još veće od toga, jer uvek računaju da imaju određeni deficit i onda dođete do minusa u kasi koji dostižu ponekad i 50 miliona evra.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Ja sam građanima Srbije prošle (2009.) godine, pred početak svetske finansijske krize, rekao da će prošla godina biti najteža u našoj novijoj istoriji.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Srbija je rastom izvoza u prošloj godini nadoknadila gubitak iz 2009. godine.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В университет Ренн во Франции внедряется предмет «Абаеведение»",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Polskie społeczeństwo starzeje się najszybciej w Europie.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Японский профессор, лауреат нобелевской премии, Тасуку Хондзё заявил о том, что коронавирус создан искусственным путём в Китае",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Postoji samo jedna privatna TV koja podržava rad Vlade. To je Pink i oni imaju sva prava na to.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "”Ali ako vam kažem da je u protekle dve godine potpisano 35 ugovora o podsticajima i da je otvoreno skoro 19.000 radnih mesta, hoćete li mi reći da je posao za tih 19.000 radnika beznačajan?”",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Второй волны пандемии может не быть",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Tužilaštvo je zadovoljno postignutim sporazumom (sa Svetlanom Ražnatović) i smatramo to velikom pobedom tužilaštva.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Od 2014. sam na čelu odbora koji kontroliše vojsku i policiju. Uvela sam praksu da na tri meseca dolaze ministar policije i vojske koji podnose informaciju o radu.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Srbija će reformom penzionog sistema do 2020. godine uštedeti oko 70 milijardi dinara.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Nije tačno da je gorivo u Srbiji najskuplje u šta sam se ovih dana i lično uverio putujući kroz Hrvatsku, Sloveniju i Italiju.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Доля затрат на продовольствие в Казахстане составляет почти половину бюджета почти у 50% граждан, что намного хуже, чем в соседней России, не говоря уже о развитых странах, где расходы на питание составляют всего 10–12%",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Izveštaj Evropske komisije o napretku Srbije u evropskim integracijama dokazuje ogroman napredak parlamenta i to da je skupština institucija koja je dorasla evropskom zadatku.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Prosečne plate će se ove godine kretati između 34.000 i 35.000 dinara, odnosno od 320 do 330 evra, što je na nivou regiona.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В глобальным индексе инноваций Казахстан 2019 году занял 79 место потеряв 5 позиций по сравнению 2018 годом",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "(…) kierunkowe założenia [nowej ordynacji podatkowej] zostały wypracowane przez zespół ludzi, w skład tego zespołu wchodziło 5 profesorów prawa podatkowego, 3 sędziów sądu administracyjnego, 3 przedstawicieli organów podatkowych, 3 przedstawicieli firm doradztwa podatkowego i jeden przedstawiciel Prezydenta.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“Nikada nisam lagao naš narod u Srbiji i da kažem bićemo sigurno do 2020. deo Evropske unije. Ja sam rekao da ćemo mi da ispunimo ono što je do nas, ono što mi možemo i što moramo da uradimo do 2019, a onda je na Austriji, Nemačkoj, Francuskoj i drugim evropskim zemljama da donesu odluku da li žele da nas prime u EU ili ne.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Ljudi u Srbiji treba da znaju da nikada ništa ovako povoljno nismo dobili, ni od koga, od svih naših silnih prijatelja nikada nismo dobili nijedan zajam koji bi bio ovako dobar i po ovako povoljnim uslovima.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Činjenica jeste da je Srbija druga vojna sila u celom regionu. Ispred nas je samo dvadesetomilionska Rumunija.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Kada sam preuzeo vladu od tada su samo dve zemlje priznale nezavisnost Kosova. To su Antigva i Barbuda i Togo, ako se ne varam. Samo te dve zemlje, sve ostalo sam nasledio.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Даже при официальных темпах роста цен только за 7 месяцев домохозяйства понесли дополнительные затраты на продукты 225 млрд тенге",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Jagodina je jedan od tri grada u Srbiji koji je prošle godine imao suficit 30 miliona evra. Punimo budžet Srbije i da imamo u svakom gradu naš program, danas bi bilo suficita u budžetu republike Srbije, i plate i penzije bi bile veće”.",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Dug Srbije je 80 procenata BDP, to znači da je Srbija visoko zadužena zemlja.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Ostatnie badania w Słupsku wskazywały, że 88% chce go (Biedronia – przyp. red.) na następną kadencję.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Što se tiče održavanja (Belog dvora), troškovi bi postojali i da je prazan.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "На лица, нарушившее карантин, налагается штраф и они привлекаются к ответственности",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Президент Узбекистана Шавкат Мирзиёев установил на период борьбы с эпидемией ежемесячные выплаты (контактирующим с больными)",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "My – Polska, od wielu lat jesteśmy w wielu sprawach sojusznikiem Izraela. Stajemy po stronie Izraela, ostatnio tak jak było głosowanie w Radzie Bezpieczeństwa ONZ też wstrzymaliśmy się od głosu, co de facto było poparciem Izraela.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Predviđanja Vlade da ekonomska kriza neće imati značajan uticaj na proizvodnju i izvoz poljoprivrednih proizvoda pokazala se kao tačna. U prvih šest meseci poljoprivreda beleži suficit od 320 miliona dolara, što je više od prošle godine, kada je ukupni godišnji suficit bio 600 miliona dolara.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Polski rząd jako pierwszy w Europie zamknął granice",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Vidite, Crna Gora je otvorila dosta više poglavlja, ali je zatvorila isto koliko i mi.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Mamy najniższą kwotę wolną od podatku w Europie. My proponujemy podwyższenie jej do 30 tysięcy, tak, żeby dochód do 4000 złotych miesięcznie w ogóle nie był opodatkowany.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„U martu su se pojavili prvi pozitivni signali što se tiče zaposlenosti, jer je zabeležen blagi porast broja zaposlenih, ali će se tek videti da li će to značiti i početak novog trenda.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Сейчас мы отмечаем феминизацию профессии учителя. 81% всех работающих педагогов – это у нас женщины, и только 19% - мужчины. В школах у нас работает всего 60 тыс учителей мужчин, и то, вы знаете, это в основном директора, трудовики, учителя физкультуры",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Mi smo samo budžet Filmskog centra Srbije povećali, on je ove godine 50 puta veći nego pre šest godina. Dakle, nikada više nismo davali novca za domaću kinematografiju.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Видео, снятое в селе Масанчи Кордайского района Жамбылской области Казахстана",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„To govori i o većem međusobnom poverenju, rastu naše nacionalne avio-kompanije i aerodroma, ali i bezbednosnim uslovima i svemu što je Srbija postigla, jer ne može svako da leti za SAD, kao što ni mi nismo mogli 25 godina.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Ova skupštinska većina i ova vlast je 94 odsto svih nepravilnosti i svega onoga što je ukazao Zaštitnik građana ispravila.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Srbija je otvoreno, demokratsko društvo, u kojem ekstremne grupacije ne mogu da prođu.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Импортные ковры в Узбекистане являются подакцизным товаром, а узбекские производители (экспортируемых ковров) пользуются правом на возврат НДС",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Choćby w Zakładzie Wodociągów i Kanalizacji. Tam, pani redaktor, zarząd jest tak niewyobrażalnie rozrośnięty, że na pensje co miesiąc przeznaczane są kolosalne pieniądze. Prezes i wieloosobowy zarząd kosztują łodzian co miesiąc ponad sto tysięcy złotych! Sam prezes zarabia jakieś 25 tysięcy.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Połowa budżetu to jest z VAT-u.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“Procentualno, dajemo za socijalu više nego bilo koja druga zemlja.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "За всю вторую пятилетку число рабочих мест в обрабатывающей промышленности увеличилось всего на 46 тысяч, а средняя зарплата в долларовом эквиваленте упала на 25%",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Proponujemy powszechną opłatę na utrzymywanie mediów publicznych, dwa razy niższą niż abonament.*",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "В Казахстане ежедневно разводятся 150 пар",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "W roku, kiedy mieliśmy najniższą dzietność, chyba 2002 albo 2003, zaraz za chwilę rząd SLD obniżał urlopy rodzicielskie, urlopy macierzyńskie, z 18 do 16 tygodni.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“Negde u periodu između 2007. i 2011. godine tu je postojao veliki zastoj u istrazi i nisu se baš naši državni organi tada ozbiljno bavili tim slučajem.”",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "W ubiegłym roku biliśmy rekordy, 330 mln pasażerów, którzy korzystali z polskiej kolei.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Ни одна из вакцин не является абсолютно безопасной",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Nacrtom Zakona o besplatnoj pravnoj pomoći, koji bi uskoro trebalo da se nađe pred poslanicima proširen je krug korisnika koji će imati pravo na besplatnu pravnu pomoć, među kojima su deca, žrtve porodičnog nasilja, torture, trgovine ljudima i drugi.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Niestety, jest ona [polska administracja] ogromna, ponad 400 tysięcy osób (…)",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Wśród nich [rowerów w systemie Veturilo jest – przyp. red.] jednak tylko kilka trójkołowych dla osób niepełnosprawnych i seniorów.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“Što se tiče cena, naprednjačka vlast kreće da se izjašnjava prvi put 2015. godine. Tada je gospodin Siniša Mali rekao da će prva linija metroa koštati između 800 i milijardu evra, da bi krajem 2015. već to korigovao na između 800 miliona i 1,2 milijarde evra.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ВОЗ признала, что бессимптомные носители не заразны, и по сути обесценила карантин",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Ne može jedan državni sekretar, pa makar to bio i Slobodan Ilić, da napravi problem u odnosima u koaliciji.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Uveden je rad i u gradska javna komunalna preduzeća, koja su 2013. poslovala sa gubitkom od dve milijarde dinara, da bi danas pravila profit od dve milijarde dinara. To je važno jer 85 odsto tog profita ide u budžet Grada Beograda iz koga se finansiraju infrastrukturni projekti, izgradnja škola, vrtića i igrališta.”",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Rad Visokog saveta sudstva (VSS) u sadašnjem, nepotpunom sastavu, postao je nelegitiman.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Bramerc ne samo da ne sumnja u našu političku volju, već nema nikakve ni profesionalne zamerke na ono što se u operativnom smislu radi. Uz to, ostvarena je puna saradnja s Tribunalom vezano za svedoke, dostavu dokumentacije, pristup arhivama.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Kada sam preuzeo vladu od tada su samo dve zemlje priznale nezavisnost Kosova. To su Antigva i Barbuda i Togo, ako se ne varam. Samo te dve zemlje, sve ostalo sam nasledio.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Warto zwrócić uwagę, że 70% Polaków popiera te reformy, które chcieliśmy wdrażać.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Mi poljoprivredne i prehrambene proizvode izvezemo devet puta više u EU nego u Rusiju.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Ako uporedite sadašnji sastav ministara sa brojem članova Vlade od 2000, pa i pre toga, videćete da ovaj kabinet nije glomazan.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Чеснок помогает при коронавирусе",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Intervencije NBS na deviznom tržištu su vrlo skromne u odnosu na protekle godine.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Meni je bilo zabranjeno da se promovišem. Jednostavno meni nisu dozvolili da bilo šta promovišem.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Samo ove godine upisano je 23.000 dece u vrtiće, 12.000 u državnim, a 11.000 u privatnim vrtićima.”",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Vlada, kao ključni politički organ koji bi trebalo da vodi politiku države, ne vodi spoljnu politiku, već je uslužna delatnost kabineta predsednika Republike.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Разрешили ставить психиатрические диагнозы на основе РАЗМЫТЫХ критериев. А слова «в соответствии с клиническими проявлениями, лабораторными данными, объективными сведениями» УБРАЛИ. (То есть, по сути, под диагноз психически больного теперь может попасть ЛЮБОЙ человек. И есть возможность использовать психиатрию в карательных целях).",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Ukoliko ne budemo uspeli da ostvarimo veći rast od 2 odsto u ovoj godini to će za nas i dalje biti vrlo slično godini krize jer se neće poimati veći osećaj nekog boljitka koji se ostvario.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Naša struja je ubedljivo najjeftinija u Evropi, 30 odsto je jeftinija nego što imaju zemlje koje imaju najjeftiniju struju u regionu.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Svi ključni ekonomski indikatori pokazuju tendenciju oporavka od marta (2009.), što znači da je najgori period iza nas.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Nie zostałem zaproszony na rozmowę do telewizji publicznej przez ostatnie 5 lat. Grzegorz Schetyna nie był zaproszony do Telewizji Publicznej na wywiad jeden na jeden.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Wrocław zdecydowanie mniej wydaje na walkę ze smogiem niż np. Kraków, a problem mamy obecnie porównywalny.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Ima više faktora za mirovanje cena hrane, posebno niska kupovna moć i, rekao bih, realan i racionalni odnos građana prema ukupnim troškovima, pa i troškovima hrane.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Ja tylko przypomnę, kto sprywatyzował w Łodzi elektrociepłownię. SLD w 2004-5 roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Prvi put u jednoj vladi je rodna ravnopravnost podignuta na mnogo viši nivo i po tome smo jedinstveni u celoj Evropi. Nema nijedne vlade, bilo u zemljama Zapadnog Balkana, bilo u EU, koje imaju telo za rodnu ravnopravnost tako visoko podignuto – pored premijera.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "W porównaniu do poprzedniego roku wzrost dochodów podatkowych wyniósł aż 17,9 mld zł.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "W tej sprawie jest wielkie kłamstwo i manipulacja, szerzone przez posłów PO. Byłem ministrem w Kancelarii Prezydenta. Gdy ustawa przychodzi do prezydenta z Sejmu, prezydent może podjąć trzy decyzje: podpisać jeśli się zgadza, może wystąpić z wetem, a jeżeli stwierdzi, że jest sprzeczna z Konstytucją, ma obowiązek skierować ją do TK. Realizacją tego przepisu jest skierowanie ustawy do Trybunału.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Разрешили завозить вакцины БЕЗ национальной экспертизы. Причем, через организации, рекомендованные ВОЗ.",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "PO wprowadziła JOW-y w samorządach i w Senacie.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "W tej chwili mamy taką sytuację, że Państwowa Inspekcja Pracy każdą kontrolę musi zapowiedzieć.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "В первом полугодии 2020 года МСБ нарастил микрокредитный портфель на 850%. При этом выросла и просроченная задолженность на 238% по основному долгу или начисленному вознаграждению, в том числе. У физических лиц рост микрокредитов составил порядка 145%, просроченная задолженность выросла на 332%.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Mamy w warszawie dwa kluby rugby: Skra i AZS AWF Warszawa.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Poslanici imaju zamrznute plate poslednjih šest godina.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Если пациент находится на ИВЛ больше шести дней, то шансы его вернуться к жизни без ИВЛ, близки к нулю. 88 процентов умирают. Потому что вентиляция не помогает дышать, она не снабжает организм кислородом",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "80 proc. poznaniaków to wierzący katolicy.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Plate zdravstvenih radnika su u rangu pomoćnih radnika u javnim preduzećima.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Srbija će reformom penzionog sistema do 2020. godine uštedeti oko 70 milijardi dinara.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Pa gde su sad ti kritičari koji su pričali da fontana preliva. Pa svaka fontana u svetu je prelivala, ima kompenzacioni bazen i pumpe koje vraćaju vodu. Nek odu u Madrid da pogledaju kakve su tamo fontane. Oni su bili protiv da se skloni Dimitrije Tucović, a ne znaju ni ko je on, pa im sad smeta fontana, pa jarbol.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Jesteśmy w wąskim gronie Luksemburga, Belgii, Islandii i Grecji, gdzie te różnice są mniejsze (w płacy kobiet i mężczyzn).",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Liczba ludności w Afryce przekroczyła miliard.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Srbija je danas dalja od EU nego što je bila pre dve godine.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„‘Premeštanje’ zatvora…planirano je za narednu godinu i to na lokaciju koja je van Beograda.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Vanredno povećanje penzija 2008. godine od 10 odsto obezbedilo je sigurnost najstarijoj populaciji i pre nadolazeće krize.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Demokratska stranka je ispunila sve ono što je pre četiri godine obećala.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Pa gde su sad ti kritičari koji su pričali da fontana preliva. Pa svaka fontana u svetu je prelivala, ima kompenzacioni bazen i pumpe koje vraćaju vodu. Nek odu u Madrid da pogledaju kakve su tamo fontane. Oni su bili protiv da se skloni Dimitrije Tucović, a ne znaju ni ko je on, pa im sad smeta fontana, pa jarbol.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„I ne samo da smo obnovili objekte koji su bili porušeni, nego su čak i neki novi izgrađeni. Kao što je recimo vrtić u Stublinama koji je jedan od najlepših na teritoriji grada Beograda, kao što je to prva fiskulturna sala koju je Prva obrenovačka osnovna škola dobila posle skoro 200 godina, to je i Dom za socijalni rad koji će biti uskoro izgrađen. Tako da su to neki novi objekti koji su čak i unapredili život u Obrenovcu. I mislim da možemo da budemo zadovoljni sa ovim što smo uradili u proteklih godinu dana.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "(…) wtedy [podczas budowy stadionu Legii, ITI – przy. red.] była to prywatna spółka, którą dofinansowano [ze środków miejskich – przy. red.] kwotą pół miliarda złotych.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Stepen pokrivenosti uvoza izvozom je nedovoljan, 58 odsto, ali u ovom veku to je najviši stepen, koji je Srbija imala.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Iznos koji je isplaćen porodici Stajnhauer biće refundiran sredstvima koja će biti oduzeta od kriminalaca, shodno odredbama Zakona o oduzimanju imovine stečene izvršenjem krivičnog dela. Na taj način teret naknade štete neće snositi građani Srbije već kriminalci, a vrednost imovine koja je privremeno oduzeta već je daleko viša od pomenutog iznosa.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Ova vlada pre tri godine je obećala smanjenje taksi i parafiskalnih nameta. A šta je rezultat toga? Pre tri godine, bilo je 360, a sad je taj broj 384. Sа usvajanjem Zakona o privatnom obezbedjenju imaćemo još jednu novu, 385. taksu“.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "W wyborach 2014 na 1500 protestów Sąd Najwyższy tylko w 53 przypadkach przyznał rację skarżącym, a dotyczyły one nieprawidłowości w poszczególnych obwodach.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Dakle, mi ne možemo samo da vratimo penzije onako kao što MMF traži, i kao što neki ljudi traže, na pređašnji nivo. Zato što bi to značilo da za 80 odsto penzionera vi umanjujete penzije. (…) Dakle, ne možemo samo da kažemo ’taj zakon se ukida’, zato što nikome nećemo umanjivati penzije.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Всемирная организация здравоохранения (ВОЗ) официально включила любовь в список психических заболеваний. Новому недугу присвоили номер F63.9",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "U Srbiji 90 odsto đaka posle srednje škole upisuje fakultet, a poznato je da u fabrikama nedostaju majstori.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Ne može jedan državni sekretar, pa makar to bio i Slobodan Ilić, da napravi problem u odnosima u koaliciji.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Od 2018 r. wystarczy, że w żłobku będzie jedno pomieszczenie dla dzieci. Zmniejszono także wymaganie, jeżeli chodzi o metraż, jaki przypada na jedno dziecko. I tak zgodnie z tymi zmianami na jedno dziecko może przypadać 2,25 m2, a w żłobkach i klubach dziecięcych, które działają do 5 godz. dziennie – nawet 1,87 m2. Dla porównania: na jednego więźnia przypadają 3 m2.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "213 профессии запрещены для женщин в Казахстане",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "”Ono što piše u ugovoru, ono što sam vam ja rekao i ono što je rekao gospodin Giom – u ovoj fabrici će u narednih nekoliko godina biti zaposleno 1370 radnika”.",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Nisam nju pomenuo, ja sam samo rekao – ‘dobre ljude ne ujedaju psi’.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Dvadeset pet procenata nezaposlenosti nema nigde drugde na Balkanu!“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Prosečna plata u januaru je bila prvi put u Srbiji preko 460 evra, 462 evra mislim, dakle u januaru, očekujemo u martu, to je za 40 posto više u odnosu na ono što sam zatekao kao predsednik Vlade 2014. godine.",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "То, что эпидемиологи не верили в сезонность коронавируса, привело к составлению неверных моделей и прогнозов. Когда первоначальные наихудшие сценарии нигде не сбылись, некоторые все еще цепляются за модели, предсказывающие вторую волну.",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Telekom u svom programu daje i kanal N1. Tako da onaj ko ima Telekomov program, odnosno koristi Telekom kao distributera, apsolutno može da gleda televiziju N1.”",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Dinar je među najstabilnijim valutama, ne samo u regionu, nego i u Evropi.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В прошлом году по этому показателю [Получение разрешения на строительство в рейтинге Doing Business-ред.] Казахстан поднялся сразу на 17 позиций и занял 35 место в мире",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Jak rozumiem, chodzi pani o wyrok Trybunału Konstytucyjnego, który wzbudza ostatnio tyle emocji i dyskusji. To zależy od Rządowego Centrum Legislacji, które publikuje wyroki. (…) Ja powtórzę, to nie premier publikuje ten wyrok.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Ako se pogledaju oni uslovi koji su bili postavljeni, Akcioni plan praktično je u potpunosti ispunjen.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Jest wiele krajów, które mają w Jad Waszem swoje drzewko. Polska nie ma tego drzewka (…), a takie wyróżnienie spotkało Danię.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Ako pričate o medijima, imate zemlje u EU gde imate deset puta manje transparentnosti i slobode nego kod nas.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "У двух китайских врачей, заболевших коронавирусом изменился цвет лица",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Działają już ambasady w Senegalu i Iraku. W styczniu tego roku zostały ustanowione ambasady w Tanzanii i Panamie, a na początku lutego Konsulat Generalny w Houston. Placówki te rozpoczną pełną działalność w drugiej połowie bieżącego roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Билл Гейтс задержан как создатель коронавируса",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Na milion mieszkańców w Hiszpanii zmarło 630 osób (...), a w Polsce 65 (na COVID-19 - przyp. Demagog).",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Dzisiaj mamy coraz więcej samobójstw w szkołach.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Ova skupštinska većina i ova vlast je 94 odsto svih nepravilnosti i svega onoga što je ukazao Zaštitnik građana ispravila.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Mi poljoprivredne i prehrambene proizvode izvezemo devet puta više u EU nego u Rusiju.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Даже при официальных темпах роста цен только за 7 месяцев домохозяйства понесли дополнительные затраты на продукты 225 млрд тенге",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Korupcija u zdravstvu je sporadična pojava.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Расчетно-финансовый центр заключает с инвестором договоры купли-продажи электроэнергии от возобновляемых источников энергии сроком на 15 лет.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Zostali wybrani sędziowie (TK), którzy mogą, powinni już, trzech powinno już objąć swój urząd, dlatego że 6 listopada skończyła się kadencja poprzednich.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Во время теста на коронавирус людям разрывают мембрану между носом и мозгом",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Ponad czterysta z ośmiuset kilkunastu posterunków policji zostało za czasów Platformy Obywatelskiej zlikwidowane.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "OLAF to jest taka instytucja unijna, która odpowiada za prawidłowe wydawanie unijnych pieniędzy, nie tak dawno w swoim raporcie napisała, że w Polsce według ich szacunków co czwarty przetarg jest ustawiony. Co czwarty przetarg. Wiele tych pieniędzy…",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Uručiću gospodinu Fileu i odgovore na upitnik koji oni nama još nisu poslali. Jednostavno, na taj način ćemo skratiti za nekoliko meseci od momenta kada zvanično dobijemo taj upitnik vreme koje nam treba da odgovorimo na njega.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Kao što vidite mi ni dinara nismo potrošili na kampanju, nemamo skupove, ne učestvujemo dok se izbori ne raspišu. Nemamo spotove. Koji god portal od svih vaših portala da otvorite iskakaće vam neki drugi kandidati”.",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Što se tiče tramvaja, oni nisu mogli da prođu zbog okupljenih građana, a saobraćaj je normalizovan posle završetka protesta.”",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Во многих странах (Великобритания, Германия, Италия, Нидерландах) вообще есть система раздачи легких наркотиков в специальных места",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Za Hitlera był zakaz aborcji, za Stalina był zakaz aborcji.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Тедрос Гебреисус, нынешний руководитель ВОЗ, никогда не был практикующим врачом",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Ne može jedan državni sekretar, pa makar to bio i Slobodan Ilić, da napravi problem u odnosima u koaliciji.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Srbija je pre tri godine bila pred bankrotstvom, a danas ima suficit u budžetu, rast ekonomije znatno veći od evropskog proseka i Srbija je pokazala da ume da pobeđuje. I to ne samo u košarci i vaterpolu, već i u ekonomiji i politici.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Przykład – zamknięcie szkół kiedy było 30 kilka przypadków stwierdzonych koronawirusa w Polsce. We Francji zamknięto szkoły wtedy, kiedy było 2000 stwierdzonych przypadków.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Grande parte da mídia achava que ele [Cesare Battisti] era um pobre coitado",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Глава ВОЗ танцует в ночном клубе",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Ja nisam rekao nikada da će Mercedes da kupi Ikarbus.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Казахстан — лидер в Центральной Азии по незаконному выводу капитала в оффшоры",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Антарктида озеленяется / Антарктида начала зеленеть",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Даже при официальных темпах роста цен только за 7 месяцев домохозяйства понесли дополнительные затраты на продукты 225 млрд тенге",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Srbija bi mogla da postane ‘evropska sila’ u oblasti ribarstva i prerade ribe tako što bi uvozila ribu sa severnih mora, a potom je prerađenu prodavala Evropljanima.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Srbija će reformom penzionog sistema do 2020. godine uštedeti oko 70 milijardi dinara.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В Китае за 2 дня построили больницу для зараженных коронавирусом",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Oni (Salford) imaju monopol i tvrdim da drže 60 odsto srpskog tržišta.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Изнасилованные европейки извиняются перед мигрантами",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Ne treba zaboraviti da je Srbija pre četiri dana proglašena za zemlju lidera jugoistočne Evrope u privlačenju stranih direktnih investicija, 2,56 milijardi dolara jeste priliv SDI, više nego bilo ko u regionu.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„U izvođenju radova (na Severnom kraku Koridora 10) se prati dogovorena dinamika.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В первом полугодии 2020 года МСБ нарастил микрокредитный портфель на 850%. При этом выросла и просроченная задолженность на 238% по основному долгу или начисленному вознаграждению, в том числе. У физических лиц рост микрокредитов составил порядка 145%, просроченная задолженность выросла на 332%.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Evropska komisija je napisala pozitivan izveštaj o Srbiji, sa reformskim idejama i menijem za sledeću godinu.",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Na sędziów w stanie spoczynku idą pełne składki ZUS z budżetu państwa.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Srbija je u 2010. u SAD izvezla robu u vrednosti od 68 miliona dolara, dok je vrednost uvoza iz te zemlje bila 311 miliona dolara.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Italija je, posle Nemačke, drugi spoljnotrgovinski partner Srbije, ali prvo izvozno odredište za naše kompanije.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "W Krajowym Rejestrze Długów jest 366 tys. polskich emerytek i emerytów. Są zadłużeni na kwotę 5,7 mld zł.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“Što se tiče cena, naprednjačka vlast kreće da se izjašnjava prvi put 2015. godine. Tada je gospodin Siniša Mali rekao da će prva linija metroa koštati između 800 i milijardu evra, da bi krajem 2015. već to korigovao na između 800 miliona i 1,2 milijarde evra.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Održavanje vanrednih parlamentarnih izbora ne bi poskupelo parlamentarni izborni ciklus, jer je to samo još jedan odštampani listić koji treba zaokružiti.”",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Vodimo ozbiljne pregovore o pokretanju proizvodnje u civilnom delu kompanije Sloboda. Za investiranje je zainteresovana firma FOX.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Oni (Salford) imaju monopol i tvrdim da drže 60 odsto srpskog tržišta.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Budžet Užica je za tri godine oštećen za više od četiri miliona evra. Tim novcem mogli su se finansirati najznačajniji projekti u gradu, poput izgradnje dečjeg vrtića na Pori, sportske hale u Krčagovu i bazena.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Mi smo samo budžet Filmskog centra Srbije povećali, on je ove godine 50 puta veći nego pre šest godina. Dakle, nikada više nismo davali novca za domaću kinematografiju.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Upravo je u fazi završetka osnivanje novog preduzeća koje će zameniti Jat.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Ukupan izvoz naoružanja i vojne opreme, uključujući i novi ugovor, iznosiće oko 1,2 milijarde dolara.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Što se tiče održavanja (Belog dvora), troškovi bi postojali i da je prazan.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Nemamo kašnjenja prema vaterpolistima i savezima, vlada je prvi put izmirila sve obaveze koje je imala prema sportistima. Znam i sam kada sam igrao koliko se dugovalo igračima i sa ponosom mogu da kažem da to sad nije slučaj.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "wywalczyliśmy w pierwszych wyborach sto tysięcy wyborców (…) w drugich ten wynik podwoiliśmy. Chcielibyśmy żeby Marian Kowalski znów rozszerzył nasze grono wyborców.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Konwencja stambulska mówi o religii, jako przyczynie przemocy wobec kobiet.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Artykuł 15 traktatu Unii Europejskiej stanowi wprost, że Rada Europejska wybiera swojego przewodniczącego określoną większością na okres 2,5 roku i mandat przewodniczącego jest jednokrotnie odnawiany, odnawialny i w przypadku przeszkody lub poważnego uchybienia Rada Europejska może postanowić inaczej. Czyli jakby mamy do czynienia z pewnym automatem, ten mandat przewodniczącego Rady jest po prostu odnawialny.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Domaće mleko se redovno kontroliše i potpuno je ispravno.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Izdvajanjа za nauku u Srbiji 1% BDP-a su niža od proseka EU, oko 2% BDP-a u 2013. godini. Iz privatnog sektora dolazi svega 7,5% svih ulaganja u nauku što je značajno ispod proseka EU gde čak 55% svih ulaganja u nauku čine investicije privatnog sektora.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Građani su za njega glasali u poslednja četiri kruga izbora i svaki put je dobijao sve više. I on i Srpska napredna stranka.”",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„I ne samo da smo obnovili objekte koji su bili porušeni, nego su čak i neki novi izgrađeni. Kao što je recimo vrtić u Stublinama koji je jedan od najlepših na teritoriji grada Beograda, kao što je to prva fiskulturna sala koju je Prva obrenovačka osnovna škola dobila posle skoro 200 godina, to je i Dom za socijalni rad koji će biti uskoro izgrađen. Tako da su to neki novi objekti koji su čak i unapredili život u Obrenovcu. I mislim da možemo da budemo zadovoljni sa ovim što smo uradili u proteklih godinu dana.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Сертификат безопасности устанавливается с целью защиты граждан, государственных органов и частных компаний от хакеров, интернет-мошенников и иных видов киберугроз",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„U martu su se pojavili prvi pozitivni signali što se tiče zaposlenosti, jer je zabeležen blagi porast broja zaposlenih, ali će se tek videti da li će to značiti i početak novog trenda.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Moramo da predočimo stranim investitorima da su investicioni potencijali takvi da je profit koji se ostvaruje ovde, zbog poreske politike, finansijske stabilnosti, radne snage i njenog kvaliteta, veći nego u zemljama u okruženju.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Вирус кори после прививки на протяжении многих дней можно обнаружить в крови, моче и дыхательных путях привитого ребенка",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„U 2010. godini strane investicije biće veće nego u ovoj (2009.) godini.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Ne možete da smenite (članove REM-a), imate član 16, mislim da je stav 2. Vrlo izričito se kaže ovako, da neophodno je pribaviti mišljenje svih članova Saveta, pa tek onda možete da eventualno pristupite razrešenju. Zaista mislite da njih šest koji su tamo, da će oni sami sebe da nagrde i da kažu ‘Smenite nas sve’?”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Vlada Srbije usvojila je Uredbu o regresiranju mineralnih đubriva, a cilj je da se poljoprivrednicima olakša i pomogne uspešno okončanje ovogodišnje jesenje setve.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Już ponad 10 procentowo zwiększyliśmy nasze zadłużenie (w czasie pandemii COVID-19 – przyp. Demagog)",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Коронавирус SARS-CoV-2 поражает преимущественно людей со II группой крови",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Ukupan izvoz naoružanja i vojne opreme, uključujući i novi ugovor, iznosiće oko 1,2 milijarde dolara.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Церетели построит 193-метровый памятник Назарбаеву",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Барсучий жир помогает от пневмонии",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Za sve (kulturne) manifestacije, organizovane 2015. godine, bilo je obezbeđeno više novca nego što je to bio slučaj 2013. godine.”",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Musimy pamiętać, że ta ustawa [antysmogowa] będzie w dużej mierze eliminowała możliwość ogrzewania przez piecyki węglowe. W sytuacji, gdy 70% ludzi na terenach południowej Polski tak się ogrzewa.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Co trzeci Polak próbuje ograniczyć emisję zanieczyszczeń powietrza, a 40 proc. ogranicza picie butelkowanej wody - wynika ze zleconego przez resort klimatu badania poziomu świadomości i postaw wobec jakości powietrza, gospodarki odpadami i butelek zwrotnych.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Opštinsko veće umesto dosadašnjih devet, sada već broji sedam članova.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Tužilaštvo je zadovoljno postignutim sporazumom (sa Svetlanom Ražnatović) i smatramo to velikom pobedom tužilaštva.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Появился еще один вид коронавируса",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "To był nowy samochód, wyprodukowany w 2016 roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„U 2010. godini strane investicije biće veće nego u ovoj (2009.) godini.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Imamo značajan pad industrijske proizvodnje, a prvi put posle 16 meseci i pad bruto društvenog proizvoda.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Коронавирус вызывает не пневмонию а тромбоз",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Od 2012. godine do danas, uspeli smo da prepolovimo trgovinski deficit koji imamo sa EU.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Od 1910. do 2013. imali smo svake godine dramatičan pad stočarske proizvodnje. Došli smo na nivo ispod 1910. godine.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Inflacija će u Srbiji do kraja godine (2012.) biti oko 12 odsto.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Айсултан Назарбаев обвиняется в нападении на полицейского",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Pani poseł mówiła, że suma środków zgromadzonych na rezerwie [ogólnej budżetu państwa] jakoś kosmicznie wzrosła. Ona wzrosła o mniej więcej 15%–20% (…) w stosunku do zeszłego roku. Dzisiaj ta suma wynosi ok. 250 mln zł.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Замороженных детей продают на органы в Китай",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Mnogo ulažemo u vojsku, proporcionalno našem BDP-u. Danas je samo devet NATO zemalja ispred nas po ulaganju u vojsku.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Второй волны пандемии может не быть",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Największa liczba Polaków emigrowała w czasie rządów PiS- u, nawet 0,5 mln rocznie, dziś to jest 50-60 tysięcy, 8 razy mniej.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Neće biti izbornog duela između Tadića i Đilasa.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "США скупили 90% запаса препарата «Ремдесивир»",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Prvi put posle šest godina, posle 2006. godine, budžet je ponovo usvojen u oktobru.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Даже при официальных темпах роста цен только за 7 месяцев домохозяйства понесли дополнительные затраты на продукты 225 млрд тенге",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Trenutno ne postoje šanse da neki IT gigant poput ‘Gugla’ dođe u Srbiju.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Emigracja była najwyższa zaraz po wejściu do Unii, a teraz utrzymuje się na pewnym stabilnym poziomie.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Zbog smanjena carina na uvoz iz EU pojeftiniće automobili, računari, tehnička roba, nameštaj, tekstil i mnogi drugi proizvodi.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Писатель Дин Кунц предсказал появление коронавируса в своей книге в 1981 году и называл его Ухань-400",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "За всю вторую пятилетку число рабочих мест в обрабатывающей промышленности увеличилось всего на 46 тысяч, а средняя зарплата в долларовом эквиваленте упала на 25%",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Ко всем будут ходить врачи с полицейскими. Отказывайтесь, от любых тестов на вирус",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "22 kraje w Unii Europejskiej posyłają 6-latki do szkoły.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Программа для онлайн-конференций Zoom небезопасна",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Kada god dođe može samo da se uveri da mi sve radimo kako bi došli do krajnjeg cilja.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Milion chorych na raka w Polsce i tylko 1,5 mld zł na leczenie onkologiczne.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Nema mesta zabrinutosti zbog kursa.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "180 mln na internet i sprzęt dla uczniów i dla nauczycieli to środki z dotychczasowego POPC, które postanowiliśmy w porozumieniu z KE przeznaczyć na nowy cel. UE nie przekazała żadnych nowych środków, nawet 1€ na walkę z Covid-19 w PL.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„(…) możemy zapewnić około 100 euro na osobę miesięcznie. W Belgii jest to 60 euro dziennie.” / ‘(…) we can provide about €100 per month per person. In Belgium it’s €60 a day.’",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Казахстан занимает 9 место в мире по объемам доказанных мировых запасов угля",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "За январь-июль объем реализации продовольственных товаров в розничной торговле достиг 2 трлн 158 млрд тенге",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Kreditni rejting je snižen zahvaljujući lošem radu u javnim finansijama prethodne Vlade.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Zakończyliśmy budowę gazoportu",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Najveći priliv investicija u Srbiji bio je dok je DSS predvodio Vladu, a građani su to mogli i te kako dobro da osete, jer je prosečna plata tada za sto evra bila veća nego što je danas.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Холдинг «Байтерек», который объединяет государственные институты поддержки бизнеса, отчитался за прошлый год о чистой прибыли 40 миллиардов тенге",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Zakon je prekršen! Dvadesetčetiri hiljade i nešto zaposlenih i bivših zaposlenih nije dobilo akcije, i četiri miliona osam stotina hiljada građana nije dobilo akcije.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2018-10-25T21:35:04Z",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Dinar je među najstabilnijim valutama, ne samo u regionu, nego i u Evropi.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Posle 16 godina vladavine DS, imamo 10.000 ljudi koji idu u narodne kuhinje.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В прошлом году по этому показателю [Получение разрешения на строительство в рейтинге Doing Business-ред.] Казахстан поднялся сразу на 17 позиций и занял 35 место в мире",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Trenutno ne postoje šanse da neki IT gigant poput ‘Gugla’ dođe u Srbiju.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Pensja w gospodarce narodowej wzrosła w ciągu ostatnich 2,5 roku o 20%.To jest wzrost, którego nie odnotowano wcześniej.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Dvadeset pet procenata nezaposlenosti nema nigde drugde na Balkanu!“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Zbog toga je država, u skladu sa odlukom Skupštine grada, odredila da se takve manifestacije (Parada ponosa) održavaju pred Palatom Srbije. To je centralno mesto u državi, to nije nikakva skrajnuta pozicija, niti poljana.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Uređaj o kome mi vi pričate, gospodine Šutanovac, a ja sam spreman uvek da povedem i predstavnike novinara je kupljen za vreme vašeg mandata i kupljen je za JO2, a da o tome VBA nije imala pojma da je kupljen (…) Ko je hteo da prisluškuje građane Srbije? Ja ili vi? Ko je kupio uređaj? Ja ili vi?\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Доля новых частных организации от общего количества открытых 93%",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Sve vreme je to (broj grla stoke) išlo silaznom putanjom, apsolutno sve vreme.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "W ogólnym zarysie zmniejsza się deficyt budżetu państwa, to deficyt najniższy na przestrzeni ostatnich lat. Za rządów PO-PSL w latach 2010/11 sięgał on 100 mld. zł, w tej chwili mamy 28,5 mld.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“Procentualno, dajemo za socijalu više nego bilo koja druga zemlja.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Broj ‘lažnih azilanata’ koji iz Srbije dolaze u EU je u padu.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Sporazum će značiti povoljnije uslove isporuke ruskog gasa Srbiji i nižu cenu od najmanje 12 odsto, jer je moguće da prilikom potpisivanja bude dobijen i dodatni popust.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Итальянцы массово принимают ислам",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Czyli to oznacza przyrost rzędu 20 paru tysięcy, prawie 30 tys. [dzieci] rocznie [dzięki programowi Rodzina 500 plus, szacowany przez Min. Rodziny], czyli to oznacza, no nawet nie dziesięcioprocentowy wzrost (…).",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Polacy płacą za gaz więcej niż ktokolwiek w tej części świata.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "В Казахстане (в Алматы) подтверждены два случая коронавируса",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Tvrdim da penzije neće padati, već će one rasti, u skladu sa rastom zarada.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Polska nie tylko jest jednym z państw, które pomimo budżetu deficytowego płaci 2% [PKB na obronność], ale zapowiedzieliśmy, że to będzie niebawem 2,5%.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "За всю вторую пятилетку число рабочих мест в обрабатывающей промышленности увеличилось всего на 46 тысяч, а средняя зарплата в долларовом эквиваленте упала на 25%",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Mi smo odgovorni i nema razloga da se mi brinemo za viznu liberalizaciju.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Майк Тайсон отказался от Ислама",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "После перенесения этих детских болезней (корь, краснуха, паротит, коклюш - прим. ред) формируется пожизненный иммунитет",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Telekom u svom programu daje i kanal N1. Tako da onaj ko ima Telekomov program, odnosno koristi Telekom kao distributera, apsolutno može da gleda televiziju N1.”",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Том Хэнкс и его супруга Рита Уилсон заразились коронавирусом",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Kada bi Srbija ovog trenutka vratila ukupnu imovinu koja je građanima nacionalizovana, to bi našu državu koštalo oko 200 milijardi evra, što je veliki problem. Srbija nema 200 milijardi evra.",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Tamo gde su (HBIS) preuzimali rudnike bakra u Južnoj Africi, oni su ostavljali po 2.200, 2.300 ljudi na poslu, nisu smanjivali taj broj. To je za nas od ključnog značaja”",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "W 2010 r. decyzją prezydenta Obamy i NATO przyjęto tak zwane plany ewentualnościowe, dla Polski i Litwy, Łotwy, Estonii, gdzie bardzo precyzyjnie opisano, jak NATO, czyli też Polska będą broniły tych terytoriów.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Kraje, do których wyjeżdżają Polacy, kraje, do których wyjechały 2 miliony Polaków, to są kraje, w których poziom tzw. wyszczepienia jest zdecydowanie mniejszy niż w Polsce. W Wielkiej Brytanii tylko 75% to są ludzie, którzy się szczepili, podobnie jest w Szwajcarii – to jest 75% w Polsce jest 99,99%.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“A to što ljudi više kupuju vodu, zato što je to postala moda i ne veruju u našu česmovaču koja je inače odličnog kvaliteta, kao i flaširana voda.”",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Прививка от ВПЧ вызывает бесплодие",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Želim da čestitam svim drugima na korektnoj i fer kampanji. Mislim da je bila najmirnija, najčistija i najbolja kampanja do sada. Od svih.”",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„U mojoj biografiji nikada nije bilo incidenata, nikada krivično nisam gonjen, a ispadoh najveći siledžija.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Ali priznajem da se nisam snašao u politici i da nisam znao da odgovorim na besmislene optužbe, a pri tome mi niko ništa loše nije rekao da sam vodio grad, niko mi nije rekao da je neki tender namešten, da je neka pogrešna investicija urađena.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„To govori i o većem međusobnom poverenju, rastu naše nacionalne avio-kompanije i aerodroma, ali i bezbednosnim uslovima i svemu što je Srbija postigla, jer ne može svako da leti za SAD, kao što ni mi nismo mogli 25 godina.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Dozvola za gondolu nije ni u jednom trenutku izdata. Ona samim tim nije ni mogla biti osporena. Ono čime se sud bavio su pripremni radovi, koji se odnose na arheološka ispitivanja.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Wie pan ile w rządzie zasiada osób? 106 wiceministrów i 22 chyba ministrów.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Сумах помогает от коронавируса. Если пить воду, смешав с небольшим количеством сумаха, с разрешения Аллаха, человек который заболел — вылечится",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Билла Гейтса призывал сократить население планеты на 10-15% и финансировал разработки коронавируса",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Interesantno je da su nam se plate izjednačile sa majem prošle godine. Razlika je u dve stotine dinara. Bez obzira na to što su plate u javnom sektoru niže, plate u privatnom sektoru su dostigle značajno viši nivo i izjednačili smo se sa prošlom godinom, to su podaci koji govore da smo napravili veliki rezultat.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Ako se pogledaju oni uslovi koji su bili postavljeni, Akcioni plan praktično je u potpunosti ispunjen.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Более 4,5 млн граждан, оставшихся без временного дохода, получили помощь в размере 42 тысячи 500 тенге. На это было затрачено более 450 миллиардов тенге",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Группа международных ученых пришла к выводу, что содержащийся в водорослях гепарин способен блокировать коронавирус SARS-COV-2. Оказалось, что гепарин по способности блокировать SARS-COV-2 превосходит множество противовирусных препаратов, в том числе \"Ремдесивир\"",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Procentualno, dajemo za socijalu više nego bilo koja druga zemlja.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Evropska komisija je napisala pozitivan izveštaj o Srbiji, sa reformskim idejama i menijem za sledeću godinu.",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Mi smo samo budžet Filmskog centra Srbije povećali, on je ove godine 50 puta veći nego pre šest godina. Dakle, nikada više nismo davali novca za domaću kinematografiju.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Pieniądze, które przeznaczamy na dotowanie kopalni - 10 miliardów każdego roku.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„U mojoj biografiji nikada nije bilo incidenata, nikada krivično nisam gonjen, a ispadoh najveći siledžija.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Nacrtom Zakona o besplatnoj pravnoj pomoći, koji bi uskoro trebalo da se nađe pred poslanicima proširen je krug korisnika koji će imati pravo na besplatnu pravnu pomoć, među kojima su deca, žrtve porodičnog nasilja, torture, trgovine ljudima i drugi.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "По имеющимся оценкам, около 75% территории страны подвержены повышенному риску экологической дестабилизации",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Mi poljoprivredne i prehrambene proizvode izvezemo devet puta više u EU nego u Rusiju.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Jest ta sprawa pracowników delegowanych, fundamentalna z punktu widzenia polskich interesów. Przypominam, że jedenaście parlamentów krajowych dało w tej sprawie Komisji Europejskiej żółtą kartkę.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "В Казахстане отменили смертную казнь",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "213 профессии запрещены для женщин в Казахстане",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Srbija je lider u Evropi po broju devojaka u sektoru informaciono-komunikacionih tehnologija i zemljama Evropske unije će biti potrebne decenije da je dostignu.”",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "U Srbiji 90 odsto đaka posle srednje škole upisuje fakultet, a poznato je da u fabrikama nedostaju majstori.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Германская комиссия – коронавирус – глобальная ложная тревога",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Od preko 1.000 sudija koje nisu prošle reizbor, u Srpsku naprednu stranku se učlanilo oko 650.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Građevinska industrija posle dužeg vremena polako izlazi iz krize.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Vlada Srbije usvojila je Uredbu o regresiranju mineralnih đubriva, a cilj je da se poljoprivrednicima olakša i pomogne uspešno okončanje ovogodišnje jesenje setve.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Президент Узбекистана Шавкат Мирзиёев установил на период борьбы с эпидемией ежемесячные выплаты (контактирующим с больными)",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Srbija je izašla iz recesije, jer je rast bruto domaćeg proizvoda (BDP) u prvom tromesečju ove godine bio za jedan odsto veći nego u istom periodu 2009.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Wskaźnik Giniego, który pokazuje poziom nierówności. W ciągu naszych rządów zmalał on o 2 punkty, z 31 do 29 mniej więcej.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“Na terenu ima dosta problema i zloupotreba po pitanju zakupa državnog poljoprivrednog zemljišta. Ta pitanja su u nadležnosti lokalnih samouprava i zalažem se da ministarstvo dobije nadležnost da izdaje makar trećinu tih dozvola, kao što je to na primer slučaj u Mađarskoj, da ne bi dolazilo do zloupotreba.”",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Telekom u svom programu daje i kanal N1. Tako da onaj ko ima Telekomov program, odnosno koristi Telekom kao distributera, apsolutno može da gleda televiziju N1.”",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Niedawno OBWE przygotowała taki dokument, który się nazywa “Wskazówki korzystania z wolności zrzeszania się”. To jest taki dokument, który w randze prawa międzynarodowego ma rangę tzw. soft law, czyli miękkiego prawa, czyli pewne wskazówki jak należy funkcjonować, jak należy działać. W tych wskazówkach jest cały szereg rekomendacji, jak powinna wyglądać relacja pomiędzy państwem a organizacjami pozarządowymi w zakresie finansowania takich organizacji ze środków publicznych.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„U prvih pet meseci imali smo deficit od 25 milijardi dinara umesto planiranih 90 milijardi, što je tri i po puta manje od onoga čime bi MMF bio zadovoljan.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Konrad Piasecki: [Marszałek Stanisław Tyszka] w swoim radykalizmie jest również antypisowski. Adam Szłapka: [Stanisław Tyszka] jako najbliższy doradca Jarosława Gowina i członek zarządu partii Polska Razem Jarosława Gowina, nie jestem przekonany.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Polska czarna skrzynka, została odsłuchana w Polsce, sprowadzona do Polski i jest w polskich rękach.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“Šest meseci u Beogradu, rekao bih gotovo u Srbiji, nije bilo mafijaškog ubistva.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "213 профессии запрещены для женщин в Казахстане",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "В Финляндии свыше 1 млрд долларов от лотерейной деятельности через оператора направлены на развитие спорта и физической культуры, а также искусство и культуру",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "ООН выпустила директиву об обучении гомосексуализму детей с 5 лет",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Program restrukturyzacji górnictwa realizowany w latach 1998-2002 wraz z jego dalszymi modyfikacjami aż do 2006 r. był do tej pory najbardziej radykalnym projektem mającym zmienić kształt całego sektora. W jego efekcie zlikwidowano 13 kopalń oraz znacznie ograniczono wydobycie w kolejnych 10. Z górnictwa odeszło ponad 100 tys. osób, czyli więcej niż 42 proc. zatrudnionych w dniu rozpoczęcia programu.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Ja sam nevin i izjave svih optuženih govore u prilog tome.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Kada sam preuzeo vladu od tada su samo dve zemlje priznale nezavisnost Kosova. To su Antigva i Barbuda i Togo, ako se ne varam. Samo te dve zemlje, sve ostalo sam nasledio.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Хорошие новости о коронавирусе",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "За всю вторую пятилетку число рабочих мест в обрабатывающей промышленности увеличилось всего на 46 тысяч, а средняя зарплата в долларовом эквиваленте упала на 25%",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Podignute su penzije i plate u javnom sektoru“.",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "W czasach stanu wojennego prawie 800 tys. Polaków opuściło Polskę.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "O ile Niemcy są naszym największym partnerem handlowym, to Wielka Brytania jest naszym drugim partnerem handlowym w kolejności.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Poskupljenje goriva svakako će uticati na cene ostalih proizvoda.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Разрешили ставить психиатрические диагнозы НЕ только психиатру, а ПРОСТОМУ врачу, который даже НЕ обучался психиатрии.",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Вероятность умереть после прививки в тысячи раз выше чем вероятность умереть от кори",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Srbija je u 2010. u SAD izvezla robu u vrednosti od 68 miliona dolara, dok je vrednost uvoza iz te zemlje bila 311 miliona dolara.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Американцы/граждане США подали в суд на Китай из-за коронавируса",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Srbija je otvoreno, demokratsko društvo, u kojem ekstremne grupacije ne mogu da prođu.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Bio sam predsednik PKS i izborom na javnu funkciju sam dobio rešenje o mirovanju radnog odnosa sa pravom i obavezom da se po prestanku funkcije javim na rad u PKS…Apsolutno sam sve uradio po zakonu i nikakvog sukoba interesa nema.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Медианный размер средней зарплаты в январе составлял 112 тыс тенге. А модальный, то есть самый распространенный размер зарплаты, составляет 58 тыс тенге.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Na Wawelu przemawiał tylko G.Bush — Boguslaw Sonik (@SonikBoguslaw) July 5, 2017",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“Za sve (kulturne) manifestacije, organizovane 2015. godine, bilo je obezbeđeno više novca nego što je to bio slučaj 2013. godine.”",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Nakon prošlogodišnjih donacija tabača za sneg ‘Jumbo’ i ski lifta ‘Suvo rudište’ , od strane JP ‘Skijališta Srbije’ , ovom najnovijom donacijom Agregata za struju, dokazana je velika i nesebična podrška menadžmenta JP ‘Skijališta Srbije’ prema nama.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Orden Svetog Aleksandra Nevskog, kojeg su dobili Njegoš i drugi velikani, prestao je da se dodeljuje 1917. Orden Aleksandra Nevskog, koji je dobio (predsednik) Aleksandar Vučić, je vredan pažnje, ali nema istu težinu. Pre dve godine ga je dobio i Bogoljub Karić. Koristim priliku da čestitam obojici.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Четверо украинских военных скончались после введения американской вакцины от коронавируса",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "В первом полугодии 2020 года МСБ нарастил микрокредитный портфель на 850%. При этом выросла и просроченная задолженность на 238% по основному долгу или начисленному вознаграждению, в том числе. У физических лиц рост микрокредитов составил порядка 145%, просроченная задолженность выросла на 332%.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Zasiłki rodzinne zostały zwiększone za 8 lat Platformy o 9 złotych. Wiem, co mówię, o 9 złotych, proszę pana.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "В первом полугодии 2020 года МСБ нарастил микрокредитный портфель на 850%. При этом выросла и просроченная задолженность на 238% по основному долгу или начисленному вознаграждению, в том числе. У физических лиц рост микрокредитов составил порядка 145%, просроченная задолженность выросла на 332%.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Miasto wspomaga (…) [schronisko Na Paluchu – przyp. red.] kwotą ok. 9 milionów złotych.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Mamy coraz więcej dostaw gazu skroplonego do Polski przez terminal LNG w Świnoujściu. Ogromnie wzrosła możliwość tych dostaw. Początkowo to było 8,5 mld m3 gazu, dzisiaj to jest już w sumie do tej pory 23 mld.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„U mojoj biografiji nikada nije bilo incidenata, nikada krivično nisam gonjen, a ispadoh najveći siledžija.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Kakva je to politika SNS to saznajem najčešće od vas novinara, kakva je ideja i ideologija SNS – nje nema…ona nema ni program.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "«За прошлый год цены на продукты выросли на 10%»",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Mi poljoprivredne i prehrambene proizvode izvezemo devet puta više u EU nego u Rusiju.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Pokrenuli smo veoma težak, ali odlučan program reformi sa MMF-om. Uspeli smo da postignemo izvanredne rezultate. Naš budžetski deficit je u 2014. iznosio oko 6,2 odsto BDP-a, dok smo u 2018. godini imali fiskalni suficit od 0,6 odsto. Treću godinu zaredom smo ostvarili suficit. Javni dug je u 2014. godini iznosio oko 70 odsto BDP-a, sada iznosi 50,6 odsto.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Srbija ne kasni sa vakcinacijom i nalazi se među prve tri zemlje izvan Evropske unije koje će početi sa vakcinacijom početkom decembra.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В прошлом году по этому показателю [Получение разрешения на строительство в рейтинге Doing Business-ред.] Казахстан поднялся сразу на 17 позиций и занял 35 место в мире",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Jedna smo od retkih sredina gde su za kratko vreme otvorene tri nove fabrike, a ove godine očekujemo još 200 novih radnih mesta.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "За неисполнение нижеперечисленных обязанностей родителей могут лишить родительских прав: Нельзя оставлять детей одних без присмотра до 12 лет. Ребенок сам не может вернуться со школы и сходить за хлебом? Родители должны не допускать просмотр, чтение и распространение материалов, содержащих порнографию, насилие, экстремизм и терроризм. А как же быть с порно, которое включили в ZOOM во время уроков? То есть государство не блокирует интернет-ресурсы на территории Казахстана, а родители как-то должны заблокировать!? Обеспечить соблюдение их детьми требования, установленного внутреннего распорядка организации и Уставом организации образования. А если иногда опаздываем в школу, то можно готовить ребенка в детдом? Выполнять иные обязанности, предусмотренные законодательством РК.",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "На конец августа заявки на получение пособия по потере дохода подало 2,6 миллиона казахстанцев.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Ne znam ni ko je on, ni odakle se sad pojavio.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Китай закрыл свой последний временный госпиталь, в связи с малым количеством новых случаев заражения",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "W programie wyborczym Nowoczesnej nie ma nawet pół słowa o niepełnosprawnych. To jest coś strasznego i brzydzę się takimi politykami.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Warszawski program in vitro to już ponad 200 szczęśliwych rodzin.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Inwestycje przedsiębiorstw są dzisiaj na najniższym poziomie od ponad 20 lat.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "2020-03-17T00:00:00Z",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Što se tiče održavanja (Belog dvora), troškovi bi postojali i da je prazan.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Kada sam preuzeo vladu od tada su samo dve zemlje priznale nezavisnost Kosova. To su Antigva i Barbuda i Togo, ako se ne varam. Samo te dve zemlje, sve ostalo sam nasledio.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "За всю вторую пятилетку число рабочих мест в обрабатывающей промышленности увеличилось всего на 46 тысяч, а средняя зарплата в долларовом эквиваленте упала на 25%",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "В аптеках продается израильский парацетамол, от которого люди умирают на шестой день приема",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Strane investicije u Srbiji u prvih 10 meseci ove (2014) godine su bile 1,15 milijardi evra, što je više nego u celoj prošloj (2013) godini.",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Šest meseci u Beogradu, rekao bih gotovo u Srbiji, nije bilo mafijaškog ubistva.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Warto pamiętać, że już teraz 40 tysięcy osób rocznie umiera przedwcześnie z powodu zanieczyszczenia.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "(...) geriatrów (...) jest jedynie 436 w naszym kraju.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„U 2010. godini strane investicije biće veće nego u ovoj (2009.) godini.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Kada god dođe može samo da se uveri da mi sve radimo kako bi došli do krajnjeg cilja.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Można odnieść błyskotliwe zwycięstwo, tak jak Ryszard Petru – choć przypomnę, że jego partia otrzymała mniej głosów niż Zjednoczona Lewica.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Три случая заболевания коронавирусом в Казахстане",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Drugi Budapeszt to oznacza znacznie wolniejszy wzrost gospodarczy (…). Oni się rozwijali dwa razy wolniej niż my [Polska].",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Nacrtom Zakona o besplatnoj pravnoj pomoći, koji bi uskoro trebalo da se nađe pred poslanicima proširen je krug korisnika koji će imati pravo na besplatnu pravnu pomoć, među kojima su deca, žrtve porodičnog nasilja, torture, trgovine ljudima i drugi.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Białoruś jest krajem, w którym wciąż w więzieniu znajduje się jeden z kandydatów w wyborach prezydenckich sprzed pięciu lat, Mikoła Statkiewicz",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Neopravdano je napravljena razlika u pogledu uslova za konstituisanje Nacionalnog saveta bošnjačke nacionalne manjine u odnosu na nacionalne savete drugih nacionalnih manjina.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Astronomiczne zadłużenie (miasta) wynosi 1,48 miliarda złotych.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Pamiętam expose Tuska z 2011 r. Mówił wtedy, że nie będzie klękał przed biskupami, że zlikwiduje fundusz kościelny.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Pokrenuli smo veoma težak, ali odlučan program reformi sa MMF-om. Uspeli smo da postignemo izvanredne rezultate. Naš budžetski deficit je u 2014. iznosio oko 6,2 odsto BDP-a, dok smo u 2018. godini imali fiskalni suficit od 0,6 odsto. Treću godinu zaredom smo ostvarili suficit. Javni dug je u 2014. godini iznosio oko 70 odsto BDP-a, sada iznosi 50,6 odsto.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Bez naše koalicije neće biti ni nove Vlade, osim ako demokrate i naprednjaci ne formiraju većinu.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Telekom u svom programu daje i kanal N1. Tako da onaj ko ima Telekomov program, odnosno koristi Telekom kao distributera, apsolutno može da gleda televiziju N1.”",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Srbija je izašla iz recesije, jer je rast bruto domaćeg proizvoda (BDP) u prvom tromesečju ove godine bio za jedan odsto veći nego u istom periodu 2009.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Си Цзиньпин посетил мечеть и просил благословения/прощения у мусульман",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Иностранцам продлят сроки пребывания в Казахстане в связи с коронавирусом",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Каждый казахстанец — от старика до младенца — уже должен иностранному «дяде» около 9 тыс долларов.",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Definitivno nas čeka privredni rast sledeće (2010.) godine, ali neće biti pet ili sedam odsto kao ranije, već skromniji, od jedan do jedan i po odsto.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Broj penzionera u Srbiji će u narednim godinama rasti, a broj novih radnih mesta neće pratiti tako brz porast broja penzionera.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Pana partia [Platforma Obywatelska] buduje gazoport od 8 lat.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Prosečne plate će se ove godine kretati između 34.000 i 35.000 dinara, odnosno od 320 do 330 evra, što je na nivou regiona.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В Казахстане в среднем в год собирают около 300 тысяч тонн хлопка-сырца.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "В прошлом году по этому показателю [Получение разрешения на строительство в рейтинге Doing Business-ред.] Казахстан поднялся сразу на 17 позиций и занял 35 место в мире",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Mamy siódmy rok z siedmioletniej perspektywy, a wydanych mamy niespełna 46%, z 60 miliardów 27 zaledwie trafiło na konta rolników, a w działaniach modernizacja gospodarstw rolnych jest jeszcze gorzej, bo niespełna 1/3.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "У котов в Ухане обнаружили коронавирус",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Polacy są w tej chwili najbardziej gruntownie rozbrojonym narodem w Europie.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Zvanični podaci kažu da je samo za prva tri meseca u zemlju ušlo nešto više od 600 miliona dolara investicija.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Od 1910. do 2013. imali smo svake godine dramatičan pad stočarske proizvodnje. Došli smo na nivo ispod 1910. godine.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Statistika pokazuje da rat države protiv nasilja u sportu daje rezultate. Od primene novog zakona nasilje je opalo za 26 odsto u odnosu na isti period prošle godine.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Trybunał Konstytucyjny na rozprawie 3 grudnia będzie rozstrzygał m.in. tę kwestię [zgodność ustawy z dnia 25 czerwca 2015 r. o Trybunale Konstytucyjnym z Konstytucją]. Grupa posłów przedłożyła [wniosek] 7 listopada.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "W Niemczech, gdy rosła konsumpcja piwa przez lata ciągnęła za tym produkcję chmielu. W Polsce ma pan dwudziestokrotny wzrost spożycia piwa i spadek produkcji chmielu.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "В Китае распространение книг Солженицына стало уголовным преступлением",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Samo ove godine upisano je 23.000 dece u vrtiće, 12.000 u državnim, a 11.000 u privatnim vrtićima.”",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Корь излечивает от рака и предотвращает его развитие",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Evropska komisija je napisala pozitivan izveštaj o Srbiji, sa reformskim idejama i menijem za sledeću godinu.",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "213 профессии запрещены для женщин в Казахстане",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Поскольку корь очень заразна, коллективный иммунитет для нее не работает несмотря на очень высокий охват вакцинации",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Nemam nikakav dokument o tom pečatu. Ne znam kako mogu da pričaju o prijavi, kada nemaju nikakvih osnova da me tuže, taj pečat ne postoji više.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "W marcu był kolejny spadek bezrobocia.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "LSNS otwarcie odwołuje się do reżimu stworzonego przez nazistowskiego kolaboranta ks. Tiso, wzywa do przemocy, organizuje bojówki. Faszyści dostali 8% głosów.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Država ne želi da idete ranije u penziju, država želi da radite pun radni vek. I zato ako odete ranije u penziju, kao i u većini zemalja u svetu, plaćate određeno umanjenje te penzije. Takozvane penale. Ranije je to bilo doživotno, a sada kažemo, pošto imamo više novca, pošto hoćemo da se zahvalimo penzionerima,kada ispunite starosni uslov, a to je 65 godina, država smatra da niste više ništa dužni i da su penali za vas stvar prošlosti.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Andrzej Duda od czerwca ubiegłego roku nie złożył żadnej ustawy do Sejmu.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Китайский премьер молится в мечети",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Секспросвет грозит растлением молодого поколения и уничтожением основ нравственности и порядочности",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Od 2012. godine do danas, uspeli smo da prepolovimo trgovinski deficit koji imamo sa EU.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Dvadeset pet procenata nezaposlenosti nema nigde drugde na Balkanu!“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В 2015 году было возбуждено 4 уголовных дела по сбыту наркотиков в отношении сотрудников Департамента по противодействию наркопреступности, в 2016 году уже 10, в 2017 уже 20, и, наверное, это ещё не все",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Ako pričate o medijima, imate zemlje u EU gde imate deset puta manje transparentnosti i slobode nego kod nas.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Banjaluka je glavni grad međunarodno priznatog entiteta nastalog kao posledica Dejtonskog sporazuma, dok je Novi Pazar samo jedan od gradova u Srbiji koji nema ni međunarodno priznanje, niti predstavlja entiet, niti se na bilo koji drugi način može izdvojiti od bilo kojeg drugog grada u Srbiji.“",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Немецкие врачи обнаружили, что COVID-19 это НЕ ВИРУС, а БАКТЕРИЯ, вызывающая смерть",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Co do konstytucyjności ustawy o KRS-ie, to po pierwsze w 2006 roku Trybunał Konstytucyjny orzekł, że właśnie tę kadencję można skrócić.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Участившиеся ошибки Zoom могут представлять угрозу для Казахстана",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Второй волны пандемии может не быть",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Większość SLD głosowało za podniesieniem wieku emerytalnego.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Ile było głosów nieważnych, teraz w wyborach prezydenckich? 1%?",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Огромные государственные инвестиции планируется направить на строительство оптово-распределительных центров. Однако эффект будет не скорым и вызывает вопросы, поскольку планируется введение их в эксплуатацию до конца 2022 года",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Resorno ministarstvo će ove godine povećati direktna davanja poljoprivrednim proizvodačima sa 12.000 na 14.000 dinara po hektaru zasejanih ratarskih kultura.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Kurs dinara ostaće stabilan do kraja godine.“",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Šest meseci u Beogradu, rekao bih gotovo u Srbiji, nije bilo mafijaškog ubistva.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Što se tiče održavanja (Belog dvora), troškovi bi postojali i da je prazan.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Po evidenciji Nacionalne službe za zapošljavanje u Beogradu je u septembru mesecu ove godine bilo manje od 100 000 nezaposlenih, što je svojevrstan rekord u poslednjih nekoliko godina i 8 odsto bolji rezultat nego prošle godine.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Dość powiedzieć, że nasz rating jest cały czas wyższy niż rating Włoch, bardzo potężnego państwa zachodnioeuropejskiego, jest na poziomie dokładnie takim jak Hiszpania.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Ja nikada nisam mahao krivičnim prijavama. Ja nikada ne mašem zatvorom. Ja i sada kad sam svestan toga da su mnogi ljudi ogrezli u kriminal, ne pominjem ljude i ne kažem da ćemo mi trpati ljude u zatvor.“",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“U protekle četiri godine, kapaciteti u srpskim zatvorima povećani su za 50 odsto, a uslovi za boravak u zatvorima podignuti na viši nivo u skladu sa evropskim standardima.”",
+        "label": "partly true/misleading",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10T00:00:00Z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Srbija je rastom izvoza u prošloj godini nadoknadila gubitak iz 2009. godine.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Što se tiče cena, naprednjačka vlast kreće da se izjašnjava prvi put 2015. godine. Tada je gospodin Siniša Mali rekao da će prva linija metroa koštati između 800 i milijardu evra, da bi krajem 2015. već to korigovao na između 800 miliona i 1,2 milijarde evra.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Президент Узбекистана Шавкат Мирзиёев установил на период борьбы с эпидемией ежемесячные выплаты (контактирующим с больными)",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Даже при официальных темпах роста цен только за 7 месяцев домохозяйства понесли дополнительные затраты на продукты 225 млрд тенге",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Результаты PISA говорят о снижение грамотности школьников. Если в странах ОЭСР дети постоянно повышают результаты читательской грамотности, то у нас есть вопросы и определенная тенденция на ухудшение.",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Ova skupštinska većina i ova vlast je 94 odsto svih nepravilnosti i svega onoga što je ukazao Zaštitnik građana ispravila.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Dopiero teraz wiemy ilu lekarzy pracuje w Polsce. Jest to 149 tys. mniej więcej. To jest średnia europejska.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "В нескольких городах США планируется расформировать полицию и заменить ее командами реагирования",
+        "label": "partly true/misleading",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "«...в советский период рыбное хозяйство Казахстана было одной из самых высоко развитых доходных отраслей народного хозяйство, объем валового рыбопроизводства составлял свыше 80 тыс. тонн в год. В настоящее же время общий объем добычи биоресурсов снизился в несколько раз…»",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Dla przykładu Polska gospodarka jest blisko dwukrotnie bardziej energochłonna niż średnia europejska. Na 100 jednostek tzw. energii pierwotnej efektywnie wykorzystujemy jedynie kilkanaście. Cała reszta rozpływa się na etapie przetwarzania energii, transportu i jej odbioru. For example, Poland’s economy is almost twice much more energy intensive than the European average. At 100 units of so-called so. primary energy, we efficiently use only several. The remaining part dissipates at the stage of energy conversion, transportation and reception.",
+        "label": "partly true/misleading",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    }
+]

@@ -1,0 +1,3602 @@
+[
+    {
+        "claim": "এই ছবিটি বাবরি মসজিদের",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "মহিলাকে নিয়ে এই ছবিটি নেহরুর।",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "प्रसिद्ध वृत्तनिवेदक प्रदीप भिडे यांच्या निधनाची पोस्ट सोशल मीडियात व्हायरल",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "ম্যাগিতে বীফ মশলা দিয়ে বিক্রি করা হচ্ছে ভারতে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Ja tylko przypomnę, kto sprywatyzował w Łodzi elektrociepłownię. SLD w 2004-5 roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "प्रधानमंत्री नरेंद्र मोदी के संसदीय क्षेत्र वाराणसी में गंगा नदी के घाट गंदगी से भरे हैं.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Jedyne mosty, które zbudowano w Warszawie w czasach już nie PRL-owskich, to były mosty za czasów prezydentów związanych z Platformą Obywatelską. Wszystkie!",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "В первом полугодии 2020 года МСБ нарастил микрокредитный портфель на 850%. При этом выросла и просроченная задолженность на 238% по основному долгу или начисленному вознаграждению, в том числе. У физических лиц рост микрокредитов составил порядка 145%, просроченная задолженность выросла на 332%.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Vlada, kao ključni politički organ koji bi trebalo da vodi politiku države, ne vodi spoljnu politiku, već je uslužna delatnost kabineta predsednika Republike.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "प्रवासी मजदूरों से राहुल गांधी की मुलाकात प्रायोजित थी. राहुल गांधी के साथ तस्वीर में मौजूद महिला बाद में कार से जाती हुई देखी गई.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "तस्वीर में दिख रहे इटली के डॉक्टर दंपति ने कोरोना मरीजों के इलाज करते हुए अपनी जान दे दी.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "„I ne samo da smo obnovili objekte koji su bili porušeni, nego su čak i neki novi izgrađeni. Kao što je recimo vrtić u Stublinama koji je jedan od najlepših na teritoriji grada Beograda, kao što je to prva fiskulturna sala koju je Prva obrenovačka osnovna škola dobila posle skoro 200 godina, to je i Dom za socijalni rad koji će biti uskoro izgrađen. Tako da su to neki novi objekti koji su čak i unapredili život u Obrenovcu. I mislim da možemo da budemo zadovoljni sa ovim što smo uradili u proteklih godinu dana.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Dug Srbije je 80 procenata BDP, to znači da je Srbija visoko zadužena zemlja.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Inną kwotę świadczeń otrzymują opiekunowie dorosłych niepełnosprawnych, a inną opiekunowie dzieci niepełnosprawnych. Ta różnica jest bardzo duża, bo w przypadku dzieci jest to 1477 zł, a w przypadku dorosłych 520 zł i to tylko dla osób najmniej zarabiających. TK orzekł o niekonstytucyjnosci tego rozwiązania w 2014 roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Oni (Salford) imaju monopol i tvrdim da drže 60 odsto srpskog tržišta.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Nikada nisam lagao naš narod u Srbiji i da kažem bićemo sigurno do 2020. deo Evropske unije. Ja sam rekao da ćemo mi da ispunimo ono što je do nas, ono što mi možemo i što moramo da uradimo do 2019, a onda je na Austriji, Nemačkoj, Francuskoj i drugim evropskim zemljama da donesu odluku da li žele da nas prime u EU ili ne.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Što se tiče održavanja (Belog dvora), troškovi bi postojali i da je prazan.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "લોકડાઉન હોય કે ના હોય : આવનારા છ મહિના ઇન્ડિયન કાઉન્સિલ ઓફ મેડિકલ રિસર્ચ દ્વારા સૂચવેલી આટલી કાળજી તો લેવી જ જોઇએ",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "ब्रीच कॅंडी रुग्णालयातील डाॅ. शरद उदवाडिया यांचा कोरोना विषयी माहिती देतानाचा व्हिडिओ व्हायरल",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "ম্যাগিতে বীফ মশলা দিয়ে বিক্রি করা হচ্ছে ভারতে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "नागपुर पुलिस स्टेशन में मौजूद यह बच्ची घरवालों से बिछड़ गई है.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "„Izdvajanjа za nauku u Srbiji 1% BDP-a su niža od proseka EU, oko 2% BDP-a u 2013. godini. Iz privatnog sektora dolazi svega 7,5% svih ulaganja u nauku što je značajno ispod proseka EU gde čak 55% svih ulaganja u nauku čine investicije privatnog sektora.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Chciałbym przeczytać wpis pana ministra Schreibera, który kilka minut temu występował na tej mównicy. To jest wpis sprzed kilku lat, dosyć świeży. Cytuję: \"Setki razy tłumaczyłem: w komisji, w mediach, tutaj na Twitterze czy na sali plenarnej: głosowanie korespondencyjne niesie ryzyko fałszerstw – patrz: powtórzone wybory w Austrii rok temu – i jest dozwolone jedynie w 13 na 28 krajów Unii Europejskiej podczas wyborów samorządowych.\"",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "महेश भट सड़क 2 या त्यांच्या चित्रपटाच्या व्हिडिओला एक कोटी डिसलाईक मिळाल्याने ते भडकले आहेत",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "প্রধানমন্ত্রী নরেন্দ্র মোদীর মেক-আপ আর্টিস্টের মাইনে মাসে ১৫ লক্ষ টাকা",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "तुरटीच्या वापराने कोरोना नष्ट होतो",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "Profesor Herczyński, na którego badania czy artykuł pani (Anna Zalewska – przyp. Demagog) się powołuje, argumentując konieczność likwidacji gimnazjów, mówi wprost: Nikt mnie o zdanie nie pytał. A na pytanie dziennikarki, czy należy likwidować gimnazja, odpowiada twardo: Nie.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Ponad milion osób w Polsce pracuje na samozatrudnieniu.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Ukoliko ne budemo uspeli da ostvarimo veći rast od 2 odsto u ovoj godini to će za nas i dalje biti vrlo slično godini krize jer se neće poimati veći osećaj nekog boljitka koji se ostvario.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ছবিতে ফেসবুক কর্মী আঁখি দাসকে জাতীয় পতাকার কেককে কাটতে দেখা যাচ্ছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "LSNS otwarcie odwołuje się do reżimu stworzonego przez nazistowskiego kolaboranta ks. Tiso, wzywa do przemocy, organizuje bojówki. Faszyści dostali 8% głosów.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Sędziowie wszędzie zarabiają tyle samo, sędzia rejonowy w całej Polsce zarabia tyle samo, sędzia okręgowy tyle samo, sędzia funkcyjny tyle samo.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Już w tej chwili wiemy, że tych urodzeń jest niemalże 19 tys. więcej, jeżeli policzymy rok do roku od stycznia do sierpnia tego roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Pa gde su sad ti kritičari koji su pričali da fontana preliva. Pa svaka fontana u svetu je prelivala, ima kompenzacioni bazen i pumpe koje vraćaju vodu. Nek odu u Madrid da pogledaju kakve su tamo fontane. Oni su bili protiv da se skloni Dimitrije Tucović, a ne znaju ni ko je on, pa im sad smeta fontana, pa jarbol.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ভাইরাল এই ছবিটিতে উত্তরপ্রদেশে প্রিয়াঙ্কা গান্ধীর প্রবাসীদের বাড়ী ফেরাতে ব্যবস্থা করা ১০০০ টি বাস দেখা যাচ্ছে",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "इटली में कोरोना वायरस के चलते मरने वाले डॉक्टरों और नर्सों की तस्वीर.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "न्यूजीलैंड में भारतीय संस्कृति की महिमा।",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "सड़क पर चल रहे दो मोटरसाइकिल सवार लोगों पर होर्डिंग गिरने का वीडियो हैदराबाद का है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "हथिनी के बाद अब गर्भवती गाय को विस्फोटक खिलाने के बाद जबड़ा फटा , \"If this is what humans do they do not deserve to live - the earth may well swallow everyone\"",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "कोरोना वायरस से संक्रमित कनाडा के प्रधानमंत्री जस्टिन ट्रूडो की पत्नी का वीडियो.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "মুসলিমদের দলবেঁধে নামাজ পড়ার ছবিটি ভারতের",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਤਸਵੀਰ ਵਿੱਚ ਦਿਖਾਈ ਦੇ ਰਹੀ ਕੁੜੀ ਨੂੰ ਵਰ ਦੀ ਲੋੜ ਹੈ ਜੋ ਕਨਾਡਾ ਜਾਣ ਦਾ ਖਰਚਾ ਚੁੱਕ ਸਕੇ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "बिहार की ये तस्वीर नीतीश राज के 15 साल के विकास को दिखाती है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡਿਆ ਤੇ ਪ੍ਰਸਿੱਧ ਗਾਇਕ ਅਤੇ ਆਮ ਆਦਮੀ ਪਾਰਟੀ ਲੀਡਰ ਅਨਮੋਲ ਗਗਨ ਮਾਨ ਦੀ ਤਸਵੀਰ ਨੂੰ ਸ਼ੇਅਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਜਿਸ ਵਿੱਚ ਅਨਮੋਲ ਗਗਨ ਮਾਨ ਦੇ ਹੱਥ ਵਿੱਚ ਸਿਗਰੇਟ ਨਜ਼ਰ ਆ ਰਹੀ ਹੈ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "“Nikada nisam lagao naš narod u Srbiji i da kažem bićemo sigurno do 2020. deo Evropske unije. Ja sam rekao da ćemo mi da ispunimo ono što je do nas, ono što mi možemo i što moramo da uradimo do 2019, a onda je na Austriji, Nemačkoj, Francuskoj i drugim evropskim zemljama da donesu odluku da li žele da nas prime u EU ili ne.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "सड़क पर चल रहे दो मोटरसाइकिल सवार लोगों पर होर्डिंग गिरने का वीडियो हैदराबाद का है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "U Srbiji 90 odsto đaka posle srednje škole upisuje fakultet, a poznato je da u fabrikama nedostaju majstori.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ਟਿਕਟਾਕ ਦੇ ਫਾਊਂਡਰ ਯਹਾਂਗ ਯਿਮਿੰਗ ਨੇ ਕਿਹਾ ਕਿ ਉਨ੍ਹਾਂ ਨੇ ਟਿਕਟਾਕ ਵਿਹਲੇ ਅਤੇ ਬੇਰੁਜ਼ਗਾਰ ਲੋਕਾਂ ਦੇ ਲਈ ਬਣਾਈ ਸੀ ਪਰ ਉਨ੍ਹਾਂ ਨੂੰ ਨਹੀਂ ਪਤਾ ਸੀ ਕਿ ਭਾਰਤ ਵਿੱਚ ਇਸ ਤਰ੍ਹਾਂ ਦੇ ਲੋਕ ਸਭ ਤੋਂ ਵੱਧ ਹੋਣਗੇ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "„Vlada, kao ključni politički organ koji bi trebalo da vodi politiku države, ne vodi spoljnu politiku, već je uslužna delatnost kabineta predsednika Republike.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "70 सालो तक हमे पाकिस्तान का झंडा लहरा कर चिढ़ाया जाता था । कल करांची की रैली में हिंदुस्तान के झंडे लहराये गए",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "অযোধ্যায় রাম মন্দির নির্মাণ শুরু হতে যাওয়ার কারণে বর্ষীয়ান বিজেপি নেতা মুরলীমনোহর জোশি মোদীকে মিষ্টি খাওয়াচ্ছেন",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "13 grudnia jest bardzo często wykorzystywany przez opozycyjne partie do tego, żeby robić protesty. Jest list z 2 grudnia 2014 roku, podpisany: Jarosław Kaczyński, o wyjściu na ulicę 13 grudnia 2014 roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "प्रधानमंत्री मोदी जी की इस फोटो को देखकर देश का हर व्यक्ति इनकी तुलना हिटलर से कर रहा है जिसने पूरे विश्व को वर्ल्ड वार मैं झोंक दिया था",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡਿਆ ਤੇ ਇੱਕ ਤਸਵੀਰ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਵਿੱਚ ਬਰਨਾਲਾ ਤੋਂ ਅਕਾਲੀ ਦਲ ਦੇ ਨੇਤਾ ਦਵਿੰਦਰ ਸਿੰਘ ਬੀਹਲਾ ਦੇ ਤਸਵੀਰ ਦਿਖਾਈ ਦੇ ਰਹੀ ਹੈ ਜਿਸ ਉੱਤੇ ਲਿਖਿਆ ਹੋਇਆ ਹੈ , \"ਹਰ ਪਿੰਡ ਹਰ ਸ਼ਹਿਰ ਦੀ ਇਹ ਪੁਕਾਰ , ਕਦੇ ਵੀ ਨਾ ਆਵੇ ਅਕਾਲੀ ਦਲ ਦੀ ਸਰਕਾਰ\"",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਪਲੇਟਫਾਰਮ ਤੇ ਇੱਕ ਵੀਡੀਓ ਖੂਬ ਤੇਜ਼ੀ ਦੇ ਨਾਲ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ। ਵਾਇਰਲ ਹੋ ਰਹੀ ਵੀਡੀਓ ਦੇ ਵਿੱਚ ਲੋਕਾਂ ਦੀ ਭੀੜ ਨੂੰ ਦੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਪੂਰੇ ਦੇਸ਼ ਦੇ ਵਿੱਚ ਲਗਾਤਾਰ 15 ਦਿਨਾਂ ਤੋਂ ਲੱਖਾਂ ਰੇਲਵੇ ਕਰਮਚਾਰੀ ਨਿੱਜੀਕਰਨ ਦੇ ਵਿਰੋਧ ਵਿਚ ਅੰਦੋਲਨ ਕਰ ਰਹੇ ਹਨ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਇਕ ਵੀਡੀਓ ਖੂਬ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਨਾਲ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਬੀਜੇਪੀ ਦੇ ਨਾਮੀ ਲੀਡਰ ਦੇ ਮੁੰਡੇ ਨੇ ਰਿਆਲਟੀ ਸ਼ੋਅ ਡਾਂਸ ਇੰਡੀਆ ਡਾਂਸ ਦੇ ਸ਼ੋਅ ਵਿੱਚ ਖੂਬ ਹੰਗਾਮਾ ਕੀਤਾ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "पाकिस्तान में गृह युद्ध छिड़ गया है. पाकिस्तानी सेना और कराची पुलिस के बीच फायरिंग शुरू हो गई है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "„Dug Srbije je 80 procenata BDP, to znači da je Srbija visoko zadužena zemlja.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ছবিটি সম্প্রতি আমেরিকার মিনিয়াপোলিসে পুলিশের অত্যাচারে মৃত্যু হওয়া জর্জ ফ্লয়েডের",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Warto pamiętać, że już teraz 40 tysięcy osób rocznie umiera przedwcześnie z powodu zanieczyszczenia.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Inną kwotę świadczeń otrzymują opiekunowie dorosłych niepełnosprawnych, a inną opiekunowie dzieci niepełnosprawnych. Ta różnica jest bardzo duża, bo w przypadku dzieci jest to 1477 zł, a w przypadku dorosłych 520 zł i to tylko dla osób najmniej zarabiających. TK orzekł o niekonstytucyjnosci tego rozwiązania w 2014 roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“Od 2012. godine do danas, uspeli smo da prepolovimo trgovinski deficit koji imamo sa EU.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "एक तीन फोटो का कोलाज जिसमें दर्जनों मरी हुई गायें नजर आ रही हैं. इन तस्वीरों को भारत का बताया गया है.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "अरब और यहूदियों ने इजरायल और सऊदी अरब में एक दूसरे के देश में दूतावास खुलने पर डांस कर खुशी जाहिर की.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "В Казахстане отменили смертную казнь",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "ক্রিস্টিয়ানো রোনাল্ডো একটি চোখে ব্যাণ্ডেজ বেঁধে ইজরায়েলের বিরোধীতা করছেন",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "13 grudnia jest bardzo często wykorzystywany przez opozycyjne partie do tego, żeby robić protesty. Jest list z 2 grudnia 2014 roku, podpisany: Jarosław Kaczyński, o wyjściu na ulicę 13 grudnia 2014 roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ভিডিওটি শাহীনবাগের, মহিলাদের অবস্থান বিক্ষোভের।",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "हेलिकॉप्टर से ली गई ब्लू व्हेल की तस्वीर.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "प्रवासी मजदूरों से राहुल गांधी की मुलाकात प्रायोजित थी. राहुल गांधी के साथ तस्वीर में मौजूद महिला बाद में कार से जाती हुई देखी गई.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "अस्त-व्यस्त हालत में एक पूजास्थल की तस्वीर, जिसके साथ दावा किया जा रहा है कि पंजाब में हिंदुओं की रामलीला पर हमला किया गया.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "কিছু মুসলিম মানুষ বলছেনসিএএ-এনআরসি ভুল নয়।",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "১৮ বছর বয়সী মাদার টেরেসাকে এই ছবিতে দেখতে পাওয়া যাচ্ছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Второй волны пандемии может не быть",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "সি এ এ -র বিরুদ্ধে প্রতিবাদে ভারতীয় ক্রিকেট দল গুয়াহাটিতে ম্যাচ খেলেনি",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Były realizowane ekspertyzy jakie gospodarstwo najbardziej może być podstawą tego ustroju, który jest zapisany w Konstytucji. Specjaliści ustalili, że jest to około 300 ha. […] Większość zadecydowała w 2003 roku, jest to konsensus zawarty między wszystkimi siłami politycznymi.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Z danych Komendy Głównej Państwowej Straży Pożarnej za rok 2018 wynika, że było ponad 0,5 mln zdarzeń, z czego 30% to pożary.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "আল্লাহর হুকুমে মসজিদের গম্বুজ নিজ ইচ্ছায় উড়ে যাচ্ছে।",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "आगरा में तबरेज अंसारी के समर्थन में निकाले गए जुलूस का वीडियो",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "В Казахстане отменили смертную казнь",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "भारतीय सेना कश्मीरी महिलाओं का उत्पीड़न कर रही है",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "„Srbija je u 2010. u SAD izvezla robu u vrednosti od 68 miliona dolara, dok je vrednost uvoza iz te zemlje bila 311 miliona dolara.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "चीन में हाईवे पर कोरोना वायरस के मरीज को पकड़ती पुलिस.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "বিজেপি ও আরএসএস এর লোকেরা হাজিপুরে এক দম্পতিকে জাতপাত এর কারণে পিটিয়ে হত্যা করে।",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "असम में नागरिकता कानून के विरोध में प्रदर्शन कर रहीं महिलाओं पर पुरुष पुलिसकर्मी अत्याचार कर रहे हैं.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Jedyne mosty, które zbudowano w Warszawie w czasach już nie PRL-owskich, to były mosty za czasów prezydentów związanych z Platformą Obywatelską. Wszystkie!",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Działają już ambasady w Senegalu i Iraku. W styczniu tego roku zostały ustanowione ambasady w Tanzanii i Panamie, a na początku lutego Konsulat Generalny w Houston. Placówki te rozpoczną pełną działalność w drugiej połowie bieżącego roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“Što se tiče cena, naprednjačka vlast kreće da se izjašnjava prvi put 2015. godine. Tada je gospodin Siniša Mali rekao da će prva linija metroa koštati između 800 i milijardu evra, da bi krajem 2015. već to korigovao na između 800 miliona i 1,2 milijarde evra.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ছবিটি সম্প্রতি আমেরিকার মিনিয়াপোলিসে পুলিশের অত্যাচারে মৃত্যু হওয়া জর্জ ফ্লয়েডের",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "कांग्रेस नेता नवजोत सिंह सिद्धू को कुछ लोगों ने डंडे से पीटा",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "এই ভিডিওতে পশ্চিমবঙ্গ পুলিশকে বিক্ষোভকারীদের উপর বোমা মারতে দেখা যায়",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "আফ্রিকায় দেখা মিলল নতুন এক প্রাণীর",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "রাহুল গান্ধী তার শোকবার্তায় করা টুইটে সুশান্ত সিং রাজপুতকে 'অভিনেতা'র পরিবর্তে 'ক্রিকেটার' বলে অভিহিত করেন",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "„Oni (Salford) imaju monopol i tvrdim da drže 60 odsto srpskog tržišta.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Izdvajanjа za nauku u Srbiji 1% BDP-a su niža od proseka EU, oko 2% BDP-a u 2013. godini. Iz privatnog sektora dolazi svega 7,5% svih ulaganja u nauku što je značajno ispod proseka EU gde čak 55% svih ulaganja u nauku čine investicije privatnog sektora.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Očekujem da ćemo sledeće godine imati najveću stopu ekonomskog rasta u regionu.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Vlada, kao ključni politički organ koji bi trebalo da vodi politiku države, ne vodi spoljnu politiku, već je uslužna delatnost kabineta predsednika Republike.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "चालीस साल बाद श्रीनगर में भजन कीर्तन हुआ.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ছবিতে অযোধ্যার রাম মন্দিরের নকশা দেখতে পাওয়া যাচ্ছে",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "„U martu su se pojavili prvi pozitivni signali što se tiče zaposlenosti, jer je zabeležen blagi porast broja zaposlenih, ali će se tek videti da li će to značiti i početak novog trenda.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "पद्मशीला तिरपुडे यांनी खलबत्ते, वरवंटे विकून संसार व मुलाला सांभाळून यशवंतराव चव्हाण महाराष्ट्र मुक्त विद्यापीठातून शिक्षण घेऊन MPSC ची PSI ची परीक्षा पास केली",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "ભારતીય સેનાએ ગલવાન નદી પરનો પુલ બનાવી લીધો જેને ચીન રોકવા માંગતું હતું",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਇਕ ਵੀਡੀਓ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਵਿੱਚ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਇੱਕ ਮ੍ਰਿਤਕ ਸ਼ਖਸ ਅੰਤਿਮ ਸੰਸਕਾਰ ਤੋਂ ਪਹਿਲਾਂ ਜਿਉਂਦਾ ਹੋ ਗਿਆ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "ਆਜ ਤੱਕ ਨਿਊਜ਼ ਚੈਨਲ ਦੇ ਸਕ੍ਰੀਨਸ਼ਾਟ ਮੁਤਾਬਕ ਉੱਤਰ ਪ੍ਰਦੇਸ਼ ਦੇ ਮੁੱਖ ਮੰਤਰੀ ਯੋਗੀ ਅਦਿੱਤਿਆਨਾਥ ਨੇ ਕਿਹਾ ਕਿ,\"ਠਾਕੁਰਾਂ ਦਾ ਖੂਨ ਗਰਮ ਹੈ, ਠਾਕੁਰਾਂ ਤੋਂ ਗਲਤੀਆਂ ਹੋ ਜਾਂਦੀਆਂ\" ਹਨ",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "ছবিতে ফেসবুক কর্মী আঁখি দাসকে জাতীয় পতাকার কেককে কাটতে দেখা যাচ্ছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "„Ova vlada pre tri godine je obećala smanjenje taksi i parafiskalnih nameta. A šta je rezultat toga? Pre tri godine, bilo je 360, a sad je taj broj 384. Sа usvajanjem Zakona o privatnom obezbedjenju imaćemo još jednu novu, 385. taksu“.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ਸਾਈਕਲ ਗਰਲ ਜਯੋਤੀ ਪਾਸਵਾਨ ਦੀ ਅਰਜੁਨ ਮਿਸ਼ਰਾ ਨਾਮ ਦੇ ਬ੍ਰਾਹਮਣ ਨੇ ਰੇਪ ਕਰਨ ਤੋਂ ਬਾਅਦ ਹੱਤਿਆ ਕਰ ਦਿੱਤੀ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "এটি জাপানের একটি ব্রিজ তৈরী করা হয়েছে ২৪ ঘন্টার ভিতর।",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ছবিতে দেখা যাচ্ছে, রাশিয়ার রাষ্ট্রপতি ভ্লাদিমির পুতিন তার কার্যালয়ে ভারতের ডাঃ ভীমরাও আম্বেদকরের এক প্রতিকৃতি লাগিয়েছেন",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "सोशल मीडिया ने दिखाई अपनी ताकत... गुजरात मंत्री का बेटा गिरफ्तार। देश की जाँबाज़ बेटी सुनीता यादव का इस्तीफा ना मंजूर.",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "Prezydent Bronisław Komorowski był jedynym posłem PO, który głosował przeciwko likwidacji WSI.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "তাবলীগ জামাত মুসলিমদের সম্বন্ধে ফেসবুকে আপত্তিকর পোস্ট করায় ভারতীয় শিল্পপতি বি আর শেঠীকে কালো তালিকাভুক্ত করছে দুবাই সরকার",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Jastrzębska Spółka Węglowa w stosunku do najniższych notowań osiągnęła w najlepszym momencie prawie 1000% zwiększenia wartości na giełdzie.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ভিডিওটি শাহীনবাগের, মহিলাদের অবস্থান বিক্ষোভের।",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "উত্তরপ্রদেশে পাওয়া গেলো ৩৩৫০ টন সোনা",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "મુંબઈમાં ભારે વરસાદ થી ચારે તરફ પાણી પાણી ફરી વળ્યાં , સીલિંક ખાતે પાણી ભરાયા",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "Naša struja je ubedljivo najjeftinija u Evropi, 30 odsto je jeftinija nego što imaju zemlje koje imaju najjeftiniju struju u regionu.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Kiedy byłem w Sejmie, głosowałem przeciwko podwyższeniu wieku emerytalnego.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Oni (Salford) imaju monopol i tvrdim da drže 60 odsto srpskog tržišta.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "बस इसी का इंतजार था!!",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "जो मुसलमान को गद्दार कहता है वह जरा देख ले भक्तों का बाप का नाम लिखा हुआ है",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "दिल्ली के शाहदरा मोड़ के पास गैस का टैंकर लीक होने से भयंकर आग लगी.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "मुंबई की बारिश का एक वीडियो, जिसमें लोग पानी के तेज बहाव के बीच गटर में गिरे एक बच्चे को निकाल रहे हैं.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "एक व्यक्ति ने अपील की है कि उसकी पत्नी और बेटी कोरोना संक्रमित हैं, उनके लिए दुआ करें.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Ile było głosów nieważnych, teraz w wyborach prezydenckich? 1%?",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "मोबाईल चार्जिंगला लावून बोलल्याने मुलाचा मृत्यू झाला",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "Na milion mieszkańców w Hiszpanii zmarło 630 osób (...), a w Polsce 65 (na COVID-19 - przyp. Demagog).",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„I ne samo da smo obnovili objekte koji su bili porušeni, nego su čak i neki novi izgrađeni. Kao što je recimo vrtić u Stublinama koji je jedan od najlepših na teritoriji grada Beograda, kao što je to prva fiskulturna sala koju je Prva obrenovačka osnovna škola dobila posle skoro 200 godina, to je i Dom za socijalni rad koji će biti uskoro izgrađen. Tako da su to neki novi objekti koji su čak i unapredili život u Obrenovcu. I mislim da možemo da budemo zadovoljni sa ovim što smo uradili u proteklih godinu dana.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "वीडियो में एक विशाल झरने का पानी शिवलिंग पर गिरता हुआ दिख रहा है. वीडियो को नेपाल स्थित पशुपति नाथ मंदिर का बताया गया है.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਪਿਆਜ਼ ਦਾ ਸੇਵਨ ਕਰਨ ਦੇ ਨਾਲ ਕੋਰੋਨਾਵਾਇਰਸ ਜੜ੍ਹ ਤੋਂ ਖ਼ਤਮ ਹੋ ਜਾਵੇਗਾ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "Sędziowie wszędzie zarabiają tyle samo, sędzia rejonowy w całej Polsce zarabia tyle samo, sędzia okręgowy tyle samo, sędzia funkcyjny tyle samo.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਪੰਜਾਬ ਸਰਕਾਰ ਨੇ ਲਾਕਡਾਉਨ ਨੂੰ ਲੈ ਕੇ ਨਵੀਆਂ ਹਦਾਇਤਾਂ ਜਾਰੀ ਕੀਤੀਆਂ ਹਨ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "Ukupan izvoz naoružanja i vojne opreme, uključujući i novi ugovor, iznosiće oko 1,2 milijarde dolara.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Profesor Herczyński, na którego badania czy artykuł pani (Anna Zalewska – przyp. Demagog) się powołuje, argumentując konieczność likwidacji gimnazjów, mówi wprost: Nikt mnie o zdanie nie pytał. A na pytanie dziennikarki, czy należy likwidować gimnazja, odpowiada twardo: Nie.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "এই ছবিতে ১৯৮০ সালে উত্তরপ্রদেশের মোরাদাবাদে হওয়া হত্যাকাণ্ডের দৃশ্য দেখতে পাওয়া যায়",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਇਸ ਮਹਾਂਮਾਰੀ ਦੇ ਵਿਚ ਵੀ ਯੂਕੇ ਦੇ ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਬੋਰਿਸ ਜਾਨਸਨ ਆਮ ਨਾਗਰਿਕ ਵਾਂਗੂੰ ਬਾਜ਼ਾਰ ਵਿੱਚ ਖਰੀਦਾਰੀ ਕਰ ਰਹੇ ਹਨ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "आईएएस की परीक्षा पास करने वाली 24 वर्षीय मुस्लिम लड़की की तस्वीर.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Ile było głosów nieważnych, teraz w wyborach prezydenckich? 1%?",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਪੰਜਾਬ ਦੇ ਮੁੱਖ ਮੰਤਰੀ ਕੈਪਟਨ ਅਮਰਿੰਦਰ ਸਿੰਘ ਅਤੇ ਸੰਗਰੂਰ ਤੋਂ ਆਮ ਆਦਮੀ ਪਾਰਟੀ ਦੇ ਮੈਂਬਰ ਪਾਰਲੀਮੈਂਟ ਭਗਵੰਤ ਮਾਨ ਦੀ ਗੁਪਤ ਮੀਟਿੰਗ ਹੋਈ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "213 профессии запрещены для женщин в Казахстане",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Kada god dođe može samo da se uveri da mi sve radimo kako bi došli do krajnjeg cilja.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Od 2014. sam na čelu odbora koji kontroliše vojsku i policiju. Uvela sam praksu da na tri meseca dolaze ministar policije i vojske koji podnose informaciju o radu.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "तस्वीर में दिख रहे इटली के डॉक्टर दंपति ने कोरोना मरीजों के इलाज करते हुए अपनी जान दे दी.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Z danych Komendy Głównej Państwowej Straży Pożarnej za rok 2018 wynika, że było ponad 0,5 mln zdarzeń, z czego 30% to pożary.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Ukoliko ne budemo uspeli da ostvarimo veći rast od 2 odsto u ovoj godini to će za nas i dalje biti vrlo slično godini krize jer se neće poimati veći osećaj nekog boljitka koji se ostvario.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "তাবলীগ জামাত মুসলিমদের সম্বন্ধে ফেসবুকে আপত্তিকর পোস্ট করায় ভারতীয় শিল্পপতি বি আর শেঠীকে কালো তালিকাভুক্ত করছে দুবাই সরকার",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "সুদানের মডেল ন্যাকেম গ্যাটউইককে তার গায়ের রঙের কারণে গিনেস ওয়ার্ল্ড রেকর্ডের শিরোপা দেওয়া হয়েছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "नागरिकता संशोधन कानून के विरोध में पोस्टर लिए पुलिसकर्मी",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "213 профессии запрещены для женщин в Казахстане",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Izdvajanjа za nauku u Srbiji 1% BDP-a su niža od proseka EU, oko 2% BDP-a u 2013. godini. Iz privatnog sektora dolazi svega 7,5% svih ulaganja u nauku što je značajno ispod proseka EU gde čak 55% svih ulaganja u nauku čine investicije privatnog sektora.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ভিডিওতে দেখা যাচ্ছে, সমরাস্ত্রবাহী ট্রেনটি ভারত ও চীনের সীমানার উদ্দেশ্যে চলেছে",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "लाॅकडाऊनमुळे हौशी पर्यटकांचा वावर नसल्याने कास पठार चहुअंगानी फुलले आहे.",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "নতুন ট্রাফিক আইন চালু হওয়ার পর কি কেন্দ্রীয় মন্ত্রী নিতিন গড়কড়ি বিনা হেলমেটে স্কুটার চালাচ্ছেন",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "В Казахстане отменили смертную казнь",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Što se tiče održavanja (Belog dvora), troškovi bi postojali i da je prazan.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В Казахстане отменили смертную казнь",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Gdy jeszcze byłem radnym miasta domagałem się, by przed strefą płatnego parkowania powstały bezpłatne parkingi.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "পরিবেশ দূষণ কম হওয়ার কারণে স্যাটেলাইটের মাধ্যমে দেখতে পাওয়া যাচ্ছে রাম সেতু",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Astronomiczne zadłużenie (miasta) wynosi 1,48 miliarda złotych.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "সুদানের মডেল ন্যাকেম গ্যাটউইককে তার গায়ের রঙের কারণে গিনেস ওয়ার্ল্ড রেকর্ডের শিরোপা দেওয়া হয়েছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Ukupan izvoz naoružanja i vojne opreme, uključujući i novi ugovor, iznosiće oko 1,2 milijarde dolara.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Pokrenuli smo veoma težak, ali odlučan program reformi sa MMF-om. Uspeli smo da postignemo izvanredne rezultate. Naš budžetski deficit je u 2014. iznosio oko 6,2 odsto BDP-a, dok smo u 2018. godini imali fiskalni suficit od 0,6 odsto. Treću godinu zaredom smo ostvarili suficit. Javni dug je u 2014. godini iznosio oko 70 odsto BDP-a, sada iznosi 50,6 odsto.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਸਂਗਰੂਰ ਤੋਂ ਆਮ ਆਦਮੀ ਪਾਰਟੀ ਦੇ ਮੈਂਬਰ ਪਾਰਲੀਮੈਂਟ ਭਗਵੰਤ ਮਾਨ ਨੇ ਬਿਆਨ ਦਿੰਦਿਆਂ ਕਿਹਾ ਹੈ ਕਿ ਡੇਰਾ ਸੱਚਾ ਸੌਦਾ , ਸਿਰਸਾ ਸਭ ਲਈ ਸਤਿਕਾਰਯੋਗ ਹੈ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "За всю вторую пятилетку число рабочих мест в обрабатывающей промышленности увеличилось всего на 46 тысяч, а средняя зарплата в долларовом эквиваленте упала на 25%",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Kiedy byłem w Sejmie, głosowałem przeciwko podwyższeniu wieku emerytalnego.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਇਕ ਤਸਵੀਰ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਵਿੱਚ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਸੁੰਨੀ ਵਕਫ ਬੋਰਡ ਨੇ ਅਯੋਧਿਆ ਵਿੱਚ ਮਿਲੀ ਪੰਜ ਏਕੜ ਜ਼ਮੀਨ ਦੇ ਉੱਤੇ ਬਾਬਰੀ ਹਸਪਤਾਲ ਬਣਾਉਣ ਦਾ ਫੈਸਲਾ ਕੀਤਾ ਹੈ ਅਤੇ ਇਹ ਤਸਵੀਰ ਉਸ ਹਸਪਤਾਲ ਦਾ ਡਿਜ਼ਾਈਨ ਹੈ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "বৃদ্ধের নাম মহাশতা মুরাসি। জন্ম ভারতের বেঙ্গালুরুতে। বয়স ১৮৪।",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "„U prvim mesecima 2011. godine imamo odlične pokazatelje izvoza poljoprivrednih proizvoda iz Srbije, koji je za 40 odsto veći nego prošle godine.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Jakbyśmy porównywali bezrobocie w roku 2007, to ono było wyższe niż to, które przekazywaliśmy w roku 2015.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "બાબા રામદેવે કોરોના વાઇરસથી બચવા ગૌમુત્રમાંથી રસી બનાવી અને પોતા ઉપર પ્રયોગ કર્યો ,યુરીનની અસરને કારણે યુરેસીમીયા થઇ જતાં તાત્કાલીક હોસ્પીટલમાં ભરતી કરવા પડયા.",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "આનો લાંબા ગાળે ફાયદો થશે, આવા મેસેજ ચાલુ કરી દેવા છે કે વાર છે???",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "लिफ्टमध्ये महिलेला मारहाणीचा व्हिडिओ दिल्ली मेट्रोचा",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "Kiedy byłem w Sejmie, głosowałem przeciwko podwyższeniu wieku emerytalnego.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Działają już ambasady w Senegalu i Iraku. W styczniu tego roku zostały ustanowione ambasady w Tanzanii i Panamie, a na początku lutego Konsulat Generalny w Houston. Placówki te rozpoczną pełną działalność w drugiej połowie bieżącego roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Kako su oni (u Nišu) pravili budžete svih prethodnih 25 godina, 30 godina? Tako što vam kažu, imaćemo prihode, kojih u stvari nema, prihodi precenjeni za 46,4 odsto. Precenjeni prihodi, a onda na tako precenjene prihode, naduvaju rashode, stvore sebi nemoguće obaveze koje su još veće od toga, jer uvek računaju da imaju određeni deficit i onda dođete do minusa u kasi koji dostižu ponekad i 50 miliona evra.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ভায়াগ্রা মিশ্রিত জল পান করে কয়েক হাজার ভেড়ার পরিস্থিতি বে-লাগাম",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "“Mi smo samo budžet Filmskog centra Srbije povećali, on je ove godine 50 puta veći nego pre šest godina. Dakle, nikada više nismo davali novca za domaću kinematografiju.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "राहुल गांधी के काफिले को रास्ता देने के लिए एम्बुलेंस को रोका",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ছবিতে দেখা যাচ্ছে সিপিআই-এম নেতা সীতারাম ইয়েচুরি ও বৃন্দা কারাট চীনকে সমর্থন করে গলায় প্ল্যাকার্ড ঝুলিয়েছেন",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "યસ બેંક ડૂબવાના કારણે જે 18,238 કર્મચારીઓ નોકરી ગુમાવશે તેમાં 17,000 હિંદુ છે. બોલો જય શ્રીરામ",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "कुछ तो था इनकी बात में",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "कोरोनाचा तिसरा टप्पा लवकरच सुरू होणार आहे, यादरम्यान अतिदक्षता बाळगण्याबाबत पुण्याच्या जिल्हाधिका-यांनी काही सुचनांचे पालन करण्यास सांगितले आहे.",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "वरिष्ठ कांग्रेस नेता मोतीलाल वोरा ने राहुल गांधी के पैर छुए.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ছবিটি সম্প্রতি আমেরিকার মিনিয়াপোলিসে পুলিশের অত্যাচারে মৃত্যু হওয়া জর্জ ফ্লয়েডের",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "মৎস্যকন্যা ধরা পড়েছে পূর্ব মেদিনীপুর এর পটুয়া সামুদ্রিক মৎস্য বন্দরে",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "„Izdvajanjа za nauku u Srbiji 1% BDP-a su niža od proseka EU, oko 2% BDP-a u 2013. godini. Iz privatnog sektora dolazi svega 7,5% svih ulaganja u nauku što je značajno ispod proseka EU gde čak 55% svih ulaganja u nauku čine investicije privatnog sektora.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਲੁਧਿਆਣਾ ਵਿੱਚ ਕੋਰੋਨਾਵਾਈਰਸ ਤੋਂ ਗ੍ਰਸਤ 7 ਮਰੀਜ਼ ਲਾਪਤਾ ਹੋ ਗਏ ਹਨ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "80 proc. poznaniaków to wierzący katolicy.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Što se tiče održavanja (Belog dvora), troškovi bi postojali i da je prazan.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "अरब और यहूदियों ने इजरायल और सऊदी अरब में एक दूसरे के देश में दूतावास खुलने पर डांस कर खुशी जाहिर की.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Mateusz Morawiecki (…) chciał, by fundusze inwestujące w budowę biurowców były zwolnione z podatku dochodowego. Nawet rządzony przez PiS Narodowy Bank Polski przestrzegał, że nie ma powodu zwalniać tych funduszy z podatków.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਇਕ ਤਸਵੀਰ ਨੂੰ ਸ਼ੇਅਰ ਕਰਦਿਆਂ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਪੰਜਾਬ ਦੇ ਵਿਚ ਰਾਮਲੀਲਾ ਉੱਤੇ ਹਮਲਾ ਕੀਤਾ ਗਿਆ ਹੈ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "„Od 1910. do 2013. imali smo svake godine dramatičan pad stočarske proizvodnje. Došli smo na nivo ispod 1910. godine.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Što se tiče cena, naprednjačka vlast kreće da se izjašnjava prvi put 2015. godine. Tada je gospodin Siniša Mali rekao da će prva linija metroa koštati između 800 i milijardu evra, da bi krajem 2015. već to korigovao na između 800 miliona i 1,2 milijarde evra.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "সুন্নি ওয়াকফ বোর্ড বিকল্প ৫ একর জমিতে বাবরী হাসপাতাল তৈরির সিদ্ধান্ত নিয়েছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "সুন্নি ওয়াকফ বোর্ড বিকল্প ৫ একর জমিতে বাবরী হাসপাতাল তৈরির সিদ্ধান্ত নিয়েছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "একটি হোটেল তাঁকে ঘর না দেওয়ায় আর্নল্ড নিজের মূর্তির সামনে রাস্তায় শুয়ে পড়েন।",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "„Pokrenuli smo veoma težak, ali odlučan program reformi sa MMF-om. Uspeli smo da postignemo izvanredne rezultate. Naš budžetski deficit je u 2014. iznosio oko 6,2 odsto BDP-a, dok smo u 2018. godini imali fiskalni suficit od 0,6 odsto. Treću godinu zaredom smo ostvarili suficit. Javni dug je u 2014. godini iznosio oko 70 odsto BDP-a, sada iznosi 50,6 odsto.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Vlada, kao ključni politički organ koji bi trebalo da vodi politiku države, ne vodi spoljnu politiku, već je uslužna delatnost kabineta predsednika Republike.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "प्रधानमंत्री नरेंद्र मोदी के संसदीय क्षेत्र वाराणसी में गंगा नदी के घाट गंदगी से भरे हैं.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "690થી શરૂ થતા બારકોડ સ્ટીકર્સ મેડ ઈન ચાઈનીઝ પ્રોડક્ટ છે અને 890થી શરૂ થતા બારકોડ સ્ટીકર્સ મેડ ઈન ઇન્ડિયા પ્રોડક્ટ છે.",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "असम में एनआरसी लागू होने के बाद पुलिस द्वारा लोगों को उनके घर से निकालने का वीडियो.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Ukupan izvoz naoružanja i vojne opreme, uključujući i novi ugovor, iznosiće oko 1,2 milijarde dolara.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Ukupan izvoz naoružanja i vojne opreme, uključujući i novi ugovor, iznosiće oko 1,2 milijarde dolara.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡਿਆ ਤੇ ਇੱਕ ਅਖਬਾਰ ਦੀ ਕਲਿਪ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਦੀ ਹੈਡਲਾਇਨ ਨਾਲ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਸੰਗਰੂਰ ਤੋਂ ਆਮ ਆਦਮੀ ਪਾਰਟੀ ਦੇ ਮੈਂਬਰ ਪਾਰਲੀਮੈਂਟ ਭਗਵੰਤ ਮਾਨ ਮੁੜ ਤੋਂ ਵਿਆਹ ਕਰਵਾਉਣ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹਨ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "Zawsze też byliśmy za likwidacją finansowania partii z budżetu. Udało nam się zmniejszyć je o połowę.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਪੰਜਾਬੀ ਨਿਊਜ਼ ਚੈਨਲ ਲਿਵਿੰਗ ਇੰਡੀਆ ਦਾ ਬੁਲੇਟਿਨ ਖੂਬ ਵਾਇਰਲ ਹੋ ਰਿਹਾ ਹੈ ਜਿਸ ਵਿੱਚ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਪੰਜਾਬ ਵਿੱਚ 1 ਸਤੰਬਰ ਤੋਂ 30 ਸਤੰਬਰ ਤੱਕ ਮੁੜ ਤੋਂ ਲੋਕਡਾਊਨ ਲੱਗਣ ਜਾ ਰਿਹਾ ਹੈ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "असम में नागरिकता कानून के विरोध में प्रदर्शन कर रहीं महिलाओं पर पुरुष पुलिसकर्मी अत्याचार कर रहे हैं.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "मुख्यमंत्री उद्धव ठाकरे यांनी महाराष्ट्रात 15 जूनपासून 30 सप्टेंबर पर्यंत लाॅकडाऊन जाहिर केला आहे.",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "„Ako se pogledaju oni uslovi koji su bili postavljeni, Akcioni plan praktično je u potpunosti ispunjen.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "सड़क पर चल रहे दो मोटरसाइकिल सवार लोगों पर होर्डिंग गिरने का वीडियो हैदराबाद का है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "पंतप्रधान नरेंद्र मोदी यांनी 21 वर्षीय ड्रोन वैज्ञानिक प्रताप. एन. एम ची DRDO मध्ये वैज्ञानिक पदावर नियुक्ती केली आहे.",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "“Od 2012. godine do danas, uspeli smo da prepolovimo trgovinski deficit koji imamo sa EU.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "हेलिकॉप्टर से ली गई ब्लू व्हेल की तस्वीर.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Są już województwa takie jak na przykład województwo lubuskie, w którym w styczniu nastąpił 10% wzrost urodzeń.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ਬੀਜੇਪੀ ਸੰਸਦ ਮੈਂਬਰ ਕਿਰਨ ਖੇਰ ਦੀ ਤਸਵੀਰ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਵਿੱਚ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਕਿਰਨ ਖੇਰ ਨੇ ਬਿਆਨ ਦਿੱਤਾ ਹੈ ਕਿ ਬਲਾਤਕਾਰ ਕਰਨਾ ਸਾਡੀ ਸੰਸਕ੍ਰਿਤੀ ਦੇ ਵਿੱਚ ਹੈ ਅਤੇ ਅਸੀਂ ਇਸ ਨੂੰ ਨਹੀਂ ਰੋਕ ਸਕਦੇ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "Mateusz Morawiecki (…) chciał, by fundusze inwestujące w budowę biurowców były zwolnione z podatku dochodowego. Nawet rządzony przez PiS Narodowy Bank Polski przestrzegał, że nie ma powodu zwalniać tych funduszy z podatków.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "इजरायली प्रधानमंत्री के बेटे की फोटो जो कि सेना में सेवा दे रहे हैं.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Ova skupštinska većina i ova vlast je 94 odsto svih nepravilnosti i svega onoga što je ukazao Zaštitnik građana ispravila.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "पुलिस लाठी चार्ज का वायरल वीडियो दिल्ली का है.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ਸੁਖਬੀਰ ਬਾਦਲ ਵਲੋਂ ਰਾਮ ਰਹੀਮ ਨੂੰ ਪੁਸ਼ਾਕ ਭੇਟ ਕਰਨਾ ਪੰਜਾਬ ਦੇ ਭਲੇ ਲਈ ਚੁਕਿਆ ਗਿਆ ਇੱਕ ਕਦਮ ਸੀ : ਪ੍ਰੇਮ ਸਿੰਘ ਚੰਦੂਮਾਜਰਾ , ਸਾਬਕਾ ਸੰਸਦ ਮੈਂਬਰ",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "Według danych Głównego Urzędu Statystycznego w zeszłym roku w Polsce było niemal 30 mln pojazdów.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "GUS wylicza, że 1400 zł potrzeba na utrzymanie, na przeżycie osoby w Polsce na takim naprawdę podstawowym poziomie.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "मास्कचा अधिक काळ वापर केल्यास परिणामी व्यक्तीचा मृत्यू होण्याची शक्यता असते.",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "सरकार गठन से पहले ही एक्शन में अपने स्वार्थ के लिए टीचरों की रविवार की छुट्टी करी रद्द\tpartly true/misleading\nbn\tdailyo.in\tMay 3, 2020 — ফ্যাক্ট চেক: অনেক বছর পর ব্রহ্মপদ্ম ফোটার দাবী করে বিভ্রান্তিকর ফেসবুক পোস্ট. ... লকডাউনের কারণে প্রকৃতির নিজের ছন্দ ফিরে পাওয়ার অনেক ছবি ও ভিডিও দেখা যাচ্ছে ... বছর পর দূষণহীন পরিবেশের কল্যাণে উত্তরাখন্ডের পাহাড়ী অঞ্চলে ব্রহ্মপদ্ম দেখা ... Claimদূষণহীন পরিবেশের কারণে অনেক বছর পর উত্তরাখন্ডের পাহাড়ী অঞ্চলে দেখা গেলো ব্রহ্মপদ্ম ...\tApr 10, 2020 — ভারতের বিভিন্ন অঞ্চল থেকে ৩০ বছরের মধ্যে এই প্রথম হিমালয় দেখা যাচ্ছে। ... বায়ু দূষণের কারণে মারাত্মক পরিবেশ বিপর্যয় সৃষ্টি হচ্ছিল গত কয়েক বছর ধরে। ... এর ফলে অনেক ক্ষেত্রেই করোনা যেন আশির্বাদ হিসেবে উপস্থিত হয়েছে এই বিশ্ব প্রকৃতির জন্য।\tপরিবেশ দূষণরোধে বৃক্ষের ভূমিকা ও আমাদের করণীয় অজীব উপাদান, যেমন- মাটি, পানি, আলো, বাতাস, ... ডুবে যাবে এবং কোটি কোটি মানুষ আশ্রয়হীন হয়ে পড়বে ও প্রকট খাদ্য সঙ্কট দেখা দেবে। ... এ গ্যাস বৃদ্ধির কারণে ওজোন স্তরের অনেক স্থান পাতলা ও কোথাও কোথাও ছিদ্রও হয়েছে বলে ... বৈষ্ণয়িক উষ্ণায়ন এবং জলবায়ু পরিবর্তনের কারণে দেশে প্রতি বছর সুনামি, সিডর, আইলা, ...\tApr 9, 2020 — করোনার আশির্বাদে ৩০ বছর পর ভারত থেকে দেখা যাচ্ছে হিমালয়ের সৌন্দর্য! ... ফলে আশেপাশের অঞ্চলে যারা বাস করছেন তারা সম্পূর্ণ প্রাকৃতিকভাবে বিশ্বের সর্বোচ্চ এই ... বাতাসে দূষণের পরিমাণ বেড়ে যাওয়ার কারণে দূর থেকে আর হিমালয় পর্বত দেখা যায়নি। কিন্তু করোনার প্রভাবে পরিবেশ দূষণ কমে যাওয়ায়, বাতাসে ভারি পদার্থের ঘনত্বও কমে গেছে।\tSep 17, 2018 — দূষণ ও পরিবেশগত ঝুঁকির কারণে সবচেয়ে বেশি ক্ষতিগ্রস্ত দেশের অন্যতম বাংলাদেশ, বলছে বিশ্বব্যাংক। কিন্তু এরকম দূষিত পরিবেশে বসবাসের কারণে কী কী সমস্যার শিকার হতে পারেন? ... বাংলাদেশে প্রতি বছর যতো মানুষের মৃত্যু হয় তার ২৮ শতাংশই মারা যায় পরিবেশ দূষণ ... তারা বলছে, পানি দূষণে সাময়িক প্রভাবের তুলনায় দীর্ঘস্থায়ী প্রভাব অনেক বেশি ...\thttps://www.dailyo.in/bangla/fact-check/india-today-fact-check-flower-misleading/story/1/32819.html\thttps://www.dailyinqilab.com/article/282087/%E0%A7%A9%E0%A7%A6-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%9F\thttp://www.ais.gov.bd/site/view/krishi_kotha_details/%E0%A7%A7%E0%A7%AA%E0%A7%A8%E0%A7%A8/%E0%A6%AD%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0/%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6%20%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%A3%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%87%20%E0%A6%AC%E0%A7%83%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0%20%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%BE%20%E0%A6%93%20%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0%20%E0%A6%95%E0%A6%B0%E0%A6%A3%E0%A7%80%E0%A7%9F\thttps://www.kalerkantho.com/online/world/2020/04/09/896828\thttps://www.bbc.com/bengali/news-45544469\t2020-04-30T00:00:00Z\t2020-05-03T00:00:00Z\tFacebook User\tদূষণহীন পরিবেশের কারণে অনেক বছর পর উত্তরাখন্ডের পাহাড়ী অঞ্চলে দেখা গেলো ব্রহ্মপদ্ম\tmostly false\ngu\tgujarati.newschecker.in\tPhotos are of 24-year-old Muslim girl who qualified the IAS exam.\tMar 9, 2020 — 24 years old Indian Muslim Girl became IAS OFFICER in Maharashtra இந்தியாவிலுள்ள மஹாரஸ்திராவில் 24.\tMar 9, 2020 — Fact Check: Minor girl being wrongly shown as 24-year-old IAS qualifier ... “24 Year's Old Indian Muslim Girl Qualifies IAS in Maharashtra Mumbai. ... /city/mumbai/international-womens-day-14-year-old-girl-becomes-dsp-for-a ...\t... No Fake News On 24 Year's Old Indian Muslim Girl Qualifies IAS In Maharashtra. ... दावा है कि 24 साल की इस मुस्लिम लड़की ने ...\t24 Year's Old Indian Muslim Girl Qualifies IAS in Maharashtra Mumbai\thttps://www.indiatoday.in/fact-check/story/fact-check-women-day-picture-maharashtra-goes-viral-misleading-claim-1653748-2020-03-08\thttps://www.youtube.com/watch?v=OiKlNRQGWjg\thttps://newsmeter.in/fact-check-minor-girl-being-wrongly-shown-as-24-year-old-ias-qualifier/\thttps://www.bhaskar.com/no-fake-news/news/no-fake-news-on-24-years-old-indian-muslim-girl-qualifies-ias-in-maharashtra-126944755.html\thttps://www.vishvasnews.com/english/society/fact-check-pictures-of-school-girl-made-dsp-for-one-day-on-womens-day-viral-with-fake-claim/\t2020-03-02T00:00:00Z\t2020-03-09T00:00:00Z\tfacebook user\t24 years old Indian Muslim Girl became IAS OFFICER in Maharashtra\tpartly true/misleading\nno\tfaktisk.no\tDenne smarte projektoren ble oppfunnet av to norske elektronikkingeniører\tJul 14, 2020 — Nei, denne smarte projektoren ble ikke oppfunnet av norske ingeniører. Gadgets Technology. RSS for dette filteret. Ansvarlig redaktør: Kristoffer ...\tJul 14, 2020 — En annonsevideo på Facebook forteller historien om en smart mini-projektor oppfunnet av norske Henrik Beyer og Stein Saudal. Personene ...\tAug 21, 2020 — Det selges i hovedsak tre ulike typer projektorer på det norske markedet i dag, og under følger en kort gjennomgang av de viktigste fordeler og ...\tDec 17, 2018 — Du må ikke ha projektoren fem meter unna, disse tre kan nemlig stå helt ... Optoma og BenQ har levert hver sin DLP-projektor, i den hyggelige ... I BenQ sitt tilfelle var det nok å sette lysstyrke to hakk ned fra midten, mens kontrast ble satt opp ni knepp. ... Menysystemet er oversiktlig, og man kan velge norsk.\thttps://www.faktisk.no/faktasjekker/XRK/nei-denne-smarte-projektoren-ble-ikke-oppfunnet-av-norske-ingeniorer\thttps://www.faktisk.no/?claimant=LumiBee\thttps://www.tu.no/artikler/nei-denne-smarte-prosjektoren-er-ikke-oppfunnet-av-norske-ingeniorer/496021\thttps://www.smartepenger.no/kjopeguider/1749-projektor\thttps://www.lydogbilde.no/test/hjemmekino/3-ultra-short-throw-projektorer/\t2020-07-09T00:00:00Z\t2020-07-14T12:33:49Z\tLumiBee\tDenne smarte projektoren ble oppfunnet av to norske elektronikkingeniører\tfalse\nno\tfaktisk.no\tPlantebaserte kjøtterstatninger er minst like næringsrike og en del mer bærekraftige ... av erter og bønner i Norge er mye mer bærekraftig enn kjøttproduksjon ...\tPlantebaserte kjøtterstatninger er mye mer bærekraftig enn ekte kjøtt.\tPlantebaserte kjøtterstatninger er mye mer bærekraftig enn ekte kjøtt. Publisert: 19 desember 2019 15:50 Sist oppdatert: 19 desember 2019 15:50. Skrevet av ...\tApr 9, 2019 — Representantforslag om en politikk for et sunnere og mer bærekraftig kosthold ... Nordmenn spiser 40 prosent mer kjøtt enn verdensgjennomsnittet. ... vil bidra til økt produksjon og forbruk av plantebasert mat produsert i Norge. ... kvinner i snitt spise 82 prosent mer frukt, mer enn dobbelt så mye grønnsaker, ...\tHva er potensialet for et mer bærekraftig og et mer plantebasert kosthold i Norge? Potensialet for å dyrke mer plantekost og følgelig produsere mye mer mat til ... Beitesesongen varer ikke mer enn fire måneder, og de resterende åtte ...\thttps://hepla.no/hjem/kostrad-plantebasert-kosthold/er-soyakjott-og-soyapolser-sunnere-enn-kjott-og-kjottpolser/\thttps://www.faktisk.no/faktasjekker/QyY/planteburger-fra-usa-er-mer-baerekraftig-enn-norskprodusert-kjott\thttps://trd.by/aktuelt/2019/12/19/Faktisk.no-Planteburger-fra-USA-er-mer-b%C3%A6rekraftig-enn-norskprodusert-kj%C3%B8tt-20662732.ece\thttps://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2018-2019/dok8-201819-118s/?all=true\thttps://optimaltkosthold.no/mat-politikk/baerekraftig-kosthold-mer-plantekost-mindre-kjott/\t2019-11-20T00:00:00Z\t2019-12-18T14:59:54Z\tGunhild Stordalen\tPlantebaserte kjøtterstatninger er mye mer bærekraftig enn ekte kjøtt.\ttrue\nno\tfaktisk.no\tMDG-Andreas forlanger nå at du skal betale for å parkere på egen gårdsplass.\tMay 9, 2019 — Faktisk.no. Nei, «MDG-Andreas» forlanger ikke at du skal betale for å parkere på egen gårdsplass. Faktisk helt feil. Fotomontasje: Cornelius ...\t... «MDG-Andreas» forlanger at du skal betale for å parkere på egen gårdsplass ... gjøre debattklimaet i r/norge bedre ved å følge noen enkle kjøreregler når du ...\tMay 9, 2019 — Påstanden «MDG-Andreas forlanger nå at du skal betale for å parkere på egen gårdsplass.» er helt feil. Det er konklusjonen til Faktisk.no.\tSee Link. jatilbilenioslo.no. MDG-Andreas forlanger nå at du skal betale for å parkere på egen gårdsplass. Politiker Andreas Stråbø Normann (MDG) krever nå ...\thttps://www.faktisk.no/faktasjekker/k7l/nei-mdg-andreas-forlanger-ikke-at-du-skal-betale-for-a-parkere-pa-egen-gardsplass\thttps://sol.no/nyheter/nei-mdg-andreas-forlanger-ikke-at-du-skal-betale-for-a-parkere-pa-egen-gardsplass/71061514\thttps://www.reddit.com/r/norge/comments/boxk9y/faktisk_helt_feil_%C3%A5_p%C3%A5st%C3%A5_at_mdgandreas_forlanger/\thttps://www.nrk.no/norge/faktisk.no_-helt-feil-om-betaling-pa-egen-gardsplass-1.14545375\thttps://www.facebook.com/permalink.php?story_fbid=2595077430520114&id=1225177360843468&comment_id=2595123723848818&comment_tracking=%7B%22tn%22%3A%22R%22%7D\t2019-05-07T00:00:00Z\t2019-05-09T12:51:13Z\tNyhetsavisen Ja til bilen i Oslo\tMDG-Andreas forlanger nå at du skal betale for å parkere på egen gårdsplass.\tfalse\nbn\tdailyo.in\tভাইরাল এই ভিডিওতে চীনের জাহাজ থেকে ক্রুজ মিসাইলকে উৎক্ষেপণ হতে দেখতে পাওয়া যায়\t4 days ago — চেন সুচেন: চীনকে চাঁদে পাঠিয়েছেন আমেরিকা থেকে বিতাড়িত যে বিজ্ঞানী. ৩ নভেম্বর ২০২০ ... চীনের সবচেয়ে সম্মানিত এই বিজ্ঞানীকে নিয়ে লিখেছেন বিবিসির কবিতা পুরি : চেনকে চীনের ... ছোটোবেলাতেই চেনের ক্ষুরধার মেধার নানা ইঙ্গিত প্রকাশ হতে থাকে। সাংহাইয়ের ... যদিও কেউ তাতে মারা যায়নি, তবু তারপর থেকে এদের নাম হয়ে যায় সুইসাইড স্কোয়াড।' ...\tJan 23, 2019 — চীনের যে তিনটি অস্ত্র রাশিয়া আর যুক্তরাষ্ট্রের চিন্তার কারণ হতে পারে ... চীন, যুক্তরাষ্ট্র আর রাশিয়া, এই তিনটি দেশই বর্তমান বিশ্বে এক অস্ত্র প্রতিযোগিতার ... ২০১৮ সালে সামাজিক মাধ্যমে প্রকাশিত কিছু ছবি থেকে ধারণা করা হচ্ছে, চীন হয়তো এমন ... বরং ওই ছবি দেখে মনে করা যায়, যে, চীন জাহাজে বসানো রেলগানের ক্ষেত্রে যুক্তরাষ্ট্রকে শুধু যে ...\tApr 10, 2020 — পাকিস্তানের বন্দর নগরী করাচিতে চীন সেনাদের সামরিক মহড়া চালানোর একটি ভিডিও ... পাওয়া উপগ্রহ থেকে তোলা এমন সব ছবি ও ভিডিওর ভাণ্ডার ঘেঁটে এটি সংগ্রহ করা হয়েছ। ... এতে দেখা যায়, পাকিস্তান নৌবাহিনীর হোভারক্রাফট করাচির মানোরা সৈকতের দিকে এগিয়ে যাচ্ছে। ... জাহাজের এইচএইচকিউ -৯ দীর্ঘপাল্লার এবং ক্রুজ ক্ষেপণাস্ত্র বহনের সক্ষমতা আছে।\tব্যালিস্টিক ক্ষেপণাস্ত্র উৎক্ষেপণের কাজে লাগে এমন উপকরণ নিয়ে জাহাজটি করাচি বন্দরের ... ক্ষেপণাস্ত্র উপকরণবাহী চীনা জাহাজ আটক করেছে ভারত; গন্তব্য ছিল পাকিস্তান ... ভারতের ডিফেন্স রিসার্চ অ্যান্ড ডেভেলপমেন্ট অর্গানাইজেশন এই তদন্ত চালাচ্ছে এবং ... জাহাজটি চীনের জিয়াংসু প্রদেশের জিয়াংইন বন্দর থেকে করাচির কাসিম বন্দরের দিকে যাচ্ছিল।\thttps://www.dailyo.in/bangla/fact-check/india-today-fact-check-missile/story/1/33605.html\thttps://www.bbc.com/bengali/news-54786129\thttps://www.bbc.com/bengali/news-46967924\thttps://www.somoynews.tv/pages/details/207140/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A7%9F-%E0%A6%9A%E0%A7%80%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%9C\thttps://parstoday.com/bn/news/world-i77613\t2020-09-08T00:00:00Z\t2020-09-09T00:00:00Z\tFacebook User\tভাইরাল এই ভিডিওতে চীনের জাহাজ থেকে ক্রুজ মিসাইলকে উৎক্ষেপণ হতে দেখতে পাওয়া যায়\tmostly false\nsq\tkallxo.com\tE kemi në trajnim për certifikim një zyrtar të ri dhe besoj që Komiteti i Auditimit do të realizohet deri në prill (2018)\tKontabilitet, Raportim Financiar dhe Auditim i datës 30 mars 2018. ... Ne investojmë kohë dhe angazhim të konsiderueshëm për t'i trajnuar ... global në mënyrë që të tejkalojmë pritjet e klientëve dhe palëve të interesit. ... Deloitte Touche Tohmatsu Limited është një kompani private e themeluar në Mbretërinë e Bashkuar, me.\te një sistemi modern të Menaxhimit Financiar dhe Kontrollit dhe Inspektimit ... Në funksion të idesë kryesore që transmeton manuali, si dhe për të orientuar ... Evidentimin e kërkesave për certifikimin e audituesve të brendshëm në ... formimin e gjykimeve Drejtuesi i njësisë së auditimit, do t'i konfirmojë komitetit të auditimit,.\tNë këtë kontekst auditimi i jashtëm përmes punës së tij jep një vlerësim lidhur me ... Plani Strategjik për Vitet 2014 - 2018 për Auditimin e Brendshëm në Sektorin Publik ... Realizimi i trajnimeve dhe ngritja e nivelit profesional të AB në sektorin publik ... Filozofia që do të udhëheq këtë auditim është: ''Auditimi i brendshëm në ...\tMar 5, 2009 — Zyrtare e BE-së, L 157, datë 9.6.2006, faqe 87-107; ... b) në rastin e një auditimi të shoqërive të grupit, audituesi ligjor, i cili është ngarkuar ... interpretimet e komitetit të raportimit financiar ndërkombëtar (IKRFN), të miratuara ... Për të realizuar mbikëqyrjen publike dhe për të siguruar që audituesit ligjorë dhe.\thttps://kallxo.com/krypometer/xhafer-gashi-e-mban-premtimin-per-komitetin-e-auditimit/\thttps://www2.deloitte.com/content/dam/Deloitte/al/Documents/audit/AL_Raporti%20i%20Transparences%202019_KOSOVA.pdf\thttp://aku.gov.al/wp-content/uploads/2016/06/Manuali-2016.pdf\thttps://www.eurosai.org/.content/documents/materials/Internal_Audit_and_its_Role_In_Accountability.docx\thttps://financa.gov.al/wp-content/uploads/2017/09/Ligji_i_auditimit-konsoliduar.pdf\t2019-02-23T00:00:00Z\t2019-02-23T00:00:00Z\tKallxo.com\tE kemi në trajnim për certifikim një zyrtar të ri dhe besoj që Komiteti i Auditimit do të realizohet deri në prill (2018)\ttrue\nbn\tdailyo.in\tকাশ্মীরে ঈদের নামাজের পর মানুষ পুলিশের উপর পাথর ছুড়েছে।\t11.08.2019 — সোমবার ঈদের দিন কাশ্মীরের মানুষজন বেরুতে পারবেন কিনা তা নিশ্চিত নয়। ... বেশ কিছু মানুষ রাস্তায় বেরিয়েছিলেন, শুধু ঈদের উপহারই নয় - নিত্যপ্রয়োজনীয় ... হাজারো কাশ্মীরির বিক্ষোভের ওপর পুলিশের ছররা গুলি ... ঠিক সেসময় সেখানে একটি পাথরের টুকরো এস পড়ে। ... আল জাজিরা-সহ বিভিন্ন আন্তর্জাতিক মিডিয়ায় শুক্রবার জুম্মার নামাজের পর শহরের ...\t23.08.2019 — শুক্রবারের নামাজের পরে ভারত শাসিত কাশ্মীরের রাজধানী শ্রীনগরের সৌরা এলাকায় একটি ... সেখানে তখন বেশ কয়েক হাজার মানুষ হাজির ছিলেন। ... পুলিশ আর কেন্দ্রীয় বাহিনীর দলটা যেই ভেতরে ঢোকার চেষ্টা করল, তখনই পাথর ছোঁড়া শুরু ... শ্রীনগরে পোস্টার দিয়ে শুক্রবার জুম্মার নামাজের পর বিক্ষোভের আহ্বান ...\t26.08.2019 — ... নুর মহম্মদ দার (৪২)। জানা গিয়েছে, সামরিক ট্রাক মনে করে তাঁর উপর হামলা চালানো হয়। সোমবার খুনের অভিযোগে দুই তরুণকে গ্রেফতার করল পুলিশ। ... কাশ্মীরে পাথর ছুড়ে ট্রাকচালক হত্যার দায়ে গ্রেফতার ২ তরুণ. EiSamay.\t12.08.2019 — কাশ্মীরে তীব্র নিরাপত্তা কড়াকড়ি ও সীমাবদ্ধতার মধ্যেই চলছে ঈদ উদযাপন ... গত শনিবারই সরকার এবং রাজ্য পুলিশ জানিয়েছিল, জম্মু ও কাশ্মীরের পরিস্থিতি শান্তিপূর্ণ। ... শনিবার কারফিউ শিথীল করার পর বহু মানুষ রবিবার শ্রীনগরে ঈদের (Eid) কেনাকাটায় যোগ দেন। ... ও কাশ্মীরের বারামুল্লায় জঙ্গি হানা, নিহত ২ সিআরপিএফ ও ১ পুলিশকর্মী · শ্রীনগরের ...\thttps://www.dailyo.in/bangla/fact-check/india-today-fact-check/story/1/31085.html\thttps://www.bbc.com/bengali/news-49312176\thttps://www.bbc.com/bengali/news-49454036\thttps://eisamay.indiatimes.com/nation/two-youths-arrested-in-kashmir-for-killing-truck-driver-in-stone-pelting-incident/articleshow/70848624.cms\thttps://www.ndtv.com/bengali/muted-eid-celebrations-in-jammu-and-kashmir-as-severe-restrictions-return-2083775\t2019-06-30T00:00:00Z\t2019-06-11T00:00:00Z\tKurnool City Page\tকাশ্মীরে ঈদের নামাজের পর মানুষ পুলিশের উপর পাথর ছুড়েছে।\tmostly false\nbn\tdailyo.in\tলক ডাউন কেড়ে নিলো তিন তিনটে তাজা প্রাণ\tJun 16, 2020 — পাব কুইজ পেশাদার ইনকিজিটিভ অনলাইনে পাব কুইজ হোস্ট করে বেশিরভাগ লকডাউন করেছেন। তাদের অনেক সাফল্য হয়েছে এবং আমরা তাদের জিজ্ঞাসা করেছি তারা এটি কীভাবে ...\tApr 7, 2020 — গাজীপুর লক ডাউন।\tবিশ্বে একাধিক জায়গায় লক ডাউন, গৃহে বন্দি হয়ে কী করবেন, টিপস মিলবে গুগল-ডুডলে ... একের থেকে তিন, তিনের থেকে নয়, মুহূর্তে ছড়িয়ে পড়তে থাকা মারণ ভাইরাসের কবলে এখন ২০০ টিরও বেশি ... সময় থাকতেই নিতে হবে ব্যবস্থা, নচেত অকালেই প্রাণ খুইতে হবে লাখ লাখ মানুষকে।\t... ##মন্ত্রী ট্র তিন অংশ তাঁর গেছে ক্র ##্যে ... পূ দিনের পরীক্ষা প্রাণ চাপ লাল ##াবাহ কাপ ২৪ ... তুলতে ডাউন ##উদ্দিন তারেক সমৃদ্ধ ##২৪ গুগ ... Bengali বিএস উনার ##খার ##লক আওয় সৃষ্টির দের ...\thttps://www.dailyo.in/bangla/fact-check/india-today-fact-check-old-suicide-misleading/story/1/32920.html\thttps://ahaslides.com/bn/blog/how-can-pub-quiz-survive-the-lockdown/\thttps://www.facebook.com/%E0%A6%A4%E0%A6%BE%E0%A6%9C%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-105393324461032/videos/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%B2%E0%A6%95-%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8/272099070456538/\thttps://bangla.asianetnews.com/coronavirus/google-doodle-gives-tips-on-stay-at-home-q87a7n\thttps://cdn.huggingface.co/monsoon-nlp/bangla-electra/vocab.txt\t2020-05-18T00:00:00Z\t2020-05-18T00:00:00Z\tFacebook User\tলক ডাউন কেড়ে নিলো তিন তিনটে তাজা প্রাণ\tmostly false\nsq\tfaktoje.al\t“Hotelet në jug të Shqipërisë janë plot”, bizneset rrëzojnë deklaratën e Ahmetajt ... Ministri Ahmetaj deklaroi në “Opinion” se hotelet e jugut janë plot, për shkak të rezervimeve të shumta, por kur “Faktoje” verifikoi disa hotele konstatoi se ata ...\t“Hotelet në jug të Shqipërisë janë plot”, bizneset rrëzojnë deklaratën e Ahmetajt. Njihuni me ne. FAKTOJE është një organizatë mediatike që verifikon faktet përmes një metodologjie të standartizuar profesionale, e cila prej vitesh zbatohet nga ...\t<DUMMY_EVIDENCE>\t<DUMMY_EVIDENCE>\t<DUMMY_EVIDENCE>\thttps://faktoje.al/hotelet-ne-jug-te-shqiperise-jane-plot-bizneset-rrezojne-deklaraten-e-ahmetajt/\thttps://faktoje.al/tag/hotelet-ne-jug/\tNO_LINK\tNO_LINK\tNO_LINK\tnone\t13 Maj, 2020\tnone\t“Hotelet në jug të Shqipërisë janë plot”, bizneset rrëzojnë deklaratën e Ahmetajt\tfalse\npa\tpunjabi.newschecker.in\tSep 6, 2019 — ਬੱਚਾ ਚੋਰੀ ਦੀਆਂ ਅਫ਼ਵਾਹਾਂ ਕਾਰਨ ਹਿੰਦਸਾ ਦਾਂ 85 ਤੋਂ ਵੱਧ ਘਟਨਾਵਾਂ, 9 ਲੋਕਾਂ ਦੀ ਮੌਤ, ਪੜ੍ਹੋ ਅਜਿਹਾ ... ਕੁਮਾਰ ਨੇ ਬੀਬੀਸੀ ਕੋਲੋਂ ਇਸ ਦੀ ਪੁਸ਼ਟੀ ਕੀਤੀ ਅਤੇ ਕਿਹਾ ਕਿ ਇਸ ਮਾਮਲੇ ਵਿੱਚ 5 ਮੁਲਜ਼ਮਾਂ ਨੂੰ ... ਪਰ ਬੱਚਾ ਚੋਰੀ ਦੀਆਂ ਅਫ਼ਵਾਹਾਂ ਨਾਲ ਜੁੜੀਆਂ ਹਿੰਸਾ ਦੀਆਂ ਇਹ ਘਟਨਾਵਾਂ ਸਿਰਫ਼ ਯੂਪੀ-ਬਿਹਾਰ ਤੱਕ ... ਕਿ 'ਮਨੁੱਖੀ ਅੰਗਾਂ ਦੀ ਤਸਕਰੀ ਕਰਨ ਵਾਲਾ ਇੱਕ ਸਮੂਹ ਸੂਬੇ ਵਿੱਚ ਸਰਗਰਮ ਹੈ ਜੋ ਬੱਚੇ ਚੋਰੀ ਕਰਨਾ ਹੈ।\tJul 19, 2020 — ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਮੋਦੀ ਨੇ ਨਿਤੀਸ਼ ਕੁਮਾਰ ਨੂੰ ਮੁੱਖ ਮੰਤਰੀ ਬਣਨ 'ਤੇ ਵਧਾਈ ਦਿੱਤੀ ... ਨਿਤੀਸ਼ ਕੁਮਾਰ ਨੇ ਬਿਹਾਰ ਦੇ ਮੁੱਖ ਮੰਤਰੀ ਵਜੋਂ ਸੱਤਵੀਂ ਵਾਰ ਚੁੱਕੀ ਸਹੁੰ ... ਦੀ ਅਗਵਾਈ ਵਿਚ ਨਾਮੀ ਸ਼ਰਾਬ ਤਸਕਰ ਨੂੰ ਕਾਬੂ ਕਰਕੇ 4 ਲੱਖ 35 ਹਜ਼ਾਰ ਮਿਲੀ ਲੀਟਰ ਨਾਜਾਇਜ਼ ਸ਼ਰਾਬ ਅਤੇ ... ਸੁਲਤਾਨਪੁਰ ਲੋਧੀ, 18 ਜੁਲਾਈ (ਨਰੇਸ਼ ਹੈਪੀ, ਥਿੰਦ)-ਸਥਾਨਕ ਪੁਲਿਸ ਨੇ ਇਕ ਔਰਤ ਨੂੰ ਖ਼ੁਦਕੁਸ਼ੀ ਕਰਨ ਲਈ ਮਜਬੂਰ ਕਰਨ ਦੇ ਦੋਸ਼ ਹੇਠ 1 ਔਰਤ ਸਮੇਤ 6 ...\tAug 28, 2020 — ਡਾਕਘਰ ਦੀ ਅਣਗਹਿਲੀ ਕਾਰਨ ਪੈਸੇ ਨਾ ਮਿਲਣ 'ਤੇ ਵਿਅਕਤੀ ਨੇ ਮਾਨਸਿਕ ਸੰਤੁਲਨ ਗੁਆਇਆ ... ਦੀ ਮੌਤ ਤੋਂ ਬਾਅਦ ਉਹ ਉਨ੍ਹਾਂ ਦੇ ਵਾਰਸਾਂ ਵਜੋਂ ਡਾਕਘਰ ਵਿਖੇ ਜਮ੍ਹਾਂ ਮਿਆਦੀ ਦੀ ਮਿਆਦ ਪੂਰੀ ਹੋਣ 'ਤੇ ਪੇਸ਼ ... ਐਮਾਂ ਮਾਂਗਟ, 27 ਅਗਸਤ (ਗੁਰਾਇਆ)-ਨਜ਼ਦੀਕੀ ਪਿੰਡ ਸਹਿਗੇ (ਦਸੂਹਾ) ਦੇ ਵਸਨੀਕ ਨੌਜਵਾਨ ਦੀ ਸਾਊਦੀ ਅਰਬ ਵਿਚ ... ਮਾਈਨਿੰਗ ਕਰਨ ਦੇ ਦੋਸ਼ 'ਚ ਥਾਣਾ ਸਦਰ ਪੁਲਿਸ ਨੇ 2 ਮਾਮਲੇ ਦਰਜ ਕਰਕੇ 3 ਨੂੰ ਨਾਮਜ਼ਦ ਕਰਕੇ 2 ਨੂੰ ਗਿ੍ਫ਼ਤਾਰ ...\tਬਿਹਾਰ ਚੋਣਾਂ ਦੌਰਾਨ ਵੀ ਸ਼ਿਵਪਾਲ ਨੇ ਮਹਾਂਗੱਠਬੰਧਨ ਵਿੱਚ ਸ਼ਾਮਿਲ ਹੋਣ ਦੀ ਜ਼ੋਰਦਾਰ ਵਕਾਲਤ ਕੀਤੀ ਸੀ। ... ਮਹਾਂਗੱਠਬੰਧਨ ਵਿੱਚ ਕਾਂਗਰਸ ਅਤੇ ਅਜੀਤ ਸਿੰਘ ਦੀ ਰਾਸ਼ਟਰੀ ਲੋਕ ਦਲ ਨੂੰ ਸ਼ਾਮਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ... ਮਹਾਂਗੱਠਬੰਧਨ ਵਿੱਚ ਲਾਲੂ ਯਾਦਵ ਅਤੇ ਨਿਤੀਸ਼ ਕੁਮਾਰ ਦੀਆਂ ਪਾਰਟੀਆਂ ਨਾਲ ਵੀ ਸੰਜੀਦਗੀ ਨਾਲ ਗੱਲ ਚੱਲ ... ਮਜੀਠੀਆ ਨੇ 2 ਫਰਵਰੀ 1881 ਨੂੰ ਲਾਹੌਰ ਵਿੱਚ ਅੰਗਰੇਜ਼ੀ ਅਖ਼ਬਾਰ 'ਦਿ ਟ੍ਰਿਬਿਊਨ' ਆਰੰਭ ਕਰਕੇ ਲਾਇਆ ਸੀ।\tAug 24, 2020 — ਨਿਤੀਸ਼ ਕੁਮਾਰ ਨੇ ਬਿਹਾਰ ਵਿੱਚ ਰੁਜ਼ਗਾਰ ਨੂੰ ਹੋਣ ਕਰਕੇ ਨੌਜਵਾਨ ਸ਼ਰਾਬ ਦੀ ਤਸਕਰੀ ਕਰਨ ਨੂੰ ਮਜਬੂਰ. https://www.facebook.com/story.php?story_fbid=3287314861358073&id=100002387748276. ਦੱਸ ਦਈਏ ਕਿ ਇਸ ਟਵੀਟ ਨੂੰ ...\thttps://www.bbc.com/punjabi/india-49596240\thttps://beta.ajitjalandhar.com/edition/20200719/9.cms\thttps://beta.ajitjalandhar.com/edition/20200828/10.cms\thttps://www.punjabitribuneonline.com/news/archive/editorials/%E0%A8%AF%E0%A9%82-%E0%A8%AA%E0%A9%80-%E0%A8%B5%E0%A8%BF%E0%A9%B1%E0%A8%9A-%E0%A8%AC%E0%A8%BF%E0%A8%B9%E0%A8%BE%E0%A8%B0-%E0%A8%B5%E0%A8%BE%E0%A8%B2%E0%A8%BE-%E0%A8%87%E0%A8%A4%E0%A8%BF%E0%A8%B9%E0%A8%BE%E0%A8%B8-%E0%A8%A6%E0%A9%81%E0%A8%B9%E0%A8%B0%E0%A8%BE%E0%A8%89%E0%A8%A3-%E0%A8%A6%E0%A9%87-%E0%A8%AF%E0%A8%A4%E0%A8%A8-1077323\thttps://punjabi.newschecker.in/fact-checks/old-image-of-liquor-smugglers-shared-on-social-media-taking-dig-at-bihar-cm-nitish-kumar/\t2020-08-20T00:00:00Z\t2020-08-24T00:00:00Z\tFacebook\tਨਿਤੀਸ਼ ਕੁਮਾਰ ਨੇ ਬਿਹਾਰ ਵਿੱਚ ਰੁਜ਼ਗਾਰ ਨੂੰ ਹੋਣ ਕਰਕੇ ਨੌਜਵਾਨ ਸ਼ਰਾਬ ਦੀ ਤਸਕਰੀ ਕਰਨ ਨੂੰ ਮਜਬੂਰ\tpartly true/misleading\nru\tfactcheck.kz\t\t\tDec 31, 2018 — Власти Китая подтвердили, что с 1 января бесплатный бензин для населения появится на всей территории страны. В 2018 году такая ...\tJan 4, 2019 — Блог пользователя Serjeco на DRIVE2. НЕ ВЕРЮ! Власти Китая подтвердили, что с 1 января бесплатный бензин для населения ...\tJan 4, 2019 — Власти Китая подтвердили, что с 1 января бесплатный бензин для населения появится на всей территории страны. В 2018 году такая ...\thttps://www.ampravda.ru/2019/01/05/086185.html#:~:text=%C2%AB%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%D0%9A%D0%B8%D1%82%D0%B0%D1%8F%20%D0%BF%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D0%BB%D0%B8%2C%20%D1%87%D1%82%D0%BE%20%D1%81,%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C%2C%20%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%83%D1%8E%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D0%B5%20panorama.&text=%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D0%BE%20%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B5%D0%BC%D1%83%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D1%83%2C%20%D0%B2%D1%81%D0%B5%20%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B5,%D0%B4%D0%BE%20150%20%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%B2%20%D0%B1%D0%B5%D0%BD%D0%B7%D0%B8%D0%BD%D0%B0%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE.\thttps://www.ampravda.ru/2019/01/05/086185.html#:~:text=%C2%AB%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%D0%9A%D0%B8%D1%82%D0%B0%D1%8F%20%D0%BF%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B8%D0%BB%D0%B8%2C%20%D1%87%D1%82%D0%BE%20%D1%81,%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C%2C%20%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%83%D1%8E%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D0%B5%20panorama.&text=%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D0%BE%20%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B5%D0%BC%D1%83%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D1%83%2C%20%D0%B2%D1%81%D0%B5%20%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B5,%D0%B4%D0%BE%20150%20%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%B2%20%D0%B1%D0%B5%D0%BD%D0%B7%D0%B8%D0%BD%D0%B0%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE.\thttps://panorama.pub/12114-v-kitae-s-1-yanvarya-benzin.html\thttps://www.drive2.com/b/520734480424502034/\thttp://www.ca-irnews.com/ru/picture-of-the-day/58302-%D0%B2-%D0%BA%D0%B8%D1%82%D0%B0%D0%B5-%D1%81-%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F-2019-%D0%B1%D0%B5%D0%BD%D0%B7%D0%B8%D0%BD-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%81%D1%8F-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%BC\t2018-12-31T00:00:00Z\t2020-01-12T00:00:00Z\tРассылка в WhatsApp\tВ Китае с 1 января бензин становится бесплатным для населения\tfalse\nsq\tfaktoje.al\tQytetarÃ«t shqiptarÃ« u bllokuan nga â€œCovid-19â€�, qeveria do paguajÃ« 26 milionÃ« lekÃ« pÃ«r ... Qeveria e ShqipÃ«risÃ« do duhet tÃ« paguajÃ« 26 milionÃ« lekÃ« pÃ«r tÃ« rimbursuar ... se gjobat u vendosÃ«n nga autoritetet e shteteve tÃ« tjera, qytetarÃ«t shqiptarÃ« ... rimbursimi i gjobÃ«s nÃ« tÃ« njÃ«jtÃ«n masÃ« nÃ« llogarinÃ« bankare tÃ« pÃ«rcaktuar ngaÂ ...\t26 milionÃ« lekÃ«. QytetarÃ«t shqiptarÃ« u bllokuan nga â€œCovid-19â€�, qeveria do paguajÃ« 26 milionÃ« lekÃ« pÃ«r rimbursimin e gjobaveÂ ...\t22.07.2020 Njoftim pÃ«r heqjen e gjobave tÃ« vendosura pÃ«r mospagim tÃ« kÃ«steve ... aplikues pÃ«r rimbursimin e gjobave tÃ« vendosura shtetasve shqiptarÃ«, jashtÃ« ... tÃ« vogÃ«l nuk do tÃ« paguajnÃ« kÃ«stet e Tatimit tÃ« Thjeshtuar mbi Fitimin pÃ«r vitin 2020 ... tatimpaguesit hapet rubrika e re lidhur me situatÃ«n e krijuar nga COVID-19Â ...\tNga e hÃ«na nÃ« tÃ« premte ora 19:00 ne RTV Ora. â€œBOOMâ€� Ã«shtÃ« njÃ« show gazetaresk me element kryesorÃ« investigimin. PjesÃ« e tij eshte edhe provokimi satirik,Â ...\tpÃ«r tÃ«rmetin e 26 nÃ«ntorit, tÃ« gjitha mbledhjet e Shengenit Ballkanik, ... Burime pÃ«r A2 bÃ«jnÃ« tÃ« ditur se vizita do tÃ« realizohet me ftesÃ« tÃ« presidentit turk, ... e postÃ«s shqiptare, si pagesa e gjobave, faturave tÃ« energjisÃ« elektrike, tÃ« ujit, ... Takimi me â€œUrdhrin e FarmacistÃ«veâ€�, Basha: Duhet rimbursim pÃ«r ilaÃ§et ndaj Covid-19.\thttps://faktoje.al/qytetaret-shqiptare-u-bllokuan-nga-covid-19-qeveria-do-paguaje-26-milione-leke-per-rimbursimin-e-gjobave/\thttps://faktoje.al/tag/26-milione-leke/\thttps://www.tatime.gov.al/c/8/45/lajme\thttps://www.oranews.tv/category/boom/\thttps://a2news.com/profil/marsela-karapanco/\tnone\t24 Qershor, 2020\tnone\tQytetarët shqiptarë u bllokuan nga “Covid-19”, qeveria do paguajë 26 milionë lekë për rimbursimin e gjobave\tcomplicated/hard to categorise\naz\tfaktyoxla.info\tMay 10, 2019 — Azərbaycanda müstəqil vəkilliyin yaranmasının təşəbbüskarı Heydər Əliyev olub. Ölkəmizdə vəkilliyin təşəkkül ... Azərbaycan postsovet məkanında vəkilliyə müstəqillik verən ilk dövlətlərdən biri olub. Həmin vaxt reallaşdırılan ...\tAzərbaycan ilk müstəqilliyini 1918-ci ildə əldə etmişdir ki, bu müstəqillik də 23 ay mövcud ... əsas verir ki, Azərbaycan antropoidlərin yaşadığı əraziyə daxil olub. ... XVIII əsrdə Azərbaycan ərazisində müstəqil dövlətlər–xanlıqlar meydana gəldi. ... strukturu və hüquq texnikası baxımından postsovet ölkələri ilə oxşar olsa da ...\tJul 16, 2019 — Azərbaycanın vətəndaş cəmiyyəti hakimiyyətin təbiəti və müstəqillik ... Postsovet məkanında ən iri miqyasına görə fotosu hətta Newsweek ... Bunu ilk növbədə siyasi partiyalar, sonra isə media və 90-cı illərin sonunda ... Müxtəlif mənbələr vətəndaş cəmiyyəti və QHT-lərin azı iki funksiyasını qeyd edir: vəkillik ...\tMüstəqil Azərbaycan dövlətinin qurucusu və memarı, dahi Azərbaycanlı, ulu ... Dövlətimizin insan hüquqları sahəsində atdığı ən mühüm addımlarından biri, ... Qeyd olunmalıdır ki, Azərbaycan postsovet məkanında qətimkan tədbiri kimi ... verən və bununla da Habeas Corpus\" prinsipini tətbiq edən ilk dövlətlərdən oldu.",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਇਕ ਵੀਡੀਓ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਵਿੱਚ ਕੁਝ ਵਿਅਕਤੀਆਂ ਜਿਨ੍ਹਾਂ ਨੇ ਆਪਣੇ ਗਲੇ ਦੇ ਵਿੱਚ ਭਾਰਤੀ ਜਨਤਾ ਪਾਰਟੀ(ਭਾਜਪਾ) ਦਾ ਪੱਟਾ ਪਹਿਨਿਆ ਹੋਇਆ ਹੈ, ਉਨ੍ਹਾਂ ਨੂੰ ਨੱਚਦੇ ਹੋਏ ਦੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਰਾਸ਼ਟਰਪਤੀ ਵਲੋਂ ਬਿੱਲ ਪਾਸ ਕਰਨ ਤੇ ਭਾਜਪਾਈਆਂ ਨੇ ਅੰਮ੍ਰਿਤਸਰ ਵਿੱਚ ਭੰਗੜਾ ਪਾ ਕੇ ਜਸ਼ਨ ਮਨਾਇਆ ਅਤੇ ਲੱਡੂ ਵੰਡੇ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "За всю вторую пятилетку число рабочих мест в обрабатывающей промышленности увеличилось всего на 46 тысяч, а средняя зарплата в долларовом эквиваленте упала на 25%",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Mateusz Morawiecki (…) chciał, by fundusze inwestujące w budowę biurowców były zwolnione z podatku dochodowego. Nawet rządzony przez PiS Narodowy Bank Polski przestrzegał, że nie ma powodu zwalniać tych funduszy z podatków.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "W 2014 r. w Polsce mieliśmy ponad 151 tys. lekarzy zatrudnionych w ochronie zdrowia, obecnie mamy 172 tys.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "श्रीलंकेच्या पंतप्रधानांसोबत बैठकीत तत्कालीन पंतप्रधान मनमोहन सिंह यांच्या एेवजी सोनिया गांधी खुर्चीत बसल्या होत्या",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "আমেরিকার নিউইয়র্ক শহরে মানুষের মাংস বিক্রি হচ্ছে রেস্তোরাঁয়।",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "रतन टाटांनी 18 वर्षीय तरुणाच्या जेनेरिक फार्मसी स्टार्ट-अपमध्ये 50 टक्के भागीदारी खरेदी केली.",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "sp સહીત કેટલાય પોલીસ કર્મી ને ગોળીએ દેનાર વિકાસ દુબે લગભગ બધી પાર્ટીઓ સાથે કામ કરે છે..",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "Według danych Głównego Urzędu Statystycznego w zeszłym roku w Polsce było niemal 30 mln pojazdów.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "নতুন ট্রাফিক আইন চালু হওয়ার পর কি কেন্দ্রীয় মন্ত্রী নিতিন গড়কড়ি বিনা হেলমেটে স্কুটার চালাচ্ছেন",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Warszawski program in vitro to już ponad 200 szczęśliwych rodzin.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "তাবলীগ জামাত মুসলিমদের সম্বন্ধে ফেসবুকে আপত্তিকর পোস্ট করায় ভারতীয় শিল্পপতি বি আর শেঠীকে কালো তালিকাভুক্ত করছে দুবাই সরকার",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "एक व्यक्ति ने अपील की है कि उसकी पत्नी और बेटी कोरोना संक्रमित हैं, उनके लिए दुआ करें.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "এই প্রথম কোনো প্রধাণমন্ত্রী বিশ্বব্যাংক থেকে কোনো টাকা ধার না নিয়েই ৫ বছর দেশ চালালেন",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "হরিণ মারার ভিডিওটি পশ্চিমবঙ্গের সুন্দরবনের।",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Eutanazja to jest chyba w dwóch krajach w ogóle Unii Europejskiej, dwóch albo trzech krajach.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "পরিবেশ দূষণ কম হওয়ার কারণে স্যাটেলাইটের মাধ্যমে দেখতে পাওয়া যাচ্ছে রাম সেতু",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Eutanazja to jest chyba w dwóch krajach w ogóle Unii Europejskiej, dwóch albo trzech krajach.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„U prvih pet meseci imali smo deficit od 25 milijardi dinara umesto planiranih 90 milijardi, što je tri i po puta manje od onoga čime bi MMF bio zadovoljan.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "નિર્દોષ અને માસુમ ગર્ભવતી હાથણી, ની અંતિમ વિધિ ભગવાન તેને અને તેના અજન્માં બચ્ચાં ની આત્મા ને ચિર શાંતિ અર્પે, ૐ શાંતિ",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "1000 કામ સાઇડ મા મૂકી ને આ ઓડિયો ક્લિપ ને તમારા માટે અને તમારા પરિવાર ની ભલાઈ માટે સાંભળો",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "প্রতিবেদনে দাবি করা হয়েছিল ভাইরাল ভিডিওর মহিলা রানু মন্ডল।",
+        "label": "true",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "सर्वोच्च न्यायालयाने 15 जून पासून देशाचे नाव प्रत्येक भाषेत फक्त भारत असेल असा निर्णय दिला आहे",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "स्वास्थ्य मंत्रालय ने कहा कोरोना वायरस से बचने के लिए गला तर रखें और मसालेदार व तला खाना न खाएं.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Očekujem da ćemo sledeće godine imati najveću stopu ekonomskog rasta u regionu.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "अयोध्येतील राम मंदिर भूमीपूजन मंडपाच्या सजावटीचा व्हिडिओ",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "कनाडाई पीएम जस्टिन ट्रूडो ईसाई धर्म छोड़ इस्लाम अपना रहे हैं.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "કોવિડ મેડિકલ કીટ ઘરે આવશ્યક:",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "Warszawski program in vitro to już ponad 200 szczęśliwych rodzin.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "चेन्नई म्युनिसिपल कॉरपोरेशन ने सभी सब्जी और फलों के बाजारों को बंद करने आदेश दिया है.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ছবিতে দেখা যাচ্ছে, এবছরের আগস্টের ১৫ তারিখে ভারতীয় পুরুষ ক্রিকেট দলের প্রধান কোচ রবি শাস্ত্রী জাতীয় দলের ক্রিকেটার বিরাট কোহলি ও রোহিত শর্মার আন্তর্জাতিক স্তর থেকে অবসর নেওয়ার কথা জানিয়ে এই টুইটটি করেন",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Chciałbym przeczytać wpis pana ministra Schreibera, który kilka minut temu występował na tej mównicy. To jest wpis sprzed kilku lat, dosyć świeży. Cytuję: \"Setki razy tłumaczyłem: w komisji, w mediach, tutaj na Twitterze czy na sali plenarnej: głosowanie korespondencyjne niesie ryzyko fałszerstw – patrz: powtórzone wybory w Austrii rok temu – i jest dozwolone jedynie w 13 na 28 krajów Unii Europejskiej podczas wyborów samorządowych.\"",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "दिल्ली में आम आदमी पार्टी की रैली में पैसे देकर दिहाड़ी मजदूरों को लाया गया.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "लॉकडाउन तोड़ने से रोकने पर पुलिसकर्मी की पिटाई का वीडियो.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Президент Узбекистана Шавкат Мирзиёев установил на период борьбы с эпидемией ежемесячные выплаты (контактирующим с больными)",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "कश्मीर को पाकिस्तान का हिस्सा दिखाने वाले मैप के साथ भाषण देते कन्हैया कुमार",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Co trzeci Polak próbuje ograniczyć emisję zanieczyszczeń powietrza, a 40 proc. ogranicza picie butelkowanej wody - wynika ze zleconego przez resort klimatu badania poziomu świadomości i postaw wobec jakości powietrza, gospodarki odpadami i butelek zwrotnych.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "मध्य प्रदेश के दमोह में रेलवे ट्रैक पर मृत पड़ी मां का दूध पीते बच्चे की तस्वीर. इससे भारत में मौजूद प्रवासी संकट का पता चलता है.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "করোনা ভাইরাস সামাল দেওয়ার জন্য চীন কুড়ি হাজার আক্রান্তকে মেরে ফেলতে চাইছে",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "প্রধানমন্ত্রী নরেন্দ্র মোদীর মেক-আপ আর্টিস্টের মাইনে মাসে ১৫ লক্ষ টাকা",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "“Što se tiče cena, naprednjačka vlast kreće da se izjašnjava prvi put 2015. godine. Tada je gospodin Siniša Mali rekao da će prva linija metroa koštati između 800 i milijardu evra, da bi krajem 2015. već to korigovao na između 800 miliona i 1,2 milijarde evra.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Naša struja je ubedljivo najjeftinija u Evropi, 30 odsto je jeftinija nego što imaju zemlje koje imaju najjeftiniju struju u regionu.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "असम में नागरिकता कानून के विरोध में प्रदर्शन कर रहीं महिलाओं पर पुरुष पुलिसकर्मी अत्याचार कर रहे हैं.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "सैनिटाइजर ​की बोतल कार में न छोड़ें. इसमें पर्याप्त मात्रा में एल्कोहल होता है जो कि ज्वलनशील होता है. इससे आग लग सकती है.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "સમાજવાદી પાર્ટીના પ્રણેતા અને UP ના પૂર્વ મુખ્યમંત્રી મુલાયમસિંહ યાદવ નું ૯૨ વર્ષે નિધન.",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "গুগল ভারতীয় মানচিত্র থেকে নিয়ন্ত্রণ রেখা সরিয়ে দিয়েছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Niedawno OBWE przygotowała taki dokument, który się nazywa “Wskazówki korzystania z wolności zrzeszania się”. To jest taki dokument, który w randze prawa międzynarodowego ma rangę tzw. soft law, czyli miękkiego prawa, czyli pewne wskazówki jak należy funkcjonować, jak należy działać. W tych wskazówkach jest cały szereg rekomendacji, jak powinna wyglądać relacja pomiędzy państwem a organizacjami pozarządowymi w zakresie finansowania takich organizacji ze środków publicznych.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "“Mi smo samo budžet Filmskog centra Srbije povećali, on je ove godine 50 puta veći nego pre šest godina. Dakle, nikada više nismo davali novca za domaću kinematografiju.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ਵੀਡੀਓ ਦੇ ਨਾਲ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਨਾਗਪੁਰ ਦੇ ਸਰਕਾਰੀ ਮੈਡੀਕਲ ਕਾਲਜ ਦੇ ਵਿੱਚ ਡਾਕਟਰਾਂ ਨੇ ਜਿਉਂਦੇ ਵਿਅਕਤੀ ਦਾ ਪੋਸਟਮਾਰਟਮ ਕਰਕੇ ਕਿਡਨੀਆਂ ਕੱਢ ਲਈਆਂ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "নদীতে ব্রিজ বানানোর এই ভিডিওটি ভারতীয় সেনার",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Президент Узбекистана Шавкат Мирзиёев установил на период борьбы с эпидемией ежемесячные выплаты (контактирующим с больными)",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "১৮ বছর বয়সী মাদার টেরেসাকে এই ছবিতে দেখতে পাওয়া যাচ্ছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ভাইরাল ছবিটি দিল্লি পুলিশের সাম্প্রতিককালের",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "पंतप्रधान नरेंद्र मोदी शाळकरी मुलांना तीनचा पाढा म्हणून दाखवू शकले नाहीत",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "В Казахстане отменили смертную казнь",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "ছবিতে দেখা যাচ্ছে, সম্প্রতি পাস হওয়া কৃষি বিলের প্রতিবাদ করতে মানুষের খুলিসমেত এক কৃষক দিল্লিতে পৌঁছলেন",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "एक व्यक्ति ने अपील की है कि उसकी पत्नी और बेटी कोरोना संक्रमित हैं, उनके लिए दुआ करें.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ભાજપના 4 MP, 1 MLA અને 21 અન્ય નેતાઓ TMCમાં જોડાવા જઈ રહ્યા છે.",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "असम में नागरिकता कानून के विरोध में प्रदर्शन कर रहीं महिलाओं पर पुरुष पुलिसकर्मी अत्याचार कर रहे हैं.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "За всю вторую пятилетку число рабочих мест в обрабатывающей промышленности увеличилось всего на 46 тысяч, а средняя зарплата в долларовом эквиваленте упала на 25%",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "আর এস এস ‘গার্ড অফ অনার’ দিচ্ছে রানী এলিজাবেথকে।",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Ova skupštinska većina i ova vlast je 94 odsto svih nepravilnosti i svega onoga što je ukazao Zaštitnik građana ispravila.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "झारखंड में नफ़ीस नाम के एक लड़के ने अपनी हिंदू प्रेमिका पर कैंची से ताबड़तोड़ वार किए.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "বন্ধ হওয়ার পথে গরিব রথ,গরিব রথগুলিকে এক্সপ্রেস ট্রেনে রূপান্তরিত করা হবে।",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ভোটের প্রচারে ব্যাস্ত যোগী আদিত্যনাথ, গ্রামবাসীদের অর্থ বিতরণ করতে দেখা যাচ্ছে।",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Eutanazja to jest chyba w dwóch krajach w ogóle Unii Europejskiej, dwóch albo trzech krajach.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਸੰਗਰੂਰ ਤੋਂ ਆਮ ਆਦਮੀ ਪਾਰਟੀ ਦੇ ਸੰਸਦ ਮੈਂਬਰ ਭਗਵੰਤ ਮਾਨ ਦੀ ਤਸਵੀਰ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਵਿੱਚ ਉਹ ਵੀਡੀਓ ਕਾਨਫਰੰਸ ਤੇ ਗੱਲ ਕਰਦੇ ਹੋਏ ਦੇਖੇ ਜਾ ਸਕਦੇ ਹਨ। ਇਸ ਦੇ ਨਾਲ ਹੀ ਮੇਜ਼ ਦੇ ਉੱਤੇ ਸ਼ਰਾਬ ਦਾ ਗਲਾਸ ਦਿਖਾਈ ਦੇ ਰਿਹਾ ਹੈ ।ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਭਗਵੰਤ ਮਾਨ ਸ਼ਰਾਬ ਪੀ ਰਹੇ ਹਨ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "১৮ বছর বয়সী মাদার টেরেসাকে এই ছবিতে দেখতে পাওয়া যাচ্ছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "हर्षवर्धन पाटील यांनी भाजपमध्ये प्रवेश करुन चूक झाल्याचा संदेश दिला आहे.",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "तस्वीर में दिख रहे इटली के डॉक्टर दंपति ने कोरोना मरीजों के इलाज करते हुए अपनी जान दे दी.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "„Kada god dođe može samo da se uveri da mi sve radimo kako bi došli do krajnjeg cilja.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "हैदराबाद की महिला डॉक्टर के अंतिम संस्कार का वीडियो",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "জর্জ ফ্লয়েডের মৃত্যুর প্রতিবাদে মার্কিন যুক্তরাষ্ট্রের বিক্ষোভকারীরা হোয়াইট হাউসে ঢুকে পড়ে",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਕੇਂਦਰ ਸਰਕਾਰ ਨੇ ਕੋਰੋਨਾ ਵਾਇਰਸ ਨਾਲ ਸਬੰਧਤ ਕਿਸੇ ਵੀ ਪੋਸਟ ਨੂੰ ਸ਼ੇਅਰ ਕਰਨ ਨੂੰ ਹੁਣ ਸਜ਼ਾ ਯੋਗ ਅਪਰਾਧ ਘੋਸ਼ਿਤ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ ਅਤੇ ਸਿਰਫ ਇੱਕ ਸਰਕਾਰੀ ਏਜੰਸੀ ਹੀ ਕੋਰੋਨਾ 'ਤੇ ਪੋਸਟ ਕਰ ਸਕਦੀ ਹੈ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "Zwiększenie nadzoru nad sądami powszechnymi było zresztą znane wszystkim tym, którzy czytali program ‒ było postulatem wyborczym programowym Prawa i Sprawiedliwości. Ale nie nad Sądem Najwyższym – nie było tam takiego postanowienia.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "এই ছবিগুলি ঈদের সময় কাশ্মীরের মানুষের উপর পুলিসি অত্যাচারের।",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "একটি ফেসবুক পেজ গঙ্গার ঘাটের দুটি ছবি পোস্ট করেছে প্রিয়াঙ্কা গান্ধীর সঙ্গে। একটি ছবিকে বলা হয়েছে 'কংগ্রেস আমলে গঙ্গা' আরেকটিকে 'মোদী আমলে গঙ্গা'।",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Ile było głosów nieważnych, teraz w wyborach prezydenckich? 1%?",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Miasto wspomaga (…) [schronisko Na Paluchu – przyp. red.] kwotą ok. 9 milionów złotych.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "শি জিনপিংকে নিজের 'বস' বলে সিপিএম নেতা সীতারাম ইয়েচুরি ২০১৫ সালের অক্টোবরের ২০ তারিখে এই টুইটটি করেন",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "जापान में ध्वस्त होने के 24 घंटे के भीतर पुल बनकर तैयार.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "GUS wylicza, że 1400 zł potrzeba na utrzymanie, na przeżycie osoby w Polsce na takim naprawdę podstawowym poziomie.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "GUS wylicza, że 1400 zł potrzeba na utrzymanie, na przeżycie osoby w Polsce na takim naprawdę podstawowym poziomie.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "जर्मनीत तीन डोळे असलेले बाळ जन्मल्याचा दावा",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "Ile było głosów nieważnych, teraz w wyborach prezydenckich? 1%?",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Zakończyliśmy budowę gazoportu",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Według celów barcelońskich, które PO zgodziła się realizować, powinniśmy mieć 33% gwarantowanych miejsc dla dzieci w żłobkach.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "मुंबईत कोरोनाच्या नावावर मानवी अवयवांची तस्करी",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "„Ako se pogledaju oni uslovi koji su bili postavljeni, Akcioni plan praktično je u potpunosti ispunjen.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "সংঘের স্বয়ংসেবক পশ্চিমবঙ্গের সঞ্জয় রবিদাসের এবছরের মাধ্যমিকের মার্কশিটের ছবি এটি",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "दुधात भेसळ करणाऱ्या व्यक्तीचा व्हिडीओ मुंबईतील",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਦਿੱਲੀ ਦੇ ਮੁੱਖ ਮੰਤਰੀ ਅਰਵਿੰਦ ਕੇਜਰੀਵਾਲ ਅਤੇ ਰਿਲਾਇੰਸ ਦੇ ਮੁਖੀ ਮੁਕੇਸ਼ ਅੰਬਾਨੀ ਦੇ ਜੱਫੀ ਪਾਉਂਦਿਆਂ ਦੀ ਇਕ ਤਸਵੀਰ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "कोई भी यकीन नहीं करेगा कि यह आज से सदियों पहले 1063 ईसवी में बनाया गया था ।",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਇਕ ਜਹਾਜ਼ ਦੇ ਅੰਦਰ ਦੀ ਤਸਵੀਰ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ। ਤਸਵੀਰ ਦੇ ਨਾਲ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ 8600 ਕਰੋੜ ਦੀ ਲਾਗਤ ਨਾਲ ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਨਰਿੰਦਰ ਮੋਦੀ ਦੇ ਵਿਮਾਨ ਨੂੰ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "প্রতিবেদনে দাবি করা হয়েছিল ভাইরাল ভিডিওর মহিলা রানু মন্ডল।",
+        "label": "true",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "सरकार कर्मचारियों की पेंशन 30 फीसदी तक कम करने जा रही है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "राहुल गांधी के काफिले को रास्ता देने के लिए एम्बुलेंस को रोका",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "એક મુસ્લિમ યુવકે જૂઠું બોલીને એક હિન્દૂ છોકરીને ફસાવી તેની સાથે લગ્ન કર્યા....પછી હિન્દૂ છોકરીને હકીકતની જાણ થઈ તો મુસ્લિમ યુવક પહેલેથી જ પરણિત હતો અને એને બે સંતાનો પણ છે એવી...પછી હિન્દૂની છોકરીએ કરી જોયા જેવી...તે વીડિયોમાં જણાય છે...",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "पुण्यात कोरोनाचे रुग्ण सार्वजनिक रस्त्यावर सापडण्यास सुरुवात झाली आहे.",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "असम में नागरिकता कानून के विरोध में प्रदर्शन कर रहीं महिलाओं पर पुरुष पुलिसकर्मी अत्याचार कर रहे हैं.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "„Izdvajanjа za nauku u Srbiji 1% BDP-a su niža od proseka EU, oko 2% BDP-a u 2013. godini. Iz privatnog sektora dolazi svega 7,5% svih ulaganja u nauku što je značajno ispod proseka EU gde čak 55% svih ulaganja u nauku čine investicije privatnog sektora.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਇਕ ਵੀਡੀਓ ਖੂਬ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਵਿੱਚ ਦੋ ਗਰੁੱਪਾਂ ਨੂੰ ਆਪਸ ਵਿਚ ਲੜਦਿਆਂ ਦੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।ਵਾਇਰਲ ਹੋ ਰਹੀ ਵੀਡੀਓ ਦੇ ਨਾਲ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਕਿਸਾਨ ਯੂਨੀਅਨਾਂ ਦੇ ਕਾਰਕੁੰਨਾਂ ਨੇ ਭਾਜਪਾ ਆਗੂ ਦੇ ਨਾਲ ਮਾਰ ਕੁੱਟ ਕੀਤੀ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "Chciałbym przeczytać wpis pana ministra Schreibera, który kilka minut temu występował na tej mównicy. To jest wpis sprzed kilku lat, dosyć świeży. Cytuję: \"Setki razy tłumaczyłem: w komisji, w mediach, tutaj na Twitterze czy na sali plenarnej: głosowanie korespondencyjne niesie ryzyko fałszerstw – patrz: powtórzone wybory w Austrii rok temu – i jest dozwolone jedynie w 13 na 28 krajów Unii Europejskiej podczas wyborów samorządowych.\"",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "कोरोना वायरस के मरीजों का इलाज करने के दौरान हुए संक्रमण से महाराष्ट्र की 28 वर्षीय डॉक्टर मनीषा पाटिल की मौत हो गई.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ਵਾਇਰਲ ਹੋ ਰਹੀ ਵੀਡੀਓ ਵਿੱਚ ਦਿਖਾਈ ਦੇ ਰਿਹਾ ਵਿਅਕਤੀ ਆਪਣੇ ਮੁੰਡੇ ਦੇ ਗੁਮਸ਼ੁਦਾ ਹੋਣ ਦੀ ਜਾਣਕਾਰੀ ਦੇ ਰਿਹਾ ਹੈ। ਇਸ ਦੇ ਨਾਲ ਹੀ ਵਿਅਕਤੀ ਪੋਸਟ ਨੂੰ ਵੱਧ ਤੋਂ ਵੱਧ ਸ਼ੇਅਰ ਕਰਨ ਦੀ ਗੱਲ ਆਖ ਰਿਹਾ ਹੈ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "राहुल गांधी फार्मा कम्पनी को स्थापित करेंगे सब्जी और फसल बेचने के लिए.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "हा व्हिडिओ लोणावळ्यातील भुशी डॅमचा असून लोक असेच वागत राहिले तर भारतातून कोरोना जाणार नाही.",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "सर्वोच्च न्यायालयाचे 'सत्यमेव जयते' हे ब्रीदवाक्य बदलले",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "Jedyne mosty, które zbudowano w Warszawie w czasach już nie PRL-owskich, to były mosty za czasów prezydentów związanych z Platformą Obywatelską. Wszystkie!",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ব্যাঙ্গালোরের মসজিদ প্রধানমন্ত্রী নরেন্দ্র মোদীর নামে নামকরণ করা হলো,",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "प्रधानमंत्री नरेंद्र मोदी के संसदीय क्षेत्र वाराणसी में गंगा नदी के घाट गंदगी से भरे हैं.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "„Pa gde su sad ti kritičari koji su pričali da fontana preliva. Pa svaka fontana u svetu je prelivala, ima kompenzacioni bazen i pumpe koje vraćaju vodu. Nek odu u Madrid da pogledaju kakve su tamo fontane. Oni su bili protiv da se skloni Dimitrije Tucović, a ne znaju ni ko je on, pa im sad smeta fontana, pa jarbol.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ছবিটি সম্প্রতি আমেরিকার মিনিয়াপোলিসে পুলিশের অত্যাচারে মৃত্যু হওয়া জর্জ ফ্লয়েডের",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "“Mi smo samo budžet Filmskog centra Srbije povećali, on je ove godine 50 puta veći nego pre šest godina. Dakle, nikada više nismo davali novca za domaću kinematografiju.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Vlada, kao ključni politički organ koji bi trebalo da vodi politiku države, ne vodi spoljnu politiku, već je uslužna delatnost kabineta predsednika Republike.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "তাবলীগ জামাত মুসলিমদের সম্বন্ধে ফেসবুকে আপত্তিকর পোস্ট করায় ভারতীয় শিল্পপতি বি আর শেঠীকে কালো তালিকাভুক্ত করছে দুবাই সরকার",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਨਰਿੰਦਰ ਮੋਦੀ ਅਤੇ ਸੰਗਰੂਰ ਤੋਂ ਆਮ ਆਦਮੀ ਪਾਰਟੀ ਦੇ ਸੰਸਦ ਮੈਂਬਰ ਭਗਵੰਤ ਮਾਨ ਦੀ ਤਸਵੀਰ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਵਿਚ ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਮੋਦੀ ਅਤੇ ਭਗਵੰਤ ਮਾਨ ਨੂੰ ਹੱਸਦਿਆਂ ਹੋਇਆ ਦੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਇਹ ਤਸਵੀਰ ਖੇਤੀ ਆਰਡੀਨੈਂਸ ਬਿੱਲ ਦੇ ਪਾਸ ਹੋਣ ਤੋਂ ਬਾਅਦ ਦੀ ਹੈ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "सरकार कर्मचारियों की पेंशन 30 फीसदी तक कम करने जा रही है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Mamy najniższą kwotę wolną od podatku w Europie. My proponujemy podwyższenie jej do 30 tysięcy, tak, żeby dochód do 4000 złotych miesięcznie w ogóle nie był opodatkowany.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "80 proc. poznaniaków to wierzący katolicy.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "अमिताभ बच्चनने कोरोनामुक्त झाल्यानंतर हाजी अली दर्ग्यात जाऊन चादर चढविली",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "आदित्य ठाकरेसोबतची युवती रिया चक्रवर्ती आहे",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "हेलिकॉप्टर से ली गई ब्लू व्हेल की तस्वीर.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "प्रवासी मजदूरों से राहुल गांधी की मुलाकात प्रायोजित थी. राहुल गांधी के साथ तस्वीर में मौजूद महिला बाद में कार से जाती हुई देखी गई.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਸ਼੍ਰੋਮਣੀ ਅਕਾਲੀ ਦਲ ਦੇ ਪ੍ਰਧਾਨ ਸੁਖਬੀਰ ਸਿੰਘ ਬਾਦਲ ਅਤੇ ਬਿਕਰਮਜੀਤ ਸਿੰਘ ਮਜੀਠੀਆ ਦੀ ਤਸਵੀਰ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਨਾਲ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਅਕਾਲੀ ਦਲ ਦੇ ਪ੍ਰਧਾਨ ਅਤੇ ਹੋਰ ਨੁਮਾਇੰਦੇ ਮੋਗਾ ਫ਼ਿਰੋਜ਼ਪੁਰ ਰੋਡ ਤੇ ਅਡਾਨੀਆਂ ਦੇ ਸਟੋਰ ਦਾ ਉਦਘਾਟਨ ਕਰ ਰਹੇ ਹਨ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "Warto pamiętać, że już teraz 40 tysięcy osób rocznie umiera przedwcześnie z powodu zanieczyszczenia.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "तस्वीर में दिख रहे इटली के डॉक्टर दंपति ने कोरोना मरीजों के इलाज करते हुए अपनी जान दे दी.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "वीडियो में गाना गा रही सिंगर सदाबहार गायक किशोर कुमार की पोती और अमित कुमार की बेटी है.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Даже при официальных темпах роста цен только за 7 месяцев домохозяйства понесли дополнительные затраты на продукты 225 млрд тенге",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "सरकार कर्मचारियों की पेंशन 30 फीसदी तक कम करने जा रही है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "अमेरिका की एक महिला ने एक साथ 17 हमशक्ल लड़कों को जन्म दिया है.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "एक व्यक्ति ने अपील की है कि उसकी पत्नी और बेटी कोरोना संक्रमित हैं, उनके लिए दुआ करें.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Zakończyliśmy budowę gazoportu",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "फिनलैंड की प्रधानमंत्री ने सप्ताह में चार कार्यदिवस और रोजाना काम के चार घंटे का प्रस्ताव रखा है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Warszawski program in vitro to już ponad 200 szczęśliwych rodzin.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ছবির জাহাজটি বিশ্বের সব থেকে বড়ো জাহাজ",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "बिहार की ये तस्वीर नीतीश राज के 15 साल के विकास को दिखाती है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "213 профессии запрещены для женщин в Казахстане",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "“Šest meseci u Beogradu, rekao bih gotovo u Srbiji, nije bilo mafijaškog ubistva.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "હાથરસ (ઉત્તરપ્રદેશ) ની એક દીકરી પર ગેંગરેપ થાય, પીડિતા સાથે અકલ્પનિય વ્યવહાર થાય અને છેલ્લે અંતિમ શ્વાસ લીધો ત્યારબાદ અંતિમ સંસ્કારમાં પરિવાર મોઢું પણ ના ભાળે",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "तस्वीर कश्मीर की है जहां आरएसएस के गुंडे भारतीय सेना की वर्दी पर महिलाओं का अपहरण कर रहे हैं.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "জলাতঙ্ক রোগ হয়েছে দিলীপ ঘোষের।",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "मुख्यमंत्री उद्धव ठाकरे यांनी ख्रिश्चन समाजास कोरोनासाठी प्रार्थना करण्यास सांगितले आहे.",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "कंगना रानौतने कपिल शर्माच्या शोचा बहिष्कार केल्याचा दावा",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "ঈদের দিন পশু মারা নিয়ে মুসলিমদের সমালোচনা শুনতে চান না বলে টুইট করেছেন বিল গেটস।",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ক্রাইস্টচার্চ মসজিদ হামলার পর নিউজিল্যান্ডে ৩৫০ জন ইসলাম ধর্ম গ্রহণ করলেন",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "“Što se tiče cena, naprednjačka vlast kreće da se izjašnjava prvi put 2015. godine. Tada je gospodin Siniša Mali rekao da će prva linija metroa koštati između 800 i milijardu evra, da bi krajem 2015. već to korigovao na između 800 miliona i 1,2 milijarde evra.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Ova skupštinska većina i ova vlast je 94 odsto svih nepravilnosti i svega onoga što je ukazao Zaštitnik građana ispravila.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "इजराइल ने ईरान के परमाणु ठिकाने पर बमबारी की, जिससे ईरान का परमाणु संपन्न होने का सपना चूर हो गया.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ছবিটি বারাণসীতে কানহাইয়া কুমারের একটি জনসভার।",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "„Vlada, kao ključni politički organ koji bi trebalo da vodi politiku države, ne vodi spoljnu politiku, već je uslužna delatnost kabineta predsednika Republike.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Z danych Komendy Głównej Państwowej Straży Pożarnej za rok 2018 wynika, że było ponad 0,5 mln zdarzeń, z czego 30% to pożary.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "কংগ্রেসের সচিন পাইলট বিজেপিতে যোগদান করলেন",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "हेलिकॉप्टर से ली गई ब्लू व्हेल की तस्वीर.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "В прошлом году по этому показателю [Получение разрешения на строительство в рейтинге Doing Business-ред.] Казахстан поднялся сразу на 17 позиций и занял 35 место в мире",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Gdy jeszcze byłem radnym miasta domagałem się, by przed strefą płatnego parkowania powstały bezpłatne parkingi.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Eutanazja to jest chyba w dwóch krajach w ogóle Unii Europejskiej, dwóch albo trzech krajach.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "इस वीडियो में निर्माता-निर्देशक महेश भट्ट फिल्म ‘सड़क 2’ के ट्रेलर को बड़े पैमाने पर डिस्लाइक किए जाने की वजह से नाराजगी जता रहे हैं.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Zawsze też byliśmy za likwidacją finansowania partii z budżetu. Udało nam się zmniejszyć je o połowę.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "बिहार के एक अस्पताल की तस्वीर, जिसमें पानी से भरे वार्ड में मरीजों को रखा गया है. बिहार में इसी हालात में कोरोना मरीजों का इलाज किया जा रहा है.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Według danych Głównego Urzędu Statystycznego w zeszłym roku w Polsce było niemal 30 mln pojazdów.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "এই ছবিটি বাবরি মসজিদের",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "প্রধানমন্ত্রী নরেন্দ্র মোদী এই বছর জুলাই মাসে রামায়ণের স্ট্যাম্পগুলি প্রকাশ করেন",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਇੱਕ ਮਹਿਲਾ ਦੀ ਤਸਵੀਰ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਨੇ ਕਾਂਟੇਦਾਰ ਡ੍ਰੈੱਸ ਪਾਈ ਹੋਈ ਹੈ। ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਦੇਸ਼ ਵਿੱਚ ਵੱਧ ਰਹੇ ਬਲਾਤਕਾਰ ਦੀ ਘਟਨਾਵਾਂ ਨੂੰ ਲੈ ਕੇ ਇਸ ਮਹਿਲਾ ਨੇ ਇਸ ਤਰੀਕੇ ਨਾਲ ਵਿਰੋਧ ਜਤਾਇਆ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "मुम्बई मलाड के दूर्गा पूजा पांडाल में भजन बंद करवाकर जेहादी असलम बोला!",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "India’s First Animal Bridges In Delhi-Mumbai Expressway To Protect Animals From Getting Hit. thanks PM",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "Zakończyliśmy budowę gazoportu",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "केजरीवाल को थप्पड़ मारने वाले हमलावर की तस्वीर दिखाने का दावा",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Ile było głosów nieważnych, teraz w wyborach prezydenckich? 1%?",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Президент Узбекистана Шавкат Мирзиёев установил на период борьбы с эпидемией ежемесячные выплаты (контактирующим с больными)",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Президент Узбекистана Шавкат Мирзиёев установил на период борьбы с эпидемией ежемесячные выплаты (контактирующим с больными)",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Przykład – zamknięcie szkół kiedy było 30 kilka przypadków stwierdzonych koronawirusa w Polsce. We Francji zamknięto szkoły wtedy, kiedy było 2000 stwierdzonych przypadków.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ਚੀਨ ਦੇ ਫੌਜੀਆਂ ਨੇ ਕਿਸ ਤਰਾਂ ਭਾਰਤੀ ਫੌਜੀਆਂ ਤੇ ਕੀਤਾ ਹਮਲਾ, ਵੇਖੋ ਵੀਡੀਓ",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "„Kada sam preuzeo vladu od tada su samo dve zemlje priznale nezavisnost Kosova. To su Antigva i Barbuda i Togo, ako se ne varam. Samo te dve zemlje, sve ostalo sam nasledio.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Według danych Głównego Urzędu Statystycznego w zeszłym roku w Polsce było niemal 30 mln pojazdów.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "भूतानने आसामात येणारे पाणी रोखले.",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "हाल ही में राजस्थान में हुई एक घटना में एक महिला को बेहद ​वीभत्स तरीके से जला कर मार दिया गया.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ਤਸਵੀਰ ਦੇ ਨਾਲ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਕਰਾਚੀ ਦੇ ਵਿੱਚ ਇਕ ਰੈਲੀ ਦੇ ਦੌਰਾਨ ਭਾਰਤ ਦਾ ਤਿਰੰਗਾ ਲਹਿਰਾਇਆ ਗਿਆ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "दीपिका पादुकोणने शेतक-यांच्या समर्थनार्थ टी-शर्ट घातला",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "गुजरात मॉडल में रेल की पटरी पर पैदल चलने वाले मजदूरों से हफ्ता वसूल हो रही है, ये कैसा गुजरात मॉडल, #गुजरातरेलवेपुलिस #गुजरात_मॉडल",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "Jakbyśmy porównywali bezrobocie w roku 2007, to ono było wyższe niż to, które przekazywaliśmy w roku 2015.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "व्हायरल व्हिडिओ निसर्ग चक्रीवादळाच्या अलिबाग मधील केंद्रबिंदूचा आहे",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "Президент Узбекистана Шавкат Мирзиёев установил на период борьбы с эпидемией ежемесячные выплаты (контактирующим с больными)",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "आॅनलाईन क्लास दरम्यान 55 वर्षीय शिक्षकाला विद्यार्थ्यांनी त्रास दिल्याचा व्हिडिओ",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "औदुंबराच्या फुलाचा फोटो आहे.",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "ऐसा बनेगा अयोध्या में प्रभु श्री राम जी का भव्य मंदिर देखते हैं कितने भारतीय खुश हैं..जो नही भी खुश है..,उन्हें जय श्रीराम",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "व्हायरल व्हिडिओ विदर्भातील अमरावती जिल्ह्यातील मोर्शी गावात आलेल्या टोळधाडीचा आहे.",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "ভিডিওতে দেখা যাচ্ছে, করোনা থেকে মুক্তি পেতে আজমের শরীফের দরগায় পুলিশের একটি দল গিয়ে প্রার্থনা করে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Inną kwotę świadczeń otrzymują opiekunowie dorosłych niepełnosprawnych, a inną opiekunowie dzieci niepełnosprawnych. Ta różnica jest bardzo duża, bo w przypadku dzieci jest to 1477 zł, a w przypadku dorosłych 520 zł i to tylko dla osób najmniej zarabiających. TK orzekł o niekonstytucyjnosci tego rozwiązania w 2014 roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "महापालिका आणि नगरपालिकांना प्रत्येक कोरोना रुग्णामागे दीड लाख रुपये मिळत",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "ছবিটি কংগ্রেস নেতা রাহুল গান্ধীর করা টুইটের",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Ile było głosów nieważnych, teraz w wyborach prezydenckich? 1%?",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "За всю вторую пятилетку число рабочих мест в обрабатывающей промышленности увеличилось всего на 46 тысяч, а средняя зарплата в долларовом эквиваленте упала на 25%",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "বিজেপি নেত্রী লকেট চট্টোপাধ্যায়ের হাতের প্ল্যাকার্ডে লেখা, 'গুজরাতে এতো লোক মরছে বাংলায় কেন মরছে না'",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "લીલાવતી હોસ્પિટલ મુંબઇ ના ડોક્ટરે સાફ શબ્દો માં જે કહ્યુ તે સાંભળો .",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "এটি জাপানের একটি ব্রিজ তৈরী করা হয়েছে ২৪ ঘন্টার ভিতর।",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "W 2010 r. decyzją prezydenta Obamy i NATO przyjęto tak zwane plany ewentualnościowe, dla Polski i Litwy, Łotwy, Estonii, gdzie bardzo precyzyjnie opisano, jak NATO, czyli też Polska będą broniły tych terytoriów.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Profesor Herczyński, na którego badania czy artykuł pani (Anna Zalewska – przyp. Demagog) się powołuje, argumentując konieczność likwidacji gimnazjów, mówi wprost: Nikt mnie o zdanie nie pytał. A na pytanie dziennikarki, czy należy likwidować gimnazja, odpowiada twardo: Nie.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Chciałbym przeczytać wpis pana ministra Schreibera, który kilka minut temu występował na tej mównicy. To jest wpis sprzed kilku lat, dosyć świeży. Cytuję: \"Setki razy tłumaczyłem: w komisji, w mediach, tutaj na Twitterze czy na sali plenarnej: głosowanie korespondencyjne niesie ryzyko fałszerstw – patrz: powtórzone wybory w Austrii rok temu – i jest dozwolone jedynie w 13 na 28 krajów Unii Europejskiej podczas wyborów samorządowych.\"",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "বিজেপি নেত্রী লকেট চট্টোপাধ্যায়ের হাতের প্ল্যাকার্ডে লেখা, 'গুজরাতে এতো লোক মরছে বাংলায় কেন মরছে না'",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਹਸਪਤਾਲ ਵਿੱਚ ਭਰਤੀ ਹੋਈ ਇੱਕ ਲੜਕੀ ਦੀ ਤਸਵੀਰ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ।ਸੋਸ਼ਲ ਮੀਡੀਆ ਯੂਜ਼ਰ ਦਾਅਵਾ ਕਰ ਰਹੇ ਹਨ ਕਿ ਇਹ ਲੜਕੀ ਡਾਕਟਰ ਆਇਸ਼ਾ ਹੈ ਜਿਸਦੀ ਕਰੋਨਾ ਵਾਇਰਸ ਦੇ ਚੱਲਦਿਆਂ ਮੌਤ ਹੋ ਗਈ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "ચાણોદ - મલ્હાર ઘાટ નું નયનરમ્ય દ્રશ્ય. નર્મદા નદી પોતાનાં અસલ સ્વરૂપમાં. નમો નમામી નર્મદે🙏🏻",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "કોરોનાના કેસ વઘતા બિહારે લોકડાઉન લંબાવ્યું, 1થી 16 ઓગસ્ટ સુધી લોકડાઉન રાખવા નિર્ણય",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "જો કોઈની માતા કે બહેનએ પોતાનો ફોટોનો ડીપી WhatsApp પર પોસ્ટ કર્યો હોય, તો તરત જ તેને બદલવા માટે કહો",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "ਕੇਂਦਰੀ ਸੈਕੰਡਰੀ ਸਿੱਖਿਆ ਬੋਰਡ (ਸੀਬੀਐੱਸਈ) ਨੇ ਦਸਵੀਂ ਅਤੇ ਬਾਰ੍ਹਵੀਂ ਕਲਾਸ ਦੇ ਨਤੀਜਿਆਂ ਦਾ ਦੀ ਤਾਰੀਖ਼ ਦਾ ਐਲਾਨ ਕਰ ਦਿੱਤਾ ਹੈ। ਬਾਰ੍ਹਵੀਂ ਕਲਾਸ ਦੇ ਨਤੀਜੇ 11 ਜੁਲਾਈ ਅਤੇ ਦਸਵੀਂ ਕਲਾਸ ਦੇ ਨਤੀਜੇ 13 ਜੁਲਾਈ ਨੂੰ ਐਲਾਨੇ ਜਾਣਗੇ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "सड़क पर चल रहे दो मोटरसाइकिल सवार लोगों पर होर्डिंग गिरने का वीडियो हैदराबाद का है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "असम में नागरिकता कानून के विरोध में प्रदर्शन कर रहीं महिलाओं पर पुरुष पुलिसकर्मी अत्याचार कर रहे हैं.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "U Srbiji 90 odsto đaka posle srednje škole upisuje fakultet, a poznato je da u fabrikama nedostaju majstori.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "पीएम श्री @narendramodi जी को दुनिया की सबसे लंबी राजमार्ग सुरंग 'अटल सुरंग' के लिए बधाई। यह सुरंग देश की सीमाओं की रक्षा करने में महत्वपूर्ण भूमिका निभाएगी।मनाली व लेह के बीच की दूरी भी 4 से 5 घंटे कम हो जाएगी,अर्थव्यवस्था और पर्यटन क्षेत्र को बढ़ावा मिलेगा।",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "„Srbija je u 2010. u SAD izvezla robu u vrednosti od 68 miliona dolara, dok je vrednost uvoza iz te zemlje bila 311 miliona dolara.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Już w tej chwili wiemy, że tych urodzeń jest niemalże 19 tys. więcej, jeżeli policzymy rok do roku od stycznia do sierpnia tego roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "कश्मीर में पुलिस के मुहर्रम जुलूस रोकने का ताजा वीडियो.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "कांग्रेस विधायक अनिल उपाध्याय ने रेस्टोरेंट में पुलिसकर्मी से की मारपीट",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ছবিতে দেখা যাচ্ছে, চীনের হামলা থেকে বাঁচতে, সীমান্তে লেবু-কাঁচা মরিচ বাঁধছেন ভারতের প্রতিরক্ষা মন্ত্রী রাজনাথ সিং",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "পরিবেশ দূষণ কম হওয়ার কারণে স্যাটেলাইটের মাধ্যমে দেখতে পাওয়া যাচ্ছে রাম সেতু",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "সুন্নি ওয়াকফ বোর্ড বিকল্প ৫ একর জমিতে বাবরী হাসপাতাল তৈরির সিদ্ধান্ত নিয়েছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Według celów barcelońskich, które PO zgodziła się realizować, powinniśmy mieć 33% gwarantowanych miejsc dla dzieci w żłobkach.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„U prvim mesecima 2011. godine imamo odlične pokazatelje izvoza poljoprivrednih proizvoda iz Srbije, koji je za 40 odsto veći nego prošle godine.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "১৮ বছর বয়সী মাদার টেরেসাকে এই ছবিতে দেখতে পাওয়া যাচ্ছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "এই ছবিতে করোনা আক্রান্ত দিলীপ ঘোষের পাশে কৈলাস বিজয়বর্গীয় ও মুকুল রায়কে পিপিই কিট ও মাস্ক ছাড়া দাঁড়িয়ে থাকতে দেখা যায়",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "১৮ বছর বয়সী মাদার টেরেসাকে এই ছবিতে দেখতে পাওয়া যাচ্ছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Jastrzębska Spółka Węglowa w stosunku do najniższych notowań osiągnęła w najlepszym momencie prawie 1000% zwiększenia wartości na giełdzie.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ভিখারিরা করোনা ভাইরাসে সংক্রামিত অথবা মারা যাচ্ছেন না",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "આ વીડિયોમાં એવું સ્પષ્ટ પણે દેખાઈ આવે છે….કે અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પના પત્ની અમેરિકાના પૂર્વ રાષ્ટ્રપતિ ઓબામાને ગિફ્ટ આપે છે…જે ગિફ્ટ ઓબામા સ્વીકારવા ખાતર સ્વીકારી લે છે….અને પછી થોડાક આગળ જઈને એ ગિફ્ટને તેઓ ફેંકી દે છે….અને ત્યાંથી ચાલ્યા જાય છે",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "पावसाळी अधिवेशनात इतर महत्वाचे विषय सोडून माजी आमदारांची मासिक पेन्शनमध्ये 25 हजारावरून थेट 40 हजार इतकी वाढ करण्यात आली आहे.",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "„Ukoliko ne budemo uspeli da ostvarimo veći rast od 2 odsto u ovoj godini to će za nas i dalje biti vrlo slično godini krize jer se neće poimati veći osećaj nekog boljitka koji se ostvario.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "फिनलैंड की प्रधानमंत्री ने सप्ताह में चार कार्यदिवस और रोजाना काम के चार घंटे का प्रस्ताव रखा है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Kiedy byłem w Sejmie, głosowałem przeciwko podwyższeniu wieku emerytalnego.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„Kako su oni (u Nišu) pravili budžete svih prethodnih 25 godina, 30 godina? Tako što vam kažu, imaćemo prihode, kojih u stvari nema, prihodi precenjeni za 46,4 odsto. Precenjeni prihodi, a onda na tako precenjene prihode, naduvaju rashode, stvore sebi nemoguće obaveze koje su još veće od toga, jer uvek računaju da imaju određeni deficit i onda dođete do minusa u kasi koji dostižu ponekad i 50 miliona evra.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Srbija je u 2010. u SAD izvezla robu u vrednosti od 68 miliona dolara, dok je vrednost uvoza iz te zemlje bila 311 miliona dolara.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "পরিবেশ দূষণ কম হওয়ার কারণে স্যাটেলাইটের মাধ্যমে দেখতে পাওয়া যাচ্ছে রাম সেতু",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਤਸਵੀਰ ਕਾਫੀ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਵਿੱਚ ਪੁਲੀਸ ਮੁਲਾਜ਼ਮ ਇੱਕ ਸਿੱਖ ਨੌਜਵਾਨ ਨੂੰ ਕੁੱਤਾ ਹੋਇਆ ਨਜ਼ਰ ਆ ਰਿਹਾ ਹੈ। ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਤਸਵੀਰ ਵਿਚ ਨਜ਼ਰ ਆ ਰਿਹਾ ਸਿੱਖ ਨੌਜਵਾਨ ਸੁਤੰਤਰਤਾ ਸੈਨਾਨੀ ਸ਼ਹੀਦ ਭਗਤ ਸਿੰਘ ਹੈ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "નેપાળ બાદ હવે ભૂતાને ભારતની ચિંતા વધારી, આસામમાં સિંચાઈનું પાણી રોક્યું",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "Były realizowane ekspertyzy jakie gospodarstwo najbardziej może być podstawą tego ustroju, który jest zapisany w Konstytucji. Specjaliści ustalili, że jest to około 300 ha. […] Większość zadecydowała w 2003 roku, jest to konsensus zawarty między wszystkimi siłami politycznymi.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "गाना गाती हुई एक बच्ची के वीडियो के साथ कहा जा रहा है कि यह बेरूत धमाके में जान गंवाने वाली अलेग्जेंड्रा नाजार है.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "নদীতে ব্রিজ বানানোর এই ভিডিওটি ভারতীয় সেনার",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ਸ਼ੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਇਕ ਵੀਡੀਓ ਖੂਬ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ। ਵਾਇਰਲ ਹੋ ਰਹੀ ਵੀਡੀਓ ਦੇ ਪਿੱਛੇ ਇਕ ਬਜ਼ੁਰਗ ਨੂੰ ਭਾਜਪਾ ਉਮੀਦਵਾਰ ਦੇ ਗਲੇ ਵਿੱਚ ਜੁੱਤੀਆਂ ਦਾ ਹਾਰ ਪਾਉਂਦੇ ਹੋਏ ਦੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ। ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਇਹ ਵੀਡੀਓ ਬਿਹਾਰ ਵਿਧਾਨ ਸਭਾ ਚੋਣਾਂ ਦੇ ਦੌਰਾਨ ਦੀ ਹੈ।.",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "કંગના રાણાવત શું કહી રહી છે જુઓ મિત્રો યે ઝાંસી કી રાની ક્યા મેરી ચાચી લગતી હૈ ??તેની નજર માં ઝાંસી ની રાણી ની કેટલી ઈજ્જત છે તે આપ જોઈ શકો છો હવે શું કહેશો અંધ ભક્તો ?",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "हा फोटो अयोध्येत राममंदिराचा बांधकाम करण्यासाठी सपाटीकरणादरम्यान सापडलेल्या शिवलिंगाचा आहे.",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "कश्मीर में पुलिस के मुहर्रम जुलूस रोकने का ताजा वीडियो.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "সুদানের মডেল ন্যাকেম গ্যাটউইককে তার গায়ের রঙের কারণে গিনেস ওয়ার্ল্ড রেকর্ডের শিরোপা দেওয়া হয়েছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ছবিটি চীনের সৈন্যদের সঙ্গে লড়াই করে কোনোরকমে বেঁচে ফেরা আহত ভারতীয় সৈনিক সুরেন্দ্র সিংহের",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "महाराष्ट्र सरकारने 31 जुलैपर्यंत लाॅकडाऊन वाढवण्यासा निर्णय घेतल्यानंतर मुंबईत नवे 11 आवश्यक नियम लागू करण्यात आले आहेत.",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "213 профессии запрещены для женщин в Казахстане",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "ਅਮਰੀਕਾ ਦੇ ਨਫਰਤ ਭਰੇ ਮਾਹੌਲ ਵਿੱਚ ਰੂਹ ਨੂੰ ਸਕੂਨ ਦਿੰਦੀ ਹੈ ਇਹ ਗਲਵੱਕੜੀ ਵਾਲੀ ਵੀਡੀਓ",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "नरेंद्र मोदी की छोटा राजन के साथ तस्वीर.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "आगरा में तबरेज अंसारी के समर्थन में निकाले गए जुलूस का वीडियो",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "„Ova vlada pre tri godine je obećala smanjenje taksi i parafiskalnih nameta. A šta je rezultat toga? Pre tri godine, bilo je 360, a sad je taj broj 384. Sа usvajanjem Zakona o privatnom obezbedjenju imaćemo još jednu novu, 385. taksu“.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Izdvajanjа za nauku u Srbiji 1% BDP-a su niža od proseka EU, oko 2% BDP-a u 2013. godini. Iz privatnog sektora dolazi svega 7,5% svih ulaganja u nauku što je značajno ispod proseka EU gde čak 55% svih ulaganja u nauku čine investicije privatnog sektora.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Mi smo samo budžet Filmskog centra Srbije povećali, on je ove godine 50 puta veći nego pre šest godina. Dakle, nikada više nismo davali novca za domaću kinematografiju.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В прошлом году по этому показателю [Получение разрешения на строительство в рейтинге Doing Business-ред.] Казахстан поднялся сразу на 17 позиций и занял 35 место в мире",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "उर्मिला मातोंडकर मोहन भागवत की भतीजी हैं और शादी के बाद उन्होंने इस्लाम कबूला और नाम बदला.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "કેન્દ્રિય ગૃહ મંત્રી અમિત શાહનો કોરોના રિપોર્ટ નેગેટિવ",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "ভিডিওতে দেখা যাচ্ছে, করোনা থেকে মুক্তি পেতে আজমের শরীফের দরগায় পুলিশের একটি দল গিয়ে প্রার্থনা করে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "“Posle 16 godina vladavine DS, imamo 10.000 ljudi koji idu u narodne kuhinje.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "এবারের বিহার নির্বাচনে ইভিএম মেশিনে কারসাজির ভিডিও",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Naša struja je ubedljivo najjeftinija u Evropi, 30 odsto je jeftinija nego što imaju zemlje koje imaju najjeftiniju struju u regionu.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "U Srbiji 90 odsto đaka posle srednje škole upisuje fakultet, a poznato je da u fabrikama nedostaju majstori.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਇਕ ਤਸਵੀਰ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਦੇ ਵਿੱਚ ਵੱਡੀ ਗਿਣਤੀ ਦੇ ਵਿੱਚ ਲੋਕਾਂ ਨੂੰ ਦੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਇਹ ਤਸਵੀਰ ਹਰਿਆਣਾ ਦੇ ਜੀਂਦ ਦੀ ਹੈ ਜਿੱਥੇ ਹਾਲ ਹੀ ਦੇ ਵਿੱਚ ਵੱਡੀ ਗਿਣਤੀ 'ਚ ਕਿਸਾਨਾਂ ਨੇ ਕਿਸਾਨ ਆਰਡੀਨੈਂਸ ਬਿੱਲ ਦੇ ਖਿਲਾਫ ਪ੍ਰਦਰਸ਼ਨ ਕੀਤਾ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "बिहार निवडणुकीत भाजप-जेडीयूने दारुच्या बाटल्या वाटण्याची तयारी केली",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "„Ukoliko ne budemo uspeli da ostvarimo veći rast od 2 odsto u ovoj godini to će za nas i dalje biti vrlo slično godini krize jer se neće poimati veći osećaj nekog boljitka koji se ostvario.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "भक्तो की बुआ पाकिस्तान में भी है",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "Co trzeci Polak próbuje ograniczyć emisję zanieczyszczeń powietrza, a 40 proc. ogranicza picie butelkowanej wody - wynika ze zleconego przez resort klimatu badania poziomu świadomości i postaw wobec jakości powietrza, gospodarki odpadami i butelek zwrotnych.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "W 2014 r. w Polsce mieliśmy ponad 151 tys. lekarzy zatrudnionych w ochronie zdrowia, obecnie mamy 172 tys.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "एक व्यक्ति ने अपील की है कि उसकी पत्नी और बेटी कोरोना संक्रमित हैं, उनके लिए दुआ करें.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Naša struja je ubedljivo najjeftinija u Evropi, 30 odsto je jeftinija nego što imaju zemlje koje imaju najjeftiniju struju u regionu.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਸ਼੍ਰੋਮਣੀ ਅਕਾਲੀ ਦਲ ( ਡੇਮੋਕ੍ਰੇਟਿਕ) ਦੇ ਪ੍ਰਧਾਨ ਤੇ ਰਾਜ ਸਭਾ ਮੈਂਬਰ ਸੁਖਦੇਵ ਸਿੰਘ ਢੀਂਡਸਾ ਨੇ ਬਿਆਨ ਦਿੰਦਿਆਂ ਕਿਹਾ ਹੈ ਕਿ ਸੁਖਬੀਰ ਬਾਦਲ ਵਲੋਂ ਰਾਮ ਰਹੀਮ ਨੂੰ ਭੇਂਟ ਕੀਤੀ ਗਈ ਪੁਸ਼ਾਕ ਪ੍ਰੇਮ ਸਿੰਘ ਚੰਦੂਮਾਜਰਾ ਨੇ ਡੇਰੇ ਤਕ ਪਹੁੰਚਾਈ ਸੀ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "Tak jak przy 6-latkach była obawa, że 7 tys. osób straci pracę, mamy dodatkowych 1 tys. miejsc pracy.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„U martu su se pojavili prvi pozitivni signali što se tiče zaposlenosti, jer je zabeležen blagi porast broja zaposlenih, ali će se tek videti da li će to značiti i početak novog trenda.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "आयकर रिटर्न भरने की अंतिम तारीख बढ़कर हुई 30 सितंबर 2019",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਇਕ ਤਸਵੀਰ ਵਾਇਰਲ ਹੋ ਰਹੀ ਹੈ ਜਿਸ ਵਿੱਚ ਇੱਕ ਬੱਸ ਦੇ ਉੱਤੇ ਡਾ ਭੀਮ ਰਾਓ ਅੰਬੇਦਕਰ ਅਤੇ ਉਨ੍ਹਾਂ ਦੀ ਪਤਨੀ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਅਮਰੀਕਾ ਦੇ ਕੋਲੰਬੀਆ ਵਿਖੇ ਬੱਸ ਤੇ ਸਨਮਾਨ ਵਜੋਂ ਡਾਕਟਰ ਭੀਮ ਰਾਓ ਅੰਬੇਡਕਰ ਅਤੇ ਉਨ੍ਹਾਂ ਦੀ ਪਤਨੀ ਦੀ ਤਸਵੀਰ ਲਗਾਈ ਗਈ ਹੈ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "कंगना राणावत के सम्मान में, 1000 गाड़ियों के साथ करणी सेना महाराष्ट्र रवाना। जय भवानी जय राजपूताना। अब देखो हमारी ताकत।।। जय श्रीराम",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "В прошлом году по этому показателю [Получение разрешения на строительство в рейтинге Doing Business-ред.] Казахстан поднялся сразу на 17 позиций и занял 35 место в мире",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "ভিডিওটি শাহীনবাগের, মহিলাদের অবস্থান বিক্ষোভের।",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Ponad milion osób w Polsce pracuje na samozatrudnieniu.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Astronomiczne zadłużenie (miasta) wynosi 1,48 miliarda złotych.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "पुण्यातील ससून हाॅस्पिटलमध्ये रुग्णांची गर्दी झाल्याचा व्हिडिओ",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "“Od 2014. sam na čelu odbora koji kontroliše vojsku i policiju. Uvela sam praksu da na tri meseca dolaze ministar policije i vojske koji podnose informaciju o radu.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "W czerwcu na posiedzeniu Senatu wiceminister rodziny Iwona Michałek była obecna i zaprzeczała wielokrotnie i bardzo kategorycznie, jakoby były prowadzone jakiekolwiek prace ws. wypowiedzenia konwencji antyprzemocowej.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "दुनिया के सबसे बड़े अनाकोंडा को रॉयल ब्रिटिश कमांडोज ने 37 दिन के संघर्ष के बाद मार डाला. इसने 257 इंसानों और 2325 जानवरों की जान ली थी. यह 134 फुट लंबा और 2,067 किलो वजनी है.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "W 2010 r. decyzją prezydenta Obamy i NATO przyjęto tak zwane plany ewentualnościowe, dla Polski i Litwy, Łotwy, Estonii, gdzie bardzo precyzyjnie opisano, jak NATO, czyli też Polska będą broniły tych terytoriów.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Żywność w Polsce zdrożała najbardziej w całej Unii Europejskiej.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "В Казахстане отменили смертную казнь",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "आठवडाभर गरम वाफ घेतली तर कोरोना नष्ट होऊ शकतो",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "Kiedy byłem w Sejmie, głosowałem przeciwko podwyższeniu wieku emerytalnego.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "बडवाइजर ने स्वीकार किया है कि उसके कई कर्मचारी सालों से कंपनी के बीयर टैंक में पेशाब कर रहे हैं.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "अगर हमारी सरकार गिरी तो पूरे देश में आग लगा दूंगा — योगी आदित्यनाथ, नादान ये देश तेरे बाप का है...?",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "সুদানের মডেল ন্যাকেম গ্যাটউইককে তার গায়ের রঙের কারণে গিনেস ওয়ার্ল্ড রেকর্ডের শিরোপা দেওয়া হয়েছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "গুগল ভারতীয় মানচিত্র থেকে নিয়ন্ত্রণ রেখা সরিয়ে দিয়েছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "શ્રી રામ નગરી અયોધ્યા ની સજાવટ જયશ્રીરામ",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "बिहार की ये तस्वीर नीतीश राज के 15 साल के विकास को दिखाती है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Ja tylko przypomnę, kto sprywatyzował w Łodzi elektrociepłownię. SLD w 2004-5 roku.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "दिल्ली में सांप्रदायिक नारा लगाते मुस्लिमों का वीडियो.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ছবির জাহাজটি বিশ্বের সব থেকে বড়ো জাহাজ",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਸਾਬਕਾ ਭਾਰਤੀ ਕ੍ਰਿਕਟਰ ਕਪਿਲ ਦੇਵ ਨੂੰ ਲੈ ਕੇ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਸਾਬਕਾ ਭਾਰਤੀ ਕ੍ਰਿਕਟਰ ਦਾ ਦਿਹਾਂਤ ਹੋ ਗਿਆ ਹੈ।",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "„Ako se pogledaju oni uslovi koji su bili postavljeni, Akcioni plan praktično je u potpunosti ispunjen.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Izdvajanjа za nauku u Srbiji 1% BDP-a su niža od proseka EU, oko 2% BDP-a u 2013. godini. Iz privatnog sektora dolazi svega 7,5% svih ulaganja u nauku što je značajno ispod proseka EU gde čak 55% svih ulaganja u nauku čine investicije privatnog sektora.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "राजस्थान पुलिस के एक सिपाही द्वारा युवक के साथ बदसलूकी करने का वीडियो",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Očekujem da ćemo sledeće godine imati najveću stopu ekonomskog rasta u regionu.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "पालघर साधु हत्यांकांडाचा मुख्य हत्यारा एनसीपी नेताे संजय शिंदे याचा कार अपघातात जळून मृत्यू झाला.",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "ગંગામાં સ્નાન કરવાથી, યમુના-જળનું આચમન કરવાથી, જ્યારે નર્મદાના માત્ર દર્શનથી પાપ ધોવાઇ જાય છે. લો.... ત્યારે આજે, મધ્યપ્રદેશમાં આવેલા જબલપુર સીટી થી 25 કિલોમીટર દૂર ભેડાઘાટ નામના આરસપહાણના પર્વત પરથી ધોધરૂપે નીચે પડતાં નર્મદા-જળના દર્શન કરો. આ ધોધને કારણે અહીં ધુમ્મસ ઉત્પન્ન થાય છે, જેથી આ ધોધને ધુંઆધાર ધોધ કહે છે.",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "“Od 2012. godine do danas, uspeli smo da prepolovimo trgovinski deficit koji imamo sa EU.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "मालेगावमध्ये युनानी काढ्याचा वापर केल्याने कोरोनाचे रुग्ण बरे झाले व नवीन एकही रुग्ण आढळलेला नाही",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "ਸੋਸ਼ਲ ਮੀਡੀਆ ਤੇ ਆਰਮੀ ਲੈਫਟੀਨੈਂਟ ਜਨਰਲ ਤਰਨਜੀਤ ਸਿੰਘ ਨੂੰ ਲੈ ਕੇ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਆਰਮੀ ਜਨਰਲ ਤਰਨਜੀਤ ਸਿੰਘ ਨੂੰ ਦੇਸ਼ਧ੍ਰੋਹ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਗ੍ਰਿਫ਼ਤਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "সুদানের মডেল ন্যাকেম গ্যাটউইককে তার গায়ের রঙের কারণে গিনেস ওয়ার্ল্ড রেকর্ডের শিরোপা দেওয়া হয়েছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "आमिर खानचा सहकलाकार जावेद हैदरवर बेरोजगारीमुळे लाॅकडाऊनमध्ये भाजी विकण्याची वेळ आली आहे.",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "প্রতিবেদনের এই ছবিতে সম্প্রতি স্ত্রীকে বেতন দিতে স্বামীদের জন্য কেন্দ্রের আইন প্রণয়নের ভাবনাচিন্তার কথা রিপোর্ট করা হয়েছে",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "গত পাঁচ বছরে বিজেপি শাসিত রাজ্যে মানুষ অত্যাচারিত হয়েছে।",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Даже при официальных темпах роста цен только за 7 месяцев домохозяйства понесли дополнительные затраты на продукты 225 млрд тенге",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "दिल्ली के शाहदरा मोड़ के पास गैस का टैंकर लीक होने से भयंकर आग लगी.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Ova skupštinska većina i ova vlast je 94 odsto svih nepravilnosti i svega onoga što je ukazao Zaštitnik građana ispravila.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "बुर्का पहनकर 12वीं की परीक्षा देने वाली लड़कियों को सरकारी चिट्ठी का प्रिंट आउट लेकर परीक्षा केंद्र जाना है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "हिंदू घर मालिक के खाने में अपना पेशाब मिलाती मुस्लिम घरेलू सहायिका का वीडियो.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "„Pokrenuli smo veoma težak, ali odlučan program reformi sa MMF-om. Uspeli smo da postignemo izvanredne rezultate. Naš budžetski deficit je u 2014. iznosio oko 6,2 odsto BDP-a, dok smo u 2018. godini imali fiskalni suficit od 0,6 odsto. Treću godinu zaredom smo ostvarili suficit. Javni dug je u 2014. godini iznosio oko 70 odsto BDP-a, sada iznosi 50,6 odsto.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Jastrzębska Spółka Węglowa w stosunku do najniższych notowań osiągnęła w najlepszym momencie prawie 1000% zwiększenia wartości na giełdzie.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "„U prvim mesecima 2011. godine imamo odlične pokazatelje izvoza poljoprivrednih proizvoda iz Srbije, koji je za 40 odsto veći nego prošle godine.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Chciałbym przeczytać wpis pana ministra Schreibera, który kilka minut temu występował na tej mównicy. To jest wpis sprzed kilku lat, dosyć świeży. Cytuję: \"Setki razy tłumaczyłem: w komisji, w mediach, tutaj na Twitterze czy na sali plenarnej: głosowanie korespondencyjne niesie ryzyko fałszerstw – patrz: powtórzone wybory w Austrii rok temu – i jest dozwolone jedynie w 13 na 28 krajów Unii Europejskiej podczas wyborów samorządowych.\"",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "कश्मीर में पुलिस के मुहर्रम जुलूस रोकने का ताजा वीडियो.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Mamy najniższą kwotę wolną od podatku w Europie. My proponujemy podwyższenie jej do 30 tysięcy, tak, żeby dochód do 4000 złotych miesięcznie w ogóle nie był opodatkowany.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "213 профессии запрещены для женщин в Казахстане",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "„Kada sam preuzeo vladu od tada su samo dve zemlje priznale nezavisnost Kosova. To su Antigva i Barbuda i Togo, ako se ne varam. Samo te dve zemlje, sve ostalo sam nasledio.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "В Казахстане отменили смертную казнь",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "जलते ट्रक की ये तस्वीर 11 अगस्त को बेंगलुरु में हुए दंगे की है, जब भीड़ ने आगजनी की",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Są już województwa takie jak na przykład województwo lubuskie, w którym w styczniu nastąpił 10% wzrost urodzeń.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "কংগ্রেসের সচিন পাইলট বিজেপিতে যোগদান করলেন",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "Jakbyśmy porównywali bezrobocie w roku 2007, to ono było wyższe niż to, które przekazywaliśmy w roku 2015.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "पाकिस्तान में गृह युद्ध छिड़ गया है. पाकिस्तानी सेना और कराची पुलिस के बीच फायरिंग शुरू हो गई है.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "पुद्दुचेरी विद्यापीठाच्या विद्यार्थ्याचा कोरोनावरील घरगुती उपाय WHO ने स्वीकारलेला",
+        "label": "false",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "U Srbiji 90 odsto đaka posle srednje škole upisuje fakultet, a poznato je da u fabrikama nedostaju majstori.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "নতুন ট্রাফিক আইন চালু হওয়ার পর কি কেন্দ্রীয় মন্ত্রী নিতিন গড়কড়ি বিনা হেলমেটে স্কুটার চালাচ্ছেন",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "U Srbiji 90 odsto đaka posle srednje škole upisuje fakultet, a poznato je da u fabrikama nedostaju majstori.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "जर्मनी की एक तस्वीर जहां विदेशी बच्चे गुरुकुल में सनातन सभ्यता अपना रहे हैं.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "“Od 2014. sam na čelu odbora koji kontroliše vojsku i policiju. Uvela sam praksu da na tri meseca dolaze ministar policije i vojske koji podnose informaciju o radu.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "ਬਰਨਾਲਾ ਤੋਂ ਸ਼੍ਰੋਮਣੀ ਅਕਾਲੀ ਦਲ ਦੇ ਨੇਤਾ ਦਵਿੰਦਰ ਸਿੰਘ ਬੀਹਲਾ ਨੇ ਬਿਆਨ ਦਿੰਦਿਆਂ ਕਿਹਾ ਹੈ ਕਿ ਸੁੱਚਾ ਸਿੰਘ ਲੰਗਾਹ ਦੀ ਵਾਪਸੀ ਸ਼੍ਰੋਮਣੀ ਅਕਾਲੀ ਦਲ ਦੇ ਵਰਕਰਾਂ ਚ ਨਵਾਂ ਜੋਸ਼ ਭਰਨ ਦਾ ਦਾ ਕੰਮ ਕਰੇਗੀ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "„Ako se pogledaju oni uslovi koji su bili postavljeni, Akcioni plan praktično je u potpunosti ispunjen.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Zwiększenie nadzoru nad sądami powszechnymi było zresztą znane wszystkim tym, którzy czytali program ‒ było postulatem wyborczym programowym Prawa i Sprawiedliwości. Ale nie nad Sądem Najwyższym – nie było tam takiego postanowienia.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "ਦੇਸ਼ ਦੇ ਜਵਾਨਾਂ ਤੋਂ ਵੱਡਾ ਕੰਮ ਅਸੀਂ ਕਰਦੇ ਹਾਂ, ਸ਼ਹੀਦ ਹੋਣਾ ਵੱਡੀ ਗੱਲ ਨਹੀਂ: ਅਮਿਤ ਸ਼ਾਹ",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "મધ્યપ્રદેશના પૂર્વ CM દિગ્વિજય સિંહ અને કોંગ્રેસ નેતાની પુત્રી શ્રેયાંશી સિંહ ભાજપમાં જોડાઈ છે.",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "मुख्यमंत्री उद्धव ठाकरे रिपब्लिक न्यूज चॅनल पाहत असल्याचा फोटो",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "अरब और यहूदियों ने इजरायल और सऊदी अरब में एक दूसरे के देश में दूतावास खुलने पर डांस कर खुशी जाहिर की.",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "„U prvim mesecima 2011. godine imamo odlične pokazatelje izvoza poljoprivrednih proizvoda iz Srbije, koji je za 40 odsto veći nego prošle godine.“",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“Nikada nisam lagao naš narod u Srbiji i da kažem bićemo sigurno do 2020. deo Evropske unije. Ja sam rekao da ćemo mi da ispunimo ono što je do nas, ono što mi možemo i što moramo da uradimo do 2019, a onda je na Austriji, Nemačkoj, Francuskoj i drugim evropskim zemljama da donesu odluku da li žele da nas prime u EU ili ne.”",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "કોરોના વાઈરસ ને કારણે IPL-2020 બંધ રહેશે",
+        "label": "partly true/misleading",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "Miasto wspomaga (…) [schronisko Na Paluchu – przyp. red.] kwotą ok. 9 milionów złotych.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Ponad milion osób w Polsce pracuje na samozatrudnieniu.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "हाल ही में दिवंगत गायक एसपी बालासुब्रमण्यम का परिवार अस्पताल का बिल भरने में सक्षम नहीं था. तमिलनाडु सरकार के मना करने के बाद केंद्र सरकार ने मदद की.",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "„Ova vlada pre tri godine je obećala smanjenje taksi i parafiskalnih nameta. A šta je rezultat toga? Pre tri godine, bilo je 360, a sad je taj broj 384. Sа usvajanjem Zakona o privatnom obezbedjenju imaćemo još jednu novu, 385. taksu“.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "„Od 1910. do 2013. imali smo svake godine dramatičan pad stočarske proizvodnje. Došli smo na nivo ispod 1910. godine.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Wzrasta bezrobocie. W czerwcu osiągnęło ono już poziom 6,1% i wśród wszystkich nowych bezrobotnych, największy odsetek jest ludzi młodych, do 30 r. ż., to jest 40 tys. ludzi.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "हेलिकाॅप्टर- टेम्पो अपघाताचा व्हिडिओ भारतातील आहे.",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "ਪਾਕਿਸਤਾਨ ਦੇ ਹਸਪਤਾਲ ਦੇ ਬਾਹਰ ਕਰੋਨਾ ਮਰੀਜ਼ਾਂ ਦਾ ਹਾਲ ਦੇਖੋ",
+        "label": "partly true/misleading",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "ছবিতে ফেসবুক কর্মী আঁখি দাসকে জাতীয় পতাকার কেককে কাটতে দেখা যাচ্ছে",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "„U prvih pet meseci imali smo deficit od 25 milijardi dinara umesto planiranih 90 milijardi, što je tri i po puta manje od onoga čime bi MMF bio zadovoljan.“",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Eutanazja to jest chyba w dwóch krajach w ogóle Unii Europejskiej, dwóch albo trzech krajach.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "W 2014 r. w Polsce mieliśmy ponad 151 tys. lekarzy zatrudnionych w ochronie zdrowia, obecnie mamy 172 tys.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "अलीगढ़ मुस्लिम यूनिवर्सिटी में लगे मोदी के ड्रैकुला वाले पोस्टर",
+        "label": "false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "ছবিতে এবছরের সেপ্টেম্বরের ২৫ তারিখে হরিয়ানায় হওয়া কৃষকদের সমাবেশকে দেখতে পাওয়া যাচ্ছে",
+        "label": "partly true/misleading",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "કોરોના એક વાયરસ નથી પરંતુ બેક્ટેરિયા છે, જેનો ઈલાજ ખુબજ સરળ છે.",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "Radni nie udzielili mi absolutorium, choć trzy lata z rzędu byli za.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Profesor Herczyński, na którego badania czy artykuł pani (Anna Zalewska – przyp. Demagog) się powołuje, argumentując konieczność likwidacji gimnazjów, mówi wprost: Nikt mnie o zdanie nie pytał. A na pytanie dziennikarki, czy należy likwidować gimnazja, odpowiada twardo: Nie.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "নতুন ট্রাফিক আইন চালু হওয়ার পর কি কেন্দ্রীয় মন্ত্রী নিতিন গড়কড়ি বিনা হেলমেটে স্কুটার চালাচ্ছেন",
+        "label": "mostly false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "केरल में एयर इंडिया एक्सप्रेस विमान दुर्घटना में मारे गए कैप्टन दीपक साठे का वीडियो, जिसमें वे मशहूर गाना 'घर से निकलते ही' गा रहे हैं.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "80 proc. poznaniaków to wierzący katolicy.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "राहुल गांधी के काफिले को रास्ता देने के लिए एम्बुलेंस को रोका",
+        "label": "mostly false",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "अमेठी में ग्रामीणो ने बच्चा चोरों को पकड़ा.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "বাডওয়াইজার স্বীকার করেছে, বছরের পর বছর ধরে বেশ কয়েকজন কর্মচারী তাদের বিয়ার ট্যাঙ্কগুলিতে মূত্রত্যাগ করছেন",
+        "label": "false",
+        "site": "dailyo.in",
+        "language": "bn"
+    },
+    {
+        "claim": "हाल में हुई एक घटना में सूडान में मुसलमानों ने फ्रांस के दूतावास में आग लगा दी.",
+        "label": "partly true/misleading",
+        "site": "aajtak.in",
+        "language": "hi"
+    },
+    {
+        "claim": "Co trzeci Polak próbuje ograniczyć emisję zanieczyszczeń powietrza, a 40 proc. ogranicza picie butelkowanej wody - wynika ze zleconego przez resort klimatu badania poziomu świadomości i postaw wobec jakości powietrza, gospodarki odpadami i butelek zwrotnych.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "व्हायरल व्हिडिओ पुण्यातील भांडारकर रोडवरील वाईन शाॅपसमोर वाईन खरेदीसाठी महिलांंची रांग लागल्याचा आहे.",
+        "label": "partly true/misleading",
+        "site": "marathi.newschecker.in",
+        "language": "mr"
+    },
+    {
+        "claim": "ਪੰਜਾਬ ਸਰਕਾਰ ਨੇ ਕੋਰੋਨਾ ਵਾਇਰਸ ਦੇ ਕਾਰਨ 25 ਮਾਰਚ ਤਕ ਵਿਦਿਅਕ ਅਦਾਰਿਆਂ ਨੂੰ ਬੰਦ ਕਰਨ ਦਾ ਐਲਾਨ ਕੀਤਾ।",
+        "label": "false",
+        "site": "punjabi.newschecker.in",
+        "language": "pa"
+    },
+    {
+        "claim": "ફ્રાન્સના પ્રખ્યાત ફૂટબોલર પોલ પોગ્બા ઇસ્લામ અંગે ફ્રેન્ચ રાષ્ટ્રપતિના નિવેદનના વિરોધમાં ફૂટબોલ રમતથી નિવૃત્ત થયા છે.",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    },
+    {
+        "claim": "the law of this country is only for poor people",
+        "label": "false",
+        "site": "gujarati.newschecker.in",
+        "language": "gu"
+    }
+]
