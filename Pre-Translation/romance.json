@@ -1,0 +1,3602 @@
+[
+    {
+        "claim": "Le Nigeria dépense 7 fois moins en soins de santé par habitant que l'Afrique du Sud.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Le quart bloquant a été supprimé de la Constitution sénégalaise. Il n'existe plus depuis 2006.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "«Fin quando siamo stati al governo noi, avevamo una disoccupazione inferiore di due punti alla media europea, oggi abbiano una disoccupazione superiore di due punti alla media europea. La disoccupazione giovanile è addirittura drammatica, al 32%; significa che 3 giovani su 10 non hanno un lavoro»",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Il surplus commerciale della Germania viola le regole europee?",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“La Argentina tiene recursos de gas no convencional que la ubica segunda en el ranking mundial después de China”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le groupe de lutte contre la pauvreté ONE met en lumière 10 pays, dont neuf en Afrique, où il est « le plus difficile » pour les filles d’avoir accès à l’éducation.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Domenica al museo o allo stadio?",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“En Educación pasamos del 25% del total de presupuesto al 17%, 8 puntos. En Salud pasó algo similar, de 19% a 14%”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "[Houve] queda na mortalidade infantil",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "«[L'Italia è il] primo Paese per quanto riguarda il numero dei caschi blu, l'ottavo contributore al mondo per quanto riguarda il budget [delle missioni di pace]»",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Sepan que cuando llegamos al Gobierno, las tarifas [de luz], una parte de la boleta se pagaba en dólares”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "A troca de palavras de hoje entre Carlos César e Fernando Negrão sobr......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Ele [o chá de folha de graviola] não traz quaisquer efeitos colaterais logo, você pode usá-las o tanto quanto você quiser",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Antes de 2011 exportábamos US$ 6.000 millones de combustibles y después empezamos a importar la misma cifra”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“La Argentina ya es uno de los países con mayor índice de pobreza de América Latina”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Con questa legge l’Italia è già oggi il Paese che dà più cittadinanze a cittadini stranieri in tutta Europa",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Hoy tenemos la misma cantidad de obreros industriales que en los ‘90”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "O orçamento [de São Paulo] para assistência social, você tá falando R$ 1,2 bi",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "«Il primo Presidente del Consiglio della storia a tagliarsi lo #stipendio. Orgogliosi di @GiuseppeConteIT!».",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Comunico a todos a indicação do General-de-Exército Fernando Azevedo e Silva para o cargo de Ministro da Defesa",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Neste ano [2018], registramos um saldo de 204 mil vagas com carteira assinada",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Giovani italiani in fuga: quanti e perché?",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "En juin 2017, l’annonce de la découverte d’un prétendu vaccin contre le diabète a resurgi sur plusieurs sites web francophones largement repris sur les réseaux sociaux.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“Nada más que por el anuncio, ya bajaron el 36% las computadoras”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le Sénégal a réduit son taux de malnutrition de 50%, selon le directeur pour l'Afrique de l'International Food Policy Research Institute (IFRI).",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Le imprese italiane non sono «le più tassate al mondo»",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "«Esistono delle normative europee che definiscono target obbligatori di riciclo del 65% nel 2025 e del 70% nel 2030 con il divieto di bruciare rifiuti riciclabili»",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“De 79 mil empleos (mineros) en 2003, pasamos a casi medio millón en la actualidad”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Durante a manifestação de hoje que mobilizou milhares de professores ......",
+        "label": "half true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "a los 80 días desde el primer caso, la Argentina tiene 10 mil casos; Chile, 60 mil y Brasil, 200 mil",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "L’Algeria ci ruba il mare di fronte alla Sardegna?",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "O prêmio de melhor jogador da Copa é dado ao destaque do time campeão",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "«Ecco i costi della regolarizzazione dei 600.000 clandestini del governo Pd e M5Stelle: 550 milioni di euro!»",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "« Depuis 2016, le Sénégal a gagné 26 places dans le classement international Doing Business »",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Nós só temos cinco consulados lá [nos Estados Unidos]",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "[La minor spesa per il reddito di cittadinanza] non è deficit. Questo dimostra proprio che non è deficit come si diceva",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“[Tuvo] la inflación más alta de los últimos 25 años”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le Sénégal, premier prodcteur de sel, d'Afrique de l'*Ouest, importe pourtant le quart de sa consommation.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Un Nigerian sur cinq souffre de dépression à long terme.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "«[Il ministro dell’Economia e delle Finanze Roberto Gualtieri] ha appena annunciato che se sei in arretrato con i pagamenti ti possono pignorare i conti. Secondo me siamo all’Unione sovietica fiscale perché siamo allo Stato di polizia fiscale»",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Le Nigéria, premier producteur de bébés infectés par le VIH",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "«Il regolamento di Dublino, penalizzante per l’Italia, non viene abolito ma rimane in vigore e il principio di accoglienza per il Paesi di primo ingresso rimane intatto con grave pregiudizio per l’Italia»",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Les femmes portent l’ADN masculin de tous ceux avec qui elles ont eu des rapports intimes",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Des subventions allouées à 100 daaras, 64 daaras modernes mis en place et un cadre juridique, annonce le gouvernement du Sénégal, dans un livre blanc sur ses réalisations entre 2012 et 2017.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "No Chile, US$ 26 mil de renda per capita, quase o dobro do Brasil",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Davvero alla Camera bar e ristoranti non accettano il bancomat?",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Quanto spendono Italia ed Europa per l’immigrazione",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Eu aumentei [em] 53% [o efetivo da] a Polícia Civil do meu estado",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "«Il Parlamento europeo toglie l'immunità a Marine Le Pen, “colpevole” di aver pubblicato sui social le decapitazioni fatte dall'Isis»",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“El rol de las PyMEs en nuestro país es clave",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "90 % des maires du pays ont un salaire de moins de 300 000 francs CFA.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Possiamo farcela se arriviamo prima di altri a rispondere ai bisogni delle 900 mila madri single del nostro paese di cui ben la metà rischia la povertà e certamente più in difficoltà delle altre madri",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "AVISO IMPORTANTE PARA QUEM DIRIGE: Não higienize a chave do carro com álcool em gel ou líquido 70%. Muitos acidentes estão ocorrendo por isso. O incêndio que houve em uma garagem em Belém, foi decorrente de uma chave de carro higienizada com álcool gel 70%, que ao ser colocada na ignição do veículo gerou uma faísca e acabou incendiando o veículo",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Somos a terceira capital melhor avaliada [no Ideb]",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Quello che Salvini non dice sui tamponi (non) fatti in Lombardia e Veneto",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "I giovani muoiono soprattuto per incidenti stradali, ma sempre meno",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Les héritiers de Léopold Sédar Senghor perçoivent, par an, plus d'un milliard FCFA au titre des droits d'auteur de l’hymne national du Sénégal.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Dove si vota a 16 anni nel mondo?",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Las convenciones colectivas de trabajo eran 200 en el año 2002 y ahora son aproximadamente 1500”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "É um dos hits maiores da banda de Salford (Manchester) mas trata-se d......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "La statua della Madonna sorvolerà tutta l'Italia, isole comprese per chiedere la cessazione della Pandemia",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Hay 800 mil pensiones por invalidez de más. Son más que los muertos de Estados Unidos, Reino Unido, Francia, Polonia, Grecia y los Países Bajos juntos en la Segunda Guerra Mundial”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "L’Italia “Equatoriale” e l’eterno dibattito sul bicameralismo perfetto",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Desde agosto para acá hemos creado 82 mil nuevos puestos de trabajo formales”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Claramente hubo en las PASO un fraude muy, muy grande”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Per l’undicesimo mese consecutivo l’attività manifatturiera italiana è in contrazione.",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Há mais ou menos dois meses, falei em entrevista que já teria tirado o Brasil do conselho [de Direitos Humanos] da ONU (...). Este atual apoio a um corrupto condenado e preso é só mais um exemplo da nossa posição",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "In Italia i profughi veri arrivano in aereo",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "durante el paro del campo “hubo varias víctimas fatales”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "45% des femmes nigeriannes se marient avant l'âge de 18 ans.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "La Côte d'Ivoire, première économie de l'UEMOA et membre du top10 mondial de la croissance économique, a dit son Premier ministre.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Uma gravação amplamente divulgada nas redes sociais denuncia um servi......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Il Parlamento Europeo e i foreign fighters",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Il Rei arrivava a 1,3 milioni di persone. Il Rdc – ad oggi – a 1,4 milioni. E le politiche attive? Sono totalmente al palo. Le regioni non hanno neanche mai ricevuto gli elenchi dei beneficiari.",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“La Argentina es un país que consume el 70% de lo que produce”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "30. Estabelecer, no primeiro ano de governo, uma parceria com o Ministério Público e com o Conselho Tutelar para combater a exploração de crianças nas ruas pelos próprios pais ou por outros adultos",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "A concessão do Parque do Ibirapuera, por exemplo, (...) foi parada pela gestão anterior [do governo do estado], que criou dificuldades e embaraços para que a gente avançasse",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“El año pasado hubo 3.262 personas asesinadas”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Reduzimos para 12 o número de secretarias e à metade o número de cargos de comissão",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Mar 12, 2020 — Der Bundestag will Kommunalpolitiker besser vor Hasskriminalität und ... weiß, wovon er spricht: Er hat selbst Morddrohungen bekommen.",
+        "label": "mostly false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Tem sido partilhado nas redes sociais uma informação segundo a qual q......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "« Les ressources de l’Etat ont connu une hausse de 3,4% entre 2016 et 2017 »",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“O prefeito recebeu nesta pandemia, dados do último dia 16, R$ 153 milhões e ele só conseguiu gastar 29,5% desses recursos efetivamente pagos”",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Non solo referendum: le leggi di iniziativa popolare",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "«Gli ultimi dati dell’Inail dicono che 300 persone al giorno in Italia si contagiano sul posto di lavoro e dieci muoiono. E il lockdown si è allentato da una settimana soltanto»",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Tenho projeto de lei que visa a castração química [para o condenado por estupro]",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Surgiram nas redes sociais várias publicações indicando que Klaus Püs......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Ma in Veneto i bambini vaccinati aumentano o no?",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "« Les énergies renouvelables ne représentent que 18% de la capacité actuelle de production d’électricité de l’Afrique. Par conséquent, le développement de solutions alternatives hors réseau pourrait créer beaucoup plus de possibilités et transformer des millions de vies »",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Foram fechados 37 postos de saúde em plena pandemia em Curitiba",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Uma reedição do álbum de estreia do trio londrino, de 2009, incluiu u......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "È vero: la legge sui vaccini funziona",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“(...) a EPTC, só no ano passado, faturou R$ 80 milhões [em multas de trânsito]”",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Crear una policía judicial”\tother\nes\tchequeado.com\tCFK: “Hoy con la comida estamos igual que Venezuela”. Falso. ¿Qué significa?\tSorry, hoy con la comida estamos igual que Venezuela, lanzó Cristina Kirchner durante la presentación de su ...",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "« Aujourd’hui, en milieu urbain, nous avons pratiquement un taux d’accès à l’eau potable de près de 98,8 % ; en milieu rural : 91 % à peu près. Ce qui nous fait une moyenne de 95 % »",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Tivemos missão de paz naquele país [Moçambique] na década de 90",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "« Sur les 55 pays de l’Union Africaine, le Sénégal fait partie des 5 pays à risque de surendettement faible. Et parmi les pays membres de la Cedeao, le seul à risque de surendettement faible ».",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“Cuando fui Presidente del Banco Central asumí con una inflación del 40%. La bajamos al 4% en un año”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "O escritor de \"Prometo Falhar\" escreveu no Facebook que o Estado recu......",
+        "label": "true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "É alegado numa publicação no Facebook que o vírus que está a causar a......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "“La deuda pública a fin de año representará el 87% del PBI”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“O município de Fortaleza gasta cerca de 30% [do orçamento] em saúde pública.”",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Os donativos para ajudar a bebé que está a emocionar os portugueses a......",
+        "label": "half true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "“Nós não vamos ter redução de orçamento (...) na Secretaria do Desenvolvimento Econômico e Trabalho”",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "«Porti aperti e gli ingressi in Italia tornano alle stelle»",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "« Le Sénégal a la 4ème meilleure police d’Afrique »",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "«Multa da 98mld alle slot fu cancellata da magistratura non da mio governo».",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“La inflación de 2017 fue menor a la de 2016″",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Junín tiene índices de criminalidad comparables a los de Rosario”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“[La economía] lleva 8 años estancada”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Nel 2014 il Parlamento europeo costava 1,737 miliardi: in appena 5 anni è cresciuto di oltre 300 milioni. […] Lo spreco più grande è sicuramente la doppia sede di Strasburgo. Questa assurdità costa ai contribuenti quasi 200 milioni all’anno, che equivale praticamente al 10 per cento dell’intero bilancio del Parlamento",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Circula nas redes sociais uma publicação denunciando que Portugal est......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Le Produit intérieur brut (PIB) de Lagos est plus élevé que ceux cumulés du Cameroun, de la Côte d'Ivoire et Sénégal.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Depois das declarações homofóbicas da ministra brasileira que tutela ......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Cristiano Ronaldo ha trasformato i suoi alberghi in ospedali gratuiti per la lotta al nuovo coronavirus",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“No teníamos más cortes de luz”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“El PRO en varias elecciones ha superado el cupo femenino”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Faltaba triplicar los parques industriales”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“El 98% de la población de La Matanza está conectada a la red de agua potable”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "«[Nei decreti \"Rilancio\" e “Cura Italia”] che cosa c'entra il Covid con la proroga della concessione aeroportuale di Fiumicino ai Benetton, che vale un regalo da oltre un miliardo?» (min. 6:11)",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "No orçamento de 2017, segundo o projeto de lei apresentado, não está previsto o aumento de imposto",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "M5S/Lega volevano ridurre la pressione fiscale: lo hanno fatto?",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Sulla castrazione chimica Matteo Salvini ha ragione",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Será que é verdade que desde o governo de Cavaco Silva não havia tão ......",
+        "label": "true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Le Sénégal est le 5e pays africain dans la lutte contre le paludisme.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "E eles [Transparência Internacional] produziram mais de 70 propostas para combate à corrupção",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Renzi e l'Africa che cresce",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Quem criou a CPMF foi o Fernando Henrique Cardoso",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Un étranger ne peut pas investir dans les banques, l’immobilier et la grande distribution en Ethiopie.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Haddad ladrão rouba a foto do carnaval de Salvador e chama de foto da virada!",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Scolarizzazione dei Rom, a che punto siamo?",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Le taux de pauvreté a augmenté passant de 47 à 56 % de 2011 à 2015.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Le secteur public finance moins de 50 % des dépenses de santé en Afrique de l’Ouest, a récemment déclaré un expert ouest-africain.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "La Chine finance les projets d’infrastructures en Afrique plus que la BAD, l’UE, la SFI, la Banque mondiale et le G8 réunis.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“La inversión privada a tan solo tres meses de salir del default suma en anuncios más de US$ 35 mil millones”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "«Sono migliaia gli emiliani e i romagnoli che vanno altrove a farsi curare [...]. Sono più quelli che escono [di quelli che arrivano]»",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Combien de pays y a-t-il en Afrique?",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "De acordo com uma publicação que está a circular no Facebook, a Franç......",
+        "label": "half true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "“El gasto social creció un 43,5%, eso significa que la inversión hacia los que menos tienen es lo que más creció en el presupuesto”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Somos una provincia récord en materia de reducción de mortalidad infantil”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Enquanto vários grupos privados de saúde anunciam a intenção de rompe......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Maioria dos [partidos] que estão no palanque do Alckmin estavam no palanque da Dilma",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "In Ungheria le tasse sulle imprese sono al 9 per cento e sulle persone fisiche al 15 per cento, e l’Ungheria cresce del 5 per cento",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Le journal Sunday Standard rapporte que des femmes kenyanes font soigner leurs enfants atteints de rougeole avec de la fumée de marijuana.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Les Nigérians sont les immigrés les plus instruits aux Etats-Unis.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“No está perdiendo contra la inflación”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Nesta época do ano, o clima seco e com ventos favorecem queimadas espontâneas e criminosas",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Giorgia Meloni ha ragione sul confronto tra Italia e Austria",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "O Supremo Tribunal Federal me inocentou de uma coisa que você vem e traz de volta para cá [o uso de dinheiro público para contratação de uma funcionária de gabinete para prestar serviço privado]",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Le carceri italiane hanno un problema: sono le più sovraffollate",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Hoy paga lo mismo [de impuesto a las Ganancias] quien gana $5 millones por año que el que gana 250 mil”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "«Il Ministero dell’Interno ha dato indicazioni ai prefetti sulla definizione di “congiunti”, ribadendo l’interpretazione della presidenza del Consiglio dei ministri»",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "«Cresce il consumo di droga e cresce anche la vendita delle armi nel nostro Paese»",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Circula nas redes sociais a informação de que o município de Grândola......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "“De los cuatro puntos del PBI de subsidios, dos puntos van a gente que no lo necesita”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "A África não tem um país com epidemia",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Parole a confronto: la nuova Costituzione italiana e quella tedesca",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "[A Universidade Tiradentes tem] R$ 310 milhões de orçamento anual",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Macri nos deja más de 2 millones de desocupados”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Na hora de ir à praia, há ainda muitas dúvidas: será que é possível m......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "13,9 % des jeunes filles sont excisées au Sénégal.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“Hoy se consume la misma energía para producción industrial que se consumía el 19 de marzo. Y el consumo es más alto”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Seuls 20 % des Africains ont accès à l'électricité, selon la directrice Afrique du Forum économique mondial",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Dalla Tav all'Ilva, le “retromarce” del M5s sono colpa di accordi «all'oscuro degli italiani»?",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Roraima, que exportava arroz, agora [após a demarcação de Raposa Serra do Sol] importa [arroz]",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Paola Taverna sui tagli agli aumenti previsti per la sanità ha (quasi) ragione",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Une fille sur quatre au Sénégal a subi une mitulation génitale féminine.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "[Trabalharemos pela] Redução da nossa maioridade penal, que é o povo quer e deseja",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Bellanova ha ragione: agli agricoltori rimangono le briciole",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“La demanda [eléctrica] se expandió un 41% entre el 2003 y el 2011, casi un 50% más que en la fase neoliberal”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "L'application « Covid » a-t-elle été installée sur vos téléphones à votre insu",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Do ponto de vista da saúde do planeta, a pecuária é uma atividade nociva. É uma atividade altamente [geradora de] efeito estufa",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "« 1200 grossesses en milieu scolaire, Dakar un mauvais élève ».",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Se ele [João Doria] tivesse cumprido [a promessa de não deixar a prefeitura] não estaria com 60% de rejeição na cidade de São Paulo",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "«L'Italia è il quarto Paese nel G7 in termini di percentuale tra aiuto pubblico allo sviluppo e reddito nazionale lordo (0,30% raggiunto quest'anno con alcuni anni di anticipo rispetto a quanto previsto)»",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Sì, l’Europa fece un’emissione di “eurobond” 45 anni fa",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Un governo piccolo piccolo?",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Giulia Grillo sbaglia: i medici e gli infermieri italiani non sono i meno pagati",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "L'Afrique perd chaque année environ 370 milliards de francs CFA, à cause de l'aflatoxine, annonce le Partenariat pour pour la lutte contre l'aflatoxine.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Essa declaração [de que mulheres devem ganhar menos do que homens no mercado de trabalho] não é da minha boca. Botaram na minha conta",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Desde que gobierna Macri sus políticas fundieron a más de tres mil PyMEs”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Maroni e la gravità della scabbia",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“En [los] Estados Unidos para medir la inflación no los toman [a los alimentos y a la energía]”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Joaquim Barbosa se referiu à minha pessoa como o único deputado da base aliada que não foi comprado pelo PT",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Scioli pagó por publicidad oficial $1.500 millones [en 2015]”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Todavía en la Argentina el 55% de los que trabajan se llevan al bolsillo $3200”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le niveau d’endettement du Sénégal est à 65 % du PIB, là où des pays comme le Burkina sont à 32 % et la Côte d’Ivoire à 32%.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "A verdade é que todas essas matérias [voto distrital e voto distrital misto] já foram tratadas quando Eduardo Cunha foi presidente da Casa",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "La production de riz de la campagne 2016 a augmenté de 5% par rapport à celle de l'année précédente et 71% par rapport aux cinq dernières années.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Tutti i soldi dell’Isis",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "La sanità italiana è davvero «un’eccellenza mondiale»?",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "La solution est assez simple",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Mientras pagábamos esas tarifas, la producción de gas declinaba",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le Sénégal compte 1.000 médecins.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Cerca de 72 milhões de euros para quem matar Donald Trump e, depois, ......",
+        "label": "half true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Lo shock fiscale di Trump ha portato in 13 Stati della confederazione americana la disoccupazione sostanzialmente a tasso zero",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "«Il ministro Gualtieri ha firmato per attivare il Mes»",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Ladra é a tua mãe! Condenada. Maria da Saudade Medeiros Braga: condenada a dois anos de prisão por corrupção com dinheiro público",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Salvini fa il politico da quando Di Maio era in prima elementare?",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Eu não tenho faltado à Câmara",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Después de 10 años de paritarias estábamos en un salario [mínimo docente] que estaba por debajo del mínimo, vital y móvil”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Somos la única provincia que pierde año a año participación en la renta federal”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "[Lula] Foi o presidente que mais criou universidades",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "[O Brasil recebeu] Menos de 100 mil [venezuelanos]. A Colômbia recebeu 700 mil",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "en esta elección “batimos el récord de concurrencia electoral”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Furti in appartamento & immigrazione: così la pensa Berlusconi",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "La Tav è parte di un progetto molto più ampio che collega Palermo fino a Kiev",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Hoje não temos problemas com abastecimento de água",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "A Netflix decidiu liberar o acesso a sua plataforma de filmes e séries pelo período de isolamento das pessoas, mas é por pouco tempo o cadastramento! Corre no site",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“7% del PBI es uno de los mayores déficits de la historia de nuestro país”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Verdict du procès de Hissène Habre",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Estamos en uno de los países más cerrados del planeta",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Quando fui secretário aqui em São Paulo, implementei o programa Trabalho Novo, que gerou mais de 2 mil empregos para a população de rua",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "L'anacarde coûte deux fois moins cher en Côte d'Ivoire dans des pays ouest-africains comme le Burkina Faso.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Spread: Italia e Spagna a confronto",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Legenda de vídeo: '[Presidente Bolsonaro,] Não vou falar com você'",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "«Tutti questi fondi [del Recovery fund] sono molto più condizionati del Mes» (min. o:56)",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "[A participação do primeiro-ministro de Israel, Benjamin Netanyahu, na minha cerimônia de posse] Foi a primeira visita de um chefe de governo israelense ao meu país",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Le Sénégal perd 40 000 hectares de forêt par an.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“En el ‘83 las provincias tenían el 49% de los recursos nacionales, hoy el 26%”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Aquí 500 mil chicos al año dejan de estudiar”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Com mais de 100 mil casos [na China]",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Quando Renzi e (una parte della) Lega erano contro la Tav",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Un constituionnaliste français démontre la légalité de la candidature d'Alassane Ouattara",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Boschi imprecisa sui risultati della lotta all'evasione fiscale",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Codice rosso” per i reati sessuali: già in vigore o novità?",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Le Nigeria est le pays qui compte le plus de filles non scolaraisées dans le monde.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Conte ha ragione sui rapporti economici tra Italia e Mozambico",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Qual è il problema con l’olio tunisino",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Le cancer constitue encore aujourd'hui la première cause de mortalité dans le monde",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Na semana em que foi revelado que a TAP pagou bónus no valor global d......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "« Dans les prévisions, la population sénégalaise est multipliée par deux à chaque 25 ans »",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Le Nigeria ne s'est pas endetté sur le marché extérieur depuis 2013",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Qu'est-ce que la drépanocytose ?",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Está a circular uma publicação nas redes sociais na qual se alerta pa......",
+        "label": "true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Publicação nas redes sociais atribui a seguinte citação a Catarina Ma......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "«Salvini grida all'emergenza però a Bruxelles non ha perso occasione per votare CONTRO tutti i provvedimenti a tutela dell'ambiente»",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "La dette publique du Sénégal est de 6.000 milliards de FCFA",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "I risultati del PD in Campania secondo Renzi",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“La inversión en Educación ha tenido un correlato en la baja de deserción en el secundario”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Dans son message de nouvel an, le 31 décembre 2016, Macky Sall avait annoncé le recrutement de policiers et de sapeurs en 2017, en plus du durcissement des sanctions pénales liées au terrorisme",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Todos, agora, tirando o seu da reta: Porta-voz da OMS, diz que nunca aconselhou a aplicação de confinamento, como medida para o combate ao coronavírus",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Renzi poco chiaro sul ritorno a Maastricht",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“[Entre 2003 y 2011] creamos 300 mil empleos”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Six cent femmes ont perdu la vie lors des accouchements au Sénégal depuis le #Covid19sn",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“Aumentamos 100% los montos que enviamos a los comedores escolares”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Les responsables de ce parti investis sur des listes rivales perdront leur mandat de députés, s’ils sont élus au soir du 31 juillet 2017, conformément à la loi.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“[Neuquén] tiene los mejores indicadores económicos y sociales del país”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Los sectores más desprotegidos son los que más sufren los efectos del cambio climático”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Desde la crisis hasta hoy el salario básico del sector industrial subió 10 veces, [mientras que] la inflación (…) subió seis veces”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Mais escolaridade não significa, no Brasil, mais produtividade",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "35% des Sénégalaises sont mariées avant d'atteindre la majorité requise de 18 ans.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Nós inauguramos duas Casas (da Mulher), que tratam da violência contra a mulher. Uma em Bangu, outra em Madureira",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Vive l'Expo!",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Molecada de 15 anos de idade, 70% não sabe uma regra de três simples",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "É raro que um presidente da Câmara tenha seu mandato de deputado federal cassado?",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Las mujeres jóvenes, hoy en día, duplican en términos de desempleo al desempleo general del país”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "«Conte ha deciso di chiudere la Lombardia con i dati della settimana scorsa, che equivalgono alla situazione epidemiologica di due settimane fa»",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Se nós aprovarmos a (PEC) 241, nós não precisamos pensar em tributo, porque, convenhamos, a carga tributária chegou ao seu limite",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "De cada $100 que los misioneros pagan de impuestos, $76 se los lleva Cristina",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Várias publicações nas redes sociais mostram imagens de um grupo de p......",
+        "label": "true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "''L’Etat ivoirien a alloué à la lutte contre le VIH/Sida un peu plus de 32 milliards de francs CFA entre 2013 et 2017''",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "«Abbiamo trovato un’Italia con 10 milioni di poveri. Con il tasso di disoccupazione più alto d’Europa».",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“En San Luis, hemos logrado el pleno empleo”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le droit de sol existait en côte d'ivoire en janvier 1972.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“En la Ciudad la mitad de los trabajadores son de la Provincia”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Affinità e divergenze tra Farage e Grillo in Europa",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Aqui em São Paulo, nós estamos com 2,7 milhões de pessoas vivendo com os tais R$ 600 que viraram R$ 300 [do auxílio emergencial]",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Posti guadagnati, posti persi: i numeri di Salvini sull’occupazione Usa",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "41. Reduzir o número de secretarias e órgãos ligados diretamente ao Prefeito de 29 para algo em torno de 15, garantindo uma economia significativa do gasto com a máquina administrativa e dando mais agilidade aos processos decisórios dentro da Prefeitura",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "A part Air Sénégal, aucune compagnie africaine ne dispose de A330 Neo",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "No, lo spread non è tornato ai livelli precedenti al governo",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Il lavoro è meno precario?",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "On ne peut échanger des CFA en Europe",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "En este gobierno se duplicó la pobreza y la falta de trabajo",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Il nuovo record della disoccupazione giovanile?",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Avec un taux de croissance de 6,6 % (en 2016) notre pays a pris la trajectoire de la croissance inclusive (…) Depuis 1980, c’est la première fois, que de manière consécutive sur trois ans, notre pays atteint la barre des 6 % de croissance.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“Logramos en seis años que el 3% de inversión en Infraestructura pasara a ser el 23%”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Tem uma tabela de frete hoje, que o Supremo [Tribunal Federal] já declarou constitucional",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Le Train Express Régional (TER) de Dakar a coûté 568 milliards de francs hors taxes, a dit le ministre délégué en charge du Developement du Réseau ferroviaire.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Salvini, la Turchia e le donne",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "«Le Sénégal est le seul pays en Afrique de l'Ouest où les retraités sont pris en charge sur le plan médical (...). Cela coûte 3 milliards F CFA chaque année à l'IPRES », selon Mamadou Racine Sy, PCA de l'IPRES.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "«[Per l'emergenza coronavirus] Non abbandonate i vostri animali. Non c'è alcun motivo valido»",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Toti sbaglia: la diffusione del virus in Liguria non è in linea con il Paese",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "La BAD annule le financement du projet d'assainissement de la ville de Bamako",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“No han llegado ni al 40% de lo que habían prometido”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "E todos os estudantes [das escolas de nível médio em tempo integral profissionalizante no Ceará] têm um estagio remunerado pelo governo",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "O PMDB, suas lideranças e sua bancada jamais agiram como polo ativo neste processo (de impeachment)",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "«Matteo Salvini (...) nel mese di maggio ha superato chiunque e raccolto una percentuale di apparizioni televisive pari quasi al doppio di quelle del Presidente Conte»",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "26% dos homens acham que mulher pede pra ser estuprada",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Por primera vez en la historia, en 2017 el porcentaje de condenados superó al de procesados”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Depois de ter enaltecido uma \"redução de 50% das dívidas aos forneced......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "“La mayor parte del trabajo doméstico recae sobre las mujeres en Argentina”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Para o ano que vem, o empregado terá que optar pelo saque-rescisão ou pelo saque-aniversário",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Bajamos 30% los homicidios”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Argentina tuvo [en 2012] la Inversión Extranjera Directa más importante de toda la década”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Grillo, gli interessi sul debito e il deficit",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“El año pasado la inversión creció 11%, fue el mayor de los aumentos en seis años”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "É uma das publicações mais virais dos últimos dias, partilhada por mi......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "« N’oubliez pas qu’en vingt ans, l’espérance de vie en Afrique a augmenté, plus que partout ailleurs dans le monde ».",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "«Tutti devono sapere: Germania padrona dell’Ue. Aiuti a imprese italiane 25 miliardi. Aiuti a imprese tedesche 550 miliardi»",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Argentina es el tercer país proveedor mundial de cocaína”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "«Un terzo della spesa sanitaria lo paghiamo con l’Irap» (min. 1:42:48)",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Entre 2012 et 2015, plus de 230.000 emplois ont été créés au Sénégal, selon le ministre Mansour Sy.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "«In Italia un GIOVANE su cinque fra i 15 e i 24 anni non ha un lavoro né studia, e il 15% di chi ha fra 25 e 39 anni ha un \"lavoro atipico\" a rischio precarietà»",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Desde 2007 no se crea empleo privado en la Argentina”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "«Attualmente noi gestiamo, e dico noi da ministro dell'Interno, circa 15 mila beni [confiscati alle mafie n.d.r] […] L'agenzia dei beni confiscati alla mafia [...] non aveva neanche 100 persone a gestire un patrimonio di sequestri e confische di miliardi di euro. Adesso ne abbiamo assunte alcune centinaia»",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“La Argentina tiene una carga tributaria récord en Latinoamérica”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le gisement de gaz découvert au large de Saint-Louis constituent la 5e réserve mondiale.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Salvini e il boom del '93",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Salvini sbaglia: sul 730 precompilato facciamo già “come il Belgio”",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Comecei uma campanha [em 2008] com 3% das intenções de votos, os meu adversários tinham 38%, outro tinha 26%",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Prestiti e pressione fiscale per le imprese: le cose sono peggiorate?",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Salvini dice che il Pd ha votato a favore degli insetti ad uso alimentare, ma si confonde con Forza Italia",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "En Afrique de l’Ouest, 60% des populations rurales n’ont pas d’électricité. La sous-région fait partie des dernières au monde en termes d’accès à l’énergie moderne .",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Macky Sall avait aanoncé l'acquisition de 195 ambulances médicalisées en 2017.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Eu entreguei 295 creches, o atual governador, Márcio França, entregou mais 18 e tem mais de 200 em obras",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "«Gli stranieri in Italia [...] incidono sugli stupri per il 42 per cento [dei casi]»",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "«Un milione di auto elettriche in cinque anni in Italia. Questo obiettivo se l’è dato la Germania al 2020, l’Olanda nel 2025 bandirà le auto a benzina e l’India lo farà nel 2030»",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "« Le Sénégal a perdu 5 % des parts de marché ces dix dernières années ».",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Múltiplas publicações nas redes sociais destacam que a Organização da......",
+        "label": "half true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Les tranferts d'argent vers l'Afrique sont les plus chers au monde.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "«La città metropolitana di Milano avrebbe un residuo fiscale di 11 miliardi l’anno, se proprio vogliamo parlare di restituzioni»",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Sólo el 50% de los argentinos tiene acceso a una cuenta bancaria”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“[El voto electrónico] es un sistema muy sencillo, que da certezas y garantías”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "No Twitter, o PSD escreve que a taxa de desemprego em Portugal está n......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Rom, Sinti e Camminanti: almeno 8 mila a Roma",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "« Seulement 7% des communes au Sénégal, disposent d’un plan d’urbanisme »",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“Argentina era el tercer exportador mundial de carne, hoy somos el 14°”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Il governo ha deciso di ammazzare le imprese. Con dl crescita chi ristruttura un appartamento paga metà importo, l'altro 50 per cento l'impresa se lo ritrova come \"bonus fiscale\" spalmato in 5 anni. Anziché spremere le imprese come limoni lo Stato abbassi le tasse!.",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "« L'Éthiopie est l'économie à la croissance la plus rapide au monde »",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Uma lata de cerveja tem menos calorias do que uma dose de caipirinha",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“En un país normal los trabajadores no pagan impuesto a las ganancias”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "«La crescita è passata dal -2 al +1: nessun Paese, nello stesso periodo ha fatto un balzo così grande»",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“La compañía que últimamente ha aumentado más los precios es YPF”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "«Gli standard di sicurezza dei sistemi di sicurezza su cui viaggiano i nostri treni, non solo [...] i treni ad alta velocità, sono al top»",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“En el Conicet fijamos un tope de 14 mil investigadores, más alto que los consejos de investigación de Francia o España”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“El proyecto de la oposición genera un costo fiscal superior a los $100 mil millones por año”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le kilogramme de zircon ne coûte qu'un dollar sur le marché international.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "L'université Cheikh Anta Diop (UCAD) de Dakar est la première université francophone d'Afrique. Elle passe devant toutes les universités du Maghreb,",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Criou a PEC da Previdência",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "80 %¨des Nigerians n'ont pas accès à l'eau potable.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Le Sénégal est le 8e pays africain en matière de taux d'accès à l'électricité.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "No, il Parlamento Ue non ha detto sì all’«invasione» di migranti",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“En este momento [hay] cuarentena estricta en Barcelona”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "«[Immuni] avrebbe una sua efficacia solo se ogni cittadino italiano, di ogni età, avesse l’app sul proprio smartphone»",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Matteo Salvini tra due premi Nobel",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "« Les assureurs investissent pour plus de 300 milliards de francs CFA par année dans l’économie sénégalaise »",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“El mercado de trabajo se ha mantenido estable. No ha habido más despidos que en el 2012 y 2013”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le lavage des mains peut réduire les risque de maladies infectieuses de 59%.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“Las incautaciones de drogas son récord”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Une partie de la presse sénégalaise a assimilé les arriérés de paiement à la dette intérieure.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Com R$ 20 bilhões, nós salvamos 11 milhões de empregos [no Programa Emergencial de Manutenção do Emprego e da Renda]",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Entrée en vigueur au Sénégal, en janvier 2016, d'une loi relative à l''importation et à la production de sachets plastiques.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“[El Gobierno] le subió las retenciones al campo a niveles que había antes”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "JK, em 3,5 anos, ergueu Brasília",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Aumenta sistemáticamente la matrícula de la escuela pública de la Ciudad”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Los resultados de estos 4 años no fueron buenos",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Plus de 6.500 migrants sont morts dans la Méditerranée entre 2015 et 2016, a dit le président du Niger Mahamadou Issoufou.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“La Ciudad genera casi el 25% de los recursos coparticipables y se lleva poco más del 1% de coparticipación”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Nunca antes se gastó menos plata en pauta publicitaria que en este gobierno”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "I numeri di Salvini: l’economia britannica dopo la Brexit",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“El Consejo [de la Magistratura] no funciona, está frenado”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“El salario docente está $4.000 por debajo de la línea de pobreza para el maestro de grado”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "L'Afrique consacre chaque année une enveloppe de 35 milliards de dollars à l'achat de vires.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Hoje você tem 564 mil mandados de prisão em aberto",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Eu tenho o dobro do índice [de intenção de voto] do [ex] governador [Geraldo] Alckmin na capital",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "O número de mortes decorrentes de intervenção policial já ultrapassou o de latrocínio (roubo seguido de morte)",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Somos el país con menos muertes del mundo”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Bankitalia ha 7.000 dipendenti con uno stipendio medio di 85 mila euro all’anno",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "none",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "L'âge médian au Sénégal est de 18 ans",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "« Actuellement, si on se base sur les statistiques existantes au Sénégal, il y a, à peu près, 42 à 43 % des ménages sénégalais (en zones rurales) qui ont accès à l’électricité »",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Les Ivoiriens représentent 10% des migrants qui arrivent en Italie par le mer.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "La réhabilitation du Building a coûté 40 milliards de francs CFA, beaucoup plus que les 17 milliards initialement annoncés.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Mais de 1 milhão de famílias voltaram a cozinhar à lenha",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "[En las causas de corrupción] el tiempo promedio de la instrucción es de siete años",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Hay tantas miles de personas que quieren adoptar y miles de niños que quieren un hogar”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“En 2016 la venta de tractores aumentó 25%, la de cosechadoras 54% y la de sembradoras un 80%”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "La procedura di infrazione europea è stata salvata grazie alla nostra fatturazione elettronica.",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Buenos Aires es la ciudad más desigual del país”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“El gasto social en la Nación es más del 75% del presupuesto”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“En la Ciudad de Buenos Aires hay más de 500 mil personas en emergencia habitacional\"",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Bajamos un 20% los homicidios en dos años”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "El aumento de Ciencia y Tecnología [será] de 28%",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Nós temos 40% da população carcerária de presos provisórios",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Les découvertes de gaz au Sénégal placent le Sénégal au 27e rang mondial et au 5e en Afrique en matière de réserves.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "La balance commerciale est déficitaire de 2.000 milliards de FCFA avec 3.500 milliards de FCFA d’importations contre 1.500 milliards de FCFA d’exportations",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“La velocidad promedio de Internet en 2015 era apenas de 4,5 megabits por segundo, hoy la triplicamos”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Se fugaron casi un PBI”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“En 2002 hubo leyes que prohibían despidos y eso no trajo más trabajo, destruyó trabajo”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Publicação viral no Facebook lança alerta de que, em caso de acidente......",
+        "label": "true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Per Radio Radicale, circa 290 milioni dal 1994",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "L’Italia ha il record europeo del numero di banche?",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Senza la Lombardia, l’Italia è (quasi) come Germania e Danimarca",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“El Estado gastó $7 mil millones en Fútbol Para Todos”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“La Argentina está a punto de emitir la mayor deuda [en moneda extranjera] de un país en desarrollo desde 1996”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Sur l’accès à l'électrification, la Guinée n'a pas réussi à avoir jusqu’à présent 5 ou 10 %.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Maroni e le spese per consulenze della Lombardia",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Le donne guadagnano meno degli uomini: sì, ecco il perché",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Pas de recours au vaccin contre la tuberculose aux Etats-Unis",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Le numérique génère 8% du PIB de la Côte d'Ivoire et 13% des recettes fiscales de ce pays.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“El conurbano tiene intendentes que gobiernan sus distritos hace 15 años en promedio”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le taux de chômage en côte d'Ivoire est compris entre 70 et 90 %.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Il n’existe aucun pays où le chef de l’Etat sortant participe à un débat télévisé avec d'autres candidats dans le cadre d'une élection présidentielle.",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“Cada tres minutos una familia recibe un crédito hipotecario a 30 años del Banco Nación”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le déficit budgétaire est passé de 6,7 % en 2011 à 3,7 % en 2019.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Non usiamo il contante più di tutti gli altri, ma...",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“TEMPO PARA ELABORAÇÃO DE CADA VACINA (...) febre tifoide (...) 105 anos (...) COVID-19 (...) 5 meses”",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Avec 3.000 millionnaires, l'Ethipie est le pays d'Afrique qui compte le plus de millionnaires.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“No se hicieron nunca en la historia de la Ciudad inversiones en infraestructura escolar como en nuestra gestión”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Relatório elaborado pelo TCU, a partir da avaliação da chegada dos médicos em 1.837 municípios, traduz alguns dos impactos já sentidos pela população: mais 33% nas consultas mensais na atenção básica nesses municípios",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "En 2015, lors de la première conférence à Abidjan, le PIB de l’Afrique affichait depuis 15 ans une croissance de près de 5 %.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Se você apalpar no auto exame já tá tarde demais pro câncer",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "La Guinée est en train de devenir le premier producteur mondial de bauxite. Elle détient la moitié des réserves mondiales de ce minerai, a dit son président Alpha Condé.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“La inflación en 80 años ha sido, en promedio, 62,5% sin contar los años de hiperinflación”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Paragone sbaglia sulla crescita dell’Eurozona",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Ao longo dos últimos dias espalhou-se pelas redes sociais a imagem de......",
+        "label": "half true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Il salario minimo italiano sarebbe il più generoso tra i Paesi Ocse?",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "La Côte d'Ivoire est le premier producteur et le premier exportateur africain de noix de cajou.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Calenda ha ragione su crescita dell'export e dell'occupazione al Sud",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "El déficit de Aerolíneas ocupa cinco veces más que todo el presupuesto del Ministerio de Industria",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Les parts de marché de la France au Sénégal on baissé de 25% au Sénégal en dix ans.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“La reducción de las salideras bancarias está en el orden del 80%”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "A polícia, durante a intervenção, mata seis pessoas por dia",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "A revelação é inspiradora: J. K. Rowling saiu da lista dos mais ricos......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Le Nigeria compte 23% des cas de paludisme enregistrés dans le monde.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "La Côte d'Ivoire figure parmi les 20 pays qui ont les systèmes de santé les moins performants au monde.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Renzi esagera sulle rinunce del Pd rispetto al M5S",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Sembramos el mismo trigo que hace 100 años”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "En Afrique subsaharienne, plus de 5% des naissances surviennent pendant l'adolescence, selon l'OMS",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“Si uno mira el presupuesto de este año, ha sido solamente ejecutado en un 12%”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Una Lilliput? Quanto “pesano” i Paesi Bassi nell’Unione europea",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Surgiu no Twitter e espalhou-se velozmente pelo Facebook uma fotograf......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Le taux de chômage est de 18,8 % au Nigeria, selon le Spectator Index. Des personnes ont émis des doutes via Tweeter.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "L’actuel gouvernement du Nigeria a contracté une dette de 80 milliards de dollars.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“El salario no es una ganancia”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Por ocasião do referendo de 2005, o povo decidiu pela compra (...) de armas e munições",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Este año logramos bajar los cortes [de luz] 45%”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "A violência contra a mulher atinge mais as negras",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Quanti furti ci sono ogni giorno in Italia?",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Suposto utente recorreu às redes sociais para denunciar que o Hospita......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "“Realizamos la mayor campaña de reclutamiento y renovación policial de todos los tiempos”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "1960 on n’était que 3% des femmes alphabétisées. Si on regarde aujourd’hui on n’est pas satisfait parce qu’on a 46-47%",
+        "label": "false",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "No, non possiamo accusare il governo di togliere alla scuola per dare ai pensionati",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "L’Italia rischia di perdere oltre 60 milioni di turisti stranieri",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Dicen que van a gravar la renta pero en realidad van a gravar la rentita”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“El crédito duplicó su participación en el PBI entre 2003 y 2013”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Uma fotografia de um cidadão acamado no que parece ser uma conservató......",
+        "label": "half true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "“El delito aumenta cada vez más en la provincia de Buenos Aires”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "A receita tem sido partilhada por muitas pessoas nas redes sociais: u......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "“A educação da prefeitura de Aracaju, do ensino público, ficou em último lugar nas primeiras séries do ensino fundamental e antepenúltimo nas últimas séries nos dados do Ideb recente”",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“La relación entre los delitos cometidos y las personas condenadas es menor al 1%”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“El 44% de los subsidios se lo llevan las dos décimas partes de la población más rica”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le chômage est à son plus haut niveau au Nigerai; Plus de 10 millions de jeunes sont sans emploi.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "« Kédougou est la région avec le taux de mortalité le plus élevé au Sénégal »",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Criar uma tarifa diferenciada, em horários alternativos - diminuindo a sobrecarga nos horários de alto fluxo",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Temos mais de 63 milhões de brasileiros no SPC",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Caiu tudo [índices de criminalidade]. Caiu roubo, caiu latrocínio, caiu homicídios",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "«Segnalo che non l’ha fatto solo Orbán in Europa [di farsi dare “pieni poteri” dal Parlamento], ma l’ha fatto per esempio anche il premier svedese, che è un socialista ma di quello lei non sentirà parlare» (min. 11:08)",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Em artigo disseminado nas redes sociais denuncia-se que as mortes atr......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "“[El turismo interno] del 2013 al 2015 cayó en tres millones de pasajeros”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Une loi défiscalise les investissements dans le tourisme en Casamance.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Hoje o Brasil está com quase metade da renda per capita do Chile",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Todos los afiliados del PAMI tienen la mejor cobertura de medicamentos de América”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Quando apanhamos o governo, num primeiro momento, o déficit era de R$279 bilhões. No ano seguinte [2017], R$159 bilhões. (...) Ou seja: está diminuindo",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“[En Aerolíneas viaja] el 3% de la población”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Le Sénégal est le premier africain et le 4ème mondiale en matière de transparence dans les industires extractives.",
+        "label": "half true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "Em publicação que está a circular nas redes sociais garante-se que um......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "“El salario mínimo va a estar en $ 2800 y se cuenta como ocupados a trabajadores que están cobrando $ 1700”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Abbiamo percentuali sopra il 50 per cento in tantissime città e siamo anche il primo partito in tante città del Centro e del Sud",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "true",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "A ONU (...) disse que o pleito [apresentado por Lula à entidade] era legítimo, em razão da fragilidade da acusação contra ele",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "[Após o rompimento da barragem em Brumadinho, o Ibama aplicou uma multa de R$ 250 milhões à Vale] Diferente do que aconteceu, por exemplo, em Mariana",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "none",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "La Côte d'Ivoire est l'un des 20 pays pauvres ou émergents qui dépensenet le moins pour la santé des populations.",
+        "label": "mostly true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“En la Justicia Federal las vacantes oscilan en el 30%”",
+        "label": "mostly true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Em suposta notícia com origem na página \"Vilogogostei\", publicada no ......",
+        "label": "half true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "A quantidade de quilômetros desmatados [na Amazônia] no ano passado foi de 8 mil quilômetros quadrados",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Sono stati drasticamente ridotti personale (20 mila dipendenti in meno) e risorse (5,2 miliardi in meno in quattro anni) [alle province], ma sono rimaste funzioni fondamentali come la pianificazione territoriale, le strade, l'edilizia scolastica, il trasporto pubblico e privato",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "La commission d'enquête parlementaire sur les 48 milliards F CFA a violé l'article 48 du règlement intérieur de l'Assemblée nationale.",
+        "label": "true",
+        "site": "fr.africacheck.org",
+        "language": "fr"
+    },
+    {
+        "claim": "“La inflación acumulada enero-octubre estaba en el orden del 10%”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“São 2,5 milhões de alunos na rede municipal, estadual e privada aqui na cidade de São Paulo”",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Em mensagem que se propagou pelas redes sociais compara-se a dívida d......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "No programa Circulatura do Quadrado, na TVI24, debatia-se a questão d......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Siamo la forza politica in Parlamento con il più alto numero di donne [...] e anche di laureati",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Não houve parceria com o governo federal e estadual (para a realização da Rio 2016)",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Van cuatro años que no hay paros [docentes] y justo aparece un paro dos días antes de la elección”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Em publicação difundida nas redes sociais destaca-se em título que \"o......",
+        "label": "half true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Em publicação nas redes sociais denuncia-se uma suposta \"fantochada '......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "EXTRA 'Bolsonaro renuncia mandato de presidência antes de assumir’. Folha de São Paulo 06/12/2018 às 16h17. Em comunicado extra-oficial, Jair Messias Bolsonaro, renuncia seu futuro cargo eleito. Veja a matéria na íntegra",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Privatiza já, isso é uma pouca vergonha, desperdício de dinheiro Público, descaso dos responsáveis pela administração dos Correios, é por isso que tem que privatizar este antro, de corrupção e de parasitas!!!",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“San Luis no tiene empleados públicos en exceso; hoy son 17 mil”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Ganjar Pranowo memberikan hadiah laptop kepada siswa yang menonton video porno",
+        "label": "true",
+        "site": "aosfatos.org",
+        "language": "pt"
+    },
+    {
+        "claim": "De acordo com uma publicação que está a espalhar-se nas redes sociais......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "A página oficial do PS no Facebook está a difundir a informação de qu......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Não tenho um processo qualquer que fale de mal uso de dinheiro público",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "2020-09-10T00:00:00Z",
+        "label": "false",
+        "site": "agi.it",
+        "language": "it"
+    },
+    {
+        "claim": "O presidente de 65 anos curado da Covid-19 com a cloroquina!",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Protezione umanitaria solo in Italia e Slovacchia? Di Maio sbaglia",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "O Joaquim Barbosa mesmo disse, nessa época do Mensalão, que eu era o único deputado da base aliada do governo que não pegou dinheiro na Petrobras",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Desde 2015, não há investimento em saneamento básico”",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Quanti sono i processi in arretrato in Italia?",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Faltam menos de 24 horas para a discussão e votação da moção de censu......",
+        "label": "true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Não há nenhuma hipótese de fatiamento de férias",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Em publicação no Facebook alega-se que a Administração Regional de Sa......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Italia Paese di mamme?",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "E o Rio Grande do Sul é o estado que tem o maior número de suicidas no Brasil (...)",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Os cientistas descobriram uma relação entre o consumo de alimentos tr......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "O patinete elétrico não precisa ser recarregado",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "[A gestão do PT deixou] um rombo orçamentário, em 2017, de R$ 7 bilhões",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Porto Alegre teve um aumento no número de feminicídios",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Um vídeo de uma suposta eurodeputada alemã a criticar, em pleno Parla......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Ele [Márcio França] descumpriu uma medida judicial que determinava que o comando do PCC, o Marcola e outros líderes fossem transferidos para prisões federais",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "O time da casa sempre passa da primeira fase",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "[O Brasil tem] 52 milhões [de pessoas] abaixo da linha da pobreza",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Vamos criar os batalhões [da Polícia Militar] em Araruama, Nova Iguaçu e Itaguaí",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Na vertente da defesa e da cooperação espacial, assinamos o acordo de salvaguardas tecnológicas, o que viabilizará o Centro de Lançamento de Alcântara",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“O Mercado Público [de Porto Alegre] (...) ficou fechado [durante a pandemia]”",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Na sequência das manifestações anti-racismo em Londres, Reino Unido, ......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Não tem uma lei de combate à corrupção que não tenha sido aprovada no governo do PT.",
+        "label": "half true",
+        "site": "aosfatos.org",
+        "language": "pt"
+    },
+    {
+        "claim": "Compramos 35 mil coletes à prova de balas, os melhores coletes disponíveis no mundo, leilão internacional",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "O Brasil já tem 100 milhões de processos [na Justiça]",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "No programa \"Quadratura do Círculo\", Jorge Coelho afirmou que \"não ho......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "A resposta é sim. O \"Grande Educador da Classe Operária\", como lhe ch......",
+        "label": "true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Italiani in Germania: nessuna circolare con minacce di espulsione",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "NARCOTRÁFICO & COMUNISMO. Em 2015 eu postei esta foto que foi retirada pelo Facebook que disse que a foto estava denegrindo a imagem da Presidente Dilma. Hoje com a delação do Palocci confirmando as ligações do narcotráfico com financiamento das campanhas dos políticos comunistas; eu volto a postar a DITA FOTO que em 2015 foi CENSURADA. Será que serei censurado pela censura comunista com prova?",
+        "label": "false",
+        "site": "aosfatos.org",
+        "language": "pt"
+    },
+    {
+        "claim": "A fêmea põe 400 ovos",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Bolsonaro dispara nas pesquisas, 94% querem que ele seja reeleito em 2022",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Salvini ha ragione sui numeri degli sbarchi",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Malta: più presenze italiane che tedesche",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Apenas 30% dos que chegam ao 9º ano conseguem ler e interpretar um texto",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Publicações no Facebook e mensagens no WhatsApp deixam o alerta: caso......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Segundo os institutos de pesquisa, 90% dos evangélicos do Rio de Janeiro no segundo turno votaram conosco",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Voltou a espalhar-se nas redes sociais a informação de que o Padre Ví......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "(...) O número de casos de HIV sobe, e o número de [casos de] Aids cai",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Desde hace 50 o 60 años que no había nuevas formaciones en la República Argentina”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Não temos piso [salarial] da segurança pública",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Só com operações compromissadas, [o governo federal] lançou mão de R$ 1,114 trilhão, 16,8% do PIB",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "oggi c’è un’Italia […] dove il debito ha smesso di crescere, ci sono un milione di occupati in più, la fiducia di imprese e famiglie è molto più solida",
+        "label": "true",
+        "site": "agi.it",
+        "language": "it"
+    },
+    {
+        "claim": "«Un tema, quello della #regolarizzazione e del superamento della #Bossi-Fini che era nell’accordo di governo, nel segno della discontinuità con il #ConteI»",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Del total de jóvenes que no estudian ni trabajan en la Provincia de Buenos Aires, el 75% son mujeres”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "L’epidemia di Covid-19 ha peggiorato le già cattive condizioni lavorative dei giovani in Italia",
+        "label": "true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "«Sono per rendere legale l'eutanasia, come c’è in molti Paesi»",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Em publicação nas redes sociais denuncia-se que \"o Governo mentiu e a......",
+        "label": "true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Para quem pode, é importante expor-se o máximo possível ao sol, de acordo com as condições climáticas",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "O FDA, a agência americana de regulamentação de remédios, aprovou o uso de hidroxicloroquina em todos os pacientes com o Covid-19",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Um vídeo colocado a circular no YouTube apresenta o novo presidente b......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "No, lo stipendio di Salvini non è pagato solo dagli italiani",
+        "label": "false",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Publicação nas redes sociais destaca que na Segurança Social está em ......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Sabia que, só em Brasília, tem 40 mil pescadores cadastrados recebendo auxílio-pesca? (imagem)",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "(Doria) Foi violentamente criticado por uma propaganda do turismo brasileiro com bundas de mulher na praia, estimulando claramente o turismo sexual",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Construí 3 mil novas vagas no sistema prisional nesses quatro anos",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "[O desmatamento ilegal] Subiu de 2012 pra cá em torno de 37%",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "A média [das aposentadorias no INSS] é R$ 1,9 mil",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "A retirada do \"uso emergencial\" pela FDA amplia o tratamento com hidroxicloroquina nos EUA",
+        "label": "false",
+        "site": "aosfatos.org",
+        "language": "pt"
+    },
+    {
+        "claim": "“O deputado estadual tem R$ 40 mil para patrocinar o seu mandato”",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Tinham acabado o 9º Seminário LGBT infantil. Repito: 9º Seminário LGBT infantil",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Está a espalhar-se pelas redes sociais um novo \"meme\" focado no atual......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Il governo ha accantonato 2 mld da utilizzare per coprire maggior deficit, ma italiani non hanno ancora realizzato che si tratterà di 2 mld di tagli a imprese, trasporti e atenei, a partire da prossimo luglio, quando Commissione farà tagliando controllo ai conti pubblici italiani",
+        "label": "mostly true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "“Se analisarmos o caso da cidade de São Paulo, epicentro da epidemia no Brasil, teremos o seguinte quadro: Entre março e maio de 2019 registraram-se 7106 mortes por causas respiratórias no município; Neste período de 2020, computaram-se 8185 mortes pelas mesmas causas. A diferença é de pouco mais de mil mortos”",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Gente é sério isso? No fim do procedimento a agulha está com o protetor? Eu vi isso? E cade o algodão? Me parece mais uma farsa do ditador cor de rosa",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Eu nem sabia que ele [Joesley] estava sendo investigado",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Em resposta a \"fact-checks\" do Polígrafo sobre a polémica dos profess......",
+        "label": "true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Esse vinagre quando bater na sua garganta vai começar a matar o coronavírus na sua garganta. E o alho vai entrar na sua corrente sanguínea e vai impedir que lhe dê falta de ar.",
+        "label": "false",
+        "site": "aosfatos.org",
+        "language": "pt"
+    },
+    {
+        "claim": "A esquerda que se 'preocupa' com a morte de uma criança, vítima de bala perdida, é a mesma que promove chá de aborto!",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Depois de 95 (...) veio essa proposta generosíssima dos 100%",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“Vitória, uma capital do tamanho de Natal”",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "[La importación de energía] no representa más del 8% de la demanda de nuestro país",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“El año que viene terminaría con seis puntos menos de PBI per cápita que en 2015”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Somos o país que mais preserva o meio ambiente",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Publicação na rede social Facebook indica que Portugal tem 10 milhões......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Sabe qual o investimento do estado do Rio de Janeiro (...) em inteligência este ano? (...) R$ 283",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Il lavoro del futuro: Di Maio usa cifre discutibili",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Existem 1.500 guardas (aprovados em concursos, mas não chamados)",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“No ano de 2009 a gripe h1n1 matou muito mais gente o que covid19 e o seu governo lula não te deu 10 centavos. E mais a midia podre ficou de bico calado não falou em isolamento, nem nada”",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Criação de uma Corregedoria externa, fora da estrutura da Secretaria de Segurança Pública",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Estamos (...) com recorde de desemprego",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "O programa vai beneficiar 4 milhões de crianças entre 0 e 3 anos [até o final de 2018]",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "É inadmissível uma dívida – inclusive de bancos e de grandes empresas (...) – [com] a prefeitura de São Paulo que seja da ordem de mais de R$ 130 milhões",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Há 56 anos, um violento confronto entre as forças policiais da RDA, e......",
+        "label": "true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "(...) Nossa expectativa é que [as membranas e cortinas de contenção de rejeitos instaladas em Pará de Minas] seja o suficiente para conter esse rejeito e não permitir nenhum problema para a captação de água do Rio [Paraopeba]",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "“En ningún país del mundo un gobierno se rige con un presupuesto opositor”",
+        "label": "half true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“REDE EXTRA ESTAMOS DOANDO PRODUTOS. Para ajudar na pandemia nós do grupo extra estamos DOANDO MAIS DE 15 MILHÕES DE REAIS EM PRODUTOS. Estamos juntos nessa crise e sairemos juntos, temos sacolões cesta básica, entre diversos produtos marque alguém que precise. [...] INTERESSADOS COMENTE ‘ok’ E ENTRAREMOS EM CONTATO”",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "O BNDES está à disposição (...) para redirecionar os recursos já aprovados aos esforços de reconstrução do prédio e, no que for possível, de restauração do acervo",
+        "label": "mostly true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Com a palavra o Juiz Federal Marcelo Bretas da Lava Jato Rio de Janeiro.",
+        "label": "false",
+        "site": "aosfatos.org",
+        "language": "pt"
+    },
+    {
+        "claim": "“El mecanismo tendrá un sesgo hacia los que menos tienen”",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Em 2013, o acordo entre o governo petista e a ditadura cubana trouxe ao Brasil 10 mil médicos",
+        "label": "half true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "2018-11-03T14:18:33Z",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Deputada federal do PSOL Talíria Petrone (...) afirmou em sessão na Câmara dos deputados que ‘os policiais não fazem mais que a obrigação morrer em combate contra o crime organizado, pois eles são pagos para isso, morrer’",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Brasília (...) tem remuneração de policiais paga pelo governo federal",
+        "label": "true",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "Gentiloni impreciso su produzione industriale ed export dell’Italia",
+        "label": "half true",
+        "site": "pagellapolitica.it",
+        "language": "it"
+    },
+    {
+        "claim": "Em publicação nas redes sociais alega-se que \"os funcionários respons......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "“[Entre 2010 y 2013] la cantidad invertida en Educación y Salud en Brasil fue de 212 veces más que la cantidad invertida en los estadios”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Está a ser difundida nas redes sociais uma mensagem na qual se denunc......",
+        "label": "false",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Espalhou-se pelas redes sociais um artigo sobre uma suposta vacina co......",
+        "label": "mostly true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    },
+    {
+        "claim": "Bom dia, Essa bactéria foi transmitida pela saliva do cachorro, olha o perigo q corre quando vc deixa o cachorro lamber sua boca",
+        "label": "false",
+        "site": "piaui.folha.uol.com.br",
+        "language": "pt"
+    },
+    {
+        "claim": "‌ ‌“Cuando nosotros llegamos en diciembre nos encontramos un Banco Central lánguido, sin reservas, vacío”‌ ‌",
+        "label": "false",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "“Se perdieron 152 mil empleos registrados del sector privado”",
+        "label": "true",
+        "site": "chequeado.com",
+        "language": "es"
+    },
+    {
+        "claim": "Em publicação no Twitter critica-se a intenção do Governo de criar 60......",
+        "label": "half true",
+        "site": "poligrafo.sapo.pt",
+        "language": "pt"
+    }
+]
