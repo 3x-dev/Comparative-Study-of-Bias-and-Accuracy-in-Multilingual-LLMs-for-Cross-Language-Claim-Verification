@@ -1,0 +1,3602 @@
+[
+    {
+        "claim": "\"There are different excise dates in other European countries to different quality of petroleum products.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"As for the tram, they could not pass because of the gathered citizens, and the traffic was normalized after the end of the protest.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The median size of the average salary in January was 112 thousand tenge.And the modal, that is, the most common salary, is 58 thousand tenge.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"The Democratic Party filled everything that promised four years ago.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Switzerland parliament approved the law banning the vaccination of citizens",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The Israeli paracetamol is sold in pharmacies, from which people die on the sixth day of admission",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"Negotiations with the Ministry of Education are already giving results and is a step of the opening of the Faculty of the Godology.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"In March, the first positive signals appeared in terms of employment, because a slight increase in the number of employees was recorded, but it will only be seen whether it will mean the beginning of the new trend.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Homemade milk is regularly controlled and is completely right.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"We have no delays to the water poloists and allows, the government first settled all the obligations she had according to the athletes.I know, and I played how long the players and pride I can say that this is not the case now. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Allocations for science in Serbia 1% of GDP are lower than the EU average, about 2% of GDP in 2013.From the private sector, only 7.5% of all investments in science, which is significantly below the EU average where as many as 55% of all investments in science make private sector investments. \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Poland is not only one of the countries that, despite the deficit budget, pays 2% [GDP for defense], but we have announced that it will soon be 2.5%.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In Kazakhstan, from 20 to 40 tons of various narcotic substances is seized annually.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"The government has not been sent by any pro-European legal proposal from the Assembly.",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "More than 4.5 million citizens left without temporary income received assistance in the amount of 42 thousand 500 tenge.More than 450 billion tenge was spent on this",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"And that people buy water more, because it became fashion and do not believe in our Czech that otherwise excellent quality, as well as bottled water.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The security certificate is established with the aim of protecting citizens, state bodies and private companies from hackers, Internet meshs and other types of cyberism",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "In France, the subject \"Abauchea\" is being introduced at the University of Renn.",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Uzbekistan President Shavkat Mirziyoyev established monthly payments for the period of the epidemic (contacting patients)",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "From 2018, it is enough that there will be one room for children in the nursery.The requirement has also been reduced when it comes to the size of one child.And so, according to these changes, one child may fall 2.25 m2, and in nurseries and children's clubs, which operate up to 5 hours.per day - even 1.87 m2.For comparison: there are 3 m2 per prisoner.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Due to the reduced customs customs, computers, technical goods, furniture, textiles and many other products are cheaped from EU.",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The Washington Post included the Covid-19 vaccine developed in Kazakhstan, in the list of 200 promising, experimental vaccines, which, as it believes, will help stop the pandemic",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "In general, the state budget deficit is decreasing, this is the lowest deficit in recent years.During the PO-PSL rule, in 2010/11 he reached 100 billion.PLN, at the moment we have 28.5 billion.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "I have not been invited to a public television interview for the last 5 years.Grzegorz Schetyna was not invited to public television for one -on -one interview.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Polish society ages the fastest in Europe.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Kazakhstan fell into the top 15 countries with the worst laws on access to information",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Poles are currently the most thoroughly disarmed nation in Europe.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Between 30 and 31 thousand dinars is the minimum in Serbia.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Corruption in health care is a sporadic phenomenon.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "It is a solution that is incompatible with the European Local Government Card (change in the voivodship border - note Demagog), which says that if you want to change the boundaries of local communities, a referendum should be carried out.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The salary in the national economy has increased in the last 2.5 years by 20%. It is an increase that has not been recorded earlier.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The largest number of Poles emigrated during PiS rule, even 0.5 million a year, today it is 50-60 thousand, 8 times less.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Allowed to import vaccines without a national examination.Moreover, through organizations recommended by WHO.",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"I am the citizens of Serbia last (2009), before the beginning of the World Financial Crisis, said that it would be the most difficult in our newer history.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "In China, the distribution of Solzhenitsyn's books has become a criminal offense",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"We definitely await us for economic growth next (2010) years, but will not be five or seven percent as before, but more modest, one to one and per cent.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"It's all the time (the number of cattle throat) went down a descending road, absolutely all the time.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Writer Dean Kuntz predicted the appearance of coronavirus in his book in 1981 and called it Ujan-400",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Paweł Adamowicz (...) himself belonged to the party until the platform decided to part with him due to his problems with the law.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Italy, after Germany, the second foreign trade partner of Serbia, but the first export destination for our companies.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "This parliamentary majority and this authority is 94 percent of all irregularities and all what has pointed out the citizen protector.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Today, thanks to the signature made by the President on the Act, the minimum hourly rate is PLN 17, not PLN 5, as it was 5 years ago.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Unfortunately, it is [Polish administration] huge, over 400,000 people (...)",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Even at the official price growth rate, only 7 months of households incur additional costs for products of 225 billion tenge",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"The device you are talking about, Mr. Sutanovac, and I'm always ready to take and representatives of journalists and was purchased for JO2, and to have no idea that he was bought (...) Who wanted to be purchased (...)To eavesdrop in Serbian citizens?Me or you?Who bought the device?Me or you? \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"The budget proposal for 2011, which the government today adopted, envisaged that transfers of local governments increased by about 25 percent.A total of 32 billion dinars are planned for these purposes. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Serbia could become a 'European force' in the field of fisheries and fish processing by importing fish from the northern seas, and then reworked to sell Europeans.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Measles heal from cancer and prevents its development",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"All key economic indicators show a tendency to recover from March (2009), which means that the worst period is behind us.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Gini's indicator, which shows the level of unevenness.During our rule it decreased by 2 points, from 31 to 29 more or less.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Fuel price increase will certainly affect the prices of other products.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The results of the PISA indicate a decrease in literacy of schoolchildren.If in the countries of the OECD children constantly increase the results of reader literacy, then we have questions and a certain tendency to deterioration.",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"Government forecasts that the economic crisis will not have a significant impact on the production and export of agricultural products proved to be accurate.In the first six months, agriculture records a surplus of $ 320 million, which was more than last year, when the total annual surplus was $ 600 million. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Xi Jinping visited the mosque and asked for blessings/forgiveness from Muslims",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Do you know how much people sit in the government?106 deputy ministers and 22 ministers.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "LSNS openly refers to the regime created by the Nazi collaborator, Fr.Tiso, calls for violence, organizes militias.Fascists got 8% of the votes.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "We have two rugby clubs in Warsaw: Skra and AZS AWF Warsaw.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Coronavirus causes not pneumonia, but thrombosis",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The person who violated the quarantine is fined and they are held accountable",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Last year, according to this indicator [receipt of building permission in the Dowing Business-Ed rating.] Kazakhstan rose immediately to 17 positions and took 35th place in the world",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "In several US cities, it is planned to disband the police and replace it with the response teams",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"Twenty-five percent of unemployment has nowhere else in the Balkans!\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Only now do we know how many doctors work in Poland.It is 149 thousand.more or less.This is the European average.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "As a UPR, we collected 140,000 signatures for the Act on the introduced death penalty.They were \"ground\" here in the Sejm.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "How many votes were invalid, now in the presidential election?1%?",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Average salaries will move between 34,000 and 35,000 dinars this year, ie from 320 to 330 euros, which is at the region level.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "“... In the Soviet period, the fishing economy of Kazakhstan was one of the most highly developed profitable sectors of the national economy, the volume of gross fishing was over 80 thousand tons per year.Currently, the total volume of bioresourps production has decreased several times ... \"",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "We are in a small group of Luxembourg, Belgium, Iceland and Greece, where these differences are smaller (in the pay of women and men).",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The number of\" false asylum seekers' who come from Serbia in the EU is in the fall. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Sex loser threatens the corruption of the young generation and the destruction of the foundations of morality and decency",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"What kind of policy is the SNS I find out most often of you journalists, what is the idea and ideology of the SNS does not have ... it doesn't even have a program.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Among them [bikes in the Veturilo system is - ed.ed.] However, only a few three -wheeled people for disabled people and seniors.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "According to Barcelon's goals, which PO agreed to implement, we should have 33% of guaranteed places for children in nurseries.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The CJEU has the right and even is required to point out that our law is inconsistent with the Polish constitution, and thus, with EU law.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The countries to which Poles go, countries to which 2 million Poles went, these are countries where the level of so -calledThe vaccinations are definitely smaller than in Poland.In Great Britain, only 75% are people who vaccinated, similarly in Switzerland - it is 75% in Poland there are 99.99%.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The Serbian government adopted a decree on regression of mineral fertilizers, and the goal is to facilitate and help the farms successfully end this year's sowing of sowing.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The second Budapest means much slower economic growth (...).They developed twice as slowly than we [Poland].",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Professors of the University of California (UCLA) Gordon Klein was temporarily removed from work because he refused to postpone exams for students of African American",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Mike Tyson refused Islam",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Since measles are very contagious, collective immunity does not work for it despite a very high vaccination coverage",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"Brammertz not only does not doubt our political will, but no professional objections to what is done in the operational sense.In addition, full co-operation was realized with the tribunal related to witnesses, documentation delivery, access to archives. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"There can be no Secretary of State, at least that was Slobodan Ilić, to make a problem in relations in the coalition.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The fact that epidemiologists did not believe in the seasonality of coronavirus led to the compilation of incorrect models and forecasts.When the initial worst scenarios have not come true anywhere, some still cling to the models that predict the second wave.",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "They left the presumption of consent to the seizure of organs from the dead, although the people were against it!That is, each person can automatically become a donor of organs, if he did not have time to refuse.(You need to either write a refusal during a lifetime, or relatives must express disagreement)",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"The Kragujevac-Batocino Highway is one of the government's priorities, primarily due to the contract with Fiat.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The Polish black box was listened to in Poland, brought to Poland and is in Polish hands.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In the 2014 election at 1500 protests, the Supreme Court only in 53 cases agreed with the applicant, and they concerned irregularities in individual circuits.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Each Kazakhstani - from the old man to the baby - should already be a foreign \"uncle\" about 9 thousand dollars.",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "150 pairs are divorced daily in Kazakhstan",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "(...) Directional assumptions of the [New Tax Code] were developed by a team of people, this team consisted of 5 tax law professors, 3 judges of an administrative court, 3 representatives of tax authorities, 3 representatives of tax advisory companies and one representative of the president.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Priests pay PLN 243 of the flat -rate tax quarterly, and the average taxpayer pays 2500 (PLN - note Demagog) quarterly of such a PIT tax.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"So we can't just return pensions as the IMF is looking for, and as some people are looking for, to the previous level.Because that would mean that for 80 percent of retirees you reduce pensions.(...) So, we can't just say 'that law is abolished', because we will not reduce pensions to anyone. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Zoom online conferences program is unsafe",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"I never waved criminal charges.I never wander with the imprisonment.I and now that I'm aware that many people scratched in crime, I don't mention people and I'm not saying we'll suffer people in jail. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Italians massively accept Islam",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The \"average salary in January was first in Serbia over 460 euros, 462 euros, ie in January, we expect in March, it is 40 percent more than what I found as the Prime Minister in 2014.",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"For the first time in a government, gender equality was raised at a much higher level and that is that unique throughout Europe.There are no governments, either in the Western Balkans, either in the EU, which have a body for gender equality so highly raised - in addition to the Prime Minister. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"After last year's crashes of Snow Crush ', by JP' Ski Resort of Serbia, ', a large and selfless support of the management of JP' Ski Resort of Serbia 'towards us was proved to this latest donation.",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Subsidies to individual companies are falling, but still there are.Primarily I mean the city traffic company.Also, procurement of new buses, all the measures of the savings we started, and the company slowly stands on its feet. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "You can win a brilliant victory, just like Ryszard Petru - although I would like to remind you that his party received less votes than the United Left.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"At the moment, the airport brings 27 million euros.Is that a fact?Yes.The president said he brought 130,000 profits before they came to power, afterwards he realized that he did not say the truth, since there was never below 16, 17 million, no million euros. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"I need to tell you, that we calculate the average salary, that is, the average reception in the Serbian Army in November.The average net salary was 44,418 dinars, but the average reception was 66,817 dinars.Receiving officers, average, was 92,565 dinars, 75,000 dinars, professional soldiers 58,308 dinars, were given an average of 49,725 dinars (...) as my colleague Stefanović said, digns are 1800 dinars.They are provided for all members of the army and the police located at the border and which are in the mainland zone. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"We are responsible and there is no reason to take care of visa liberalization.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Tedros Gebreisus, the current leader of the WHO, has never been a practicing doctor",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Allowed psychiatric diagnoses based on blurry criteria.And the words “in accordance with clinical manifestations, laboratory data, objective information” was removed.(That is, in fact, any person can now come under the diagnosis of a mentally ill patient. And there is an opportunity to use psychiatry for punitive purposes).",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"As you can see even the dinars we did not spend on the campaign, we have no sets, we do not participate until the elections are announced.We don't have spots.Whatever portal of all your portals to open, you will pop out some other candidates. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The city supports (...) [shelter on Paluch - ed.ed.] with an amount of approx. PLN 9 million.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Pensions and salaries in the public sector were erected.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "It is worth remembering that now 40,000 people die prematurely from pollution a year.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "There was a ban on abortion for Hitler, and there was a ban on abortion.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The dinar is among the most stable currencies, not only in the region, but in Europe.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"People in Serbia need to know that we have never received anything like this, none of all our great friends, we have never received any loan that would be like this good and in such favorable conditions.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"There is no place of concern about the course.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Another type of coronavirus appeared",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"At the records of the National Employment Service in Belgrade, there were fewer than 100,000 unemployed this year in September, which is a kind of record in the last few years and 8 percent better than last year.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Serbia has compensated the 2009 loss of exports in the last year.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"I talked to all coalition partners and I can say that it is not personal, but about essential changes in the government.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Credit rating was reduced thanks to the poor work in public finances of the previous government.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"The prosecution is satisfied with the agreement reached (with Svetlan Raznatović) and we consider it a great victory of the Prosecutor's Office.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"We have managed to stabilize our state in the past two years and defend it from bankruptcy.We now have the arrival of a large number of foreign investments that opened more than 120 thousand jobs, new jobs, of course. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Somewhere between 2007 and 2011, there was a great stalemate in the investigation and did not really deal with these cases.",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Garbage ended in Sweden",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The share of food costs in Kazakhstan is almost half of the budget for almost 50% of citizens, which is much worse than in neighboring Russia, not to mention developed countries, where food costs are only 10-12%",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"Work was introduced in the city public utility companies, which operated in 2013 with a loss of two billion dinars, to make a profit of two billion dinars today.This is important because 85 percent of that profit goes into the budget of the city of Belgrade from which infrastructure projects are financed, construction of schools, kindergartens and playgrounds. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The USA bought up 90% of the reserve of the drug \"Remesivir\"",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "There are 366 thousand in the National Debt Register.Polish pensioners.They are indebted to PLN 5.7 billion.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Serbia is not late with vaccination and is located among the first three countries outside the European Union that will start vaccination in early December.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Maintaining extraordinary parliamentary elections would not expire the parliamentary election cycle, because it is just another printed slip to be rounded.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Konrad Piasecki: [Marshal Stanisław Tyszka] Anti -Pisowski is also in his radicalism.Adam Szłapka: [Stanisław Tyszka] as the closest advisor to Jarosław Gowin and a member of the board of the Polish Together Party Jarosław Gowin party, I am not convinced.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Feminitivians are necessary for language and society",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Only G.Bush - Boguslaw Sonik (@sonikboguslaw) Juls 5, 2017 spoke in Wawel",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"I've never lied to our people in Serbia and say we will be sure until 2020 part of the European Union.I said that we will fulfill what is up to us, what we can do by 2019, and then it is in Austria, Germany, France and other European countries to decide whether they want to receive us in the EUor not.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"The number of retirees in Serbia will grow in the coming years, and the number of new jobs will not follow such a fast increase in the number of pensioners.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"The biggest inflow of investments in Serbia was while DSS led the government, and citizens could do so well, because the average salary was higher for the table as much as it was higher than today.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"51.1 percent of PIO fund went for paying pensions earlier, while it is now 62.2 percent, and only 37.8 percent from the budget.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"NBS interventions in foreign exchange market are very modest compared to the past years.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Salaries of health workers are in the rank of auxiliary workers in public enterprises.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "There are many countries that have your tree in your venom.Poland does not have this tree (...), and such a distinction happened to Denmark.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Remesivir is used as prevention for health workers, treating patients with COVID-19",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"MPs have frozen salaries for the last six years.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"For the first time after six years, after 2006, the budget was reopened in October again.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The Polish government was the first in Europe closed the borders",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The European Commission has written a positive report on Serbia, with reform ideas and the menu for next year.",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Poles pay more for gas than anyone in this part of the world.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "So this means an increase in the order of 20 thousand thousand, almost 30 thousand.[Children] a year [thanks to the Family 500 Plus program, estimated by mines family], i.e. it means, not even ten percent increase (...).",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The Government of Kazakhstan has banned a free purchase of currency",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "WHO admitted that asymptomatic carriers are not infectious, and in fact depreciated quarantine",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "We have more and more supplies of liquefied gas to Poland by the LNG terminal in Świnoujście.The possibility of these supplies increased enormously.Initially, it was 8.5 billion m3 of gas, today it is already 23 billion so far.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Draft Law on Free Legal Aid, which should be found before the deputies is an extended circle of users who will be entitled to free legal aid, including children, victims of domestic violence, torture, human trafficking and others.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "It was a new car produced in 2016.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Jagodina is one of the three cities in Serbia, which had a surplus of 30 million euros last year.We are filling the budget of Serbia and that we have our program in every city, today there would be surpluses in the budget of the Republic of Serbia, and salaries and pensions would be greater \".",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Of the over 1,000 judges that did not last re-election, in the Serbian advanced party, was joined about 650.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "As I understand, you are about the judgment of the Constitutional Tribunal, which has recently aroused so much emotion and discussion.It depends on the Government Legislation Center, which publishes judgments.(...) I repeat, it is not the prime minister that publishes this judgment.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"According to European statistics and data organization, in 2009, Serbia is classified between countries with the smallest prices of food and beverages, but also among countries that are the cheapest for life.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Your party [Platforma Obywatelska] has been building a gas terminal for 8 years.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Serbia's debt is 80 percent of GDP, it means that Serbia is a highly indebted country.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "It is worth noting that 70% of Poles support the reforms that we wanted to implement.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "GFK Polonia had 6.5 percent published(support for J. Palikot), 7.5 %",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Serbia exported goods worth $ 68 million in 2010, while the value of imports from that country was $ 311 million.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The circle of real sales markets and the maintenance of supplies during the second industrial-innovative five-year plan have not changed",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "There is a matter of delegated employees, fundamental from the point of view of Polish interests.I remind you that eleven national parliaments gave the European Commission a yellow card in this matter.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The gondola license is not issued at any time.She couldn't even be challenged.What the Court addressed the preparatory works, which refer to archaeological trials. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Coronavirus SARS-COV-2 affects mainly people with blood group II",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"Attitudes of the State Secretary of the Ministry of Finance Slobodan Ilić on the opening of the plant 'Gorenje' plant in Zajecar will not disrupt the G17 Plus and DS ratios in the coalition in Zajecar.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"They (Salford) have a monopoly and claim to hold 60 percent of the Serbian market.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "German doctors found that the Covid-19 is not a virus, but a bacterium causing death",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Chinese prime minister prays in the mosque",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "At the end of August, the applications for receipt of loss of income submitted 2.6 million Kazakhstanis.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"We started a very difficult but determined reform program with the IMF.We managed to achieve outstanding results.In 2014, our budget deficit amounted to about 6.2 percent of GDP, while in 2018, we had a fiscal surplus of 0.6 percent.We achieved a surplus for the third year in a row.In 2014, the public debt amounted to about 70 percent of GDP, now is 50.6 percent. \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Andrzej Duda has not submitted any law to the Sejm since June last year.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The construction industry is slowly coming out of the crisis after a long time.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": ".وزيرة الصحة وضعت نفسها ابتداء من يوم 20 مايو/أيار الجاري في إجراءات عزل نفسها منزلياً، نتيجة الاشتباه في إصابتها بفايروس كورونا المستجد",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In many countries (Great Britain, Germany, Italy, the Netherlands) there is generally a system of distribution of light drugs in special places",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "A group of international scientists concluded that Heparin contained in algae is able to block coronavirus SARS-COV-2.It turned out that heparin, by the ability to block SARS-COV-2, exceeds many antiviral drugs, including \"Remesivir\"",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The money we spend on subsidizing the mine - 10 billion each year.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The government, as a key political organ that should lead to the state policy, does not lead external policy, but the service activity of the President of the Republic is the service.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"It's not true that the fuel in Serbia is the most expensive in what these days I personally convinced traveling through Croatia, Slovenia and Italy.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"The agreement will mean more favorable delivery conditions of Russian gas to Serbia and a lower price of at least 12 percent, because it is possible for additional discount when signing.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Two Chinese doctors who have coronavirus have changed complexion",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"23 percent more building permits of August this year were issued compared to August last year.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"If you compare the current composition of ministers with the number of members of the Government of 2000, even before, you will see that this cabinet is not bulky.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "630 people died of a million inhabitants in Spain (...), and in Poland 65 (on Covid -19 - note Demagog).",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "41% of Kazakhstan’s business is experiencing big financial problems",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Today we have more and more suicides in schools.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "One of the main trading partners of Kazakhstan in the CIS is the Republic of Uzbekistan, the volume of trade with which last year exceeded $ 2.7 billion.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "It is necessary to form feminity in Russian using an affix –K",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "While Germany is our greatest trading partner, Great Britain is our second trading partner in order.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Corey virus after vaccination for many days can be found in the blood, urine and respiratory tract of a vaccinated child",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"This also speaks of greater mutual trust, our national airline and airport, but also safety conditions and everything Serbia has achieved, because it cannot fly for the United States, as we could not have been 25 years.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "In the first half of 2020, the SMB increased a microcredit portfolio by 850%.At the same time, overdue debt increased by 238% of the main debt or accrued reward, including.For individuals, the growth of microcredit was about 145%, overdue debt increased by 332%.",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"It is not true that many devices will rise twenty percent due to environmental taxes.It is true that the ecological tax is only a few percent compared to the price. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Euthanasia is probably in two countries of the European Union, two or three countries.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "... according to scientific statistics, in general, each drug addict draws on average from 5 to 17 people into drug consumption ...",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Example - closing of schools when there were 30 several cases of coronavirus found in Poland.Schools were closed in France when there were 2,000 cases found.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Whenever he comes can only make sure we do everything to get to the end goal.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Grande Parte Da Mídia Achava Que Ele [Cesare Battisti] Era Um Pobre Coitado",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The most cited scientific journal (according to 2019 Journal Citation Reports) in the field of immunology The Journal of Immunology has published an article “Understanding the essence of the mechanism of action of highly exposed biological preparations” on the mechanism of action of domestic “Ergoferon”.",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"If they look at those conditions that were set, the action plan is practically fully fulfilled.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"You can't shave (Members of REM), I think paragraph 2 is very explicitly said, that it is necessary to obtain an opinion of all members of the Council, and only then you can access dismissal.Do you really think six who are there are, that they will bother themselves and say 'Bring us everything'? \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Without our coalition, there will be no new governments, unless Democrats and Progressives form a majority.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "We offer a widespread fee for maintaining public media, twice lower than the subscription.*",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Baiterek holding, which unites state business support institutions, reported 40 billion tenge about the last year about the last year about the last year",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Cerethels will build a 193-meter monument to Nazarbayev",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Three cases of coronavirus in Kazakhstan",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "I remember Tusk's expose from 2011. He said then that he would not kneel from bishops, that he would liquidate the church fund.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The vaccine from the Covid-19 will be introduced to people without passing any test and no testing.To test the vaccine from the Covid-19, it takes several decades.After that, we can say how dangerous it is or not, and about its side effects/",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Most SLD voted in favor of raising the retirement age.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"From 1910 to 2013 we had a dramatic drop in animal production every year.We came to the level below 1910. \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"There will be no election duel between Tadic and Djilas.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"The law has been violated!Twenty-four thousand and some employees and former employees did not receive actions, and four million hundred thousand citizens did not receive actions. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"It is interesting that we have equated salaries with May last year.The difference is in two hundred dinars.Regardless of the salaries in the public sector lower, salaries in the private sector have reached a significantly higher level and equalized with last year, these are data that they are making a big result. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Telekom provides both Channel N1 in its program.So that one who has Telekom's program, ie the benefits of Telecom as a distributor, can absolutely watch television N1. \"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"I submitted my successor to the financial report on the state of finance in the city ... there is currently close to six billion dinars in urban accounts.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "In 2010, the decision of President Obama and NATO was adopted so -called eventual plans for Poland and Lithuania, Latvia, Estonia, where NATO was very precisely described, i.e. Poland will also defend these territories.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"It is a shame that the largest number of social assistance beneficiaries in the richest piece of Serbia and no one is proud of such Vojvodina.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"I'll hand over Mr. File and answers to the questionnaire that they have not yet sent us.Simply, in this way we will shorten in a few months from the moment you officially get that questionnaire that we need to answer it. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"The general state deficit is drastically below what the deficit has the most significant EU countries, except for Germany, which we are extremely operating and which we cannot compare.One France has two and a half times a larger deficit from Serbia.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "I expect that we will have the largest rate of economic growth in the region next year.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Family benefits have been increased in 8 years of the platform by PLN 9.I know what I'm saying, about 9 zlotys, sir.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"We have increased only the budget of the Film Center, it is 50 times higher than six times this year.So we never gave money for domestic cinematography again. \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "(...) Geriators (...) there is only 436 in our country.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Serbia will save about 70 billion dinars by 2020 by reforming the pension system.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "In Germany, when the beer consumption grew for years, it dragged hops behind it.In Poland, you have a twenty -time increase in beer consumption and a decrease in hop production.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "We have the seventh year from a seven -year perspective, and we have released less than 46%, from 60 billion 27 only went to farmers' accounts, and in activities modernization of farms is even worse, because less than 1/3.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The level of coverage of imports by exports is insufficient, 58 percent, but in this century it is the highest degree, which Serbia had.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"(...) We can provide around 100 euros per person per month.In Belgium it is 60 euros a day. \"/ '(...) We can provide about € 100 per month per person.In Belgium it’s € 60 a day.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "For non -fulfillment of the below duties, parents may deprive parental rights: you can not leave children alone unattended up to 12 years.The child himself cannot return from school and go for bread?Parents should not allow viewing, reading and distributing materials containing pornography, violence, extremism and terrorism.But what about the porn that was included in Zoom during the lessons?That is, the state does not block Internet resources on the territory of Kazakhstan, and the parents somehow must block!?Ensure compliance by their children with the requirements established by the internal routine of the organization and the charter of the organization of education.And if sometimes we are late to school, then can you prepare a child in an orphanage?Fulfill other duties provided for by the legislation of the Republic of Kazakhstan.",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"I am the president of the Serbian government, may not be elected the largest number of mandates, but with the largest number of votes in the modern history of Serbia.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Coronavirus was found in the cats in Jun",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "We have completed the construction of a gas terminal",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"There was never incidents in my biography, I've never been prosecuted, and I dropped the biggest bully.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Video shot in the village of Masanchi of the Korday district of the Zhambyl region of Kazakhstan",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "In Kazakhstan, about 300 thousand tons of raw cotton are collected on average per year.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Four Ukrainian military died after the introduction of the American vaccine from coronavirus",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"Therefore, the state, in accordance with the decision of the City Assembly, determined that such manifestations (pride parade) were held before the Serbian Palace.It is a central place in the state, it is no more trickled position, nor a field. \"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The PO introduced JOWs in local governments and in the Senate.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "They allowed psychiatric diagnoses not only to a psychiatrist, but a simple doctor who did not even learn psychiatry.",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The mining restructuring program implemented in 1998-2002 together with its further modifications until 2006 was until now the most radical project to change the shape of the entire sector.As a result, 13 mines were liquidated and mining in another 10 was significantly reduced. Over 100,000 left the mining.people, i.e. more than 42 percentemployed on the start of the program.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"For all (cultural) events, organized in 2015, more money was provided than the case was in 2013.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "In 2015, 4 criminal cases were opened to sell drugs against employees of the Department of Crime Correspondence, in 2016 already 10, in 2017, already 20, and, probably, this is not all that is not all",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"The work of the High Council of the Judiciary (VSS) in the current, incomplete composition, became illegitimate.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Frozen children are sold to organs in China",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Bill Gates called for reducing the population of the planet by 10-15% and financed the development of coronavirus",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "About 900 stolen children were raised from tunnels in Melbourne",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The World Health Organization (WHO) officially included love in the list of mental illness.A new ailment was assigned a number F63.9",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The embassies in Senegal and Iraq are already operating.In January this year, the embassies in Tanzania and Panama were established, and at the beginning of February the general consulate in Houston.These facilities will start full activity in the second half of this year.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Emigration was the highest immediately after entering the Union, and now it stays at a stable level.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The head of the WHO is dancing in a nightclub",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "For example, the Polish economy is nearly twice as energy -consuming than the European average.Out of 100 units, so -calledWe use primary energy only a dozen or so.All the rest melts at the stage of energy processing, transport and receipt.For Example, Poland’s Economy is Almost Twice Much More Energy Intension The European Average.At 100 units of so-Called So.Primary Energy, We Effistly Use only Saveral.The Remaining Part Dissipates at the Stage of Energy Conversion, Transportation and Prescription.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "These PLN 15 (as part of the audiovisual fee) will be charged from each meter, not from the TV.*",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "According to Vaers, from 2006 to 2019 after vaccination of HPV in the United States, 3,000 became disabled, 480 died, more than 300 have a cervical dysplasia and more than 400 cervical cancer appeared",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "In Kazakhstan (in Almaty), two cases of coronavirus are confirmed",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "We - Poland, have been an ally of Israel in many years in many years.We are on the side of Israel, recently as there was a vote in the UN Security Council, we also abstained, which in fact was the support of Israel.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The Warsaw In Vitro program is already over 200 happy families.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Even Bill Gates said that 700 thousand people would initially die from the vaccine",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Judges (CT) were elected, who can, should already, three should already take their office, because the term of office of previous on November 6 ended.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Since 2014, I was at the head of the Committee that controls the military and the police.I introduced the practice to come to the Minister of Police and Army to apply for work on three months. \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Serbia The leader in Europe in the number of girls in the Information and Communication Technology Sector and European Union countries will need decades to reach it.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "In Finland, more than $ 1 billion from lottery activity through the operator is aimed at developing sports and physical culture, as well as art and culture",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"I didn't mention her, I just said - 'Good people don't bite dogs.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"But I admit I didn't know myself in politics, and I didn't answer meaningless charges, and no one was badly told that I didn't tell me that some tender was set up, that some wrong investment was done.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"If we are not able to achieve a higher growth of 2 percent this year, it will still be very similar to us, because the greater feeling of some better achieved will be made.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The probability of die after vaccination is thousands of times higher than the probability of die from measles",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "We must remember that this [anti -smog] law will largely eliminate the possibility of heating by coal stoves.In a situation where 70% of people in southern Poland are so heating.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"It was forbidden to promote me.They just didn't let me promote anything. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Kazakhstan takes 9th place in the world in terms of proven world coal reserves",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Total exports of weapons and military equipment, including a new contract, will be around 1.2 billion dollars.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "This is the largest row in history.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In the Global Innovation Index, Kazakhstan 2019 took 79th place, having lost 5 positions compared to 2018",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Olaf is such an EU institution that is responsible for the correct spending of EU money, not so long ago in its report she wrote that in Poland, according to their estimates, every fourth tender is set.Every fourth tender.Many of this money ...",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Enterprise investments have been at the lowest level today in over 20 years.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"I don't even know who he, or where did he show up now.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Throughout the second five -year plan, the number of jobs in the manufacturing industry increased by only 46 thousand, and the average salary in dollar equivalent fell by 25%",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Imported carpets in Uzbekistan are an excisable goods, and Uzbek manufacturers (exported carpets) enjoy the right to return VAT",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"This government was promised three years ago, a reduction in taxes and parafiscal imposes.And what is the result of that?Three years ago, there were 360, and now that number 384 with the adoption of the Private Security Act, we will have another new, 385th tax. \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Lossing of the nose can help with the prevention of respiratory diseases",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The population in Africa exceeded a billion.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In Kazakhstan, residents are burning Chinese houses, shops and restaurants due to the outbreak of coronavirus",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"I advise citizens to save in dinars because one is safe, this dinar interest rate is much greater than inflation rate.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-01-10t00: 00: 00z",
+        "label": "mostly false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"As for prices, the progressive authority starts to declare himself for the first time in 2015.Then Mr. Siniša Mali said that the first line of the subway would cost between 800 and billion euros, in the end of 2015, it was already corrected to between 800 million and 1.2 billion euros. \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"And not only we renewed the buildings that were demolished, but even some new built.As a kindergarten in Stublines, which is one of the most beautiful in the territory of the city of Belgrade, as is the first fiscultural hall that the first Obrenova primary school received after almost 200 years, it is home for social work to be built soon.So these are some new objects that even improve life in Obrenovac.And I think we can be satisfied with this what we did in the past year. \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The program of mental diagnostics and \"treatment\" of children was introduced into kindergartens and schools.(This can lead to a mass formulation of mental diagnoses to children).",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "A million patients with cancer in Poland and only PLN 1.5 billion for oncological treatment.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"I never said that Mercedes would buy Ikarbus.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"When I became prime minister, public debt expressed in the percentage of gross domestic product, depending on which moment you take, from 77 to 79 percent, and before the year the level of public debt will be below 50 percent.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"The policy of giving subsidies of the Government of the Republic of Serbia is well thought out and smart, so I think we will definitely continue with her.Thus, five domestic investors, and it returns four times in a budget to a single investor and is strictly monitored. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "It all began in 2011 with the ruling of the Constitutional Tribunal, which, by registering NOP symbols, including the Celtic cross or, sorry, it was a \"pedaling ban\", he did not find any violations from the constitutional point of view, then the court had to register it.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Half of the budget is with VAT.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Serbia is further than the EU today than it was two years ago.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Citizens voted for him in the last four rounds of choice and got more and more every time.Both him and the Serbian Advanced Party. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"In the execution of works (at the North Krak, Corridor 10), the agreed dynamics were monitored.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "When I was still a city councilor, I demanded that free parking lots would be created in front of the paid parking zone.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Six months in Belgrade, I would say almost in Serbia, there was no mafia murder.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Suffice it to say that our rating is still higher than the rating of Italy, a very powerful Western European state, is at a level exactly like Spain.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In China, millions of coronavirus infected",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Belarus is a country where one of the candidates is still in prison in the presidential election five years ago, Mikoła Statkiewicz",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Serbia was before the bankruptcy three years ago, and today it has a budget surplus, economy growth significantly higher than the European average and Serbia has shown that he can win.And not only in basketball and water polo, but also in economics and politics. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "During martial law, almost 800 thousandPoles left Poland.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "German commission - coronavirus - global false anxiety",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"Only this year, 23,000 children in kindergarten are enrolled, 12,000 in the state, and 11,000 in private kindergartens.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"The resort ministry will increase direct benefits of agricultural products this year with 12,000 to 14,000 dinars per hectare of sown field crops.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Kazakhstan is a leader in Central Asia on the illegal conclusion of capital into offshore",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"After 16 years, DS rule, we have 10,000 people who go to folk cuisine.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"We need to present foreign investors that investment potentials are such that the profit that is realized herein, due to tax policy, financial stability, labor and its quality, higher than in the environment.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"When I took over the government, only the two countries have recognized Kosovo's independence since.These are Antigua and Barbuda and Togo, if I'm not mistaken.Only those two countries, everything else I inherited. \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Another amount of benefits is received by guardians of adult disabled people, and other carers of disabled children.This difference is very large, because in the case of children it is PLN 1,477, and in the case of adults PLN 520 and only for the least paid people.The Constitutional Tribunal ruled the unconstitutionality of this solution in 2014.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The state does not want you to go for retirement earlier, the state wants you to work a full service life.And therefore if you retire earlier, as well as in most countries in the world, you pay a certain reduction in that pension.The so-called penalties.It was for life, and now we say, since we have more money, as we want to thank retirements, when you fulfill the age, it considers that you are no longer obliged to do anything for you. \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "In Serbia, 90 percent of students, after high school, enrolls in college, and it is known that masters are lacking in factories.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Cracovians live the longest in Poland.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"I am responsibly in front of the Ministry of Agriculture that this year's sunflower race will be between 300 and 320 thousand tons, which is enough for about 130,000 tons of edible oil.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Article 15 of the European Union Treaty is explicitly that the European Council elects its chairman by a specified majority for a period of 2.5 years and the chairman's mandate is renewed once, renewable and, in the event of an obstacle or serious failure, the European Council may decide differently.So as if we are dealing with a certain machine, this mandate of the chairman of the council is simply renewable.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "WHO announced the pandemic of Coronavirus Covid-19",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"I believe it will all be successful and that Serbia will really have that percentage of economic growth this year, as the IMF and the World Bank said.Believe, Serbia is the only country in Europe with growth.So, look at the countries around us. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"The dinar course will remain stable by the end of the year.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Japanese professor, Nobel laureate, Tasuku Hondzo said that coronavirus was created by artificially in China",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "As for the constitutionality of the Act on the National Court Register, first in 2006 the Constitutional Tribunal ruled that this term could be shortened.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"I was president of PKS and I was eligible for public office on working relationship with the right and obligation to report to work in PKS ... I absolutely all done by law and no conflict of interest.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "According to available estimates, about 75% of the country is at increased risk of environmental destabilization",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Bill Gates was detained as the Coronavirus Coronavirus",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"Serbia is an open, democratic society, in which extreme groups cannot pass.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"I claim that pensions will not fall, but they will grow, in line with salary growth.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "80 percentPoznanians are believing Catholics.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Percentage, we give for social more than any other country.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Aisultan Nazarbayev is accused of attacking a policeman",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"You see, Montenegro opened a lot more chapters, but it closed as much as we do.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Garlic helps with coronavirus",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "In March there was another decline in unemployment.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The World Economic Crisis will not affect employment in Serbia.There will be no waves of dismissal ... \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"The European Commission's Progress Report on Serbia's progress in European integration proves parliamental progress, and that the Assembly of Institutions that Hurrays European Assignment.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Erdogan forbade the show of the film \"Borat 2\" throughout Turkey",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"We are one of the few areas where three new factories are opened in a short time, and this year we are expecting another 200 new jobs.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Antibiotics are cured from coronavirus",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "213 professions are prohibited for women in Kazakhstan",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "In Kazakhstan, the death penalty was canceled",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Huge state investments are planned to be directed to the construction of wholesale and distribution centers.However, the effect will not be quick and raises questions, since it is planned to put them into operation until the end of 2022",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "None of the vaccines is absolutely safe",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"Serbia came out of the recession, because the growth of gross domestic product (GDP) in the first quarter of this year was one percent higher than in the same period 2009.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Tom Hanks and his wife Rita Wilson infected coronavirus",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"I am innocent and statements of all the accused speak in favor of that.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"(Maternity rights) They are larger in our country, more pronounced and better than in Germany.There you have to work there for three months, you can still go to work here after 3 months. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "This year 550 criminal cases of violence against children were instituted",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"We manage serious negotiations on starting production in the civil part of the company Sloboda.FOX is interested in investing. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "We have already increased our debt over 10 percent (during the Covid-19 pandemic-note Demagog)",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "22 countries in the European Union send 6-year-olds to school.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"How did they (in Nis) have made budgets of all previous 25 years, 30 years?By telling you, we will have income, which is not actually revenues overrated by 46.4 percent.Overvalued revenues, and then on such overvalued revenues, influence itself impossible obligations that are even greater than that, because they are always counting in the coat they reach 50 million euros. \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"There are a lot of problems in the field and misuse on the lease of state agricultural land.These issues are within the competence of local governments and I agree that the Ministry receives jurisdiction to issue even a third of these licenses, such as the case in Hungary, so that abuse would not come. \"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "In 2017, thanks to the deputy corps, for the first time at the legislative level, the practice of paying fees for socially significant literature was introduced.There are no analogues in other countries of the world similar experience",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"In the last term, the opposition was chaired with about half of the total number of parliamentary committees.It is important to say that in this mandate, the opposition was exhausted by the important committees such as the Administrative Committee, the Committee on Defense and Security, Finance Committee, Local Self-Government. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Statistics shows that the war against violence in sports gives results.Since the application of the new law, violence has fallen by 26 percent compared to the same period last year. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"I want to congratulate all others in a correct and fair campaign.I think it was the most peaceful, cleanest and best campaign so far.From all.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "12% of the crimes in Kazakhstan falls on women",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"From 2012 until today, we managed to halve the trade deficit we have with the EU.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"We shouldn't forget that Serbia was declared the country of leader of Southeast Europe four days in attracting foreign direct investment, $ 2.56 billion is an inflow of FDI, more than anyone in the region.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "At the moment we have the situation that the National Labor Inspectorate must announce every control.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "There is a great lie and manipulation in this matter, spread by PO deputies.I was a minister at the president's office.When the law comes to the President from the Sejm, the president may make three decisions: sign if he agrees, he may appear with a veto, and if he finds that he is contrary to the constitution, he is required to send her to the Constitutional Tribunal.The implementation of this provision is to refer the law to the Tribunal.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"In the first months of 2011, we have excellent indicators of agricultural products from Serbia, which is 40 percent higher than last year.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Members of the LGBT population have the opportunity to exercise their right guaranteed by law and the constitution ... as well as that none of them can be limited in exercising their rights.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"In the first five months, we had a deficit of 25 billion dinars instead of planned 90 billion, which is three and a half times less than what the IMF would be satisfied.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"We have a significant decline in industrial production, and for the first time after 16 months and the decline in gross social product.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Badger fat helps from pneumonia",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "There are already voivodships such as the Lubuskie Voivodeship, in which there was a 10% increase in births in January.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"There are several factors for resting prices of food, especially low purchasing power and, I would say, realistic and rational relationship between citizens according to total costs, and food costs.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Extraordinary increase in pensions in 2008 of 10 percent provided security to the oldest population and before the upcoming crisis.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The astronomical debt (city) is PLN 1.48 billion.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The fact is that Serbia is another military force in the entire region.In front of us is only twenty-metic Romania. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Over four hundred of eight hundred of a dozen or so police stations have been liquidated during the Civic Platform.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Americans/US citizens sued China because of coronavirus",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"There are currently no chances that some IT giant like a 'Gugla' comes to Serbia.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Kazakhstan has no experience in releasing vaccines at all",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"But if I tell you that 35 incentives agreements have been signed in the past two years and that almost 19,000 jobs are open, will you tell me that the job for those 19,000 workers is insignificant?\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"It is currently working on the census of state property.",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Serbia will achieve a surplus higher than a billion euros in the foreign trade of agricultural products this (2010), which is the best result in its history\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"'Moving' imprisonment ... is planned for the coming year and to the location outside Belgrade.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Now we are noting the feminization of the profession of a teacher.81% of all working teachers are women, and only 19% are men.In schools, we have only 60 thousand teachers of men, and then, you know, these are mainly directors, hard workers, physical education teachers",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "(...) Then [during the construction of the Legia stadium, ITI - at.ed.] It was a private company, which was co -financed [from urban funds - at.ed.] The amount of half a billion zlotys.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"If you talk about the media, you have countries in the EU where you have ten times less transparency and freedom than in us.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "There is not even half a word about the disabled in the electoral program of Nowoczesna.This is something terrible and I disgust such politicians.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The Department of Minister of Economy Mladjan Dinkic had bad results.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"So where are you critics now who told the fountain overflows.So every fountain in the world overflowed, has a compensation pool and pumps that return water.Let them go to Madrid to look like the fountains there.They were against Dimitrije Tucovic prone, and they don't even know who he is, so now they're bothered by a fountain, so mast. \"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Banja Luka is the capital of an internationally recognized entity as a result of the Dayton Agreement, while Novi Pazar is only one of the cities in Serbia, nor is Entiet, nor can it be separated from any other city in Serbia in any other way. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The share of new private organizations from the total number of open 93%",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"In Serbia, the extreme forms of poverty have been almost eradicated and the risk rate of poverty has been reduced.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The second wave of the pandemic may not be",
+        "label": "mostly true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"I have no document about that seal.I don't know how they can talk about the application, when they don't have any basics to sue me, that seal doesn't exist anymore. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "To date, 105 objects of renewable energy sources operate in the country.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"The amount paid to the Steinhauer family will be refunded by means of the criminals, in accordance with the provisions of the Law on Confiscation of Property acquired by the commission of the criminal offense.In this way, the burden of compensation will not be borne by the citizens of Serbia but criminals, and the value of property temporarily confiscated is already far higher than the amount mentioned. \"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "China closed its last temporary hospital, due to the small number of new cases of infection",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Even at the Waterworks and Sewage Plant.There, the editor, the management board is so unimaginable that colossal money is allocated to salaries every month.The president and the multi -person management of Łódź cost over a hundred thousand zlotys every month!The president himself earns about 25,000.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"In 2010, foreign investments will be greater than in this (2009).\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"As for maintenance (white court), the costs would exist and is empty.\"",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "HPV vaccination causes infertility",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"An unjustified difference in terms of the conditions for constituting the National Council of the Bosniak National Minority in relation to national advice from other national minorities.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "In China, a hospital was built for 2 days for 2 days",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Good news about coronavirus",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "If Serbia returned the total property of citizens to citizens to citizens, it would cost our state about 200 billion euros, which is a big problem.Serbia does not have 200 billion euros.",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"The one for whom the voice of Serbia, and voice for Aleksandar Vučić in an unprecedented number of votes, he has the right to decide who will be in any future government reconstruction or will not.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Recent studies in Słupsk indicated that 88% want him (Biedronia - editor's note) for the next term.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "During the coronavirus test, people are torn between the nose and the brain",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Antarctica is landscaped / Antarctica began to turn green",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The Istanbul convention speaks of religion as a cause of violence against women.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Rapted Europeans apologize to migrants",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Today, coal power plants are the basis of generating capacities (about 70%), which, according to their technological characteristics, cannot provide the necessary level of maneuverable capacities.Only 12% of the total generation falls on maneuverable sources - gas turbine power plants and hydroelectric power plants.",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "In January-July, the volume of sales of food products in retail trade reached 2 trillion 158 billion tenge",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"Official data says that just more than $ 600 million in the country were in the country for the first three months.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Pursuant to international law, Syrians who are refugees or Iraqis from North Iraq who run away from war areas acquire refugee status escaping to the first safe neighboring country.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The calculation and financial center concludes with the investor the contracts for the sale of electricity from renewable energy sources for a period of 15 years.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Sumy helps from coronavirus.If you drink water, mixing with a small amount of sumach, with the permission of Allah, a person who got sick - will be cured",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "If the patient is on the youth for more than six days, then his chances to return to life without Isl, are close to zero.88 percent die.Because ventilation does not help to breathe, it does not supply the body with oxygen",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "We have the lowest tax -free amount in Europe.We suggest increasing it to 30,000, so that the income of up to PLN 4,000 a month is not taxed at all.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "We won one hundred thousand voters in the first election (...) in the second we doubled this result.We would like Marian Kowalski to expand our group of voters again.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Full ZUS contributions from the state budget are at rest.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Compared to the previous year, the increase in tax revenues amounted to as much as PLN 17.9 billion.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Our current is convincingly cheapest in Europe, 30 percent is cheaper than countries that have the cheapest current in the region.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Foreigners will extend the terms of stay in Kazakhstan in connection with coronavirus",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The UN has released a directive about teaching homosexuality children from 5 years old",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"The Order of St. Aleksandar Nevski, who received Neway and other greats, stopped being awarded in 1917. Order of Aleksandar Nevski, who received (President) Aleksandar Vučić, is worthy of attention, but it does not have the same weight.Bogoljub Karic also got him two years ago.I use the opportunity to congratulate both of them. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The MP said that the sum of funds accumulated on the reserve [general state budget] somehow increased cosmically.It increased by about 15% -20% (...) compared to last year.Today, this sum is about PLN 250 million.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Inflation will be about 12 percent in Serbia by the end of the year (2012).\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The problem is that all cases are appealed in court.(...) The court was to comment on these matters in June.Only Patryk Jaki questioned all judicial compositions.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"We invest a lot in the army, proportionally to our GDP.Today is only nine NATO countries in front of us by investing in the army. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "180 million on the Internet and equipment for students and teachers are funds from the current POPC, which we decided to spend in consultation with the EC for a new goal.The EU did not transfer any new funds, even € 1 to fight Covid-19 in pl.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"There is only one private TV that supports government work.It's Pink and they have all the rights to it. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "I will only remind you who privatized the heat and power plant in Łódź.SLD in 2004-5.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The frequent errors of Zoom may pose a threat to Kazakhstan",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"Our attitude relies on two principles.The first is that Serbia respects the territorial integrity of each member of the UN Member State, as well as Ukraine.The second is that Serbia cannot introduce sanctions to Russia, because Russia never introduced sanctions to Serbia. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"What writes in the contract, what I told you and what Mr. GIOM said in this factory will be employed by 1370 workers in the next few years.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "In the year when we had the lowest fertility, probably 2002 or 2003, in a moment the SLD government reduced parental leave, maternity leave, from 18 to 16 weeks.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Serbia is currently the most desirable location for new investments in the entire middle and Eastern Europe.\"",
+        "label": "mostly false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"In the past four years, capacities in Serb prisons increased by 50 percent, and conditions for stay in prisons raised to a higher level in line with European standards.\"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Wrocław is definitely less on the fight against smog than, for example, Krakow, and the problem is currently comparable.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Foreign investments in Serbia in the first 10 months of this year (2014) were 1.15 billion euros, which is more than in the entire last (2013) year.",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Doctors with police officers will go to everyone.Refuse, from any tests for the virus",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "One move in the form of the 500+ program reduced poverty among children by over 90%.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Every third Pole tries to reduce air pollution emissions, and 40 percentIt limits the drinking of bottled water - according to the climate of the research of the level of awareness and attitudes of air, waste management and return bottles.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The Constitutional Tribunal at the trial on December 3 will decide, among othersThis issue [compliance of the Act of 25 June 2015 on the Constitutional Tribunal with the Constitution].A group of deputies submitted [application] on November 7.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The Municipal Council instead of the nine so far, now already counts seven members.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "We export agricultural and food products nine times more in the EU than in Russia.",
+        "label": "mostly true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2018-10-25T21: 35: 04z",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Where (HBIS) took the copper mines in South Africa, they left 2,200, 2,300 people at work, did not reduce that number.It is for us of crucial significance \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "2020-03-17T00: 00: 00Z",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Recently, the OSCE has prepared a document called \"tips for using the freedom of association\".This is a document that in the rank of international law has the rank of so -calledSoft Law, i.e. a soft law, i.e. some tips on how to function, how to act.In these tips there are a whole range of recommendations what the relationship between the state and non -governmental organizations should look like in the field of financing such organizations from public funds.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The Uzice budget is damaged for more than four million euros in three years.With this money, the most important projects in the city could be financed, such as the construction of a children's kindergarten, sports halls in Krcag and the pool. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"It's just in the end of the end of the new company that will replace Jat.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Over the past year, food prices have risen by 10%\"",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Last year, we beat records, 330 million passengers who used the Polish railway.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "After transferring these childhood diseases (measles, rubella, mumps, whooping cough - approx. Ed) lifelong immunity is formed",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The statistics of dealing with cases are 6 cases a year on a judge.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"We have greater transparency thanks to the IMF and the fiscal advice and openness in the work of public companies, so if you want and thanks to what I often be angry with Sabic and unhappy Jankovic.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "And do you know what the only man in this team who has a scientific title did?Land traffic disasters.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In 2011, during his election campaign (Rafał Trzaskowski - note Demagog), the head of Donald Tusk directly to the camera, i.e. looking into the eyes of viewers, he can say that, he said that absolutely Civic Platform would not raise the retirement age.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"We've had those protests already, there are everywhere, especially in African countries.In many countries, Europe is prohibited, in Germany, you have no unions in the military and police.With us you have, we are a democratic country.You do not have those countries.You are thus boasting, you are happy with union struggle in the army and the police, and I am happy that 99 percent of people will not be with those unions in the military and police, who do not respect the state.I am for those who respect their country and who love their country and their Serbia and I don't wait for money from anyone. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "It was Prime Minister Morawiecki who announced (before the election note) that there is no more Covid.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The airport was not worth 35 years 100, 120 million.It's worth 500 million today. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"I mean, (of) February last year, I even think of February of the previous year, we do not have any help of the Government of the Republic of Serbia.Er Serbia, I say, it operates in the market. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"This (tennis) is the largest and best European manufacturer.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "French doctors gave their government to the Constitutional Tribunal in order to challenge their bad decision to conduct the first round of local government elections.As you know, the second round did not take place there.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Every year, the number of victims of domestic violence reaches 100,000",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "20 years ago it was nearly 100 percent.Last year there was 55 percent, and now there is even less.This year, for the first time in history, Ankara's addiction on the supply of Russian raw material has fallen below 50 percent.20 Years Ago It Was Nearly 100 Percent.Last year it was 55 Percent, and now it is Even Less.This Year, for the first time in the history of ankara’s Dependence on Supplies of Russian Gas has Dropped Below 50 Percent.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Spraying viruses from an airplane in the Mangistau region",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "In the so -calledThe White Book of 300 experts of President Komorowski and Minister Siemoniak on the eve of aggression on Ukraine wrote that there would be no war.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"I work the same as earlier, it just differs, because a different building season is depending on the season.I'm not valuable at all than I've been earlier, I can't just receive (Angela) Merkel, (Vladimir) Putin and others now. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Electromobility was to be a priority of the government and the flywheel of the innovative economy.Today, nearly 2 years after the prime minister's announcement, less than 1 thousand rides in Poland.electric cars, with half of them driving 2 years ago.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In 2017, just over 2,800 apartments were built throughout Łódź, while 9,000 was built in such Wrocław.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The judge from Ireland gave two examples in the justification why she made such a decision: one example because judges in Poland are allegedly chosen by politicians and the other because there is a different retirement age in Poland.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"If the Democratic Party beats on May 11, Serbia will lose Kosovo and Metohija, Raška Oblast and Vojvodina, and Serbia continue agony in the European Union and the promised allegedly better life.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The citizens of Serbia know very well that the prosecutors chose people from the regime to which Dragan Djilas belonged to and that it happened 2009, ie in 2010.",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "A woman who died from coronavirus woke up a month later",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Of the existing (in the Kazakh SSR), 47 fishermen are currently almost nothing left ...",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "In Germany, 55% of apartments are inhabited on a lease basis.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Coronavirus becomes more contagious and more dangerous",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "There is a government program that develops ideas from the Act.Our philosophy is encouragement.Possibility to replace furnaces?It is already going on.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "A. Klarenbach: In 2015, when you gave power unemployment, it was almost 10%.At the moment it is 7.7%.U. Augustyn: Unemployment was one -digit if I remember correctly.A. Klarenbach: No, it wasn't.U. Augustine: 9 and something, it was one -digit.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Serbia is the only country whose government launched a password that the EU has no alternative.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "VAT revenues for the first 4 months of this year are 57.5 billion, last year it was 56.8 billion.What does it mean?This means that VAT affects us into the budget, and VAT revenues grow much more slowly than consumption.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "I am a supporter of soft liberalization like a German model, which consists in the fact that if a woman is in a situation where she is willing to remove pregnancy, so that she does not do it hastily, so that she passes through the process of psychological consultations, so that this decision should not be taken suddenly.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Return VAT to the card - up to 270 thousand rubles through the Unified Composed Center for the Refund of Usulate Cash",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "I don't know what the deficit will be now, but last year there was PLN 100 million.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "All countries that entered Poland in the European Union in 2004 got less, together - [all these countries] together they got less [funds] than Poland.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The president said that in Gdańsk all trams are low -floor.No wonder that the president does not know that this is not true.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "According to the ordinance of the Ministry of National Education, parents who want their children go to religion must submit a written statement in this matter.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"In these reports (European Commission, Frid Haus and Reporters without Borders, Prim. Truth Moroma) I do not see the source.The source means who gave data, based on what could have come to these, 'Come on so say, negative rating. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"I am convinced that there is absolutely no fact based on which Seselj would be accused, so we expect his return to Serbia during June or July this (2009).\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Over a million people in Poland work on self -employment.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "It is thanks to the decisions of the Civic Platform that 40% of European funds are distributed by voivodship self -governments.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Serbia has been completely digitized from today, 97.8 percent of the population is covered by a digital signal, and the analog signal is going to history today.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Los Angeles or San Francisco has 22 councilors.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "(Over the act amending the Act - Code of Civil Procedure and some other acts - dop.) How did PiS senators vote in the Senate?It was, this act went 51 to 49, all (...) from PiS voted against.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "If a state [Poland] has 90 percent.European coal resources, it is based in a vast part on coal (...).",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Still lying info, that the concordat is the work of SLD.MY for 4 years 1993-1997) We did not allow Suchocka to be ratified.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Cynthia bacterium led to the \"blue plague\" in the Mexican Gulf",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"It is true that Cacak has no pool, but he has the most kindergartens, including the biggest in the Balkans.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"In the previous two years we built on the watercourses 29 dams.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"In this range between 18 years and 30 years ... 28 This is almost 25% (unemployment, in relation to Kielce)\"",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Inflation for the previous year was announced: 3.4%.(...) Food in Poland was 7%more expensive.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The Netherlands will not block the forwarding of Serbia's candidacy for EU accession.The decision of the Council of EU Ministers will be positive and candidacies will be forwarded. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"I apologize for making Serbia progress a lot faster, which Serbia overlooked everything by salaries and pensions, but Montenegro approached for Montenegro and I expect it for a year and a half of the day to overtake, to be a numberone in all parameters in the region.We have dropped public debt with 78% to 50%, some were raised by 27% to 55%, some with 50% to 75% in the region.Unemployment is the lowest. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "You spend an additional PLN 35 billion on the purchase of F-35.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Of the 500 reviews that the Venetian Commission has issued in the last almost 30 years, a small amount has not been included in somehow - e.g. Putinian Russia or Lichtenstein.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"We paid for seven million euros for loans approved earlier but not used.We will not pay any euros for those loans, because the projects are now realized. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "It was said that the President of the United States appoints judges of the Supreme Court.However, first of all, it does not dismiss them, and secondly, the whole structure of the Supreme Court is constructed in such a way that the judges perform the office for life, unless they resign in advance.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Funding from ECA Supports National Export of Goods and Services by Providing Foreign Customers with Long-Term Loans of Up to 85% of A Nuclear Project, With Very Favorable Interest Rates.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "According to the Supreme Audit Office, patients do not receive daily calcium, magnesium, iron and vitamins standards.Instead, they get a 4-fold daily dose of salt.The diet lacks vegetables, fruits and juices.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Small external debt testifies to Serbia's great development potential.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Mr. Janusz Korwin-Mikke, who is employed, is insured in Krus.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "On an industrial scale, the amount of its extraction (methane) can be estimated within 1-2 billion m3 per year.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The confederation is the only parliamentary group, a club, a circle, which completely voted against this project (salary increases for politicians - note Demagoga).",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Wrocław is a city that has just over 12 percent.green areas, of which almost eight percentThese are forests around Wroclaw, so we lack the greenery very much.Katowice or Zielona Góra have over 40 percentGreen in the city",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The World Bank extended/extend the quarantine until 2025",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "The number of employees in SMEs increased by 300 thousand and amounted to 3.3 million people",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "VAT in Poland is the highest in the European Union, 23% for electricity.Why can the British, French pay 5% VAT, and so 8 countries in the European Union, and Poles are to pay 23?",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"I'll remind you all of the lies that placed people like William Voker who even hides their great-albums and projects, and it is known to oppose a special court to prosecute abdominals committed by the so-called.\"Liberation Army of Kosovo\" (...) An unlawful aggression decision on the FRY followed primarily on the reports of William Voker, although in Kim 1998-1999 there was no humanitarian disaster or persecution of Kosovo Albanians. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Polish judges (and there are about 10,000) recognize nearly 15 million cases a year, which means that on average one judge is 1,500 cases per year.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In the act we introduced in 2008, in which we limited (...) money, pensions for former employees of UB and SB, there was also the issue of members of the Military Council of National Salvation.And this provision was repealed by the Constitutional Tribunal.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Because only with us, you are 12 years old English and you don't know English.And we don't learn another language.And look at us politicians that no one knows English, except those who lived outside without saying that no one knows Russian.And not to say that there are no one for the translator to find for French, not to say also for German.And it only has in this country.The Netherlands are learning Chinese from Malena, there is no. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Most Varsovians assess the presidency of Hanna Gronkiewicz-Waltz well",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In 2016, more people came to Poland for the first time than they left [counted since the war].",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "There are bases of the American army in Western Germany.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The turnout in local elections is just over 30%.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "I know data from the Jarosław commune.There, two weeks ago, in the first round there were about 50% of attendance, now there were 30% attendance.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In Kazakhstan, those who have spread false information about coronavirus on social networks can be fined and even deprived of freedom.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "In the United States, a discussion about the candidate takes place for many months.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Why do you want to destroy over 6,000educational institutions in Poland, where today has a job of over 100,000teachers?",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"The law is very clear.Very clear.So that was abolished for a long time, and that, I mean, their will, I'm not sure. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Poland provides two million delegated employees in this group, who move around Europe every year, about 1/4 - half a million.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Over 40,000people die in Poland a year because of smog.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"We have increased the efficiency of utility companies: In 2013, the dividend that was paid in the Budget of the City of Belgrade was 680 million dinars, and this year it is 5.1 billion dinars.Almost eight times more. \"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The Minister of Defense is entitled to receive information different from SKW, but he is not entitled to read some operational materials",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The penalty of deprivation of liberty in the stationary system currently in Poland is performed against about 75,000.people.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"I think the question of whether you are a doctorate or not how you have a doctorate, more private matter.As for the resignation, I think it's an individual act of every individual, will you offer resignation or not somewhere ... but we will certainly wait for the Minister himself for the coming days. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"I never had controversy and conflicts with Liljic.Simply, we didn't cooperate. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"Show me the country in the world, which in just two years managed to lower the budget deficit with eight percent to less than two percent of GDP.Who show me such a country, I take him to dinner. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Mortality from this man -made virus is 0.03%, that is, many times lower than from seasonal cold or seasonal flu",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"From year to year, transparency (in Belgrade) is all better and we all agreed that in that segment, we will still be contributed.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Over 100,000people [in Warsaw - noteed.] There is no sewage system (...).",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Since germany began to decommission reactors, an increase in co2 emission has been observed.Alongside, the Germanrans saw an rise in the prices of electricity, as well as greater volatility in Electrical Grid.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In the seeds \"Cool Okre\" found khremitonol",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "We are the third city in Poland when it comes to debt.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Here's now I give you one piece, you will be stunned yourself.Tell me, how many mafia murders, since the beginning of the year, there were in Belgrade, as one of the largest cities in Europe, from the beginning of the year, from January to 25th.There is one month left until the new year.We had two such murders. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "In 2019, the infant mortality rate increased by 5.9% compared to 2018.",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "President Majchrowski promised analyzes on the construction of the subway and there are no these analyzes.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "France has the cheapest electricity in Europe.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "[President] He has no right to [budget].",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Receiving immigrants to Poland increases the threat of terrorism and it was not only in Paris that they showed, not only in Brussels, but also attention, the outbreak a few days ago in Ankara, because there, after all, this so -called refugee was the perpetrator of this assassination.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "GDP per capita is growing per capita in Poland, for example, in the last two years we overtook Greece.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "From 2015, from the NIK report, which clearly showed that the financial problems of the State Forests have a source in high administrative costs, high fixed costs.However, the State Forests invest too little in the protection of Polish forests.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"In the last convention of the Assembly, I repeatedly pointed out that the business with the company 'Nuba' was not in line with the law.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Macierewicz said a few months ago that he would implement the Vistula and, unlike his predecessors, made a breakthrough in terms of offset and participation of Polish industry in the program.According to the former minister, the participation of the Polish industry was to be as much as 50 percent.There is not even 5 percent at the moment.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "We only have 30 accredited laboratories in the world, with accreditation of the defect, including ours in Warsaw, and only one in Africa.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "It cannot be that the daughter of city councilor Marta Wcisło without any competition is appointed vice president of one of the daughter companies of the municipal company",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Lapsha quickly-dangerous GMO",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Expo 2017 in Astana there was cheaper than in other countries",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"When it comes to Kosovo and Metohija, that the man (Djilas) was somewhere else, and not in power in 2008, when the fake state declared independence, that he and his sabors, Jeremic, Tadic and the others were notThey reacted to it by issued two funny announcements, (...) Then I could seriously listen to what that man says. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The European Tribunal has expressed the view that the compulsion to any medical activities is contrary to human rights.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "First of all, we must look at the fact that the fertility rate has increased (after the introduction of the 500+ program, note Demagoga).",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Core vaccination does not protect 100 percent",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "In Finland which has the best educational results in all possible research (...).",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Today, Germany has 80% of the debt to GDP - 80%.We have 51%.France has 100%.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "However, from the very beginning, both the government of Ewa Kopacz and we all opposed the mechanisms of constant relocation.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "As we all remember, prof.Lech Kaczyński was a supporter of an abortion compromise.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"We are the only party that has invested an official complaint and lawsuit against election results.You remember how the Fama was, and now everyone was silent when they saw them crossed the census. \"",
+        "label": "half true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "The famous graphene was sold, it turns out that it will be produced in Great Britain.How could we lose such a wonderful Polish invention?",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "City buses travel 100 million km a year around Warsaw (...).",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Vaccines [for pig flu] were bought for all residents [other EU countries].",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In the capital last year there were 11 vehicles equipped with specialized equipment, and each of them was directed to several interventions per day.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The fact that the Polish army will have nearly 200,000soldiers, officers, is a fact.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In Łeba where 4 ha of forest was cut.Where the ecological corridor went.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The Independence March is reported by the Independence March Association as a cyclical assembly by 2020 inclusive.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "In Sweden, mandatory vaccinations were banned",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Extraction waste and ash from coal burning are 60% of all economic waste in Poland",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "For 20 years, however, salaries, when they were introduced, were seven times of average salary.Today, even these are not two average salaries.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "When 25 people died in the flood 10 years ago, Jarosław Kaczyński (then in the opposition) considered the introduction of a state of natural disaster as justified.Today, 59 people have already died due to the Coronavir's epidemic, and this number, unfortunately, will grow - but the PiS president to introduce the state of natural disaster \"does not see the premises\".",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"It's an urban legend that the DS tried to approach, and even when I was in coalitions, I said I was going to the parties, but I always stayed faithful to myself and that's most important.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Work on coronavirus, tolerated bats, was actually carried out in Kazakhstan by order of the US defense department",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "A fair of children for same -sex steam was held in Belgium",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Small and medium -sized enterprises produce 50 percent of Polish GDP.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "The maximum rate is 9.99 according to the new law [for parking in the city center].Therefore, everything agrees with my program.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "For three years, PiS blocked the possibility of KNF supervision over SKOKs.It was done by the lateLech Kaczyński, referring to the Constitutional Tribunal, which we (PO - PO - Demagog note) adopted in the Sejm in 2008, and helped him, writing legal opinions, Andrzej Duda.",
+        "label": "half true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"We are already working part of the railway Stara Pazova-Novi Sad, and Belgrade-Stara Pazova begins.For a year and a half, Belgrade-Novi Sad go in 40 minutes.It will be a much better train than by car.And that center-center. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"I'm not on Twitter, to tell you honestly.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "\"All contracts were signed and I expect the construction of halls and parallel production in the rented office space in the first half of this year (2013).\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "In our program, the PiS program has been two years old for many years.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Horseradish root is effective against coronavirus",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Lesiness in Poland is only 30%.In the European Union, the average forest cover is 38%.We are at the gray end.We are in 19th place in the European Union.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "We check what Rafał Trzaskowski said about it.Are his words true?",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Polish presence [in Syria] withdrew one of my predecessors.Poland was in the Golan hills, we had several hundred of our soldiers who participated in the UN peacekeeping operation.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "From what I know, Mr. Broniarz was the head of the ZNP since 98, and when junior high school was introduced in 99, he was heading against the introduction of junior high schools.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"These unofficial stories from various parts of Serbia, that there were more deceased than we report is a serious, serious accusation.I'll tell you why.Because at no point we didn't hide any information at any time, not since the first case was registered, but before that. \"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Kazakhstan occupies 2nd place in the world in stocks of uranium and first place in the world in terms of production.",
+        "label": "true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "I remind you that in class 1-3 we already have the basics of programming, the basics of chess.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "(...) E -polion, thrown out of 19 million, empathy 50 million for an unnecessary portal, and 66 billion in my Lower Silesia.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "I remind you that many of these civic projects, including the project of Mrs. Kai Godek, who prohibited abortion, received the Sejm years ago.The abortion project was (...) three years ago (...), a project prohibiting sex education two years ago.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Palm oil causes cancer and makes men sterile",
+        "label": "half true",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "\"At this point in Serbia, there are about 2,000 unemployed agronomics in Serbia.\"",
+        "label": "true",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "There are restrictions [at the airportChopin - noteed.] when it comes to noise emissions.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "Ginger helps with coronavirus",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "Pursuant to the regulation, in class I, II, III it is 20 hours, in class IV: 24 hours, in the V-VI class: 25, and in class VII: 32 and 31 in class VIII.",
+        "label": "true",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    },
+    {
+        "claim": "\"Alleged political disagreements between the Association of Vojvodina Hungarians and the Democratic Parties are a deliberate media manipulation and serve to draw attention from the Anti-Statement of Vojvodina.\"",
+        "label": "false",
+        "site": "istinomer.rs",
+        "language": "sr"
+    },
+    {
+        "claim": "Jackie Chan was in quarantine because of coronavirus",
+        "label": "false",
+        "site": "factcheck.kz",
+        "language": "ru"
+    },
+    {
+        "claim": "For many years, when the Civic Platform and PSL ruled, the teachers did not get any increases at all.",
+        "label": "false",
+        "site": "demagog.org.pl",
+        "language": "pl"
+    }
+]
