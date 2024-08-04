@@ -1,0 +1,26 @@
+{
+    "correct": 199,
+    "wrong": 315,
+    "inconclusive": 86,
+    "total": 600,
+    "languages": {
+        "sr": {
+            "correct": 45,
+            "wrong": 172,
+            "inconclusive": 17,
+            "total": 234
+        },
+        "ru": {
+            "correct": 78,
+            "wrong": 73,
+            "inconclusive": 2,
+            "total": 153
+        },
+        "pl": {
+            "correct": 76,
+            "wrong": 70,
+            "inconclusive": 67,
+            "total": 213
+        }
+    }
+}
