@@ -1,15 +1,20 @@
 import csv
 import json
 import re
-from googletrans import Translator
-
-# Initialize the translator
-translator = Translator()
 
 # File paths
 csv_file_path = 'kartvelian_gpt-4o_direct_inference.csv'
 json_file_path = '../../JSON Files/kartvelian.json'
 output_json_path = 'comparison_results.json'
+
+# Mapping dictionary for the labels
+label_mapping = {
+    "მართალი": "true",
+    "ძირითადად მართალია": "mostly true",
+    "ნახევრად მართალია": "half true",
+    "ძირითადად მცდარი": "mostly false",
+    "მცდარი": "false"
+}
 
 # Read CSV file
 csv_data = []
@@ -29,15 +34,11 @@ def extract_final_answer(output):
             return match.group(1).strip()
     return None
 
-# Function to translate text to English
-def translate_to_english(text):
+# Function to clean the extracted text
+def clean_text(text):
     if text:
-        try:
-            translation = translator.translate(text, dest='en')
-            return translation.text
-        except Exception as e:
-            print(f"Error translating text: {text}, Error: {e}")
-            return None
+        text = re.sub(r'[„“":\'"“”]', '', text)  # Remove special characters
+        return text.strip()
     return None
 
 # Read JSON file
@@ -75,23 +76,29 @@ for row in csv_data:
     correct = row['correct']
     
     final_answer = extract_final_answer(output)
-    translated_final_answer = translate_to_english(final_answer)
     
-    matching_claim = find_matching_claim(claim, json_data)
-    
-    if matching_claim:
-        json_label = matching_claim['label']
-        comparison = (translated_final_answer == json_label)
-        
-        if comparison:
-            results["correct"] += 1
-            results["languages"][language]["correct"] += 1
-        else:
-            results["wrong"] += 1
-            results["languages"][language]["wrong"] += 1
-    else:
+    if final_answer is None:
         results["inconclusive"] += 1
         results["languages"][language]["inconclusive"] += 1
+    else:
+        cleaned_final_answer = clean_text(final_answer)
+        mapped_final_answer = label_mapping.get(cleaned_final_answer, None)
+        
+        matching_claim = find_matching_claim(claim, json_data)
+        
+        if matching_claim:
+            json_label = matching_claim['label']
+            comparison = (mapped_final_answer == json_label)
+            
+            if comparison:
+                results["correct"] += 1
+                results["languages"][language]["correct"] += 1
+            else:
+                results["wrong"] += 1
+                results["languages"][language]["wrong"] += 1
+        else:
+            results["inconclusive"] += 1
+            results["languages"][language]["inconclusive"] += 1
 
     results["total"] += 1
     results["languages"][language]["total"] += 1
@@ -102,10 +109,11 @@ for row in csv_data:
     # Print comparison result
     print(f"Claim: {claim}")
     print(f"Final Answer: {final_answer}")
-    print(f"Translated Final Answer: {translated_final_answer}")
+    print(f"Cleaned Final Answer: {cleaned_final_answer if final_answer else 'N/A'}")
+    print(f"Mapped Final Answer: {mapped_final_answer if final_answer else 'N/A'}")
     print(f"JSON Label: {matching_claim['label'] if matching_claim else None}")
     print(f"Correct: {correct}")
-    print(f"Comparison: {comparison if matching_claim else 'No matching claim'}")
+    print(f"Comparison: {comparison if final_answer and matching_claim else 'No matching claim or inconclusive'}")
     print('-' * 40)
 
 print(f"Results have been written to {output_json_path}")
