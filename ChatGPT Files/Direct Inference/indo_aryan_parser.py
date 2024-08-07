@@ -3,17 +3,52 @@ import json
 import re
 
 # File paths
-csv_file_path = 'kartvelian_gpt-4o_direct_inference.csv'
-json_file_path = '../../JSON Files/kartvelian.json'
-output_json_path = 'kartvelian_gpt-4o_direct_inference_summary.json'
+csv_file_path = 'indo_aryan_gpt-4o_direct_inference.csv'
+json_file_path = '../../JSON Files/indo_aryan.json'
+output_json_path = 'indo_aryan_gpt-4o_direct_inference_summary.json'
 
 # Mapping dictionary for the labels
 label_mapping = {
-    "მართალი": "true",
-    "ძირითადად მართალია": "mostly true",
-    "ნახევრად მართალია": "half true",
-    "ძირითადად მცდარი": "mostly false",
-    "მცდარი": "false"
+    "सत्य": "true",
+    "अधिकांशतः सत्य": "mostly true",
+    "आधा सत्य": "half true",
+    "अधिकांशतः असत्य": "mostly false",
+    "असत्य": "false",
+    "সত্য": "true",
+    "অধিকাংশ সত্য": "mostly true",
+    "অর্ধসত্য": "half true",
+    "অধিকাংশ মিথ্যা": "mostly false",
+    "মিথ্যা": "false",
+    "ਸੱਚ": "true",
+    "ਜਿਆਦਾਤਰ ਸੱਚ": "mostly true",
+    "ਅੱਧਾ ਸੱਚ": "half true",
+    "ਜਿਆਦਾਤਰ ਝੂਠ": "mostly false",
+    "ਝੂਠ": "false",
+    "સત્ય": "true",
+    "મોટાભાગનું સત્ય": "mostly true",
+    "અડધું સત્ય": "half true",
+    "મોટાભાગનું ખોટું": "mostly false",
+    "ખોટું": "false",
+    "अंतिम उत्तर: सत्य": "true",
+    "अंतिम उत्तर: अधिकांशतः सत्य": "mostly true",
+    "अंतिम उत्तर: आधा सत्य": "half true",
+    "अंतिम उत्तर: अधिकांशतः असत्य": "mostly false",
+    "अंतिम उत्तर: असत्य": "false",
+    "চূড়ান্ত উত্তর: সত্য": "true",
+    "চূড়ান্ত উত্তর: অধিকাংশ সত্য": "mostly true",
+    "চূড়ান্ত উত্তর: অর্ধসত্য": "half true",
+    "চূড়ান্ত উত্তর: অধিকাংশ মিথ্যা": "mostly false",
+    "চূড়ান্ত উত্তর: মিথ্যা": "false",
+    "ਅੰਤਿਮ ਜਵਾਬ: ਸੱਚ": "true",
+    "ਅੰਤਿਮ ਜਵਾਬ: ਜਿਆਦਾਤਰ ਸੱਚ": "mostly true",
+    "ਅੰਤਿਮ ਜਵਾਬ: ਅੱਧਾ ਸੱਚ": "half true",
+    "ਅੰਤਿਮ ਜਵਾਬ: ਜਿਆਦਾਤਰ ਝੂਠ": "mostly false",
+    "ਅੰਤਿਮ ਜਵਾਬ: ਝੂਠ": "false",
+    "અંતિમ જવાબ: સત્ય": "true",
+    "અંતિમ જવાબ: મોટાભાગનું સત્ય": "mostly true",
+    "અંતિમ જવાબ: અડધું સત્ય": "half true",
+    "અંતિમ જવાબ: મોટાભાગનું ખોટું": "mostly false",
+    "અંતિમ જવાબ: ખોટું": "false"
 }
 
 # Read CSV file
@@ -26,7 +61,10 @@ with open(csv_file_path, newline='', encoding='utf-8') as csvfile:
 # Function to extract final answer from output column
 def extract_final_answer(output):
     patterns = [
-        r'საბოლოო პასუხი:(.*?)$',
+        r'अंतिम उत्तर:(.*?)$',
+        r'চূড়ান্ত উত্তর:(.*?)$',
+        r'ਅੰਤਿਮ ਜਵਾਬ:(.*?)$',
+        r'અંતિમ જવાબ:(.*?)$'
     ]
     for pattern in patterns:
         match = re.search(pattern, output)
@@ -59,7 +97,11 @@ results = {
     "inconclusive": 0,
     "total": 0,
     "languages": {
-        "ka": {"correct": 0, "wrong": 0, "inconclusive": 0, "total": 0},
+        "hi": {"correct": 0, "wrong": 0, "inconclusive": 0, "total": 0},
+        "bn": {"correct": 0, "wrong": 0, "inconclusive": 0, "total": 0},
+        "pa": {"correct": 0, "wrong": 0, "inconclusive": 0, "total": 0},
+        "gu": {"correct": 0, "wrong": 0, "inconclusive": 0, "total": 0},
+        "mr": {"correct": 0, "wrong": 0, "inconclusive": 0, "total": 0}
     }
 }
 

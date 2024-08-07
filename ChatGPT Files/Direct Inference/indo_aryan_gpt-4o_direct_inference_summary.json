@@ -1,0 +1,38 @@
+{
+    "correct": 150,
+    "wrong": 425,
+    "inconclusive": 25,
+    "total": 600,
+    "languages": {
+        "hi": {
+            "correct": 71,
+            "wrong": 192,
+            "inconclusive": 1,
+            "total": 264
+        },
+        "bn": {
+            "correct": 31,
+            "wrong": 125,
+            "inconclusive": 7,
+            "total": 163
+        },
+        "pa": {
+            "correct": 22,
+            "wrong": 39,
+            "inconclusive": 4,
+            "total": 65
+        },
+        "gu": {
+            "correct": 10,
+            "wrong": 33,
+            "inconclusive": 13,
+            "total": 56
+        },
+        "mr": {
+            "correct": 16,
+            "wrong": 36,
+            "inconclusive": 0,
+            "total": 52
+        }
+    }
+}
