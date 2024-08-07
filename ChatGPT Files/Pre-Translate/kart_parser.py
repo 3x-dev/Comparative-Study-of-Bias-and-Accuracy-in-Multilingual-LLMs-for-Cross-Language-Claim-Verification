@@ -3,9 +3,9 @@ import json
 import re
 
 # File paths
-csv_file_path = 'kartvelian_gpt-4o_direct_inference.csv'
-json_file_path = '../../JSON Files/kartvelian.json'
-output_json_path = 'kartvelian_gpt-4o_direct_inference_summary.json'
+csv_file_path = 'kartvelian_translated_gpt-4o_direct_inference.csv'
+json_file_path = '../../Translated JSON Files/kartvelian_translated.json'
+output_json_path = 'kartvelian_translated_gpt-4o_direct_inference_summary.json'
 
 # Mapping dictionary for the labels
 label_mapping = {
