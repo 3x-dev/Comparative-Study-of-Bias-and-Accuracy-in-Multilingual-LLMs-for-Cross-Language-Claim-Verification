@@ -1,14 +1,14 @@
 {
     "correct": 163,
     "wrong": 433,
-    "inconclusive": 2,
-    "total": 598,
+    "inconclusive": 4,
+    "total": 600,
     "languages": {
         "en": {
             "correct": 163,
             "wrong": 433,
-            "inconclusive": 2,
-            "total": 598
+            "inconclusive": 4,
+            "total": 600
         }
     }
 }
