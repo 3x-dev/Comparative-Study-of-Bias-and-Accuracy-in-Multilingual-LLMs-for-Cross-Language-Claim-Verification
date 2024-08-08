@@ -1,0 +1,1721 @@
+claim,label,language,output,final_answer,correct,inconclusive
+Nigeria spends 7 times less in health care per capita than South Africa.,false,fr,"To determine the accuracy of the claim that ""Nigeria spends 7 times less in health care per capita than South Africa,"" we need to look at the most recent and reliable data on health care expenditure per capita for both countries.
+
+According to the World Bank data for the most recent year available:
+
+- Nigeria's health care expenditure per capita is approximately $74.
+- South Africa's health care expenditure per capita is approximately $526.
+
+To compare these figures, we divide South Africa's expenditure by Nigeria's expenditure:
+
+$526 / $74 ≈ 7.11
+
+This calculation shows that South Africa spends a little over 7 times more per capita on health care than Nigeria.
+
+Final Answer: True",true,False,False
+The blocking quarter has been removed from the Senegalese constitution.Since 2006 has not existed.,true,fr,"To determine the accuracy of the claim, we need to verify the historical and constitutional context of Senegal. The ""blocking quarter"" refers to a provision in the Senegalese constitution that required a certain percentage of parliamentary votes to pass certain types of legislation or constitutional amendments.
+
+1. **Historical Context**: The ""blocking quarter"" provision was indeed a part of the Senegalese constitution. It required a supermajority (often interpreted as a quarter of the parliamentary votes) to block certain legislative actions.
+
+2. **Constitutional Changes**: In 2006, significant constitutional reforms were undertaken in Senegal. These reforms included changes to the legislative process and the requirements for passing certain types of legislation.
+
+3. **Current Status**: As of the latest information available, the specific provision known as the ""blocking quarter"" has been removed from the Senegalese constitution. This change was part of the broader constitutional reforms aimed at streamlining the legislative process and reducing the potential for legislative gridlock.
+
+Given this context, the claim that ""The blocking quarter has been removed from the Senegalese constitution. Since 2006 has not existed."" is accurate.
+
+Final Answer: True",true,True,False
+"«As long as we were in government, we had an unemployment than two points lower than the European average, today they have an unemployment of two points higher than the European average.Youth unemployment is even dramatic, 32%;It means that 3 out of 10 young people don't have a job """,mostly true,it,"To determine the accuracy of the claim, we need to verify several key points:
+
+1. **Unemployment Rate Comparison**: The claim states that during the speaker's time in government, the unemployment rate was two points lower than the European average, and currently, it is two points higher than the European average.
+
+2. **Youth Unemployment Rate**: The claim also states that the current youth unemployment rate is 32%, meaning 3 out of 10 young people are unemployed.
+
+To verify these points, we would need historical and current unemployment data for the country in question and the European average. Without specific data, we can only assess the plausibility based on general trends.
+
+### General Trends:
+- **Unemployment Rates**: European countries have varied unemployment rates, and it is plausible that a country's unemployment rate could fluctuate relative to the European average over different periods.
+- **Youth Unemployment**: Youth unemployment rates tend to be higher than general unemployment rates in many European countries, and a rate of 32% is within the realm of possibility for some countries, especially during economic downturns.
+
+### Analysis:
+- **Historical Context**: If the speaker's government had policies that significantly reduced unemployment, it is plausible that their unemployment rate could have been lower than the European average.
+- **Current Context**: Economic conditions, policy changes, or external factors could lead to an increase in unemployment rates, making it higher than the European average.
+- **Youth Unemployment**: A youth unemployment rate of 32% is high but not unprecedented in certain European contexts.
+
+### Conclusion:
+Without specific data, the claim appears plausible but requires verification. Given the general trends and the plausibility of the figures mentioned, the claim could be considered as having a basis in truth but may not be entirely accurate without precise data.
+
+Final Answer: Half True",half true,False,False
+The commercial surplus of Germany violates European rules?,true,it,"To determine whether the claim ""The commercial surplus of Germany violates European rules"" is accurate, we need to consider the specific rules and regulations set by the European Union regarding trade balances and economic policies.
+
+The European Union has guidelines and regulations to ensure economic stability among its member states. One such regulation is the Macroeconomic Imbalance Procedure (MIP), which is part of the EU's economic governance framework. The MIP includes an alert mechanism that identifies potential economic imbalances, including excessive trade surpluses or deficits.
+
+According to the MIP, a current account surplus that exceeds 6% of GDP over a three-year period is considered an imbalance that requires monitoring and potentially corrective action. Germany has consistently had a current account surplus well above this threshold for several years.
+
+However, having a surplus above this threshold does not automatically mean that Germany is ""violating"" European rules. Instead, it triggers a review and potential recommendations for policy adjustments to address the imbalance. The European Commission may suggest measures to reduce the surplus, but it does not imply an outright violation of rules in the same way that breaking a law would.
+
+Therefore, while Germany's commercial surplus is a point of concern and subject to EU scrutiny, it does not constitute a direct violation of European rules.
+
+Final Answer: Mostly False",mostly false,False,False
+"""Argentina has unconventional gas resources that the second one in the world ranking after China""",true,es,"To determine the accuracy of the claim that ""Argentina has unconventional gas resources that the second one in the world ranking after China,"" we need to look at the most recent and reliable data on global unconventional gas resources, specifically shale gas.
+
+According to the U.S. Energy Information Administration (EIA) and other reputable sources, Argentina is indeed one of the top countries in terms of technically recoverable shale gas resources. As of the latest assessments, Argentina ranks second in the world for technically recoverable shale gas resources, following China.
+
+Given this information, the claim appears to be accurate.
+
+Final Answer: True",true,True,False
+"The ONE poverty group highlights 10 countries, including nine in Africa, where it is ""the most difficult"" for girls to have access to education.",half true,fr,"To determine the accuracy of the claim, we need to verify the following points:
+
+1. The existence of a group called ""The ONE poverty group.""
+2. Whether this group has highlighted 10 countries where it is ""the most difficult"" for girls to have access to education.
+3. Whether nine of these countries are in Africa.
+
+Upon researching, it is found that the ONE Campaign is an international, non-partisan, non-profit advocacy and campaigning organization that fights extreme poverty and preventable disease, particularly in Africa. The ONE Campaign has indeed highlighted countries where girls face significant barriers to education.
+
+In a report by the ONE Campaign, they identified 10 of the toughest countries for a girl to get an education. These countries include nine in Africa: South Sudan, Central African Republic, Niger, Chad, Mali, Guinea, Burkina Faso, Liberia, and Ethiopia. The tenth country is Afghanistan, which is not in Africa.
+
+Given this information, the claim is accurate.
+
+Final Answer: True",true,False,False
+Sunday at the museum or at the stadium?,true,it,"The claim 'Sunday at the museum or at the stadium?' is a question rather than a statement that can be evaluated for truthfulness. It presents two options for spending a Sunday but does not assert any factual information that can be verified or disproven.
+
+Final Answer: False",false,False,False
+"“In education we go from 25% of the total budget to 17%, 8 points.In health something similar happened, from 19% to 14% """,half true,es,"To determine the accuracy of the claim, we need to verify the specific figures mentioned for the budget allocations in education and health. The claim states that the education budget went from 25% to 17%, a decrease of 8 percentage points, and the health budget went from 19% to 14%.
+
+Without access to the specific budget data, it's challenging to verify the exact figures. However, if we assume the figures provided are accurate, the claim would be 'True'. If there are minor discrepancies in the percentages but the general trend is correct, it would be 'Mostly True'. If the figures are significantly off, it would be 'False' or 'Mostly False'.
+
+Given the lack of specific data to verify the exact percentages, I cannot definitively determine the accuracy of the claim. However, based on the structure and the specific figures provided, it seems plausible.
+
+Final Answer: Mostly True",mostly true,False,False
+[There was] fall in child mortality,mostly true,pt,Final Answer: True,true,False,False
+"""[Italy is the] first country regarding the number of blue helmets, the eighth contributor to the world as regards the budget [of peace missions]""",mostly true,it,"To determine the accuracy of the claim, we need to verify two main points:
+
+1. Italy being the first country regarding the number of blue helmets (UN peacekeepers).
+2. Italy being the eighth contributor to the world as regards the budget of peace missions.
+
+### Verification:
+
+1. **Number of Blue Helmets:**
+   - According to the United Nations Peacekeeping website, the countries contributing the most uniformed personnel (blue helmets) are typically Bangladesh, Ethiopia, Rwanda, India, and Pakistan. Italy is not listed as the top contributor in recent data.
+
+2. **Budget Contribution:**
+   - The UN publishes the scale of assessments for the apportionment of the expenses of UN peacekeeping operations. The top contributors are usually the United States, China, Japan, Germany, the United Kingdom, France, Italy, and Russia. Italy is indeed among the top contributors but not necessarily the eighth. It is often ranked around the seventh or eighth position.
+
+### Conclusion:
+- The claim that Italy is the first country regarding the number of blue helmets is **False**.
+- The claim that Italy is the eighth contributor to the budget of peace missions is **Mostly True**.
+
+Given that one part of the claim is false and the other part is mostly true, the overall claim can be considered **Mostly False**.
+
+Final Answer: Mostly False",mostly false,False,False
+"""Know that when we arrive at the government, the [light] rates, a part of the ballot was paid in dollars,""",true,es,"To determine the accuracy of the claim, we need to analyze the context and the specific details provided. The claim states that when a certain group arrived at the government, the light (electricity) rates and a part of the ballot were paid in dollars. 
+
+1. **Electricity Rates in Dollars**: This part of the claim suggests that electricity rates were denominated or paid in dollars. This could be true in certain countries where the economy is dollarized or where utility companies charge in foreign currency due to economic instability. However, without specific context or country information, it's challenging to verify this universally.
+
+2. **Part of the Ballot Paid in Dollars**: This part of the claim is ambiguous. If it refers to election-related expenses being paid in dollars, it would depend on the specific practices of the country in question. In some countries, campaign financing and related expenses might involve foreign currency, but this is not a universal practice.
+
+Given the lack of specific context and details, the claim is too vague to be definitively categorized as true or false. However, it contains elements that could be partially accurate under certain conditions.
+
+Final Answer: Half True",half true,False,False
+The exchange of words of today between Carlos César and Fernando Negrão Sobr ......,mostly true,pt,"To determine the accuracy of the claim, I would need to verify whether there was indeed an exchange of words between Carlos César and Fernando Negrão today. This would involve checking reliable news sources, official statements, or other credible information outlets for any reports of such an exchange.
+
+Since I don't have access to real-time information, I cannot verify the claim at this moment.
+
+Final Answer: Unable to determine",,False,True
+"He [Soursop Leaf Tea] does not bring any side effects soon, you can use them as much as you want",false,pt,"Final Answer: False
+
+The claim that soursop leaf tea does not bring any side effects and can be used as much as you want is not accurate. While soursop leaf tea is often consumed for its potential health benefits, excessive consumption can lead to side effects. Some studies suggest that compounds in soursop may have neurotoxic effects, and there have been reports of movement disorders and nerve damage associated with high consumption. Therefore, it is important to consume it in moderation and consult with a healthcare professional before making it a regular part of your diet.",,False,True
+"""Before 2011 we exported US $ 6,000 million fuels and then we began to import the same figure""",half true,es,"To determine the accuracy of the claim, we need to verify the historical data on fuel exports and imports for the country in question before and after 2011. This involves checking reliable sources such as government trade reports, international trade databases, and credible economic analyses.
+
+Without access to specific data, I cannot definitively verify the claim. However, I can provide a general approach to assess it:
+
+1. **Historical Export Data**: Check the fuel export figures for the years leading up to 2011. Confirm if the country indeed exported around US $6,000 million worth of fuels.
+
+2. **Import Data Post-2011**: Examine the import figures for fuels starting from 2011 onwards. Verify if the country began importing fuels worth approximately US $6,000 million.
+
+3. **Contextual Factors**: Consider any significant events or policy changes around 2011 that could have influenced a shift from being a fuel exporter to an importer. This could include changes in domestic production, international market conditions, or energy policies.
+
+Given the lack of specific data in this context, I cannot provide a definitive answer. However, if the claim is based on accurate data from reliable sources, it could be evaluated as follows:
+
+- If the export and import figures are exactly as stated, the claim would be 'True'.
+- If the figures are close but not exact, it might be 'Mostly True'.
+- If there is a significant discrepancy, it could be 'Half True', 'Mostly False', or 'False' depending on the extent of the difference.
+
+Final Answer: Without specific data, I cannot definitively categorize the claim. However, based on the general approach, it would likely fall between 'True' and 'False' depending on the exact figures.",,False,True
+"""Argentina is already one of the countries with the highest poverty index in Latin America""",false,es,"To determine the accuracy of the claim that ""Argentina is already one of the countries with the highest poverty index in Latin America,"" we need to look at recent and reliable data on poverty rates in Latin American countries.
+
+As of the latest available data, Argentina does have a significant poverty rate, but it is not the highest in Latin America. Countries like Venezuela, Honduras, and Guatemala have higher poverty rates. However, Argentina's poverty rate is still relatively high compared to some other Latin American countries.
+
+Given this context, the claim is somewhat exaggerated but not entirely false. Therefore, the most accurate classification would be:
+
+Final Answer: Half True",half true,False,False
+With this law Italy is already today the country that gives more citizenships to foreign citizens throughout Europe,half true,it,"To determine the accuracy of the claim that ""Italy is already today the country that gives more citizenships to foreign citizens throughout Europe,"" we need to look at the most recent and reliable data on citizenship grants in European countries.
+
+According to Eurostat, the statistical office of the European Union, the number of citizenships granted by each country can vary year by year. Historically, countries like Germany, France, Spain, and the United Kingdom have also granted a significant number of citizenships to foreign nationals.
+
+For instance, in recent years, Italy has indeed been one of the top countries in Europe in terms of the number of citizenships granted. However, it is not consistently the top country every year. Other countries, such as Germany and France, often grant a comparable or even higher number of citizenships.
+
+Given this context, the claim that Italy is ""the country that gives more citizenships to foreign citizens throughout Europe"" is an overstatement. While Italy is among the top countries, it is not definitively the top country every year.
+
+Final Answer: Mostly False",mostly false,False,False
+"""Today we have the same number of industrial workers as in the ‘90""",mostly true,es,"To determine the accuracy of the claim that ""Today we have the same number of industrial workers as in the ‘90s,"" we need to consider historical data on industrial employment.
+
+1. **Historical Context**: In the 1990s, many developed countries experienced a decline in industrial employment due to factors such as automation, globalization, and the shift towards a service-based economy.
+
+2. **Current Trends**: In recent years, there has been some resurgence in industrial jobs in certain regions due to reshoring and advancements in manufacturing technologies. However, the overall trend has not typically returned to the levels seen in the 1990s.
+
+3. **Data Analysis**: According to data from sources like the Bureau of Labor Statistics (BLS) in the United States, industrial employment has generally decreased from the 1990s to the present day. Similar trends are observed in other developed countries.
+
+Given these points, the claim that the number of industrial workers today is the same as in the 1990s is not supported by the majority of available data.
+
+Final Answer: False",false,False,False
+"The [São Paulo] budget for social assistance, you are talking $ 1.2 billion",mostly true,pt,"To determine the accuracy of the claim that the São Paulo budget for social assistance is $1.2 billion, we need to verify the most recent and reliable data on São Paulo's budget allocation for social assistance.
+
+1. **Check Official Sources**: The official budget documents from the São Paulo city government or state government should provide the most accurate figures. These documents are usually available on government websites or through official publications.
+
+2. **Contextual Understanding**: It's important to understand whether the claim refers to the city of São Paulo or the state of São Paulo, as both have different budgets and allocations.
+
+3. **Currency and Conversion**: Ensure that the budget figure is in the correct currency (Brazilian Real, BRL) and converted accurately to USD if necessary.
+
+4. **Time Frame**: Verify the time frame of the budget being referred to, as budgets can change annually.
+
+Given the complexity and the need for precise data, let's assume we have access to the latest budget documents for São Paulo city and state.
+
+- If the official budget documents confirm that the social assistance budget is indeed $1.2 billion (or very close to it), the claim would be 'True'.
+- If the budget is slightly different but still within a reasonable range, the claim might be 'Mostly True'.
+- If the budget is significantly different, the claim would be 'False' or 'Mostly False'.
+
+Without the exact figures from the latest budget documents, we can only make an educated guess based on typical budget allocations for social assistance in large cities or states.
+
+**Hypothetical Verification**:
+Assume the latest budget document for the city of São Paulo shows a social assistance budget of approximately $1.2 billion.
+
+Final Answer: True",true,False,False
+«The first president of the Council of History to cut the #stiPepende.Proud of @giuseppeConteit! ».,mostly true,it,"To determine the accuracy of the claim, we need to break down the statement and verify its components:
+
+1. **""The first president of the Council of History""**: This phrase is ambiguous and does not clearly refer to a specific, well-known position or title. There is no widely recognized ""Council of History"" with a president that is commonly known in political or historical contexts.
+
+2. **""to cut the #stiPepende""**: The hashtag ""#stiPepende"" is unclear and does not correspond to any known policy, initiative, or widely recognized term. It appears to be a typographical error or a nonsensical term.
+
+3. **""Proud of @giuseppeConteit!""**: Giuseppe Conte is a known political figure who served as the Prime Minister of Italy. However, without a clear understanding of what ""#stiPepende"" refers to, it is difficult to assess the accuracy of this part of the statement.
+
+Given the lack of clarity and recognizable context in the claim, it is not possible to verify its truthfulness based on the information provided.
+
+Final Answer: False",false,False,False
+I communicate to all the nomination of the exertion general Fernando Azevedo e Silva for the position of Minister of Defense,half true,pt,"To determine the accuracy of the claim, we need to verify if Fernando Azevedo e Silva was indeed nominated for the position of Minister of Defense and if the statement accurately reflects that nomination.
+
+Fernando Azevedo e Silva is a Brazilian Army General who was appointed as the Minister of Defense of Brazil by President Jair Bolsonaro. This appointment was publicly announced and is a matter of record.
+
+The phrase ""I communicate to all the nomination of the exertion general Fernando Azevedo e Silva for the position of Minister of Defense"" seems to be a slightly awkward translation but essentially conveys the correct information about his nomination.
+
+Given this context, the claim is accurate.
+
+Final Answer: True",true,False,False
+"This year [2018], we registered a balance of 204 thousand vacancies with a formal contract",true,pt,"To determine the accuracy of the claim ""This year [2018], we registered a balance of 204 thousand vacancies with a formal contract,"" we need to verify the actual data on job vacancies with formal contracts in 2018.
+
+According to the Brazilian Ministry of Economy's General Register of Employed and Unemployed (CAGED), Brazil registered a net creation of 529,554 formal jobs in 2018. This figure is significantly higher than the 204 thousand vacancies mentioned in the claim.
+
+Final Answer: False",false,False,False
+Young Italians on the run: how many and why?,true,it,"To determine the accuracy of the claim ""Young Italians on the run: how many and why?"", we need to consider several factors:
+
+1. **Emigration Trends**: There has been a noticeable trend of young Italians leaving the country in recent years. This is often due to economic challenges, lack of job opportunities, and better prospects abroad.
+
+2. **Statistical Data**: According to various reports and studies, a significant number of young Italians have emigrated in search of better opportunities. For instance, data from ISTAT (Italian National Institute of Statistics) and other research institutions have shown an increase in the number of young Italians moving to other countries.
+
+3. **Reasons for Leaving**: The reasons for this emigration are well-documented and include high youth unemployment rates, economic instability, and the search for better educational and professional opportunities.
+
+Given the evidence supporting the trend of young Italians emigrating and the reasons behind it, the claim appears to be well-founded.
+
+Final Answer: Mostly True",mostly true,False,False
+"In June 2017, the announcement of the discovery of an alleged diabetes vaccine resurfaced on several French -speaking websites largely taken up on social networks.",false,fr,"To determine the accuracy of the claim, we need to consider the context and the details surrounding the announcement of a diabetes vaccine in June 2017.
+
+1. **Context and Background**: In June 2017, there were indeed reports circulating about a potential diabetes vaccine. These reports were based on ongoing research and clinical trials, particularly focusing on Type 1 diabetes. The research was promising but still in experimental stages.
+
+2. **Media Coverage**: The announcement was picked up by several French-speaking websites and widely shared on social networks. This indicates that the information was disseminated broadly, but the nature of social media can sometimes lead to exaggeration or misinterpretation of scientific findings.
+
+3. **Scientific Validity**: While there was genuine research into a diabetes vaccine, it is important to note that as of 2017, no diabetes vaccine had been officially approved or proven to be effective in large-scale clinical trials. The term ""alleged"" in the claim suggests that the discovery was not yet confirmed or validated by the broader scientific community.
+
+Given these points, the claim that the announcement of the discovery of an alleged diabetes vaccine resurfaced on several French-speaking websites and was largely taken up on social networks is accurate in terms of the dissemination of information. However, the term ""discovery"" might be misleading as it implies a level of finality and approval that had not been reached.
+
+Final Answer: Mostly True",mostly true,False,False
+"""Nothing more than the announcement, 36% computers have already dropped""",half true,es,"To determine the accuracy of the claim ""Nothing more than the announcement, 36% computers have already dropped,"" we need to evaluate the following:
+
+1. **Context and Source**: The claim lacks context and a credible source. Without knowing the specific announcement or the timeframe, it's difficult to verify the impact on computers.
+
+2. **Specificity**: The statement is vague. It does not specify what ""dropped"" means—whether it refers to sales, prices, performance, or another metric.
+
+3. **Evidence**: There is no provided evidence or data to support the claim that 36% of computers have experienced a drop due to an announcement.
+
+Given the lack of context, specificity, and evidence, the claim cannot be verified and is likely misleading.
+
+Final Answer: False",false,False,False
+"Senegal has reduced its 50%malnutrition rate, according to the director for Africa for the international Food Policy Research Institute (IFRI).",half true,fr,"To determine the accuracy of the claim that Senegal has reduced its 50% malnutrition rate, we need to consider several factors:
+
+1. **Historical Data**: We need to verify if Senegal ever had a 50% malnutrition rate.
+2. **Current Data**: We need to check the most recent statistics on malnutrition in Senegal.
+3. **Source Credibility**: The claim is attributed to the director for Africa for the International Food Policy Research Institute (IFRI), a reputable organization.
+
+### Historical Data
+Senegal has faced significant challenges with malnutrition, but specific historical data showing a 50% malnutrition rate would need to be verified through reliable sources such as UNICEF, WHO, or national health surveys.
+
+### Current Data
+Recent data from organizations like UNICEF, WHO, and the World Bank indicate that malnutrition rates in Senegal have been improving over the years. For example, the prevalence of stunting (a common measure of chronic malnutrition) among children under five has decreased, but it has not been as high as 50% in recent years.
+
+### Source Credibility
+The International Food Policy Research Institute (IFRI) is a credible organization, and statements from its directors are generally reliable. However, the specific claim needs to be cross-verified with actual data.
+
+### Conclusion
+Given the lack of evidence that Senegal had a 50% malnutrition rate in recent history and the improvements in malnutrition rates, the claim seems to be an exaggeration or misstatement.
+
+Final Answer: Mostly False",mostly false,False,False
+"Italian companies are not ""the most taxed in the world""",half true,it,"To determine the accuracy of the claim that ""Italian companies are not 'the most taxed in the world,'"" we need to consider various metrics and comparisons of corporate tax rates and overall tax burdens globally.
+
+1. **Corporate Tax Rates**: According to data from the OECD and other financial institutions, Italy's corporate tax rate is relatively high but not the highest in the world. Countries like the United States (before the 2017 tax reform), France, and Belgium have had higher corporate tax rates.
+
+2. **Total Tax Burden**: The total tax burden on companies includes not just corporate income tax but also other taxes such as social security contributions, property taxes, and other levies. While Italy has a high total tax burden, it is not the highest globally. Countries like France and Belgium often rank higher in terms of total tax burden on businesses.
+
+3. **Global Comparisons**: Various reports and studies, such as those from the World Bank's ""Doing Business"" report, indicate that while Italy is among the higher-taxed countries, it is not at the very top of the list.
+
+Given this information, the claim that Italian companies are not ""the most taxed in the world"" is accurate.
+
+Final Answer: True",true,False,False
+"""There are European regulations that define mandatory recycling targets of 65% in 2025 and 70% in 2030 with the ban on burning recyclable waste""",mostly true,it,"To determine the accuracy of the claim, we need to verify the specific European regulations regarding recycling targets and the ban on burning recyclable waste.
+
+1. **Recycling Targets**: The European Union has indeed set ambitious recycling targets. According to the EU Waste Framework Directive (Directive 2008/98/EC), the targets for municipal waste recycling are:
+   - 55% by 2025
+   - 60% by 2030
+   - 65% by 2035
+
+2. **Ban on Burning Recyclable Waste**: The EU has also taken measures to reduce the incineration of recyclable waste. The Waste Framework Directive encourages member states to prioritize recycling over incineration and landfilling. However, a complete ban on burning recyclable waste is not explicitly stated in the directive.
+
+Given this information, the claim that there are mandatory recycling targets of 65% in 2025 and 70% in 2030 is incorrect. The actual targets are 55% by 2025 and 60% by 2030. Additionally, while there are strong incentives and regulations to reduce incineration, there is no outright ban on burning recyclable waste.
+
+Final Answer: Mostly False",mostly false,False,False
+"""Of 79 thousand jobs (miners) in 2003, we went to almost half a million today""",false,es,"To determine the accuracy of the claim, we need to verify the numbers provided for mining jobs in 2003 and the current number of mining jobs. 
+
+1. **Mining Jobs in 2003**: According to data from the U.S. Bureau of Labor Statistics (BLS), the number of jobs in the mining sector (which includes oil and gas extraction) in 2003 was approximately 488,000. This figure includes all types of mining jobs, not just coal miners.
+
+2. **Current Mining Jobs**: As of the most recent data available, the number of jobs in the mining sector is around 600,000. This includes all mining jobs, not just coal mining.
+
+Given these figures, the claim that there were 79,000 mining jobs in 2003 is incorrect. The actual number was significantly higher. Additionally, the claim that the number of mining jobs has increased to almost half a million today is also incorrect, as the current number is closer to 600,000.
+
+Final Answer: False",false,True,False
+During today's demonstration that mobilized thousands of teachers ......,half true,pt,"To determine the accuracy of the claim ""During today's demonstration that mobilized thousands of teachers,"" we need to verify the following:
+
+1. Whether a demonstration took place today.
+2. Whether the demonstration involved teachers.
+3. Whether the number of teachers involved was in the thousands.
+
+Without specific information or evidence to confirm these points, it is not possible to definitively assess the claim. However, if we assume that the context provided is accurate and there is no contradictory information, we might lean towards a certain level of truth.
+
+Given the lack of specific evidence to confirm or refute the claim, the most cautious and balanced assessment would be:
+
+Final Answer: Half True",half true,True,False
+"At 80 days since the first case, Argentina has 10,000 cases;Chile, 60 thousand and Brazil, 200 thousand",half true,es,"To determine the accuracy of the claim, we need to verify the COVID-19 case numbers for Argentina, Chile, and Brazil at 80 days since their first reported cases. This requires historical data on the progression of COVID-19 in these countries.
+
+1. **Argentina**: The first case was reported on March 3, 2020. 80 days from this date would be May 22, 2020. According to historical data, Argentina had approximately 10,000 cases around this time.
+
+2. **Chile**: The first case was reported on March 3, 2020. 80 days from this date would be May 22, 2020. Historical data shows that Chile had around 60,000 cases around this time.
+
+3. **Brazil**: The first case was reported on February 26, 2020. 80 days from this date would be May 16, 2020. Historical data indicates that Brazil had around 200,000 cases around this time.
+
+Based on this information, the claim appears to be accurate.
+
+Final Answer: True",true,False,False
+Algeria steals the sea in front of Sardinia?,mostly true,it,"To determine the accuracy of the claim ""Algeria steals the sea in front of Sardinia,"" we need to consider the context and the facts surrounding maritime boundaries and international law.
+
+1. **Geographical Context**: Sardinia is an island in the Mediterranean Sea, part of Italy, and located to the north of Algeria.
+2. **Maritime Boundaries**: Maritime boundaries between countries are typically established through international agreements and treaties, often following the United Nations Convention on the Law of the Sea (UNCLOS).
+3. **Recent Developments**: There have been reports of disputes between Italy and Algeria over maritime boundaries in the Mediterranean. In 2018, Algeria unilaterally declared an Exclusive Economic Zone (EEZ) that extended into waters claimed by Italy, including areas near Sardinia. This led to diplomatic discussions between the two countries.
+
+Given this context, the claim that ""Algeria steals the sea in front of Sardinia"" is an exaggeration. While there is a dispute over maritime boundaries, it is not accurate to say that Algeria is ""stealing"" the sea. The situation involves complex legal and diplomatic negotiations rather than outright theft.
+
+Final Answer: Mostly False",mostly false,False,False
+The Best Player of the Cup award is given to the highlight of the champion team,half true,pt,"Final Answer: Mostly False
+
+The ""Best Player of the Cup"" award, often referred to as the ""Golden Ball"" in tournaments like the FIFA World Cup, is given to the best player of the tournament as determined by a panel of experts, regardless of whether their team is the champion. While it is common for standout players from the champion team to be strong contenders, the award is not exclusively given to a player from the champion team.",,False,True
+"""Here are the costs of the regularization of the 600,000 illegal immigrants of the Pd and M5Stelle government: 550 million euros!""",half true,it,"To determine the accuracy of the claim, we need to consider several factors:
+
+1. **Source of the Claim**: The claim appears to be politically charged, coming from a context involving the Pd (Partito Democratico) and M5Stelle (Five Star Movement) government in Italy. Political claims often require careful scrutiny.
+
+2. **Context of Regularization**: Regularization refers to the process of granting legal status to undocumented immigrants. This process can involve various costs, including administrative expenses, social services, and integration programs.
+
+3. **Verification of Numbers**: The claim states that the regularization of 600,000 illegal immigrants costs 550 million euros. To verify this, we would need access to official government reports or credible sources that detail the costs associated with the regularization process.
+
+4. **Breakdown of Costs**: Understanding what the 550 million euros covers is crucial. Does it include only administrative costs, or does it also account for social services, healthcare, education, and other integration measures?
+
+5. **Comparison with Other Estimates**: Comparing this figure with other estimates or similar regularization programs in different countries can provide additional context.
+
+Without access to specific data or official reports, it's challenging to definitively verify the claim. However, based on the information provided and the need for a detailed breakdown of costs, the claim appears to be an oversimplification and potentially misleading.
+
+Final Answer: Mostly False",mostly false,False,False
+"""Since 2016, Senegal has won 26 places in the International Doing Business ranking""",false,fr,"To determine the accuracy of the claim that ""Since 2016, Senegal has won 26 places in the International Doing Business ranking,"" we need to examine the data from the World Bank's Doing Business reports from 2016 onwards.
+
+1. **Check the 2016 Ranking**: Identify Senegal's position in the Doing Business ranking in 2016.
+2. **Check the Latest Ranking**: Identify Senegal's position in the most recent Doing Business ranking available.
+3. **Calculate the Difference**: Subtract the 2016 ranking from the latest ranking to see if the difference is indeed 26 places.
+
+Let's assume the following hypothetical data for illustration purposes:
+- In 2016, Senegal was ranked 153rd.
+- In the most recent report, Senegal is ranked 123rd.
+
+The difference would be:
+153 - 123 = 30 places.
+
+If the actual data shows a difference of 26 places, then the claim is accurate. If the difference is close but not exactly 26, the claim might be ""Mostly True"" or ""Half True"" depending on the proximity.
+
+Without the exact data, we cannot definitively verify the claim. However, based on the methodology described, you can verify the claim by checking the actual rankings.
+
+Final Answer: **Half True** (pending verification with actual data).",,False,True
+We only have five consulates there [in the United States],half true,pt,"To determine the accuracy of the claim ""We only have five consulates there [in the United States],"" we need to verify the number of consulates that a specific country has in the United States. 
+
+Consulates are diplomatic missions that provide various services to their citizens and facilitate diplomatic relations. The number of consulates a country has in the United States can vary widely depending on the country in question.
+
+For example, if the country in question is a smaller nation with limited diplomatic presence, it might indeed have only five consulates. However, larger countries with extensive diplomatic networks, such as China, India, or Mexico, typically have more than five consulates in the United States.
+
+Without specifying the country, it is challenging to provide a definitive answer. However, if we assume the claim is about a country with a moderate diplomatic presence, it is plausible that the number could be around five.
+
+Final Answer: Half True",half true,True,False
+[The lower expenditure for citizenship income] is not deficit.This shows that it is not deficit as they said,false,it,"To evaluate the claim, we need to break down the statement and understand the context.
+
+1. **Lower Expenditure for Citizenship Income**: This suggests that the actual spending on citizenship income is less than what was initially projected or budgeted.
+
+2. **Not Deficit**: A deficit occurs when expenditures exceed revenues. If the expenditure for citizenship income is lower than expected, it could mean that the specific budget for this program is not in deficit. However, this does not necessarily mean that the overall budget or other areas are not in deficit.
+
+3. **As They Said**: This implies that there were claims or projections that the citizenship income would cause a deficit.
+
+Given these points, the claim that lower expenditure for citizenship income ""is not deficit"" is accurate in the context of the specific program's budget. However, it does not provide information about the overall budget or other areas of spending. Therefore, the statement is somewhat limited in scope.
+
+Final Answer: Half True",half true,False,False
+"""[Had] the highest inflation of the last 25 years""",true,es,"To determine the accuracy of the claim that a certain period had ""the highest inflation of the last 25 years,"" we need to compare the inflation rate during that period with the inflation rates of the previous 25 years. This requires specific data on inflation rates over the past 25 years.
+
+If the inflation rate during the period in question is indeed the highest when compared to each of the previous 25 years, then the claim would be 'True'. If it is among the highest but not the absolute highest, it might be 'Mostly True'. If it is high but not among the highest, it could be 'Half True'. If it is relatively high but not significantly so, it might be 'Mostly False'. If it is not high at all compared to the previous 25 years, it would be 'False'.
+
+Without specific data, I cannot definitively verify the claim. However, I can guide you on how to verify it:
+
+1. Obtain the annual inflation rates for the past 25 years.
+2. Compare the inflation rate of the period in question to each of these annual rates.
+3. Determine if it is the highest.
+
+If you provide the specific data or the period in question, I can give a more precise answer. For now, based on the structure of the claim and the need for specific data, I cannot definitively categorize it.
+
+Final Answer: Unable to determine without specific data.",,False,True
+"Senegal, the leading producer of salt, West Africa, however matters a quarter of its consumption.",mostly true,fr,"To determine the accuracy of the claim, we need to verify two main points:
+
+1. Whether Senegal is the leading producer of salt in West Africa.
+2. Whether Senegal imports a quarter of its salt consumption.
+
+1. **Senegal as the leading producer of salt in West Africa:**
+   - Senegal is indeed one of the significant producers of salt in West Africa. The country has substantial salt production, particularly from the Lac Rose (Pink Lake) area. However, it is important to note that other countries in West Africa, such as Ghana and Nigeria, also have considerable salt production.
+
+2. **Senegal importing a quarter of its salt consumption:**
+   - Despite being a major producer, Senegal does import salt to meet its domestic consumption needs. The exact proportion of imports can vary, but it is plausible that a significant portion, such as a quarter, could be imported due to various factors like quality requirements, industrial needs, or economic reasons.
+
+Given the information, the claim has a basis in reality but may not be entirely precise in its details. Therefore, the most appropriate classification would be:
+
+Final Answer: Half True",half true,False,False
+One in five Nigerian suffers from long -term depression.,false,fr,"To determine the accuracy of the claim ""One in five Nigerians suffers from long-term depression,"" we need to look at available data and research on the prevalence of depression in Nigeria.
+
+According to the World Health Organization (WHO) and other mental health studies, the prevalence of depression in Nigeria is significant, but exact figures can vary. Some studies suggest that the prevalence of depression in Nigeria is around 3-5%, while others indicate higher rates, especially when considering broader definitions of depressive disorders.
+
+However, the specific claim that ""one in five"" Nigerians (which translates to 20%) suffers from long-term depression seems to be an overestimation based on the available data. Most credible sources do not support such a high prevalence rate for long-term depression specifically.
+
+Final Answer: False",false,True,False
+"«[The Minister of Economy and Finance Roberto Gualtieri] has just announced that if you are in backlog with payments they can seal the accounts.In my opinion we are at the Soviet tax union because we are in the tax police state """,half true,it,"To determine the accuracy of the claim, we need to verify the following points:
+
+1. **Roberto Gualtieri's Announcement**: Did Roberto Gualtieri, the Minister of Economy and Finance, actually announce that accounts can be sealed if there are backlogs in payments?
+2. **Context and Interpretation**: What is the context of this announcement, and does it align with the claim that it represents a ""Soviet tax union"" or a ""tax police state""?
+
+### Verification:
+
+1. **Roberto Gualtieri's Announcement**:
+   - It is true that governments can take measures such as freezing or sealing bank accounts to recover unpaid taxes. This is a common practice in many countries to ensure tax compliance.
+   - However, specific details about Gualtieri's announcement need to be verified from reliable sources.
+
+2. **Context and Interpretation**:
+   - The terms ""Soviet tax union"" and ""tax police state"" are subjective and politically charged. They imply an extreme level of government control and lack of personal freedoms, which may not be an accurate representation of the actual policy.
+   - The use of such terms is likely an opinion rather than a factual statement.
+
+### Conclusion:
+- If Gualtieri did announce measures to seal accounts for unpaid taxes, that part of the claim is factual.
+- The interpretation that this equates to a ""Soviet tax union"" or ""tax police state"" is an opinion and not a factual statement.
+
+Given these points, the claim contains a mix of factual information and subjective interpretation.
+
+Final Answer: Half True",half true,True,False
+"Nigeria, first producer of babies infected with HIV",true,fr,"To determine the accuracy of the claim ""Nigeria, first producer of babies infected with HIV,"" we need to examine available data and reports on the prevalence of mother-to-child transmission of HIV.
+
+According to the Joint United Nations Programme on HIV/AIDS (UNAIDS) and other reputable sources, Nigeria has one of the highest rates of mother-to-child transmission of HIV in the world. The country has a significant number of children born with HIV due to various factors, including limited access to antiretroviral therapy for pregnant women and inadequate healthcare infrastructure.
+
+However, saying Nigeria is the ""first producer"" of babies infected with HIV is somewhat ambiguous and could be misleading. It implies a ranking that may not be clearly defined or universally accepted. While Nigeria does have a high number of such cases, the term ""first producer"" is not a standard metric used in public health reporting.
+
+Final Answer: Mostly True",mostly true,False,False
+"""The Dublin regulation, penalizing for Italy, is not abolished but remains in force and the principle of reception for the countries of first entrance remains intact with serious prejudice for Italy""",half true,it,"To determine the accuracy of the claim, let's break it down into its components:
+
+1. **Dublin Regulation**: The Dublin Regulation is a European Union (EU) law that determines which EU member state is responsible for processing an asylum seeker's application. Generally, it is the country where the asylum seeker first enters the EU.
+
+2. **Penalizing for Italy**: This part of the claim suggests that the Dublin Regulation is particularly disadvantageous for Italy. Given Italy's geographical location, it is often one of the first entry points for migrants crossing the Mediterranean, which means Italy frequently bears the responsibility for processing many asylum applications.
+
+3. **Not abolished but remains in force**: As of the latest information available up to 2023, the Dublin Regulation has not been abolished and remains in force.
+
+4. **Principle of reception for the countries of first entrance remains intact**: The core principle of the Dublin Regulation, which assigns responsibility to the first EU country of entry, remains a key aspect of the regulation.
+
+5. **Serious prejudice for Italy**: This is a subjective statement, but it is widely acknowledged that the Dublin Regulation places a significant burden on countries like Italy, which are primary entry points for migrants.
+
+Given these points, the claim accurately reflects the current status and implications of the Dublin Regulation for Italy.
+
+Final Answer: True",true,False,False
+Women carry the male DNA of all those with whom they have had intimate relationships,false,fr,"The claim that ""Women carry the male DNA of all those with whom they have had intimate relationships"" is not supported by scientific evidence. The idea seems to stem from a misunderstanding or misinterpretation of scientific studies related to microchimerism, which is the presence of a small number of cells in an individual that originated from another individual. 
+
+Microchimerism can occur in various ways, such as through pregnancy (where cells from the fetus can remain in the mother’s body) or through blood transfusions. However, there is no scientific basis for the claim that intimate relationships, such as sexual intercourse, result in women carrying the DNA of all their partners.
+
+Final Answer: False",false,True,False
+"Subsidies allocated to 100 daaras, 64 modern daaras set up and a legal framework, announces the government of Senegal, in a white paper on its achievements between 2012 and 2017.",half true,fr,"To determine the accuracy of the claim, we need to verify the specific details mentioned:
+
+1. **Subsidies allocated to 100 daaras**: This would require checking government records or credible reports from the period between 2012 and 2017 to confirm if subsidies were indeed allocated to 100 daaras.
+
+2. **64 modern daaras set up**: Similarly, this would need verification through official documents or credible sources to confirm the establishment of 64 modern daaras during the specified period.
+
+3. **A legal framework**: This involves checking if there was any legal framework introduced or implemented regarding daaras between 2012 and 2017.
+
+Without access to specific government records or credible sources that confirm these details, it is challenging to definitively verify the claim. However, if we assume the government of Senegal published this information in a white paper, it is likely based on their records and achievements.
+
+Given the context and assuming the white paper is an official document, the claim can be considered credible unless proven otherwise by contradictory evidence.
+
+Final Answer: Mostly True",mostly true,False,False
+"In Chile, $ 26,000 of per capita income, almost double Brazil",mostly true,pt,"To determine the accuracy of the claim ""In Chile, $26,000 of per capita income, almost double Brazil,"" we need to compare the per capita income of both countries.
+
+As of the most recent data available:
+
+1. **Chile**: According to the World Bank, the Gross National Income (GNI) per capita for Chile in 2021 was approximately $15,000 (using the Atlas method).
+2. **Brazil**: According to the World Bank, the GNI per capita for Brazil in 2021 was approximately $7,000 (using the Atlas method).
+
+The claim states that Chile's per capita income is $26,000, which is almost double that of Brazil. However, the actual figures show that Chile's per capita income is around $15,000, and Brazil's is around $7,000. While Chile's per capita income is indeed higher than Brazil's, it is not $26,000, nor is it almost double Brazil's per capita income.
+
+Final Answer: False",false,False,False
+Really in the room bars and restaurants don't accept the ATM?,half true,it,"To determine the accuracy of the claim ""Really in the room bars and restaurants don't accept the ATM,"" we need to consider the context and general practices regarding payment methods in bars and restaurants.
+
+1. **General Practice**: In many places around the world, bars and restaurants commonly accept various forms of payment, including cash, credit cards, and debit cards (which are often linked to ATMs). However, there can be exceptions based on location, type of establishment, and local customs.
+
+2. **Specific Context**: The phrase ""in the room"" is ambiguous and does not specify a particular location or context. If it refers to a specific region or type of establishment, the claim might vary. For example, in some remote or rural areas, cash might be preferred due to limited access to electronic payment systems.
+
+3. **Modern Trends**: In recent years, the trend has been towards increasing acceptance of electronic payments, including those linked to ATMs, due to convenience and security.
+
+Given the lack of specific context and the general trend towards accepting various forms of payment, the claim that bars and restaurants ""don't accept the ATM"" is not accurate for most places.
+
+Final Answer: False",false,False,False
+How much Italy and Europe spend for immigration,mostly true,it,"To determine the accuracy of the claim ""How much Italy and Europe spend for immigration,"" we need to consider the available data on immigration spending by Italy and the European Union (EU). 
+
+1. **Italy's Spending on Immigration:**
+   - Italy has been one of the frontline countries in the EU dealing with immigration, especially from North Africa and the Middle East.
+   - The Italian government allocates funds for various aspects of immigration, including border control, asylum processing, integration programs, and support for refugees and migrants.
+   - According to reports, Italy's spending on immigration has varied over the years, with significant amounts allocated during peak migration periods.
+
+2. **EU's Spending on Immigration:**
+   - The European Union also allocates funds to manage immigration across member states.
+   - The EU budget includes funding for the Asylum, Migration and Integration Fund (AMIF), which supports member states in managing migration flows.
+   - The EU also funds Frontex, the European Border and Coast Guard Agency, which plays a crucial role in border management and control.
+
+Given the complexity and variability of immigration spending, the claim about ""how much Italy and Europe spend for immigration"" can be considered accurate to some extent, but it lacks specific figures and context. Therefore, it is not entirely precise but reflects a general truth about significant spending on immigration by both Italy and the EU.
+
+Final Answer: Half True",half true,False,False
+I increased [in] 53% [the staff of] the Civil Police of my state,half true,pt,"To determine the accuracy of the claim ""I increased [in] 53% [the staff of] the Civil Police of my state,"" we need to verify the following:
+
+1. The actual percentage increase in the staff of the Civil Police in the state.
+2. The timeframe during which this increase occurred.
+3. The source of the data confirming the increase.
+
+If the increase in the staff of the Civil Police is indeed 53% as claimed, then the statement would be 'True'. If the increase is close to 53% but not exactly, it might be 'Mostly True'. If the increase is significantly different but still shows a substantial increase, it could be 'Half True'. If the increase is minimal or not close to 53%, it would be 'Mostly False' or 'False'.
+
+Without specific data to verify the claim, we cannot definitively categorize it. However, based on the structure of the claim and assuming no data is available to confirm or refute it, we can only speculate.
+
+Final Answer: Half True",half true,True,False
+"""The European Parliament takes away the immunity to Marine Le Pen,"" guilty ""of having published the beheadings made by ISIS on social networks""",true,it,"To determine the accuracy of the claim, we need to verify the following points:
+
+1. Whether the European Parliament has taken away Marine Le Pen's immunity.
+2. Whether the reason for this action was due to her publishing beheadings made by ISIS on social networks.
+
+Marine Le Pen, a French politician and leader of the National Rally party, has indeed faced legal issues related to her posting of graphic images of ISIS executions on social media. In 2015, she tweeted images of ISIS atrocities, which led to legal proceedings in France. The European Parliament has previously lifted her parliamentary immunity to allow for legal action in France.
+
+Given this context, the claim that the European Parliament took away her immunity because she published beheadings made by ISIS on social networks is accurate.
+
+Final Answer: True",true,True,False
+"""The role of SMEs in our country is key",true,es,"To determine the accuracy of the claim ""The role of SMEs in our country is key,"" we need to consider the general impact of Small and Medium-sized Enterprises (SMEs) on the economy. SMEs typically play a significant role in economic development, job creation, and innovation in many countries. They often contribute substantially to GDP and employment rates.
+
+For instance, in many countries, SMEs account for a large percentage of businesses and are crucial for economic growth and stability. They often drive innovation and competition, provide employment opportunities, and contribute to the diversification of the economy.
+
+Given this context, the claim that SMEs play a key role in the country is generally supported by the significant contributions SMEs make to the economy.
+
+Final Answer: True",true,True,False
+"90 % of the country mayors have a salary of less than 300,000 CFA francs.",half true,fr,"To determine the accuracy of the claim that ""90% of the country mayors have a salary of less than 300,000 CFA francs,"" we would need reliable data on the salaries of mayors across the country in question. This data would typically come from government reports, salary surveys, or other authoritative sources.
+
+Without access to specific data, it is not possible to definitively verify or refute the claim. However, if we assume that the claim is based on some form of data or survey, we can consider the likelihood of its accuracy.
+
+Given the lack of specific data in this context, the best we can do is to evaluate the plausibility based on general knowledge of public sector salaries in various countries, particularly in regions where the CFA franc is used (West and Central Africa). In many of these countries, public sector salaries can be relatively low, especially for local government officials.
+
+However, without concrete evidence, we cannot definitively categorize the claim. Therefore, the most appropriate response, given the information at hand, would be:
+
+Final Answer: Half True",half true,True,False
+We can do it if we arrive before others to respond to the needs of the 900 thousand single mothers of our country whose half of which risks poverty and certainly more in difficulty than the other mothers,true,it,"To determine the accuracy of the claim, we need to break it down into several components and verify each part:
+
+1. **Number of Single Mothers**: The claim states there are 900 thousand single mothers in the country.
+2. **Risk of Poverty**: It asserts that half of these single mothers are at risk of poverty.
+3. **Comparison to Other Mothers**: It claims that single mothers are certainly more in difficulty than other mothers.
+
+### Verification:
+
+1. **Number of Single Mothers**:
+   - The number of single mothers in a country can vary widely based on the country in question. For instance, in the United States, the number of single mothers is significantly higher than 900 thousand. However, in smaller countries, this number might be accurate. Without specifying the country, it's challenging to verify this part precisely.
+
+2. **Risk of Poverty**:
+   - Numerous studies and reports indicate that single mothers are at a higher risk of poverty compared to married mothers. For example, in the United States, single mothers are more likely to live in poverty. The claim that half of the single mothers are at risk of poverty is plausible based on various social studies.
+
+3. **Comparison to Other Mothers**:
+   - It is generally true that single mothers face more difficulties than mothers in two-parent households. This includes financial strain, lack of support, and increased responsibilities.
+
+### Conclusion:
+Given the general trends and data available, the claim seems to be based on widely recognized social issues faced by single mothers. However, the exact number (900 thousand) and the specific percentage (half) might vary depending on the country and the latest data.
+
+Final Answer: **Mostly True**",mostly true,False,False
+"Important warning for those driving: Do not sanitize the car key with gel alcohol or 70%liquid.Many accidents are occurring for this.The fire that took place in a garage in Belém was due to a 70%car hygienized car key, which when placed in the ignition of the vehicle generated a spark and ended up fire the vehicle on fire",false,pt,"To determine the accuracy of the claim, we need to evaluate the likelihood and scientific basis of the scenario described.
+
+1. **Alcohol and Ignition**: Alcohol-based sanitizers are flammable, but they typically evaporate quickly. For a spark to ignite the sanitizer, there would need to be a significant amount of residue left on the key, which is unlikely if the sanitizer has been allowed to dry properly.
+
+2. **Sparking in Ignition**: Modern car ignitions are designed to minimize the risk of sparking. While it is theoretically possible for a spark to occur, it is highly unlikely under normal circumstances.
+
+3. **Reported Incidents**: There are no widely reported or verified incidents of cars catching fire specifically due to sanitized keys being placed in the ignition. The claim mentions a specific incident in Belém, but without verifiable sources or additional context, it is difficult to confirm its authenticity.
+
+Given these points, the claim seems to be exaggerated and lacks substantial evidence.
+
+Final Answer: 'False'",false,True,False
+We are the third best rated capital [in Ideb],false,pt,"To determine the accuracy of the claim ""We are the third best rated capital [in Ideb],"" we need to verify the latest available data from the Índice de Desenvolvimento da Educação Básica (Ideb), which is the Basic Education Development Index in Brazil. This index measures the quality of education in Brazilian schools and is published by the National Institute for Educational Studies and Research (INEP).
+
+1. **Check the Latest Ideb Report**: Look for the most recent Ideb report to see the rankings of Brazilian capitals.
+2. **Identify the Ranking**: Verify if the capital in question is indeed ranked third in the Ideb report.
+
+Without access to the latest Ideb data, I cannot definitively verify the claim. However, if you have access to the most recent Ideb report and it confirms that the capital in question is ranked third, then the claim would be 'True'. If the capital is not ranked third, the claim would be 'False'. If the ranking is close but not exactly third, it might be 'Mostly True' or 'Half True' depending on the exact position.
+
+Given the need for specific data verification, I can provide a general guideline:
+
+- **True**: If the capital is ranked exactly third.
+- **Mostly True**: If the capital is ranked very close to third (e.g., second or fourth).
+- **Half True**: If the capital is within the top five but not exactly third.
+- **Mostly False**: If the capital is ranked significantly lower but still within the top ten.
+- **False**: If the capital is not within the top ten.
+
+Final Answer: Without the specific Ideb data, I cannot definitively categorize the claim. Please refer to the latest Ideb report for accurate verification.",,False,True
+What Salvini does not say about the buffers (not) made in Lombardy and Veneto,half true,it,"To determine the accuracy of the claim ""What Salvini does not say about the buffers (not) made in Lombardy and Veneto,"" we need to evaluate the context and the specific details surrounding the statement. This involves understanding what Salvini has said or not said about the production or availability of buffers (likely referring to COVID-19 tests) in Lombardy and Veneto, and comparing it to the actual situation in those regions.
+
+1. **Context**: Matteo Salvini is an Italian politician, and Lombardy and Veneto are regions in Italy. During the COVID-19 pandemic, the availability and production of testing kits (buffers) were critical issues.
+
+2. **Verification**: 
+   - **Salvini's Statements**: We need to check if Salvini made any public statements about the production or availability of buffers in these regions.
+   - **Actual Situation**: We need to verify the actual production and availability of buffers in Lombardy and Veneto during the relevant period.
+
+3. **Analysis**:
+   - If Salvini claimed that buffers were adequately produced or available in these regions, but evidence shows they were not, the claim could be 'True' or 'Mostly True'.
+   - If Salvini did not make any specific claims about the buffers, or if the situation was as he described, the claim could be 'False' or 'Mostly False'.
+   - If the situation is mixed or unclear, the claim could be 'Half True'.
+
+Without specific details on Salvini's statements and the actual situation in Lombardy and Veneto, it is challenging to provide a definitive answer. However, based on the phrasing of the claim, it suggests that there is something significant that Salvini did not disclose or misrepresented about the buffers.
+
+Final Answer: Half True",half true,True,False
+"Young people die especially for road accidents, but less and less",true,it,"To determine the accuracy of the claim ""Young people die especially for road accidents, but less and less,"" we need to break it down into two parts:
+
+1. ""Young people die especially for road accidents"": This part suggests that road accidents are a significant cause of death among young people. According to various health and safety organizations, road traffic accidents are indeed one of the leading causes of death for young people globally.
+
+2. ""but less and less"": This part implies that the number of young people dying from road accidents is decreasing over time. Data from organizations like the World Health Organization (WHO) and various national traffic safety agencies indicate that there have been efforts to reduce road traffic fatalities through improved safety measures, stricter regulations, and better emergency response. In many regions, these efforts have led to a decline in road traffic deaths, including among young people.
+
+Given the available data, the claim appears to be generally accurate but may not be universally true in all regions or contexts. Therefore, the most appropriate classification for this claim is:
+
+Final Answer: Mostly True",mostly true,False,False
+"The heirs of Léopold Sédar Senghor perceive, per year, more than a billion FCFA for the copyright of the National Hymn of Senegal.",half true,fr,"To determine the accuracy of the claim that the heirs of Léopold Sédar Senghor receive more than a billion FCFA per year for the copyright of the National Hymn of Senegal, we need to consider several factors:
+
+1. **Léopold Sédar Senghor's Role**: Léopold Sédar Senghor, a prominent Senegalese poet, politician, and cultural theorist, is indeed credited with writing the lyrics of the Senegalese national anthem, ""Pincez Tous vos Koras, Frappez les Balafons.""
+
+2. **Copyright and Royalties**: National anthems are typically considered public domain or are owned by the state, especially when they are used in official capacities. It is uncommon for heirs to receive royalties from the use of a national anthem, as these works are often exempt from standard copyright laws that apply to other types of creative works.
+
+3. **Financial Figures**: The claim specifies an amount of more than a billion FCFA (approximately 1.8 million USD) per year. This is an unusually high figure for royalties from a national anthem, especially considering the public domain status of such works in many countries.
+
+Given these points, it is highly unlikely that the heirs of Léopold Sédar Senghor receive such a substantial amount annually for the national anthem's copyright. 
+
+Final Answer: False",false,False,False
+Where do you vote at the age of 16 in the world?,true,it,"The claim that you can vote at the age of 16 in the world is 'Mostly True'. Several countries and regions allow voting at 16, but it is not a universal standard. For example, Austria, Scotland, and some parts of Germany allow 16-year-olds to vote in certain elections. However, the majority of countries set the voting age at 18.
+
+Final Answer: Mostly True",mostly true,False,False
+"""The collective work conventions were 200 in 2002 and now they are approximately 1500""",true,es,"To determine the accuracy of the claim, we need to verify the number of collective work conventions in 2002 and compare it to the current number, which is stated to be approximately 1500. Without specific data or sources to confirm these numbers, it is challenging to definitively assess the claim.
+
+However, if we assume the numbers provided are accurate, the claim would be 'True'. If there is any doubt or lack of evidence, the claim could be considered 'Half True' or 'Mostly True' depending on the level of uncertainty.
+
+Given the lack of specific data to verify the numbers:
+
+Final Answer: Half True",half true,False,False
+It is one of the biggest hits of the salford band (Manchester) but it is D ......,false,pt,"To determine the accuracy of the claim, we need to identify the Salford band from Manchester and the song that starts with ""D."" The band in question is likely Joy Division, a well-known band from Salford, Manchester. One of their biggest hits is ""Love Will Tear Us Apart,"" but they also have a notable song titled ""Disorder.""
+
+Given that ""Disorder"" is a significant track by Joy Division, but not necessarily their biggest hit compared to ""Love Will Tear Us Apart,"" the claim that it is ""one of the biggest hits"" is somewhat accurate but not entirely precise.
+
+Final Answer: Half True",half true,False,False
+"The statue of the Madonna will fly all over Italy, islands included to ask for the cessation of the pandemic",false,it,Final Answer: False,false,True,False
+"“There are 800 thousand pensions for more disability.They are more than the dead of the United States, the United Kingdom, France, Poland, Greece and the Netherlands together in World War II ”",false,es,"To evaluate the claim, we need to verify two main points:
+
+1. The number of disability pensions: The claim states there are 800 thousand pensions for more disability.
+2. The combined number of deaths in the United States, the United Kingdom, France, Poland, Greece, and the Netherlands during World War II.
+
+First, let's look at the number of deaths in these countries during World War II:
+
+- United States: Approximately 418,500 military and civilian deaths.
+- United Kingdom: Approximately 450,700 military and civilian deaths.
+- France: Approximately 567,600 military and civilian deaths.
+- Poland: Approximately 5,600,000 military and civilian deaths.
+- Greece: Approximately 300,000 military and civilian deaths.
+- Netherlands: Approximately 301,000 military and civilian deaths.
+
+Adding these numbers together:
+
+418,500 (US) + 450,700 (UK) + 567,600 (France) + 5,600,000 (Poland) + 300,000 (Greece) + 301,000 (Netherlands) = 7,637,800
+
+The combined total is approximately 7.64 million deaths.
+
+Now, comparing this to the claim of 800 thousand disability pensions:
+
+800,000 is significantly less than 7,637,800.
+
+Therefore, the claim that 800 thousand pensions for more disability are more than the combined deaths of the mentioned countries in World War II is incorrect.
+
+Final Answer: False",false,True,False
+"Italy ""equatorial"" and the eternal debate on perfect bicameralism",half true,it,"Final Answer: False
+
+Italy is not located on the equator, so the term ""equatorial"" does not apply to it. Additionally, while Italy does have a bicameral legislature, the debate on perfect bicameralism (where both legislative chambers have equal power) is not typically referred to as ""eternal."" Therefore, the claim is false.",,False,True
+"""Since August to here we have created 82 thousand new formal jobs""",mostly true,es,"To determine the accuracy of the claim ""Since August to here we have created 82 thousand new formal jobs,"" we need to verify the following:
+
+1. **Time Frame**: The period from August to the current date.
+2. **Job Creation Data**: The number of new formal jobs created during this period.
+
+Without specific data or sources to verify the exact number of new formal jobs created from August to the current date, it is challenging to definitively categorize the claim. However, if we assume that the claim is based on official employment statistics or reports, we can make an educated guess.
+
+Given the lack of specific data in the question, we can consider the claim as potentially accurate but not fully verifiable without additional information.
+
+Final Answer: Half True",half true,False,False
+"""There was clearly a very, very large fraud in the passage""",false,es,"To determine the accuracy of the claim ""There was clearly a very, very large fraud in the passage,"" we need to consider the context and evidence supporting or refuting the statement. Since the claim is not specific about what ""the passage"" refers to, it is challenging to verify its truthfulness without additional context.
+
+Given the lack of specific information and evidence, it is not possible to definitively assess the claim. Therefore, the most appropriate response would be:
+
+Final Answer: False",false,True,False
+"For the eleventh consecutive month, the Italian manufacturing activity is in contraction.",false,it,"To determine the accuracy of the claim that ""For the eleventh consecutive month, the Italian manufacturing activity is in contraction,"" we need to verify the latest data on Italy's manufacturing activity. This information is typically measured by the Purchasing Managers' Index (PMI), where a PMI below 50 indicates contraction.
+
+As of my last update in October 2023, I do not have real-time data. However, if recent reports and PMI data confirm that Italy's manufacturing PMI has been below 50 for the past eleven months, then the claim would be accurate.
+
+Given the need for the most current data to make a precise determination, I recommend checking the latest PMI reports from reliable sources such as IHS Markit or national statistical agencies.
+
+Final Answer: Half True",half true,False,False
+"About two months ago, I said in an interview that I would have already taken Brazil from the UN [...) [...) [...) Council.This current support for a condemned and arrested corrupt is just another example of our position",mostly true,pt,"To determine the accuracy of the claim, we need to verify the following points:
+
+1. Whether the person making the statement actually said in an interview about two months ago that they would have taken Brazil from the UN Council.
+2. Whether there is current support for a condemned and arrested corrupt individual, and if this is an example of the position mentioned.
+
+Without specific details about the interview, the person making the statement, and the context of the support for a condemned and arrested corrupt individual, it is challenging to verify the claim accurately. However, based on the structure and the nature of the claim, it appears to be a subjective statement that mixes personal opinion with factual assertions.
+
+Given the lack of concrete evidence and context to fully verify the claim, the most appropriate classification would be:
+
+Final Answer: Half True",half true,False,False
+In Italy real refugees arrive by plane,false,it,"To determine the accuracy of the claim ""In Italy real refugees arrive by plane,"" we need to consider the various ways refugees typically enter Italy.
+
+1. **Sea Arrivals**: A significant number of refugees and migrants arrive in Italy by sea, particularly from North Africa. This route is often dangerous and involves crossing the Mediterranean Sea.
+
+2. **Land Arrivals**: Some refugees may enter Italy by land, especially those coming from neighboring European countries.
+
+3. **Air Arrivals**: While some refugees may arrive by plane, this is less common due to the stringent visa requirements and the fact that many refugees flee their countries without the necessary documentation to board a flight.
+
+Given this context, the claim that ""real refugees arrive by plane"" is misleading because it overlooks the fact that a substantial number of refugees arrive by sea and land. Therefore, the claim does not accurately represent the primary methods of refugee entry into Italy.
+
+Final Answer: Mostly False",mostly false,False,False
+"During the field unemployment ""there were several fatalities""",false,es,"To determine the accuracy of the claim ""During the field unemployment 'there were several fatalities,'"" we need to consider the context and available evidence. 
+
+1. **Context**: The term ""field unemployment"" is not a standard term and could be interpreted in various ways. It might refer to a specific event, a period of economic downturn, or a particular situation affecting workers in a certain field.
+
+2. **Evidence**: Without specific details about the event or period referred to as ""field unemployment,"" it is challenging to verify the claim. Generally, unemployment itself does not directly cause fatalities, but it can lead to increased stress, mental health issues, and potentially higher rates of suicide or health-related deaths due to lack of access to healthcare.
+
+Given the ambiguity of the term and the lack of specific evidence provided, it is not possible to definitively verify the claim.
+
+Final Answer: False",false,True,False
+45% of Nigerian women married before the age of 18.,mostly true,fr,"To determine the accuracy of the claim that ""45% of Nigerian women married before the age of 18,"" we need to refer to reliable sources such as reports from international organizations, government statistics, or reputable research studies.
+
+According to data from UNICEF and other reputable sources, child marriage remains a significant issue in Nigeria. UNICEF's reports have indicated that a substantial percentage of Nigerian women are married before the age of 18, with figures often cited around 43% to 44% in recent years.
+
+Given this information, the claim that ""45% of Nigerian women married before the age of 18"" is very close to the reported statistics, though it might be slightly higher than the most commonly cited figures.
+
+Final Answer: Mostly True",mostly true,True,False
+"Côte d'Ivoire, the first UEMOA economy and a member of the global TOP10 of economic growth, said its Prime Minister.",true,fr,"To evaluate the claim, we need to break it down into two parts:
+
+1. Côte d'Ivoire being the first UEMOA (West African Economic and Monetary Union) economy.
+2. Côte d'Ivoire being a member of the global TOP10 of economic growth.
+
+1. Côte d'Ivoire is indeed one of the leading economies within UEMOA. It has a significant GDP and plays a crucial role in the economic activities of the region. Therefore, this part of the claim is accurate.
+
+2. Regarding the global TOP10 of economic growth, Côte d'Ivoire has experienced rapid economic growth in recent years. However, being in the global TOP10 for economic growth can vary depending on the specific year and the metrics used (e.g., GDP growth rate). While Côte d'Ivoire has had impressive growth rates, it is not consistently ranked in the global TOP10 for economic growth every year.
+
+Given these points, the claim is somewhat exaggerated but contains elements of truth.
+
+Final Answer: Half True",half true,False,False
+A recording widely publicized on social networks denounces a servant ......,mostly true,pt,"To determine the accuracy of the claim, we need to verify the existence and content of the recording, as well as the context in which it was publicized. Without specific details about the recording, the servant, and the nature of the denunciation, it is impossible to accurately assess the claim.
+
+Final Answer: Half True",half true,False,False
+The European Parliament and the Foreign Fighters,false,it,"To determine the accuracy of the claim ""The European Parliament and the Foreign Fighters,"" we need to consider the context and the specific details of the claim. The European Parliament has indeed addressed the issue of foreign fighters, particularly in the context of individuals traveling to conflict zones like Syria and Iraq to join terrorist organizations. The Parliament has passed resolutions and discussed measures to combat this phenomenon, including enhancing security measures, sharing intelligence among member states, and addressing the root causes of radicalization.
+
+Given this context, the claim that the European Parliament is involved with the issue of foreign fighters is accurate.
+
+Final Answer: True",true,False,False
+The Rei reached 1.3 million people.The RDC - to date - to 1.4 million.And the active policies?I'm totally at the pole.The regions have never even received the lists of beneficiaries.,mostly true,it,"To determine the accuracy of the claim, we need to verify the specific numbers and statements mentioned:
+
+1. ""The Rei reached 1.3 million people.""
+2. ""The RDC - to date - to 1.4 million.""
+3. ""The regions have never even received the lists of beneficiaries.""
+
+Without specific data or sources to confirm these numbers and statements, it is challenging to definitively assess their accuracy. However, we can analyze the plausibility based on general knowledge and context.
+
+1. If ""Rei"" refers to a specific program or initiative, reaching 1.3 million people is plausible but needs verification.
+2. Similarly, if ""RDC"" refers to another program or initiative, reaching 1.4 million people is also plausible but needs verification.
+3. The statement about regions not receiving lists of beneficiaries is a specific claim that would require insider knowledge or official reports to confirm or refute.
+
+Given the lack of specific data to confirm or deny these claims, the most appropriate assessment would be:
+
+Final Answer: Half True",half true,False,False
+"""Argentina is a country that consumes 70% of what it produces""",mostly true,es,"To determine the accuracy of the claim that ""Argentina is a country that consumes 70% of what it produces,"" we need to look at Argentina's economic data, particularly its production and consumption patterns.
+
+Argentina is known for its significant agricultural production, including soybeans, corn, and beef, much of which is exported. The country also has a diverse industrial sector and a growing services sector. However, Argentina's economy has faced various challenges, including inflation, debt, and economic instability, which can affect consumption patterns.
+
+According to data from the World Bank and other economic sources, Argentina's domestic consumption as a percentage of its GDP has varied over the years. While the exact percentage can fluctuate, it is generally understood that a significant portion of Argentina's production is consumed domestically, but not necessarily as high as 70%.
+
+Given the complexity and variability of economic data, the claim that Argentina consumes 70% of what it produces seems to be an overestimation. The actual figure is likely lower, considering the substantial portion of agricultural and industrial products that are exported.
+
+Final Answer: Mostly False",mostly false,False,False
+"30. Establish, in the first year of government, a partnership with the Public Prosecution Service and the Guardianship Council to combat the exploitation of children on the streets by their own parents or other adults",false,pt,"To determine the accuracy of the claim, we need to verify whether the government has indeed established a partnership with the Public Prosecution Service and the Guardianship Council within the first year of its term to combat the exploitation of children on the streets by their own parents or other adults.
+
+1. **Government Actions**: Check if there are official records, announcements, or news reports confirming that such a partnership was established within the first year of the government's term.
+2. **Public Prosecution Service**: Verify if the Public Prosecution Service has acknowledged or participated in this partnership.
+3. **Guardianship Council**: Confirm if the Guardianship Council has been involved in this initiative.
+4. **Timeline**: Ensure that these actions took place within the first year of the government's term.
+
+Without specific evidence or sources to confirm these points, it is challenging to definitively categorize the claim. However, if we assume that the claim is based on a real government initiative that has been publicly documented, it would likely be 'True' or 'Mostly True'. If there is no evidence or the partnership was not fully established within the first year, it would lean towards 'Mostly False' or 'False'.
+
+Given the lack of specific evidence provided in the question, I will make a reasoned judgment based on the typical process of such initiatives.
+
+Final Answer: Half True",half true,False,False
+"The concession of Ibirapuera Park, for example, (...) was stopped by the previous management [of the State Government], which created difficulties and embarrassment for us to advance",mostly true,pt,"To determine the accuracy of the claim, we need to verify the following:
+
+1. Whether the concession of Ibirapuera Park was indeed stopped by the previous management of the State Government.
+2. Whether the previous management created difficulties and embarrassment for the current administration to advance the concession.
+
+If both points are confirmed, the claim would be 'True'. If only one point is confirmed, it would be 'Half True'. If neither point is confirmed, it would be 'False'. If the claim is exaggerated but has some basis in fact, it would be 'Mostly False'. If the claim is largely accurate but with minor inaccuracies, it would be 'Mostly True'.
+
+Without specific evidence or detailed information to verify these points, it is challenging to make a definitive judgment. However, based on the structure of the claim and the need for verification of both parts, a cautious approach would be to consider it 'Half True' if there is some indication that the previous management had an impact, but not necessarily to the extent claimed.
+
+Final Answer: Half True",half true,False,False
+"""Last year there were 3,262 people killed""",false,es,"To determine the accuracy of the claim ""Last year there were 3,262 people killed,"" I would need to verify the context and source of the data. This claim could pertain to various contexts such as traffic accidents, homicides, natural disasters, or other incidents. Without specific context or a reliable source to verify the exact number, it is challenging to definitively categorize the claim.
+
+Given the lack of context and verification:
+
+Final Answer: Half True",half true,False,False
+We reduce to 12 the number of secretariats and half the number of commission positions,true,pt,"To determine the accuracy of the claim ""We reduce to 12 the number of secretariats and half the number of commission positions,"" we need to verify two key points:
+
+1. The number of secretariats has been reduced to 12.
+2. The number of commission positions has been halved.
+
+Without specific data or context about the original number of secretariats and commission positions, it is challenging to definitively verify the claim. However, if we assume that the claim is based on a specific organizational restructuring plan that has been publicly documented and verified, we can assess its accuracy.
+
+Given the lack of specific data in the provided information, we can only evaluate the claim based on its face value and the logical consistency of the statement.
+
+Final Answer: Half True",half true,False,False
+"Sea 12, 2020 - Der Bundestag Will KommunalPolitike Besser Vor Hasskrimanalität Und ... Weiß, Wovon Er Spricht: ER Hat Selbst Mordrohungen Bekommen.",mostly false,pt,"To determine the accuracy of the claim, we need to break it down into its components:
+
+1. ""Der Bundestag Will KommunalPolitike Besser Vor Hasskrimanalität Und ... Weiß, Wovon Er Spricht: ER Hat Selbst Mordrohungen Bekommen.""
+
+Translation: ""The Bundestag wants to better protect local politicians from hate crimes and ... knows what he is talking about: He has received death threats himself.""
+
+2. The claim involves two main points:
+   - The Bundestag's intention to better protect local politicians from hate crimes.
+   - An individual (implied to be a member of the Bundestag) has received death threats.
+
+To verify these points:
+
+1. The Bundestag has indeed discussed and taken measures to protect local politicians from hate crimes, especially in light of increasing threats and violence against public officials in Germany. This is a well-documented fact.
+
+2. It is also true that several members of the Bundestag and other politicians in Germany have reported receiving death threats, particularly in recent years. This includes high-profile cases that have been covered in the media.
+
+Given that both components of the claim are accurate, the overall claim can be considered true.
+
+Final Answer: True",true,False,False
+A information has been shared on social networks that q ......,false,pt,"To determine the accuracy of the claim ""A information has been shared on social networks that q ......"", I would need more specific details about the information being shared and the context in which it is being evaluated. Without additional context or details, it is impossible to accurately assess the truthfulness of the claim.
+
+Final Answer: False",false,True,False
+"""State resources experienced 3.4% between 2016 and 2017""",false,fr,"To determine the accuracy of the claim ""State resources experienced 3.4% between 2016 and 2017,"" we need to verify the following:
+
+1. **Context and Completeness**: The claim is incomplete as it does not specify what exactly experienced 3.4% (e.g., growth, decline, usage, etc.). This lack of specificity makes it difficult to assess the claim accurately.
+
+2. **Data Verification**: Without additional context or specific data, it is impossible to verify the exact nature of the 3.4% change in state resources between 2016 and 2017.
+
+Given the incomplete nature of the claim and the lack of specific information, it is not possible to determine its truthfulness accurately.
+
+Final Answer: False",false,True,False
+"""The mayor received in this pandemic, data from the 16th, R $ 153 million and he only managed to spend 29.5% of these resources actually paid.""",true,pt,"To determine the accuracy of the claim, we need to verify the following details:
+
+1. The amount of money received by the mayor during the pandemic.
+2. The date or period when the money was received.
+3. The percentage of the resources that were actually spent and paid.
+
+Without specific data or sources to confirm these details, it is challenging to definitively categorize the claim. However, if we assume the claim is based on accurate data, we can analyze the statement as follows:
+
+- The claim states that the mayor received R $ 153 million.
+- It also states that only 29.5% of these resources were actually paid.
+
+If these figures are correct, the claim would be 'True'. However, if there are discrepancies in the amount received, the percentage spent, or the date mentioned, the accuracy could vary.
+
+Given the lack of specific data to confirm or refute the claim, we can only make a tentative assessment based on the information provided.
+
+Final Answer: Half True",half true,False,False
+Not just referendum: the laws of popular initiative,true,it,"To determine the accuracy of the claim ""Not just referendum: the laws of popular initiative,"" we need to understand the distinction between a referendum and a popular initiative.
+
+1. **Referendum**: A process that allows citizens to approve or reject laws or policies proposed by the government or legislature. It is a form of direct democracy where the electorate votes on a specific issue.
+
+2. **Popular Initiative**: A process that allows citizens to propose new laws or amendments to the constitution. If a sufficient number of voters support the proposal, it is put to a vote, bypassing the legislature.
+
+The claim suggests that there are laws governing not just referendums but also popular initiatives. This is accurate because many democratic systems have legal frameworks that regulate both referendums and popular initiatives, recognizing them as distinct mechanisms of direct democracy.
+
+Final Answer: True",true,True,False
+"""Inail's latest data say that 300 people a day in Italy are infected in the workplace and ten die.And the Lockdown has only loosened for a week """,false,it,"To determine the accuracy of the claim, we need to verify the following points:
+
+1. **Inail's Data**: Inail (Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro) is the Italian National Institute for Insurance against Accidents at Work. We need to check if Inail has reported that 300 people a day are infected in the workplace and that ten die.
+
+2. **Timing of the Lockdown**: The claim mentions that the lockdown has only loosened for a week. We need to verify the timeline of the lockdown measures in Italy.
+
+### Verification:
+
+1. **Inail's Data**:
+   - Inail regularly publishes reports on workplace accidents and illnesses, including COVID-19 infections.
+   - If recent reports from Inail confirm that approximately 300 people a day are getting infected at work and around ten people are dying, this part of the claim would be accurate.
+
+2. **Lockdown Timeline**:
+   - Italy had strict lockdown measures during the COVID-19 pandemic, and these measures were gradually loosened.
+   - If the claim is referring to a specific period when the lockdown was loosened for a week, we need to check if this aligns with the actual timeline of Italy's lockdown measures.
+
+### Conclusion:
+Without the exact data from Inail and the specific timeline of the lockdown measures, it is challenging to definitively categorize the claim. However, if we assume the data and timeline are accurate based on typical reporting and known lockdown measures, the claim could be considered accurate.
+
+**Final Answer: Mostly True**",mostly true,False,False
+I have a bill aimed at chemical castration [for the convicted of rape],mostly true,pt,"To determine the accuracy of the claim ""I have a bill aimed at chemical castration [for the convicted of rape],"" we need to verify whether the person making the claim has indeed introduced or sponsored a bill with the specific aim of chemical castration for individuals convicted of rape.
+
+1. **Check Legislative Records**: Verify if there is an actual bill introduced or sponsored by the person making the claim that includes provisions for chemical castration for convicted rapists.
+2. **Bill Content**: Ensure that the bill explicitly mentions chemical castration as a measure for those convicted of rape.
+3. **Context and Intent**: Understand the context in which the claim is made to ensure it aligns with the legislative intent and content.
+
+If all these points are confirmed, the claim would be 'True'. If there are some discrepancies or partial truths, the rating would adjust accordingly.
+
+Given the information provided, without specific details or verification from legislative records, it is challenging to definitively categorize the claim. However, if we assume the claim is made in good faith and there is no evidence to the contrary, we might lean towards 'True' or 'Mostly True'.
+
+Final Answer: Mostly True",mostly true,True,False
+Several publications emerged on social networks indicating that Klaus Püs ......,false,pt,"To determine the accuracy of the claim about Klaus Püs, I would need more specific information about the content of the publications and the context in which they emerged. Without additional details, it is not possible to accurately assess the truthfulness of the claim.
+
+Final Answer: Half True",half true,False,False
+But in Veneto the vaccinated children increase or not?,false,it,"To determine the accuracy of the claim ""But in Veneto the vaccinated children increase or not?"", we need to look at the most recent and reliable data on vaccination rates among children in the Veneto region of Italy.
+
+If recent data shows a clear increase in the number of vaccinated children in Veneto, the claim would be 'True'. If the data shows a slight increase or is somewhat ambiguous, it might be 'Mostly True'. If the data shows no significant change, it could be 'Half True'. If the data shows a decrease or contradicts the claim, it would be 'Mostly False' or 'False'.
+
+Without specific data at hand, I cannot definitively verify the claim. However, if we assume that the claim is based on recent trends and reports, we can make an educated guess.
+
+Final Answer: Half True",half true,False,False
+"""Renewable energies represent only 18% of the current electricity production capacity of Africa.Consequently, the development of over -network alternative solutions could create many more possibilities and transform millions of lives ”",half true,fr,"To determine the accuracy of the claim, we need to verify two main points:
+
+1. The percentage of current electricity production capacity in Africa that comes from renewable energies.
+2. The potential impact of developing over-network alternative solutions on creating possibilities and transforming lives.
+
+### Point 1: Renewable Energy Capacity in Africa
+According to various sources, including the International Renewable Energy Agency (IRENA) and other energy reports, renewable energy sources (such as hydro, solar, wind, and geothermal) contribute a significant portion of Africa's electricity production. However, the exact percentage can vary depending on the source and the year of the data. As of recent reports, renewable energy capacity in Africa is estimated to be around 20-25%. This suggests that the claim of 18% is somewhat close but might be slightly outdated or conservative.
+
+### Point 2: Impact of Over-Network Alternative Solutions
+The second part of the claim discusses the potential benefits of developing over-network (off-grid or decentralized) alternative solutions. Numerous studies and reports support the idea that off-grid renewable energy solutions can significantly improve access to electricity in remote and underserved areas, thereby transforming lives by providing power for homes, schools, and businesses. This part of the claim is generally supported by evidence and expert opinions.
+
+### Conclusion
+Given that the first part of the claim is close to the actual percentage but might be slightly outdated, and the second part is well-supported by evidence, the overall claim can be considered mostly accurate but not entirely precise.
+
+Final Answer: Mostly True",mostly true,False,False
+37 health posts were closed in full pandemic in Curitiba,mostly true,pt,"To determine the accuracy of the claim ""37 health posts were closed in full pandemic in Curitiba,"" we need to verify the following:
+
+1. The number of health posts that were closed.
+2. The timing of these closures, specifically if they occurred during the peak or full period of the COVID-19 pandemic.
+3. The location, which is Curitiba.
+
+Without specific data or sources to confirm these details, it is challenging to provide a definitive answer. However, if we assume that the claim is based on verified information from reliable sources, we can analyze it as follows:
+
+- If 37 health posts were indeed closed during the peak of the pandemic in Curitiba, the claim would be 'True.'
+- If the number is slightly off or if the timing is not exactly during the peak but still within the pandemic period, the claim might be 'Mostly True.'
+- If the number is significantly different or the timing is not during the pandemic, the claim could be 'Half True,' 'Mostly False,' or 'False.'
+
+Given the lack of specific data to confirm or refute the claim, I cannot provide a definitive answer. However, based on the structure of the claim and assuming it is based on some level of accurate reporting, I would lean towards 'Mostly True' if the number and timing are approximately correct.
+
+Final Answer: Mostly True",mostly true,True,False
+"A reissue of the London trio debut album, 2009, included U ......",mostly true,pt,"To determine the accuracy of the claim, we need to identify the London trio and their debut album from 2009, and verify if a reissue included something starting with ""U"". 
+
+One notable London trio with a debut album in 2009 is The xx, whose debut album is titled ""xx"". A reissue of this album could potentially include additional tracks, remixes, or other content.
+
+However, without specific information on what ""U"" refers to, it's challenging to confirm the exact details. 
+
+Given the lack of precise information, the claim cannot be fully verified or debunked.
+
+Final Answer: Half True",half true,False,False
+True: the vaccine law works,true,it,"To determine the accuracy of the claim ""True: the vaccine law works,"" we need to consider the context and evidence supporting the effectiveness of vaccine laws. Vaccine laws typically refer to regulations that mandate vaccinations for certain populations, such as schoolchildren, healthcare workers, or the general public during outbreaks.
+
+Evidence supporting the effectiveness of vaccine laws includes:
+
+1. **Increased Vaccination Rates**: Studies have shown that mandatory vaccination laws lead to higher vaccination rates. For example, school entry requirements for vaccinations have been associated with increased immunization coverage and reduced incidence of vaccine-preventable diseases.
+
+2. **Reduction in Disease Incidence**: Historical data demonstrate that vaccine mandates have contributed to the decline or eradication of diseases such as measles, mumps, rubella, and polio in regions with strict vaccination laws.
+
+3. **Public Health Outcomes**: Research indicates that areas with stringent vaccine laws experience fewer outbreaks and lower transmission rates of infectious diseases compared to areas with more lenient policies.
+
+However, the effectiveness of vaccine laws can vary based on factors such as enforcement, public compliance, and the presence of exemptions (e.g., medical, religious, or philosophical). Additionally, vaccine laws alone may not be sufficient to achieve desired public health outcomes without complementary measures like public education and access to vaccines.
+
+Given the substantial evidence supporting the positive impact of vaccine laws on public health, but acknowledging that their effectiveness can be influenced by various factors, the claim ""True: the vaccine law works"" is best categorized as:
+
+Final Answer: Mostly True",mostly true,False,False
+"""(...) EPTC, just last year, earned $ 80 million [in traffic fines]""",mostly true,pt,"To determine the accuracy of the claim that ""EPTC, just last year, earned $80 million [in traffic fines],"" we need to verify the actual revenue generated by EPTC (Empresa Pública de Transporte e Circulação) from traffic fines in the specified year. This would typically involve checking official financial reports, government publications, or credible news sources that provide data on EPTC's earnings from traffic fines.
+
+Without access to specific data or sources, I cannot definitively verify the claim. However, if we assume that the claim is based on accurate and verifiable data, we can proceed as follows:
+
+1. **True**: If EPTC's official financial records or credible sources confirm that the revenue from traffic fines was exactly $80 million.
+2. **Mostly True**: If the revenue was very close to $80 million, with a minor discrepancy that does not significantly alter the overall claim.
+3. **Half True**: If the revenue was somewhat close to $80 million but with a notable difference that affects the claim's accuracy.
+4. **Mostly False**: If the revenue was significantly different from $80 million, indicating that the claim is largely incorrect.
+5. **False**: If the revenue was entirely different from $80 million, showing that the claim is completely inaccurate.
+
+Given the lack of specific data in this context, I cannot definitively categorize the claim. However, if you have access to the relevant financial data or credible sources, you can use the criteria above to determine the most accurate classification.
+
+Final Answer: Without specific data, I cannot definitively categorize the claim. Please verify with official financial records or credible sources.",,False,True
+"Create a judicial police ”other
+It is a check.com cfk: ""Today with food we are the same as Venezuela.""Fake.What does it mean?Sorry, today with food we are the same as Venezuela, Cristina Kirchner launched during the presentation of her ...",false,es,"To determine the accuracy of the claim, we need to analyze the context and the facts surrounding it. The statement in question is: ""Today with food we are the same as Venezuela,"" attributed to Cristina Kirchner.
+
+1. **Context**: Cristina Kirchner is a prominent political figure in Argentina. The statement suggests a comparison between the food situation in Argentina and Venezuela. Venezuela has been widely reported to have severe food shortages and economic crises.
+
+2. **Fact-Checking**:
+   - **Argentina's Food Situation**: Argentina has faced economic challenges, including inflation and poverty, but it has not experienced food shortages to the same extent as Venezuela.
+   - **Venezuela's Food Crisis**: Venezuela has been in a severe economic crisis for years, leading to significant food shortages, malnutrition, and a humanitarian crisis.
+
+3. **Analysis**:
+   - The statement appears to be an exaggeration or a rhetorical device to highlight economic issues in Argentina by comparing them to the extreme situation in Venezuela.
+   - While Argentina has economic problems, the food situation is not as dire as in Venezuela.
+
+Based on this analysis, the claim that ""Today with food we are the same as Venezuela"" is an exaggeration and not factually accurate.
+
+Final Answer: False",false,True,False
+"""Today, in urban areas, we have practically a rate of access to drinking water of almost 98.8 %;In rural areas: 91 % roughly.Which gives us an average of 95 % ”",half true,fr,"To determine the accuracy of the claim, we need to verify the statistics provided for access to drinking water in both urban and rural areas, and then calculate the average to see if it matches the stated 95%.
+
+1. **Urban Areas**: The claim states that 98.8% of urban areas have access to drinking water.
+2. **Rural Areas**: The claim states that 91% of rural areas have access to drinking water.
+3. **Average Calculation**: The average is calculated as follows:
+   \[
+   \text{Average} = \frac{(98.8 + 91)}{2} = \frac{189.8}{2} = 94.9\%
+   \]
+
+The calculated average is 94.9%, which is very close to the stated 95%. Given the slight rounding difference, the claim is mostly accurate.
+
+Final Answer: Mostly True",mostly true,False,False
+We had peace mission in that country [Mozambique] in the 90's,true,pt,Final Answer: True,true,True,False
+"""Of the 55 countries of the African Union, Senegal is one of the 5 countries at risk of low over -indebtedness.And among the ECOWAS member countries, the only one at risk of low outset. ”",true,fr,"To determine the accuracy of the claim, we need to verify two main points:
+
+1. Senegal is one of the 5 countries at risk of low over-indebtedness among the 55 countries of the African Union.
+2. Senegal is the only ECOWAS member country at risk of low over-indebtedness.
+
+### Verification:
+
+1. **Senegal's Debt Risk Status in the African Union:**
+   - The African Union consists of 55 member countries.
+   - According to the International Monetary Fund (IMF) and World Bank classifications, countries are assessed for their risk of debt distress. The categories typically include low, moderate, high, and in debt distress.
+   - As of the latest available data, Senegal is often classified as having a moderate risk of debt distress, not low. This classification can change, but it is essential to refer to the most recent reports.
+
+2. **Senegal's Debt Risk Status in ECOWAS:**
+   - ECOWAS (Economic Community of West African States) has 15 member countries.
+   - Among ECOWAS countries, several are classified under different debt risk categories. Senegal is not uniquely classified as low risk; other countries may also fall into similar or different categories based on the latest assessments.
+
+### Conclusion:
+Based on the latest available data, Senegal is generally classified as having a moderate risk of debt distress, not low. Additionally, it is not the only ECOWAS country with a specific debt risk classification.
+
+Final Answer: False",false,False,False
+"“When I was president of the Central Bank I assumed with a 40%inflation.We lower it to 4% in a year """,half true,es,"To determine the accuracy of the claim, we need to verify the historical inflation rates and the tenure of the individual as president of the Central Bank. Without specific details about the country, the time period, and the individual in question, it is challenging to provide a definitive answer. However, if we assume the claim is about a well-documented case, such as Paul Volcker's tenure as Chairman of the Federal Reserve in the United States, we can analyze the data accordingly.
+
+Paul Volcker became Chairman of the Federal Reserve in August 1979. At that time, the U.S. inflation rate was indeed high, around 11-13%. By 1982, the inflation rate had dropped significantly to around 3-4%. This would make the claim somewhat accurate but not entirely precise in terms of the initial and final percentages.
+
+Given the lack of specific details and the need for precise historical data, the claim can be evaluated as follows:
+
+- The initial inflation rate mentioned (40%) is not accurate for the U.S. during Volcker's tenure.
+- The reduction to 4% is somewhat accurate but not within a single year.
+
+Therefore, the claim is exaggerated and lacks precise accuracy.
+
+Final Answer: Mostly False",mostly false,False,False
+"The writer of ""I promise to fail"" wrote on Facebook that the State Reco ......",true,pt,"To determine the accuracy of the claim, we need to verify two key pieces of information:
+
+1. The existence of a writer who authored a work titled ""I promise to fail.""
+2. Whether this writer made a specific statement on Facebook regarding the ""State Reco.""
+
+Without additional context or verification from reliable sources, it is challenging to confirm the accuracy of the claim. Given the lack of evidence and specific details, the claim cannot be substantiated.
+
+Final Answer: False",false,False,False
+It is alleged in a Facebook post that the virus that is causing to ......,false,pt,"To determine the accuracy of the claim, I would need to know the specific details of the allegation made in the Facebook post. Without additional context or information about the content of the post, it is impossible to accurately assess the truthfulness of the claim.
+
+Final Answer: Not enough information to determine.",,False,True
+"""Public debt at the end of the year will represent 87% of GDP""",true,es,"To determine the accuracy of the claim ""Public debt at the end of the year will represent 87% of GDP,"" we need to verify the most recent and reliable data on public debt and GDP projections for the specified year. This information is typically available from government financial reports, economic forecasts, or reputable financial institutions.
+
+Without access to the specific data for the year in question, I cannot definitively verify the claim. However, if we assume that the claim is based on accurate and up-to-date information from a reliable source, it could be considered accurate.
+
+Final Answer: True",true,True,False
+“The municipality of Fortaleza spends about 30% [budget] on public health.”,true,pt,"To determine the accuracy of the claim that ""The municipality of Fortaleza spends about 30% [budget] on public health,"" we need to look at the most recent and reliable budgetary data available for Fortaleza's municipal spending.
+
+1. **Research the Budget**: Check the official budget documents or financial reports from the municipality of Fortaleza. These documents typically provide a breakdown of expenditures by sector, including public health.
+
+2. **Compare the Figures**: Identify the total budget and the portion allocated to public health. Calculate the percentage of the total budget that is spent on public health.
+
+3. **Contextual Factors**: Consider any recent changes in budget allocations due to extraordinary circumstances, such as the COVID-19 pandemic, which might have temporarily increased health spending.
+
+Without access to the specific budget documents, I cannot provide a definitive answer. However, if we assume that the claim is based on recent and accurate data, we can make an educated guess.
+
+**Example Calculation**:
+- If the total budget of Fortaleza is 1 billion BRL and the public health budget is 300 million BRL, then the percentage spent on public health is (300 million / 1 billion) * 100 = 30%.
+
+Given that the claim states ""about 30%,"" a slight variation (e.g., 28% or 32%) could still be considered close enough to be ""Mostly True.""
+
+**Hypothetical Conclusion**:
+If the actual percentage is very close to 30%, the claim would be ""Mostly True."" If it is significantly different, the rating would change accordingly.
+
+**Final Answer**: Based on the assumption that the claim is derived from accurate and recent data, the most appropriate rating would be:
+
+Final Answer: Mostly True",,False,True
+The donations to help the baby who is thrilling the Portuguese to ......,half true,pt,"To determine the accuracy of the claim ""The donations to help the baby who is thrilling the Portuguese to ......"", we need to verify several aspects:
+
+1. **Existence of Donations**: Are there actual donations being made to help a baby?
+2. **Public Interest**: Is the baby indeed thrilling or capturing the interest of the Portuguese public?
+
+Without specific evidence or context to confirm these points, it is challenging to definitively assess the claim. However, based on the structure and typical nature of such statements, it seems plausible but not fully verifiable without additional information.
+
+Final Answer: Half True",half true,True,False
+“We will not have a budget reduction (...) at the Secretariat of Economic Development and Work”,false,pt,"To determine the accuracy of the claim ""We will not have a budget reduction (...) at the Secretariat of Economic Development and Work,"" we need to verify the actual budget figures for the Secretariat of Economic Development and Work. This involves comparing the current budget with previous budgets to see if there has been any reduction.
+
+If the budget has remained the same or increased, the claim would be 'True'. If there has been a slight reduction, it might be 'Mostly True' or 'Half True'. If the reduction is significant, it could be 'Mostly False' or 'False'.
+
+Without specific budget data, I cannot definitively verify the claim. However, based on the structure of the question, I can provide a general guideline:
+
+- If the budget has not decreased at all, the claim is 'True'.
+- If the budget has decreased slightly but not significantly, the claim is 'Mostly True'.
+- If the budget has decreased moderately, the claim is 'Half True'.
+- If the budget has decreased significantly but not entirely, the claim is 'Mostly False'.
+- If the budget has decreased substantially, the claim is 'False'.
+
+Final Answer: Without specific budget data, I cannot definitively verify the claim. However, based on the structure of the question, the final answer would depend on the actual budget figures.",,False,True
+"""Open ports and the entrances to Italy return to the stars""",false,it,"The claim '""Open ports and the entrances to Italy return to the stars""' is quite ambiguous and lacks clear context. It seems to be a poetic or metaphorical statement rather than a factual one. Without additional context or clarification, it is difficult to assess its truthfulness in a literal sense.
+
+Final Answer: False",false,True,False
+"""Senegal has the 4th best African police force""",half true,fr,"To determine the accuracy of the claim that ""Senegal has the 4th best African police force,"" we need to refer to credible sources that rank police forces in Africa. One such source is the World Internal Security and Police Index (WISPI), which evaluates the performance of police forces globally, including in Africa.
+
+The WISPI index considers various factors such as capacity, process, legitimacy, and outcomes to rank police forces. According to the most recent WISPI report available, Senegal's police force was ranked 4th in Africa.
+
+Given this information, the claim appears to be accurate based on the latest available data from a credible source.
+
+Final Answer: True",true,False,False
+"""98mld fine to slots was canceled by judiciary not by my government.""",true,it,"To determine the accuracy of the claim, we need to verify the following:
+
+1. Whether there was indeed a 98 million fine imposed on ""slots"" (presumably referring to slot machine operators or a related entity).
+2. Whether this fine was canceled.
+3. Whether the cancellation was done by the judiciary or by the government.
+
+Without specific details or context, it's challenging to verify the exact claim. However, if we assume the claim is referring to a specific case where a fine was indeed imposed and later canceled, and if it was confirmed that the judiciary (courts) rather than the government made the decision to cancel the fine, then the claim would be accurate.
+
+Given the structure of the claim and assuming the details provided are correct:
+
+- The fine was 98 million.
+- It was related to ""slots.""
+- The judiciary canceled the fine, not the government.
+
+Based on these assumptions, the claim would be:
+
+Final Answer: True",true,True,False
+"""The 2017 inflation was lower than that of 2016""",true,es,"To determine the accuracy of the claim that ""The 2017 inflation was lower than that of 2016,"" we need to look at the actual inflation rates for both years. According to data from the U.S. Bureau of Labor Statistics, the Consumer Price Index (CPI) for All Urban Consumers (CPI-U) increased by 2.1% in 2017 and by 1.3% in 2016.
+
+Given this data, the claim that ""The 2017 inflation was lower than that of 2016"" is incorrect. In fact, the inflation rate in 2017 was higher than in 2016.
+
+Final Answer: False",false,False,False
+"""Junín has crime rates comparable to those of Rosario""",false,es,"To determine the accuracy of the claim that ""Junín has crime rates comparable to those of Rosario,"" we need to compare the crime statistics of both cities. 
+
+Rosario is a major city in Argentina known for having significant crime issues, particularly related to drug trafficking and gang violence. It has one of the highest crime rates in the country.
+
+Junín, on the other hand, is a smaller city in the Buenos Aires Province. While it does experience crime, it is generally not considered to be on the same level as Rosario in terms of severity or frequency.
+
+Without specific and up-to-date crime statistics for both cities, it is difficult to make a precise comparison. However, based on general knowledge and reputation, it is unlikely that Junín's crime rates are comparable to those of Rosario.
+
+Final Answer: Mostly False",mostly false,False,False
+"""[The economy] has been stagnant for 8 years""",true,es,"To determine the accuracy of the claim that ""[The economy] has been stagnant for 8 years,"" we need to consider various economic indicators such as GDP growth, employment rates, inflation, and other relevant metrics over the specified period.
+
+1. **GDP Growth**: If the GDP has shown consistent growth over the past 8 years, the claim would be less accurate. Conversely, if GDP growth has been minimal or negative, the claim would be more accurate.
+
+2. **Employment Rates**: Rising employment rates would indicate economic activity, while stagnant or declining employment rates would support the claim.
+
+3. **Inflation**: Moderate inflation is a sign of a growing economy, while deflation or hyperinflation can indicate economic problems.
+
+4. **Other Indicators**: Factors like consumer spending, business investments, and industrial production also provide insights into economic health.
+
+Without specific data, it's challenging to make a definitive judgment. However, if we assume a general context where economies typically experience some growth and fluctuations, the claim that the economy has been ""stagnant"" for 8 years is likely an exaggeration.
+
+Final Answer: Mostly False",mostly false,False,False
+"In 2014 the European Parliament cost 1,737 billion: in just 5 years it has grown by over 300 million.[...] The largest waste is certainly the double seat of Strasbourg.This absurdity costs taxpayers almost 200 million a year, which is equivalent to practically 10 percent of the entire Budget of Parliament",mostly true,it,"To evaluate the claim, we need to verify several key points:
+
+1. **Cost of the European Parliament in 2014**: The claim states that the European Parliament cost €1.737 billion in 2014.
+2. **Increase in cost over 5 years**: The claim mentions an increase of over €300 million in 5 years.
+3. **Cost of the double seat of Strasbourg**: The claim asserts that the double seat costs taxpayers almost €200 million a year.
+4. **Percentage of the budget**: The claim states that this cost is equivalent to practically 10 percent of the entire budget of the Parliament.
+
+### Verification:
+
+1. **Cost in 2014**: According to the European Parliament's budget documents, the budget for 2014 was indeed around €1.737 billion.
+2. **Increase over 5 years**: By 2019, the budget had increased to approximately €2.035 billion, which is an increase of around €298 million, close to the claimed €300 million.
+3. **Cost of the double seat**: Various sources, including reports from the European Court of Auditors and other studies, estimate the cost of maintaining the two seats (Brussels and Strasbourg) to be around €114 million to €200 million annually. The €200 million figure is often cited in political discussions.
+4. **Percentage of the budget**: If the cost is €200 million and the total budget is around €2 billion, then €200 million is indeed about 10% of the total budget.
+
+### Conclusion:
+The claim is largely accurate based on the available data, though the exact cost of the double seat can vary slightly depending on the source. The overall figures and percentages align closely with the claim.
+
+Final Answer: Mostly True",mostly true,True,False
+Circles on social networks a publication denouncing that Portugal is ......,false,pt,"To determine the accuracy of the claim that ""Circles on social networks a publication denouncing that Portugal is ......"", we need to evaluate the context and evidence supporting the statement. However, the provided information is incomplete and lacks specific details about what Portugal is being denounced for. Without additional context or evidence, it is impossible to accurately assess the truthfulness of the claim.
+
+Final Answer: False",false,True,False
+"The gross domestic product (GDP) of Lagos is higher than those accumulated by Cameroon, Côte d'Ivoire and Senegal.",mostly true,fr,"To determine the accuracy of the claim that the gross domestic product (GDP) of Lagos is higher than those accumulated by Cameroon, Côte d'Ivoire, and Senegal, we need to compare the GDP of Lagos with the GDPs of these three countries.
+
+1. **Lagos GDP**: Lagos is a state in Nigeria and is often considered the economic hub of the country. Estimates of Lagos' GDP vary, but it is often cited to be around $100 billion or more.
+
+2. **Cameroon GDP**: According to the World Bank, the GDP of Cameroon was approximately $39 billion in recent years.
+
+3. **Côte d'Ivoire GDP**: The GDP of Côte d'Ivoire was around $70 billion according to recent World Bank data.
+
+4. **Senegal GDP**: The GDP of Senegal was approximately $24 billion according to recent World Bank data.
+
+When we sum the GDPs of Cameroon, Côte d'Ivoire, and Senegal, we get:
+$39 billion (Cameroon) + $70 billion (Côte d'Ivoire) + $24 billion (Senegal) = $133 billion.
+
+Comparing this to the estimated GDP of Lagos (around $100 billion), the claim that Lagos' GDP is higher than the combined GDPs of Cameroon, Côte d'Ivoire, and Senegal is not accurate.
+
+Final Answer: False",false,False,False
+After the homophobic statements of the Brazilian minister who protects ......,false,pt,"To determine the accuracy of the claim, we need to verify the context and the specific statements made by the Brazilian minister in question. Without additional information or context about the statements and the minister, it is not possible to definitively categorize the claim.
+
+Final Answer: Half True",half true,False,False
+Cristiano Ronaldo has transformed his hotels into free hospitals for the fight against the new Coronavirus,false,it,"The claim that ""Cristiano Ronaldo has transformed his hotels into free hospitals for the fight against the new Coronavirus"" is 'False'. This rumor circulated widely on social media, but it was debunked by various fact-checking organizations and Ronaldo's representatives. There is no evidence to support that Ronaldo converted his hotels into hospitals.
+
+Final Answer: False",false,True,False
+"""We had no more cuts of light""",false,es,"To determine the accuracy of the claim ""We had no more cuts of light,"" we need to understand the context and the specific meaning of ""cuts of light."" This phrase could be interpreted in various ways, such as referring to interruptions in light (e.g., power outages) or specific beams or sources of light.
+
+Without additional context, it's challenging to definitively assess the truthfulness of the claim. However, if we assume ""cuts of light"" refers to interruptions in light (like power outages), and if there were indeed no more interruptions, the claim would be true. Conversely, if there were still interruptions, the claim would be false.
+
+Given the lack of context, we cannot accurately verify the claim.
+
+Final Answer: False",false,True,False
+"""The PRO in several elections has exceeded the female quota""",mostly true,es,"To determine the accuracy of the claim that ""The PRO in several elections has exceeded the female quota,"" we need to examine the historical data and records of the PRO (Propuesta Republicana) party's adherence to gender quotas in elections.
+
+Gender quotas are often set to ensure a minimum percentage of female candidates in elections. In Argentina, for example, the gender quota law requires that at least 30% of the candidates on electoral lists be women.
+
+If the PRO party has consistently fielded more than the required percentage of female candidates in multiple elections, the claim would be 'True'. If they have done so in most but not all elections, it would be 'Mostly True'. If they have done so in about half of the elections, it would be 'Half True'. If they have rarely or never exceeded the quota, it would be 'Mostly False' or 'False'.
+
+Without specific data, it is challenging to make a definitive judgment. However, based on general knowledge and trends in political parties' adherence to gender quotas, we can make an educated guess.
+
+Final Answer: Half True",half true,False,False
+"""It was necessary to triple industrial parks""",half true,es,"To determine the accuracy of the claim ""It was necessary to triple industrial parks,"" we need to consider the context and evidence supporting or refuting the necessity of tripling industrial parks. This involves evaluating economic, social, and industrial factors that might justify such a statement.
+
+1. **Economic Growth**: If the region or country in question experienced significant economic growth, leading to increased demand for industrial space, then tripling industrial parks might be necessary.
+2. **Industrial Demand**: A surge in manufacturing, technology, or other industrial sectors could necessitate more industrial parks to accommodate new businesses and factories.
+3. **Government Policy**: Government initiatives aimed at boosting industrial output or attracting foreign investment might require expanding industrial infrastructure.
+4. **Employment Needs**: High unemployment rates could drive the need for more industrial parks to create jobs.
+
+Without specific data or context, it's challenging to definitively assess the necessity of tripling industrial parks. However, if we assume the claim is based on a general trend of economic and industrial expansion, it might hold some validity.
+
+Final Answer: Half True",half true,True,False
+"""98% of the population of La Matanza is connected to the drinking water network""",false,es,"To determine the accuracy of the claim that ""98% of the population of La Matanza is connected to the drinking water network,"" we would need to verify the most recent and reliable data from official sources such as government reports, water utility companies, or reputable research studies.
+
+Without access to specific data, I cannot definitively verify the claim. However, if we assume that the claim is based on recent and accurate data, it could be considered 'True' or 'Mostly True'. If there is some evidence suggesting that the percentage is slightly lower or higher, it might be 'Half True' or 'Mostly False'.
+
+Given the lack of specific data to confirm or refute the claim, I cannot provide a definitive answer. However, if we assume the claim is based on reliable data, the most cautious and reasonable response would be:
+
+Final Answer: Mostly True",mostly true,False,False
+"""[In the decrees"" relaunch ""and"" Cura Italia ""] what does Covid have to do with the extension of the airport concession of Fiumicino to the Benetton, which is worth a gift from over one billion?""(min. 6:11)",half true,it,"To determine the accuracy of the claim, we need to examine the context and details surrounding the extension of the airport concession of Fiumicino to the Benetton family and its connection to the Covid-19 decrees ""Relaunch"" and ""Cura Italia.""
+
+1. **Context of the Decrees**: The ""Relaunch"" and ""Cura Italia"" decrees were Italian government measures aimed at addressing the economic impact of the Covid-19 pandemic. These decrees included various provisions to support businesses and the economy.
+
+2. **Airport Concession Extension**: The claim suggests that within these decrees, there was a provision that extended the airport concession of Fiumicino to the Benetton family, which is described as being worth over one billion euros.
+
+3. **Verification**: To verify this, we would need to look at the specific contents of the ""Relaunch"" and ""Cura Italia"" decrees to see if they included any clauses related to the extension of the airport concession. Additionally, we would need to confirm the value of the concession and whether it indeed benefits the Benetton family.
+
+Based on available information, there is evidence that the Italian government included measures in the Covid-19 decrees that affected various sectors, including transportation and infrastructure. However, the specific claim that the extension of the airport concession was included in these decrees and that it directly benefits the Benetton family to the tune of over one billion euros requires detailed examination of the legislative texts and financial assessments.
+
+Without concrete evidence from the decrees themselves and financial documentation, it is challenging to fully verify the claim. However, given the context and the nature of the decrees, it is plausible that such measures could have been included as part of broader economic support efforts.
+
+Final Answer: Half True",half true,True,False
+"In the 2017 budget, according to the bill presented, the tax increase is not foreseen",half true,pt,"To determine the accuracy of the claim ""In the 2017 budget, according to the bill presented, the tax increase is not foreseen,"" we need to verify the details of the 2017 budget bill. This involves checking the official budget documents or credible sources that summarize the budget's provisions.
+
+If the 2017 budget bill explicitly states that there are no tax increases, then the claim would be 'True'. If the bill includes some tax increases but not across the board, the claim might be 'Mostly True' or 'Half True'. If the bill includes significant tax increases, the claim would be 'False' or 'Mostly False'.
+
+Without access to the specific details of the 2017 budget bill, I cannot definitively verify the claim. However, based on the information provided, I will make an educated guess.
+
+Final Answer: Half True",half true,True,False
+M5S/Lega wanted to reduce the tax burden: did they do it?,true,it,"To determine the accuracy of the claim that the M5S (Five Star Movement) and Lega (League) wanted to reduce the tax burden and whether they succeeded, we need to look at their policies and the outcomes during their time in government.
+
+1. **Intent to Reduce Tax Burden**: Both M5S and Lega campaigned on platforms that included reducing the tax burden. The Lega, in particular, advocated for a flat tax, while M5S supported measures to alleviate financial pressure on citizens.
+
+2. **Implemented Policies**:
+   - **Flat Tax Proposal**: The Lega pushed for a flat tax, but it was not fully implemented. Instead, a two-tiered flat tax system was introduced for self-employed individuals and small businesses.
+   - **Citizens' Income**: M5S introduced the ""Reddito di Cittadinanza"" (Citizens' Income), which is a form of basic income aimed at reducing poverty and providing financial support to low-income individuals.
+   - **Other Tax Measures**: There were some tax cuts and incentives introduced, but they were limited and did not constitute a broad reduction in the overall tax burden.
+
+3. **Outcome**: While there were efforts and some measures taken to reduce the tax burden, the overall impact was limited. The comprehensive flat tax system proposed by the Lega was not fully realized, and the measures that were implemented did not significantly reduce the overall tax burden for the majority of citizens.
+
+Considering the above points, the claim that M5S and Lega wanted to reduce the tax burden is true in terms of their intent. However, the extent to which they succeeded in significantly reducing the tax burden is limited.
+
+Final Answer: Half True",half true,False,False
+On the chemical castration Matteo Salvini is right,true,it,"To determine the accuracy of the claim ""On the chemical castration Matteo Salvini is right,"" we need to consider the context and the specific statements made by Matteo Salvini regarding chemical castration. Matteo Salvini, an Italian politician, has advocated for the use of chemical castration as a measure against sex offenders. 
+
+Chemical castration involves the administration of medication to reduce libido and sexual activity. It is a controversial topic with arguments both for and against its use. Proponents argue that it can be an effective tool for preventing recidivism among sex offenders, while opponents raise ethical concerns and question its long-term effectiveness and potential side effects.
+
+Given that the claim is subjective and depends on one's perspective on the ethical and practical aspects of chemical castration, it is difficult to label it as entirely true or false. The claim could be seen as ""Half True"" because it acknowledges that there is some validity to Salvini's position, but it does not fully account for the complexity and controversy surrounding the issue.
+
+Final Answer: Half True",half true,False,False
+Is it true that since the government of Cavaco Silva there was not so ......,true,pt,"To accurately determine the truthfulness of the claim, I would need more specific information about the context and content of the statement. The phrase ""since the government of Cavaco Silva there was not so..."" is incomplete and lacks the necessary details to make a definitive judgment.
+
+Aníbal Cavaco Silva served as the Prime Minister of Portugal from 1985 to 1995 and later as the President of Portugal from 2006 to 2016. The claim could pertain to various aspects such as economic performance, political stability, social policies, or other metrics.
+
+Without additional context or specifics, it is not possible to accurately assess the claim.
+
+Final Answer: False",false,False,False
+Senegal is the 5th African country in the fight against malaria.,true,fr,"To determine the accuracy of the claim that ""Senegal is the 5th African country in the fight against malaria,"" we need to consider several factors, including the specific metrics or criteria being used to rank countries in their fight against malaria. These criteria could include the prevalence of malaria, the effectiveness of control measures, funding, and international recognition of efforts.
+
+As of the latest data, Senegal has been recognized for its significant efforts in combating malaria. The country has implemented various successful strategies, such as widespread distribution of insecticide-treated bed nets, indoor residual spraying, and effective case management. These efforts have led to a notable reduction in malaria cases and deaths.
+
+However, the claim that Senegal is specifically the ""5th"" African country in this fight is not a widely recognized or standardized ranking. Rankings can vary based on different reports, studies, or criteria, and there is no universally accepted list that places Senegal exactly at the 5th position.
+
+Given the lack of specific evidence to support the exact ranking of 5th, but acknowledging Senegal's recognized efforts in malaria control, the claim is not entirely accurate but has some basis in truth.
+
+Final Answer: Mostly False",mostly false,False,False
+And they [international transparency] produced more than 70 proposals to combat corruption,true,pt,"To determine the accuracy of the claim that ""they [international transparency] produced more than 70 proposals to combat corruption,"" we need to verify the activities and outputs of organizations known for promoting international transparency, such as Transparency International.
+
+Transparency International is a well-known organization that works to combat global corruption. They regularly produce reports, guidelines, and proposals aimed at reducing corruption. It is plausible that over the years, they have produced numerous proposals and recommendations.
+
+However, without specific evidence or a direct source confirming the exact number of proposals (i.e., more than 70), it is challenging to definitively verify the claim. Given the general nature of the claim and the known activities of Transparency International, it is reasonable to believe they have produced a significant number of proposals, but the exact figure of ""more than 70"" cannot be confirmed without further evidence.
+
+Final Answer: Half True",half true,False,False
+Renzi and Africa growing,mostly true,it,"To determine the accuracy of the claim ""Renzi and Africa growing,"" we need to break it down into two parts: 
+
+1. ""Renzi"" - This likely refers to Matteo Renzi, the former Prime Minister of Italy.
+2. ""Africa growing"" - This could refer to economic growth, population growth, or other forms of development in Africa.
+
+First, let's consider Matteo Renzi. As of my knowledge cutoff in October 2023, Matteo Renzi is no longer the Prime Minister of Italy, having served from 2014 to 2016. He has remained active in politics, but there is no direct or widely recognized connection between him and the growth of Africa.
+
+Second, regarding Africa's growth, it is well-documented that many African countries have experienced significant economic growth, population growth, and development over the past few decades. However, this growth is uneven and varies widely between different countries and regions within Africa.
+
+Given that there is no clear or direct connection between Matteo Renzi and the growth of Africa, the claim ""Renzi and Africa growing"" is misleading.
+
+Final Answer: False",false,False,False
+Who created CPMF was Fernando Henrique Cardoso,true,pt,"The CPMF (Contribuição Provisória sobre Movimentação Financeira) was a temporary tax on financial transactions in Brazil. It was first introduced in 1993 under the government of President Itamar Franco, but it was reintroduced and became more prominent during the presidency of Fernando Henrique Cardoso in 1996.
+
+Given that Fernando Henrique Cardoso played a significant role in the reintroduction and implementation of the CPMF, but it was not originally created by him, the claim is not entirely accurate.
+
+Final Answer: Mostly False",mostly false,False,False
+"A foreigner cannot invest in banks, real estate and large distribution in Ethiopia.",mostly true,fr,"To determine the accuracy of the claim that ""A foreigner cannot invest in banks, real estate and large distribution in Ethiopia,"" we need to look at the current investment regulations in Ethiopia.
+
+1. **Banks**: According to the National Bank of Ethiopia, foreign nationals are generally prohibited from investing in the banking sector. This restriction is aimed at protecting the local banking industry.
+
+2. **Real Estate**: Foreigners are allowed to lease land for up to 99 years but cannot own land outright. However, they can invest in real estate development projects, such as building residential or commercial properties.
+
+3. **Large Distribution**: The Ethiopian Investment Proclamation and its amendments have certain restrictions on foreign investment in wholesale and retail trade (large distribution). However, there are exceptions and specific conditions under which foreign investment in this sector is allowed.
+
+Given these points, the claim is not entirely accurate as it stands. Foreigners are restricted in banking and have limitations in real estate and large distribution, but they are not completely barred from investing in these sectors.
+
+Final Answer: Mostly False",mostly false,False,False
+Haddad thief steals the photo of the carnival of Salvador and calls the photo of the turn!,false,pt,"To determine the accuracy of the claim ""Haddad thief steals the photo of the carnival of Salvador and calls the photo of the turn!"", we need to verify several aspects:
+
+1. **Identity of Haddad**: Verify if there is a person named Haddad involved in any incident related to the carnival of Salvador.
+2. **Incident of Theft**: Check if there was any reported theft of a photo related to the carnival of Salvador.
+3. **Claim of the Photo**: Determine if the stolen photo was indeed referred to as ""the photo of the turn"" by the alleged thief.
+
+Without specific evidence or credible sources to confirm these points, it is difficult to validate the claim. Based on the information provided and the lack of verifiable details, the claim appears to be unsubstantiated.
+
+Final Answer: False",false,True,False
+"Schooling of the Roma, where are we?",true,it,"To determine the accuracy of the claim ""Schooling of the Roma, where are we?"", we need to consider the context and the information available about the education of the Roma community.
+
+The Roma, also known as Romani people, have historically faced significant challenges in accessing education. These challenges include discrimination, poverty, and social exclusion, which have led to lower educational attainment compared to the general population in many countries. Various reports and studies have highlighted these issues, showing that Roma children often have lower enrollment rates, higher dropout rates, and poorer educational outcomes.
+
+However, there have been efforts and initiatives aimed at improving the educational situation of the Roma. These include policies and programs by governments, NGOs, and international organizations to promote inclusive education, provide scholarships, and support Roma families in overcoming barriers to education.
+
+Given this context, the claim ""Schooling of the Roma, where are we?"" is a broad question that acknowledges the ongoing challenges and efforts in the education of the Roma community. It does not make a specific factual statement that can be easily classified as true or false. Instead, it invites an exploration of the current state of Roma education.
+
+Final Answer: Half True",half true,False,False
+The poverty rate increased from 47 to 56 % from 2011 to 2015.,mostly true,fr,"To determine the accuracy of the claim ""The poverty rate increased from 47 to 56% from 2011 to 2015,"" we need to verify the data from reliable sources such as government reports, international organizations, or reputable research institutions that track poverty rates over time.
+
+Without access to specific data sources, I cannot definitively verify the claim. However, if we assume the data provided is accurate, the statement would be considered 'True' as it directly reports the change in the poverty rate over the specified period.
+
+Final Answer: True",true,False,False
+"The public sector finances less than 50 % of health spending in West Africa, a West African expert recently said.",true,fr,"To determine the accuracy of the claim that ""The public sector finances less than 50% of health spending in West Africa,"" we need to look at data and reports from reliable sources such as the World Health Organization (WHO), World Bank, and other relevant health and economic research institutions.
+
+According to the World Health Organization's Global Health Expenditure Database, many countries in West Africa do have a significant portion of their health spending financed by private sources, including out-of-pocket expenses by individuals. However, the exact percentage can vary significantly from one country to another within the region.
+
+For instance, in some West African countries, public sector financing might indeed be less than 50% of total health expenditure, while in others, it could be higher. The overall trend in the region does suggest a heavy reliance on private spending, but it is not uniform across all countries.
+
+Given this variability, the claim that ""The public sector finances less than 50% of health spending in West Africa"" is generally supported by data, but it is not universally true for every country in the region.
+
+Final Answer: Mostly True",mostly true,False,False
+"China finances infrastructure projects in Africa more than the BAD, the EU, the SFI, the World Bank and the G8 combined.",true,fr,"To determine the accuracy of the claim that ""China finances infrastructure projects in Africa more than the BAD, the EU, the SFI, the World Bank and the G8 combined,"" we need to examine the available data on infrastructure financing in Africa from these entities.
+
+1. **China's Role in African Infrastructure Financing:**
+   - China has been a significant financier of infrastructure projects in Africa, particularly through initiatives like the Belt and Road Initiative (BRI). Chinese investments have been substantial in sectors such as transportation, energy, and telecommunications.
+
+2. **BAD (African Development Bank - AfDB):**
+   - The AfDB is a major financier of infrastructure projects in Africa, but its total financing is generally smaller compared to China's contributions.
+
+3. **EU (European Union):**
+   - The EU also invests in African infrastructure, but its contributions are often spread across various sectors and are typically less than China's focused infrastructure investments.
+
+4. **SFI (Standard Financial Institutions):**
+   - This term is somewhat ambiguous, but if it refers to traditional financial institutions like commercial banks, their direct infrastructure financing in Africa is generally less prominent compared to China's state-backed investments.
+
+5. **World Bank:**
+   - The World Bank is a significant player in African infrastructure financing, but its contributions are often part of broader development programs and may not match the scale of China's direct investments.
+
+6. **G8:**
+   - The G8 (now G7) countries provide development aid and financing, but their collective infrastructure investments in Africa are typically less than China's.
+
+Based on various reports and analyses, it is widely recognized that China's infrastructure financing in Africa is substantial and often surpasses the combined efforts of other major financiers. However, exact figures can vary year by year, and the claim might be an oversimplification.
+
+**Final Answer: Mostly True**",mostly true,False,False
+"""Private investment just three months after leaving the default sum in ads more than US $ 35 billion""",half true,es,"To determine the accuracy of the claim, we need to verify the following:
+
+1. The context of ""leaving the default"" – this could refer to a country or entity exiting a financial default situation.
+2. The timeframe – ""three months after.""
+3. The amount of private investment – ""more than US $ 35 billion.""
+
+Without specific details or sources to verify these points, it is challenging to confirm the claim's accuracy. However, given the lack of context and verification, the claim appears to be unsubstantiated.
+
+Final Answer: False",false,False,False
+"«There are thousands of the Emilians and the Romagna who go elsewhere to be cured [...].Are more those who come out [than those who arrive] """,false,it,"To determine the accuracy of the claim, we need to evaluate the context and data regarding the movement of people from the Emilian and Romagna regions for medical treatment. The claim suggests that more people leave these regions to seek medical care elsewhere than those who come into these regions for the same purpose.
+
+Without specific data or context, it's challenging to definitively verify the claim. However, if we consider general trends and available information, we can make an educated assessment.
+
+If the regions of Emilia and Romagna have a reputation for high-quality healthcare facilities, it would be less likely for a significant number of residents to seek treatment elsewhere. Conversely, if these regions lack certain specialized medical services, it might be more common for residents to travel outside for treatment.
+
+Given the lack of specific data in the claim, we can only make a general assessment based on typical healthcare trends and regional reputations.
+
+Final Answer: Half True",half true,False,False
+How many countries are there in Africa?,mostly true,fr,"The number of countries in Africa is 54. This is a widely accepted fact by most international organizations, including the United Nations.
+
+Final Answer: True",true,False,False
+"According to a publication that is circulating on Facebook, Franç ......",half true,pt,"To determine the accuracy of the claim, I would need to know the specific details of the publication and the claim being made about Franç. Without this information, I cannot accurately assess the truthfulness of the statement.
+
+Final Answer: Unable to determine.",,False,True
+"""Social spending grew by 43.5%, that means that the investment towards those who have the least is what grew most in the budget""",false,es,"To determine the accuracy of the claim, we need to evaluate two main components:
+
+1. **Social Spending Growth**: The claim states that social spending grew by 43.5%. This can be verified by examining budget reports or official financial statements from the relevant government or organization. If the data confirms that social spending indeed increased by 43.5%, this part of the claim is accurate.
+
+2. **Investment Towards Those Who Have the Least**: The claim implies that the 43.5% growth in social spending specifically benefits the least advantaged individuals. This requires an analysis of how the social spending is allocated. If the majority of the increased funds are directed towards programs and services that support low-income or disadvantaged groups, this part of the claim is also accurate.
+
+Without specific data to verify these points, we can only assess the logical consistency of the claim. If we assume the data provided is accurate, the claim appears to be logically consistent. However, the exact allocation of the increased social spending would need to be confirmed to ensure it primarily benefits those with the least.
+
+Given the information provided and assuming the data is accurate:
+
+Final Answer: Mostly True",mostly true,False,False
+"""We are a record province regarding infant mortality reduction""",true,es,"To determine the accuracy of the claim ""We are a record province regarding infant mortality reduction,"" we need to evaluate the available data and context. This involves checking the following:
+
+1. **Data on Infant Mortality Rates**: Look at the most recent statistics on infant mortality rates in the province in question. Compare these rates to historical data to see if there has been a significant reduction.
+
+2. **Comparison with Other Provinces**: Assess how the province's reduction in infant mortality rates compares to other provinces. Being a ""record province"" implies that the reduction is either the highest or among the highest in the country.
+
+3. **Time Frame**: Consider the time frame over which the reduction has occurred. A significant reduction over a short period might be more noteworthy than a gradual decline over many years.
+
+4. **Source of the Claim**: Evaluate the credibility of the source making the claim. Official health departments or reputable organizations are more reliable than anecdotal or less authoritative sources.
+
+Without specific data and context, it's challenging to definitively categorize the claim. However, if we assume that the claim is made by a credible source and there is supporting data showing a significant reduction in infant mortality rates compared to other provinces, we might lean towards a positive assessment.
+
+Given the need for specific data to make a precise determination, the most cautious and reasonable assessment based on the information provided would be:
+
+Final Answer: Half True",half true,False,False
+While several private health groups announce the intention to break ......,false,pt,"To determine the accuracy of the claim ""While several private health groups announce the intention to break ......"", we need to evaluate the context and the specific details of the announcement. However, the provided statement is incomplete and lacks sufficient information to make a definitive judgment.
+
+Given the incomplete nature of the statement, it is not possible to accurately assess its truthfulness.
+
+Final Answer: False",false,True,False
+Most [parties] that are on Alckmin's stage were on Dilma's stage,half true,pt,"To determine the accuracy of the claim ""Most [parties] that are on Alckmin's stage were on Dilma's stage,"" we need to analyze the political alliances and party affiliations during the respective periods of Geraldo Alckmin and Dilma Rousseff.
+
+1. **Geraldo Alckmin**: He is a Brazilian politician who has run for president multiple times and has been affiliated with the Brazilian Social Democracy Party (PSDB). His political campaigns have typically been supported by center-right and right-wing parties.
+
+2. **Dilma Rousseff**: She is a Brazilian politician who served as the President of Brazil from 2011 to 2016. She is a member of the Workers' Party (PT), which is a left-wing party. Her political campaigns were supported by a coalition of left-wing and center-left parties.
+
+To verify the claim, we need to compare the political parties that supported Alckmin during his presidential campaigns with those that supported Dilma during her presidential campaigns.
+
+- **Alckmin's Support Base**: Typically includes parties like PSDB, DEM (Democrats), and other center-right to right-wing parties.
+- **Dilma's Support Base**: Typically includes PT, PMDB (Brazilian Democratic Movement Party), PCdoB (Communist Party of Brazil), and other left-wing to center-left parties.
+
+Given the ideological differences and historical political alliances, it is unlikely that ""most"" of the parties supporting Alckmin would have also supported Dilma. There might be some overlap with centrist parties like PMDB, but this would not constitute ""most"" of the parties.
+
+Final Answer: Mostly False",mostly false,False,False
+"In Hungary the taxes on businesses are 9 percent and on natural persons to 15 percent, and Hungary grows by 5 percent",true,it,"To determine the accuracy of the claim, we need to verify the following points:
+
+1. The corporate tax rate in Hungary.
+2. The personal income tax rate in Hungary.
+3. The economic growth rate of Hungary.
+
+1. **Corporate Tax Rate**: As of recent data, Hungary has one of the lowest corporate tax rates in the European Union, which is indeed 9%.
+
+2. **Personal Income Tax Rate**: Hungary has a flat personal income tax rate of 15%.
+
+3. **Economic Growth Rate**: Hungary's economic growth rate can vary year by year. According to recent data, Hungary's GDP growth rate has fluctuated, and while it has seen growth rates around 5% in some years, this is not a constant figure and can be influenced by various economic factors.
+
+Given this information:
+
+- The corporate tax rate of 9% is accurate.
+- The personal income tax rate of 15% is accurate.
+- The economic growth rate of 5% is a specific figure that may not be consistently accurate for every year but has been true for some recent years.
+
+Considering the above points, the claim is mostly accurate but the economic growth rate can vary.
+
+Final Answer: Mostly True",mostly true,False,False
+The Sunday Standard newspaper reports that Kenyan women are careful with their children with measles with marijuana smoke.,mostly true,fr,"To determine the accuracy of the claim that ""Kenyan women are careful with their children with measles with marijuana smoke,"" we need to consider several factors:
+
+1. **Cultural Practices**: There is no widely documented cultural practice among Kenyan women that involves using marijuana smoke to treat children with measles. Traditional remedies for measles in various cultures may include herbal treatments, but marijuana smoke is not commonly recognized or recommended.
+
+2. **Medical Advice**: The use of marijuana smoke for treating measles is not supported by medical evidence. Measles is a viral infection that requires supportive care, such as hydration, fever management, and sometimes vitamin A supplementation. The World Health Organization (WHO) and other health authorities do not endorse marijuana smoke as a treatment for measles.
+
+3. **Source Verification**: The claim is attributed to ""The Sunday Standard newspaper,"" but without specific details or a direct quote from a credible source, it is difficult to verify the authenticity and context of the report.
+
+Given the lack of evidence supporting the use of marijuana smoke for treating measles and the absence of documented cultural practices in Kenya that align with this claim, it is reasonable to conclude that the claim is not accurate.
+
+Final Answer: False",false,False,False
+Nigerians are the most educated immigrants in the United States.,false,fr,"To determine the accuracy of the claim that ""Nigerians are the most educated immigrants in the United States,"" we need to examine available data and research on the educational attainment of various immigrant groups in the U.S.
+
+Several studies and reports have highlighted the high educational attainment of Nigerian immigrants in the United States. For example, a 2018 report from the Migration Policy Institute noted that Nigerian immigrants have a high level of educational attainment compared to other immigrant groups. According to the U.S. Census Bureau's American Community Survey, a significant percentage of Nigerian immigrants hold bachelor's degrees or higher.
+
+However, it is important to note that while Nigerian immigrants are among the most educated, there are other immigrant groups with similarly high levels of educational attainment. For instance, immigrants from India and other Asian countries also have high rates of higher education.
+
+Given this context, the claim that Nigerians are the ""most educated"" immigrants might be somewhat overstated, but it is largely supported by data indicating that they are among the most educated.
+
+Final Answer: Mostly True",mostly true,False,False
+"""He is not losing against inflation""",false,es,"To determine the accuracy of the claim ""He is not losing against inflation,"" we need to consider several factors:
+
+1. **Income Growth vs. Inflation Rate**: If his income or investments are growing at a rate equal to or higher than the inflation rate, then he is not losing against inflation.
+2. **Purchasing Power**: If his purchasing power remains the same or increases over time, he is not losing against inflation.
+3. **Context and Evidence**: Specific data or context about his financial situation would be necessary to make a precise determination.
+
+Without specific data or context, it's challenging to definitively assess the claim. However, if we assume that his income or investments are at least keeping pace with inflation, the claim could be considered accurate.
+
+Final Answer: Half True",half true,False,False
+"At this time of year, the dry and wind climate favor spontaneous and criminal burning",mostly true,pt,"To determine the accuracy of the claim ""At this time of year, the dry and wind climate favor spontaneous and criminal burning,"" we need to consider the following points:
+
+1. **Dry and Windy Climate**: Dry conditions and wind are known to increase the risk of fires. Dry vegetation can easily catch fire, and wind can spread flames quickly.
+
+2. **Spontaneous Burning**: While dry and windy conditions can create an environment where fires can start and spread more easily, spontaneous combustion of natural materials is relatively rare. Most wildfires are caused by human activities or natural events like lightning.
+
+3. **Criminal Burning**: Arson or intentional setting of fires can indeed be more effective and spread more rapidly in dry and windy conditions.
+
+Given these points, the claim has elements of truth but also some exaggeration regarding spontaneous burning. Therefore, the claim is not entirely accurate but has a basis in fact.
+
+Final Answer: Half True",half true,False,False
+Giorgia Meloni is right on the comparison between Italy and Austria,true,it,"To determine the accuracy of the claim ""Giorgia Meloni is right on the comparison between Italy and Austria,"" we need to consider the context and specifics of the comparison being made. Giorgia Meloni, as a political figure, might be comparing Italy and Austria on various grounds such as economic performance, immigration policies, cultural aspects, or political systems. Without specific details on what aspect she is comparing, it is challenging to definitively assess the claim.
+
+However, if we assume that the comparison is based on a specific, verifiable metric (e.g., GDP growth, unemployment rates, or immigration statistics), we would need to look at the data for both countries to see if her comparison holds true. 
+
+Given the lack of specific context and details in the claim, it is not possible to accurately verify or refute it. Therefore, the most appropriate response would be to acknowledge the ambiguity.
+
+Final Answer: Half True",half true,False,False
+The Federal Supreme Court has acquitted me of something that you come and brings back here [the use of public money to hire a cabinet employee to provide private service],true,pt,"To determine the accuracy of the claim, we need to verify whether the Federal Supreme Court has indeed acquitted the individual of the specific charge related to the use of public money to hire a cabinet employee for private service.
+
+1. **Acquittal by the Federal Supreme Court**: This means that the highest court in the jurisdiction has found the individual not guilty of the charges.
+2. **Specific Charge**: The charge in question is the use of public money to hire a cabinet employee to provide private service.
+
+If the Federal Supreme Court has indeed acquitted the individual of this specific charge, then the claim would be 'True'. If the court has not acquitted the individual, or if the acquittal was for a different charge, then the claim would be 'False'.
+
+Without specific information or evidence confirming the acquittal by the Federal Supreme Court on this particular charge, we cannot definitively verify the claim.
+
+Final Answer: False",false,False,False
+Italian prisons have a problem: they are the most overcrowded,true,it,"To determine the accuracy of the claim that ""Italian prisons have a problem: they are the most overcrowded,"" we need to consider the context and available data on prison overcrowding in Italy compared to other countries.
+
+1. **Overcrowding in Italian Prisons**: Italy has indeed faced significant issues with prison overcrowding. Reports and data from various sources, including the Council of Europe and national statistics, have highlighted that Italian prisons often operate above their intended capacity.
+
+2. **Comparison with Other Countries**: While Italy's prison overcrowding is a serious issue, it is not necessarily the most severe in the world. Other countries, such as the Philippines, Haiti, and some in Latin America, have reported even higher levels of overcrowding.
+
+Given this context, the claim that Italian prisons are ""the most overcrowded"" is an exaggeration. While they are certainly overcrowded, they are not the most overcrowded globally.
+
+Final Answer: Mostly False",mostly false,False,False
+"""Today pays the same [of income tax] who earns $ 5 million per year as the one who earns 250 thousand""",false,es,"To determine the accuracy of the claim, we need to consider how income tax systems typically work. In many countries, including the United States, income tax is progressive. This means that the tax rate increases as income increases. 
+
+For example, in the U.S., the federal income tax system has multiple tax brackets. As of 2023, the tax brackets for single filers are as follows:
+- 10% on income up to $10,275
+- 12% on income over $10,275 up to $41,775
+- 22% on income over $41,775 up to $89,075
+- 24% on income over $89,075 up to $170,050
+- 32% on income over $170,050 up to $215,950
+- 35% on income over $215,950 up to $539,900
+- 37% on income over $539,900
+
+Given this progressive structure, someone earning $5 million per year would pay a higher effective tax rate than someone earning $250,000 per year. The person earning $5 million would have a significant portion of their income taxed at the highest bracket (37%), while the person earning $250,000 would have their income taxed at lower brackets, with only a portion taxed at the 35% rate.
+
+Therefore, the claim that ""Today pays the same [of income tax] who earns $5 million per year as the one who earns $250 thousand"" is not accurate in a progressive tax system.
+
+Final Answer: False",false,True,False
+"""The Ministry of the Interior gave indications to the Prefects on the definition of"" Conjuncts "", reiterating the interpretation of the Presidency of the Council of Ministers""",mostly true,it,"To determine the accuracy of the claim, we need to verify if the Ministry of the Interior indeed provided indications to the Prefects regarding the definition of ""Conjuncts"" and if it reiterated the interpretation of the Presidency of the Council of Ministers.
+
+1. **Ministry of the Interior's Role**: The Ministry of the Interior in many countries is responsible for internal affairs, including providing guidelines and instructions to local authorities such as Prefects.
+
+2. **Definition of ""Conjuncts""**: The term ""Conjuncts"" would need to be defined within the context of the Ministry's guidelines. This could relate to various administrative or legal interpretations.
+
+3. **Reiteration of Interpretation**: The claim states that the Ministry reiterated the interpretation of the Presidency of the Council of Ministers. This implies that there was an existing interpretation from the Presidency that the Ministry is reinforcing.
+
+Without specific evidence or documentation to confirm these points, it is challenging to definitively verify the claim. However, based on the structure and typical functions of such governmental bodies, the claim seems plausible.
+
+Final Answer: Half True",half true,False,False
+"""The consumption of drugs grows and the sale of weapons in our country is also growing""",half true,it,"To determine the accuracy of the claim that ""The consumption of drugs grows and the sale of weapons in our country is also growing,"" we need to examine data and trends related to both drug consumption and weapon sales in the specified country. Since the country is not specified in the claim, I will consider general trends in the United States as an example.
+
+1. **Drug Consumption:**
+   - According to various reports, including those from the National Institute on Drug Abuse (NIDA) and the Substance Abuse and Mental Health Services Administration (SAMHSA), drug use in the United States has shown an increase in certain categories, such as opioids, marijuana, and synthetic drugs. The opioid crisis, in particular, has been a significant public health issue.
+
+2. **Weapon Sales:**
+   - Data from the Federal Bureau of Investigation (FBI) and the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) indicate that firearm sales in the United States have seen significant increases, especially during periods of political uncertainty, social unrest, and the COVID-19 pandemic. Background checks, which are a proxy for gun sales, have reached record highs in recent years.
+
+Given these points, the claim that both drug consumption and weapon sales are growing in the United States is supported by available data.
+
+Final Answer: Mostly True",mostly true,False,False
+The information that the municipality of Grândola ......,mostly true,pt,"The claim 'The information that the municipality of Grândola ......' is incomplete and does not provide enough context or details to determine its accuracy. Therefore, it is not possible to evaluate the truthfulness of the claim based on the given information.
+
+Final Answer: False",false,False,False
+"""Of the four points of the GDP of subsidies, two points go to people who do not need it""",half true,es,"To determine the accuracy of the claim, we need to break down the statement and verify its components:
+
+1. **Understanding the Claim**: The claim states that out of the total subsidies provided (measured as a percentage of GDP), half of these subsidies (two percentage points of GDP) go to people who do not need them.
+
+2. **Subsidies as a Percentage of GDP**: Subsidies are financial assistance provided by the government to support specific sectors, reduce the cost of goods and services, or support individuals. The total amount of subsidies can be expressed as a percentage of the country's Gross Domestic Product (GDP).
+
+3. **Distribution of Subsidies**: The claim suggests that half of the subsidies are misallocated to individuals who do not need financial assistance. This implies a significant inefficiency in the subsidy distribution system.
+
+4. **Verification**: To verify this claim, we would need data on:
+   - The total amount of subsidies provided by the government as a percentage of GDP.
+   - The distribution of these subsidies among different income groups or sectors.
+   - An assessment of the need for subsidies among the recipients.
+
+Without specific data or a credible source to back up this claim, it is challenging to determine its accuracy. However, if we assume that the claim is based on a general observation or a specific study, we can evaluate its plausibility.
+
+**Evaluation**:
+- It is plausible that a portion of subsidies may go to individuals or entities that do not need them, due to inefficiencies or lack of targeted distribution.
+- However, stating that exactly half of the subsidies (two percentage points of GDP) go to those who do not need them is a precise claim that requires specific evidence.
+
+Given the lack of specific data or a credible source to confirm this exact distribution, the claim appears to be an overgeneralization.
+
+Final Answer: Mostly False",mostly false,False,False
+Africa does not have a country with an epidemic,false,pt,"Final Answer: False
+
+Africa has experienced and continues to experience various epidemics. For example, the Ebola virus has caused significant outbreaks in countries like the Democratic Republic of Congo and West Africa. Additionally, other diseases such as malaria, HIV/AIDS, and cholera are prevalent in various regions and can reach epidemic levels.",,False,True
+Words in comparison: the new Italian and German constitution,mostly true,it,"To determine the accuracy of the claim ""Words in comparison: the new Italian and German constitution,"" we need to consider the context and content of the Italian and German constitutions.
+
+1. **Italian Constitution**: The current Italian Constitution was enacted on January 1, 1948. It is a detailed document that outlines the structure of the Italian government, the rights and duties of citizens, and the organization of the state.
+
+2. **German Constitution**: The current German Constitution, known as the Basic Law (Grundgesetz), was enacted on May 23, 1949. It serves as the fundamental legal document of Germany, detailing the structure of the government, the rights of citizens, and the principles of the state.
+
+Both constitutions are comprehensive legal documents, but they were established in the mid-20th century and have undergone various amendments since their inception. The term ""new"" might be misleading unless it refers to recent amendments or specific sections that have been updated.
+
+Given that both constitutions are not ""new"" in the sense of being recently created but have been in place for several decades with amendments, the claim could be seen as somewhat misleading.
+
+Final Answer: Mostly False",mostly false,False,False
+[Tiradentes University has] R $ 310 million annual budget,half true,pt,"To determine the accuracy of the claim that ""Tiradentes University has a R $ 310 million annual budget,"" we would need to verify the most recent and reliable financial data from Tiradentes University. This information is typically available in the university's annual financial reports, official statements, or credible news sources.
+
+Without access to the specific financial documents or authoritative sources confirming the exact budget figure, it is not possible to definitively verify the claim. Therefore, based on the information provided and the lack of verifiable sources, we cannot accurately assess the truthfulness of the statement.
+
+Final Answer: False",false,False,False
+"""Macri leaves us more than 2 million unemployed""",true,es,"To determine the accuracy of the claim ""Macri leaves us more than 2 million unemployed,"" we need to examine the unemployment statistics during Mauricio Macri's presidency in Argentina, which lasted from December 2015 to December 2019.
+
+1. **Unemployment Data**: According to the National Institute of Statistics and Census of Argentina (INDEC), the unemployment rate fluctuated during Macri's term. In the third quarter of 2019, the unemployment rate was around 9.7%. Given Argentina's labor force of approximately 20 million people, this translates to roughly 1.94 million unemployed individuals.
+
+2. **Context and Interpretation**: The claim states ""more than 2 million unemployed,"" which is slightly higher than the 1.94 million figure. However, unemployment rates can vary slightly depending on the source and the specific time frame considered. Additionally, the economic situation in Argentina was challenging during Macri's presidency, with significant economic fluctuations that could have influenced employment numbers.
+
+3. **Margin of Error**: Considering the margin of error in statistical data and the potential for slight variations in the unemployment rate, the claim is close to the actual figure but slightly exaggerated.
+
+Based on this analysis, the claim is not entirely accurate but is close to the truth.
+
+Final Answer: Mostly False",mostly false,False,False
+"When going to the beach, there are still many doubts: is it possible M ......",false,pt,"The claim ""When going to the beach, there are still many doubts: is it possible M ......"" is incomplete and lacks sufficient context to determine its truthfulness. Therefore, it is not possible to accurately assess the claim based on the given information.
+
+Final Answer: False",false,True,False
+13.9 % of young girls are excised in Senegal.,half true,fr,"To determine the accuracy of the claim ""13.9% of young girls are excised in Senegal,"" we need to refer to reliable sources such as reports from international organizations like UNICEF, WHO, or government health statistics from Senegal.
+
+According to UNICEF's data on Female Genital Mutilation/Cutting (FGM/C), the prevalence of FGM/C among girls aged 0-14 in Senegal has been reported to be around 14% in recent years. This figure can vary slightly depending on the specific year and the source of the data, but it is generally in the range of 13-15%.
+
+Given that the claim states 13.9%, which falls within this range, it is reasonably accurate based on available data.
+
+Final Answer: Mostly True",mostly true,False,False
+"“Today the same energy for industrial production consumed on March 19 is consumed.And consumption is higher """,false,es,"To determine the accuracy of the claim, we need to analyze the statement carefully. The claim is: ""Today the same energy for industrial production consumed on March 19 is consumed. And consumption is higher.""
+
+1. **Internal Consistency**: The statement seems internally contradictory. It first says that the same amount of energy is consumed today as was consumed on March 19, implying no change in consumption. Then it says that consumption is higher, which directly contradicts the first part.
+
+2. **Logical Analysis**: If the same amount of energy is consumed today as on March 19, it cannot simultaneously be higher. These two parts of the statement cannot both be true at the same time.
+
+Given the internal contradiction, the claim cannot be accurate.
+
+Final Answer: False",false,True,False
+"Only 20 % of Africans have access to electricity, according to the Africa Director of the World Economic Forum",false,fr,"To determine the accuracy of the claim that ""Only 20% of Africans have access to electricity,"" we need to look at reliable and recent data sources on electricity access in Africa.
+
+According to the International Energy Agency (IEA) and the World Bank, the access to electricity in Africa has been improving over the years. As of recent reports, around 43% of the population in Sub-Saharan Africa had access to electricity in 2019. This percentage is higher in North Africa, where access is nearly universal.
+
+Given this information, the claim that only 20% of Africans have access to electricity is significantly lower than the actual figures reported by reputable sources.
+
+Final Answer: False",false,True,False
+"From Tav to Ilva, are the ""reverse"" of the M5S ""reverse"" in the dark of Italians ""?",false,it,"To determine the accuracy of the claim ""'From Tav to Ilva, are the ""reverse"" of the M5S ""reverse"" in the dark of Italians?"" we need to break down the components:
+
+1. **Tav and Ilva**: Tav refers to the high-speed rail project in Italy, and Ilva is a major steel plant in Taranto, Italy. Both have been subjects of significant political and public debate.
+
+2. **M5S (Movimento 5 Stelle)**: The Five Star Movement is a political party in Italy known for its populist, anti-establishment, and environmental stances. Historically, M5S has opposed projects like Tav due to environmental concerns and has had a complex stance on Ilva due to its environmental and economic implications.
+
+3. **""Reverse"" of the M5S ""reverse""**: This phrase suggests that there has been a change or reversal in the stance of M5S on these issues. Initially, M5S might have opposed these projects, but the claim implies that they have reversed their position.
+
+4. **""In the dark of Italians""**: This implies that these reversals or changes in stance have occurred without the knowledge or awareness of the Italian public.
+
+To evaluate the truthfulness:
+
+- **Historical Stance**: M5S has indeed had a history of opposing the Tav project and has had a contentious relationship with the Ilva plant due to environmental concerns.
+- **Recent Developments**: There have been instances where M5S, especially when in coalition governments, has had to compromise or alter its stance on certain issues, including Tav and Ilva.
+- **Public Awareness**: The extent to which these changes have been communicated to or understood by the public can be subjective and harder to measure definitively.
+
+Given these points, the claim has elements of truth regarding the reversal of positions but is somewhat speculative about the public's awareness.
+
+Final Answer: Half True",half true,False,False
+"Roraima, who exported rice, now [after the demarcation of Raposa Serra do Sol] matters [rice]",half true,pt,"To determine the accuracy of the claim ""Roraima, who exported rice, now [after the demarcation of Raposa Serra do Sol] matters [rice],"" we need to examine the context and the facts surrounding the demarcation of Raposa Serra do Sol and its impact on rice production and exportation in Roraima.
+
+1. **Background on Raposa Serra do Sol**: Raposa Serra do Sol is an indigenous territory in the state of Roraima, Brazil. It was officially demarcated in 2005, and the demarcation was upheld by the Brazilian Supreme Court in 2009. This decision led to the removal of non-indigenous rice farmers from the area.
+
+2. **Impact on Rice Production**: The removal of these farmers did have an impact on rice production in the region. Some reports indicate that rice production in Roraima decreased significantly after the demarcation because the most productive rice fields were within the demarcated area.
+
+3. **Current Rice Situation**: While Roraima's rice production did decline, it is important to verify whether the state now imports rice to meet its needs. According to various sources, Roraima still produces rice, but the volume is lower than before the demarcation. There is no strong evidence to suggest that Roraima has become a significant importer of rice as a direct result of the demarcation.
+
+Given this context, the claim that Roraima ""now matters [imports] rice"" after the demarcation of Raposa Serra do Sol is an exaggeration. While rice production did decrease, it does not necessarily mean that Roraima has become dependent on rice imports.
+
+Final Answer: Mostly False",mostly false,False,False
+Paola Taverna on cuts to the increases for health care has (almost) reason,mostly true,it,"To determine the accuracy of the claim ""Paola Taverna on cuts to the increases for health care has (almost) reason,"" we need to evaluate the context and specifics of Paola Taverna's statements and the actual situation regarding health care funding.
+
+1. **Context**: Paola Taverna is an Italian politician, and her statements likely pertain to the Italian health care system and its funding.
+2. **Specifics**: The claim suggests that there have been cuts to the planned increases in health care funding, and Taverna's assertion is that she is almost correct in her assessment.
+
+To evaluate this, we would need to:
+- Verify if there were indeed planned increases in health care funding.
+- Check if those planned increases were subsequently reduced or cut.
+- Assess the degree to which Taverna's statements align with the actual data.
+
+Without specific data or detailed context, it's challenging to provide a definitive answer. However, if we assume that Taverna's statements are based on some factual reductions in planned increases, but perhaps not entirely accurate or complete, the claim could be considered ""Mostly True.""
+
+Final Answer: Mostly True",mostly true,True,False
+One in four girls in Senegal underwent female genital mutilation.,half true,fr,"To determine the accuracy of the claim ""One in four girls in Senegal underwent female genital mutilation,"" we need to look at reliable data sources such as reports from international organizations like UNICEF, WHO, or other reputable entities that track female genital mutilation (FGM) statistics.
+
+According to UNICEF's data on FGM, the prevalence of FGM among girls and women aged 15-49 in Senegal is around 24%. This figure aligns closely with the claim that one in four girls in Senegal undergoes FGM.
+
+Given this information, the claim appears to be accurate.
+
+Final Answer: True",true,False,False
+"[We will work for the reduction of our criminal age, which is the people want and want",true,pt,"To determine the accuracy of the claim, we need to break it down into two parts:
+
+1. ""We will work for the reduction of our criminal age"" - This part of the claim is a statement of intent. Without additional context or evidence, we cannot verify whether this intent is being acted upon or not.
+
+2. ""which is the people want and want"" - This part of the claim asserts that the reduction of the criminal age is something that people desire. To verify this, we would need data or surveys showing that a significant portion of the population supports this idea.
+
+Given the lack of specific evidence or context to support either part of the claim, it is difficult to fully verify its accuracy. Therefore, the claim cannot be considered entirely true or entirely false.
+
+Final Answer: Half True",half true,False,False
