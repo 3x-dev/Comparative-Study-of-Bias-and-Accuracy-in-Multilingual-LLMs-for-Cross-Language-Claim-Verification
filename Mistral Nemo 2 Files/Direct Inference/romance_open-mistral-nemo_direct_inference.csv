@@ -81,3 +81,15 @@ Nós só temos cinco consulados lá [nos Estados Unidos],half true,pt,"Resposta 
 [La minor spesa per il reddito di cittadinanza] non è deficit. Questo dimostra proprio che non è deficit come si diceva,false,it,"L'affermazione afferma che la spesa per il reddito di cittadinanza non è deficit. Tuttavia, questa affermazione è ingannevole perché non specifica se la spesa per il reddito di cittadinanza è finanziata attraverso nuove entrate o se è finanziata attraverso un aumento del deficit. Se la spesa per il reddito di cittadinanza è finanziata attraverso un aumento del deficit, allora questa affermazione sarebbe falsa. Tuttavia, se la spesa per il reddito di cittadinanza è finanziata attraverso nuove entrate, allora questa affermazione sarebbe vera.
 
 Risposta finale: ""Quasi vero"".",true,False,False
+“[Tuvo] la inflación más alta de los últimos 25 años”,true,es,Respuesta final: Verdadero.,true,True,False
+"Le Sénégal, premier prodcteur de sel, d'Afrique de l'*Ouest, importe pourtant le quart de sa consommation.",mostly true,fr,"Réponse finale: À moitié vrai. Le Sénégal est en effet le premier producteur de sel en Afrique de l'Ouest, mais il est également vrai qu'il importe une partie de sa consommation de sel. Cependant, il est exagéré de dire que le Sénégal importe le quart de sa consommation de sel, car cela représenterait une quantité importante de sel importée, qui n'est pas confirmée par les données statistiques disponibles.",true,False,False
+Un Nigerian sur cinq souffre de dépression à long terme.,false,fr,Réponse finale: Faux.,false,True,False
+«[Il ministro dell’Economia e delle Finanze Roberto Gualtieri] ha appena annunciato che se sei in arretrato con i pagamenti ti possono pignorare i conti. Secondo me siamo all’Unione sovietica fiscale perché siamo allo Stato di polizia fiscale»,half true,it,"L'affermazione contiene due parti distinte che vanno valutate separatamente.
+
+La prima parte dell'affermazione riguarda la possibilità di pignorare i conti di chi è in arretrato con i pagamenti. Questa è una procedura prevista dalla legge italiana in caso di insolvenza fiscale, quindi la prima parte dell'affermazione è vera.
+
+La seconda parte dell'affermazione fa riferimento all'Unione Sovietica e allo Stato di polizia fiscale. Questi termini sono utilizzati per descrivere sistemi politici e fiscali estremamente autoritari, molto diversi dal sistema italiano. Quindi, la seconda parte dell'affermazione è falsa.
+
+In conclusione, l'affermazione è ""mezza vera"" perché la prima parte è vera, mentre la seconda parte è falsa.
+
+Risposta finale: Mezza vero.",true,False,False

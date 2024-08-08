@@ -1,26 +1,26 @@
 {
-    "correct": 7,
-    "wrong": 29,
+    "correct": 9,
+    "wrong": 31,
     "inconclusive": 0,
-    "total": 36,
+    "total": 40,
     "languages": {
         "fr": {
-            "correct": 2,
-            "wrong": 4,
+            "correct": 3,
+            "wrong": 5,
             "inconclusive": 0,
-            "total": 6
+            "total": 8
         },
         "it": {
             "correct": 2,
-            "wrong": 10,
+            "wrong": 11,
             "inconclusive": 0,
-            "total": 12
+            "total": 13
         },
         "es": {
-            "correct": 2,
+            "correct": 3,
             "wrong": 7,
             "inconclusive": 0,
-            "total": 9
+            "total": 10
         },
         "pt": {
             "correct": 1,
