@@ -1,8 +1,8 @@
 {
     "correct": 59,
     "wrong": 253,
-    "inconclusive": 267,
-    "total": 579,
+    "inconclusive": 288,
+    "total": 600,
     "languages": {
         "sr": {
             "correct": 24,
@@ -13,14 +13,14 @@
         "ru": {
             "correct": 15,
             "wrong": 65,
-            "inconclusive": 55,
-            "total": 135
+            "inconclusive": 73,
+            "total": 153
         },
         "pl": {
             "correct": 20,
             "wrong": 91,
-            "inconclusive": 99,
-            "total": 210
+            "inconclusive": 102,
+            "total": 213
         }
     }
 }

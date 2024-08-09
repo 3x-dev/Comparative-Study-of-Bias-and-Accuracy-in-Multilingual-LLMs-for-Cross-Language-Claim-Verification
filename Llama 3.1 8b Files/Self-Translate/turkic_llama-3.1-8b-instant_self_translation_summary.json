@@ -1,20 +1,20 @@
 {
     "correct": 59,
     "wrong": 247,
-    "inconclusive": 291,
-    "total": 597,
+    "inconclusive": 294,
+    "total": 600,
     "languages": {
         "tr": {
             "correct": 39,
             "wrong": 166,
-            "inconclusive": 201,
-            "total": 406
+            "inconclusive": 202,
+            "total": 407
         },
         "az": {
             "correct": 20,
             "wrong": 81,
-            "inconclusive": 90,
-            "total": 191
+            "inconclusive": 92,
+            "total": 193
         }
     }
 }

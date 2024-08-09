@@ -3,9 +3,9 @@ import json
 import re
 
 # File paths
-csv_file_path = 'kartvelian_llama-3.1-8b-instant_direct_inference.csv'
+csv_file_path = 'kartvelian_llama-3.1-70b-versatile_direct_inference.csv'
 json_file_path = '../../JSON Files/kartvelian.json'
-output_json_path = 'kartvelian_llama-3.1-8b-instant_direct_inference_summary.json'
+output_json_path = 'kartvelian_llama-3.1-70b-versatile_direct_inference_summary.json'
 
 # Mapping dictionary for the labels
 label_mapping = {

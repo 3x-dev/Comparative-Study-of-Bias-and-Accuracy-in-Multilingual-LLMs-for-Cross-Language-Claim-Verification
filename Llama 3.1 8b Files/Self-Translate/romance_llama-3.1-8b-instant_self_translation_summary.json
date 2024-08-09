@@ -1,8 +1,8 @@
 {
     "correct": 52,
     "wrong": 236,
-    "inconclusive": 305,
-    "total": 593,
+    "inconclusive": 312,
+    "total": 600,
     "languages": {
         "fr": {
             "correct": 13,
@@ -13,20 +13,20 @@
         "it": {
             "correct": 8,
             "wrong": 52,
-            "inconclusive": 77,
-            "total": 137
+            "inconclusive": 79,
+            "total": 139
         },
         "es": {
             "correct": 13,
             "wrong": 58,
-            "inconclusive": 64,
-            "total": 135
+            "inconclusive": 65,
+            "total": 136
         },
         "pt": {
             "correct": 18,
             "wrong": 81,
-            "inconclusive": 113,
-            "total": 212
+            "inconclusive": 117,
+            "total": 216
         }
     }
 }

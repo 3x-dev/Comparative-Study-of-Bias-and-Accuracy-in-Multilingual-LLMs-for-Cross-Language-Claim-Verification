@@ -1,14 +1,14 @@
 {
     "correct": 71,
     "wrong": 236,
-    "inconclusive": 290,
-    "total": 597,
+    "inconclusive": 293,
+    "total": 600,
     "languages": {
         "ka": {
             "correct": 71,
             "wrong": 236,
-            "inconclusive": 290,
-            "total": 597
+            "inconclusive": 293,
+            "total": 600
         }
     }
 }
