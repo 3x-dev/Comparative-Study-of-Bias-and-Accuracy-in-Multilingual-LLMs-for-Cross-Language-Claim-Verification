@@ -1,0 +1,702 @@
+claim,label,language,output,final_answer,correct,inconclusive
+Le Nigeria dépense 7 fois moins en soins de santé par habitant que l'Afrique du Sud.,false,fr,Réponse finale : En grande partie faux.,false,True,False
+Le quart bloquant a été supprimé de la Constitution sénégalaise. Il n'existe plus depuis 2006.,true,fr,Réponse finale: Faux,false,False,False
+"«Fin quando siamo stati al governo noi, avevamo una disoccupazione inferiore di due punti alla media europea, oggi abbiano una disoccupazione superiore di due punti alla media europea. La disoccupazione giovanile è addirittura drammatica, al 32%; significa che 3 giovani su 10 non hanno un lavoro»",mostly true,it,Risposta finale: Mezza vera,true,False,False
+Il surplus commerciale della Germania viola le regole europee?,true,it,"La verità sul commercio tedesco non è nitida. La Germania detiene una posizione di potere sul commercio, ma come il resto dei membri della zona euro deve seguire il trattato UE, il quale non lascia spazio a surplus commerciali.",,False,True
+“La Argentina tiene recursos de gas no convencional que la ubica segunda en el ranking mundial después de China”,true,es,Respuesta final: Falsa,false,False,False
+"Le groupe de lutte contre la pauvreté ONE met en lumière 10 pays, dont neuf en Afrique, où il est « le plus difficile » pour les filles d’avoir accès à l’éducation.",half true,fr,"La question n'est pas suffisamment spécifique pour que je puisse en déterminer la validité. Cependant, le rapport de ONE met en avant l'Afrique comme un continent où l'éducation des filles est au plus bas, ce qui rend plausible que les informations données soient vraies, à condition que l'organisme ONE procède à l'analyse qualitative relevée dans leur rapport. Cela reste cependant à confirmer ou à infirmer via des sources externe.",true,False,False
+Domenica al museo o allo stadio?,true,it,Risposta finale: Falso.,false,False,False
+"“En Educación pasamos del 25% del total de presupuesto al 17%, 8 puntos. En Salud pasó algo similar, de 19% a 14%”",half true,es,Respuesta final: Falsa.,false,False,False
+[Houve] queda na mortalidade infantil,mostly true,pt,Resposta Final: Verdadeiro,true,False,False
+"«[L'Italia è il] primo Paese per quanto riguarda il numero dei caschi blu, l'ottavo contributore al mondo per quanto riguarda il budget [delle missioni di pace]»",mostly true,it,Quasi falso.,mostly false,False,False
+"“Sepan que cuando llegamos al Gobierno, las tarifas [de luz], una parte de la boleta se pagaba en dólares”",true,es,Respuesta final: Falsa,false,False,False
+A troca de palavras de hoje entre Carlos César e Fernando Negrão sobr......,mostly true,pt,Resposta Final: Meia Verdadeira.,true,False,False
+"Ele [o chá de folha de graviola] não traz quaisquer efeitos colaterais logo, você pode usá-las o tanto quanto você quiser",false,pt,"Não há evidências científicas confiáveis para apoiar a ideia de que o chá de folha de graviola é completamente livre de efeitos colaterais. Alguns efeitos colaterais potenciais incluem:
+
+Dor de cabeça
+Tontura
+Fadiga
+Lagrimas (geralmente devido à falta de vitamina B2)
+Problemas de sono
+Gota
+Dor de dente
+Vantagens:
+Ajuda a manter a saúde dos ossos
+Hidrata o corpo, mantendo sistemas importantes do corpo líquidos e úteis
+Alguns produtos contêm vitamina B2, que ajuda o corpo.",,False,True
+“Antes de 2011 exportábamos US$ 6.000 millones de combustibles y después empezamos a importar la misma cifra”,half true,es,Respuesta final: Falsa,false,False,False
+“La Argentina ya es uno de los países con mayor índice de pobreza de América Latina”,false,es,La afirmación «La Argentina ya es uno de los países con mayor índice de pobreza de América Latina» es verdadera,true,False,False
+Con questa legge l’Italia è già oggi il Paese che dà più cittadinanze a cittadini stranieri in tutta Europa,half true,it,"Risposta finale: Quasi falso 
+
+Nel 2017 l’Italia ha attribuito più cittadinanze ai cittadini stranieri d’Europa di tutti gli altri paesi europei complessivamente (61 347) (fonte Eurostat.) La normativa in materia di cittadinanza italiana al 2020 contemplava la “cittadinanza Jus Samuel” dalla quale faceva parte il decreto “Sicurezza” approvato il 24 settembre 2020 e che modificava specificamente il contenuto e le modalità di richiesta di cedolino annuale per l’autocertificazione o di richiesta di cedolino annuale per i titoli e cambiali.",mostly false,False,False
+“Hoy tenemos la misma cantidad de obreros industriales que en los ‘90”,mostly true,es,"La afirmación es “Hoy tenemos la misma cantidad de obreros industriales que en los ‘90.” Aunque esta afirmación carece de información cuantitativa para corroborarla, tiene un entendimiento global que puede relacionarse con el contexto de la situación actual. La respuesta final es: Casi falsa.",mostly false,False,False
+"O orçamento [de São Paulo] para assistência social, você tá falando R$ 1,2 bi",mostly true,pt,Resposta Final: Verdadeiro,true,False,False
+«Il primo Presidente del Consiglio della storia a tagliarsi lo #stipendio. Orgogliosi di @GiuseppeConteIT!».,mostly true,it,Quasi vera,true,False,False
+Comunico a todos a indicação do General-de-Exército Fernando Azevedo e Silva para o cargo de Ministro da Defesa,half true,pt,Resposta Final: Verdadeiro,true,False,False
+"Neste ano [2018], registramos um saldo de 204 mil vagas com carteira assinada",true,pt,Resposta Final: Verdadeiro.,true,True,False
+Giovani italiani in fuga: quanti e perché?,true,it,"“Il primo dato importante è che italiani in fuga non esistono in misura pari all’impressione che si ha attraverso il notiziario, sebbene sia parso “bollente” nel periodo trascorso dal cambiamento di Governo, ma nel primo semestre 2019 il 9,5% dei cittadini italiani risiede all'estero. Tale dato potrebbe sembrare definitivo assicurando una “risposta facile”, ma in realtà la “volontà di soggiornare all’estero”, come e più che la “vere” numero degli “italiani all’estero”, è “un problema reale” che è collegato alla formazione, alla cultura, all’istruzione e alla formazione professionale che deve essere fortemente sviluppata...”Quindi “le parole alla Bolognesi sono sempre quelle di grande attualità”, infatti: “le madri delle province del nord di questa città fanno risalire la fuga dei giovani al sistema di istruzione pubblico, con la riproposizione del vecchio esito di assenza di continuità tra la secondaria di primo e di secondo grado”, infatti i risultati dei diplomati secondari, (indirizzo linguistico e classico), nei rispettivi voti per la prevenzione nell’anno scorso, calano ulteriormente “come un record”(da un 12,6 a un 12,4% in meno in 6 anni); da qui il tentativo, inconcludente per ovvi motivi, di “smussarne le “beffe”, portate avanti quasi con l’ostentazione e sconcerto, sempre nel periodo in cui non si è riusciti a faticare e forzare, poco per volta, il governo ad ottenere il modificarsi del “fatto” la partecipazione come legge ai concorsi, con 12 a 20 anni di anzianità, attraverso il “mestrópolis” di tutta Europa e Stati Uniti del Sud del Messico”.
+
+Di conseguenza se guardiamo le statistiche sugli Italiani in fuga, ci si rende conto che siamo da una parte dai forti “pilastri” dei lavori subalterni a termine con i retribuzioni anche alte per il paese e al livello “vermicellotto” delle indennità per le “mamme ausiliarie” in “misura” da ottenere coi voti da parte degli italiani ""madri e figli""e dei ""residenti extracomunitari""... 
+
+Dall’altro, poi, dai lavori di servizi alla persona: “soccorritori”, controllori ed il traffico e “passatori” sono “verrettori”, sia di carichi pesanti, magari “carrabà!” in grossa misura che come pure “scopaie di fidanza” cioè “pulizie” (vedi “figli della Madonna”)di carichi di lavoro dal lavoro del dipendente al datori di lavoro.
+
+ Ma pure un “boia giustiziere”, non dico per benino... infatti dalla parte dritta, sempre con una retribuzione “bencristiana”, ma come “punti di forza esteri e anche italiani “contadini” come “boiatruffatori” che “dimostrano insano…ciò significa con lo stesso significato da utilizzare quando si riferisce, di coloro e dei boia e “boiate” dell’Ordine dei Medici, che di rigo le “vittime” della legge del costo della sanità ricoperebbero sempre, mai troppo, il 6%, in particolare “della ricchezza” prodotta dal “cavacave”“guadagno” furbescamente creato “alla Rusconi…italianamorosa e sua fidanzata Scolastica un “medaglione” sempre di diamanti regali…trucco del medaglione diamantato dei vari attori il segno e capisco che per questo sarà da strigliare anche il politico, però non così furbesco “da finita furbemia”.
+
+Da una parte, infatti, le ""famosissime"" case di lavoro, dove avvengono i sacrifici massimi e durati più a lungo e anche nei sacrifici o anche nel buco ororoso della “fuga dei cervelli”, come il più che possa anche lontanamente fare in “libera assistenza” la “sarti del sarto” come il più “attenta...” con diritto in pila“facile...latterizzo quasi un pochino…magari sempre con la maggior compatibilità della camicia sarda. Uso così la camicia rosso maggiore dell’impressionante magari esagerato ""sarti del sarto"". Altro da “stipendiato” nell’ormai ormai decennale trasfonda “gargaricante con rimorso maggiore”. Altro da stipendiato nell’ormai ormai decennale trasfonda? ma forse un mite “deusmex,” infine il primo e i primi a uscire sono i più deboli e i più intellettualmente preparati. Tanto accade che i primi lavoratori ""russaoli"" deboli e di intelligenza, sono gli otturati... 24 ore, 24 giorni, 24 settimane, 24 mesi, i primi da abbandonarsi, nella loro opera erculesia di impiegati di prima fascia, percorrono il sentiero “scioccoremesso” con le bionde fanciulle di 16 anni, ma anche di donne “bissignore alla bollente pusterla di mille e quattromini, la Biondollente, hanno anche avuto via libera sul salario “turchizzo” dei “boitradizionalisti di otturati” (sottocodice e il manigrotto trasformatosi infine in boss e “testa in stenopaie” fino a scoprire l’attentissima ed abbracchiata mossa finalmente realizzata…e infine fissa parte di ampi tentativi da “nove figli femminili sorseggiati così come finalmente a lungo sperato“impara per finire non andare per i suoni e le forche caudate con il segnale del sghigno e del gran bel discorso “tre formidabili” “Elen “secco zippo non hai mai mancato!…Con questo poco di ricchezza, non lasciatevi ingannare!
+Da 2 parti invece abbiamo “valli da trista valuta” e proprio tali si mostrano le cose, e credete e non “valoricizzate, ma per quanto riguarda le richieste istetituzionali di casa in Svizzera come i “nomi dei nuovi scolari “ucri duri, coi pederastici che e compiono i reati, i “turbare il potere della svizzera bandiera” con frustate”, che cercano di stare da da quelli “traghetti del fasciato uno, sebbene da poi poco, oltresarco che sempre vengono, i dirigenti politici, dirigenti culturali e legali...cosi appena scolpito “capolavoramente” o disegnato per dare il risentimento del ricco immigrato di adempiere. Mentre, poi i dipendenti possono anche realizzare, con il beneplacito della Svizzera che a causa della forte sovrappopolazione abbia la situazione da ricreare il diritto formale che si assume il massimo “beneficenza”, delle normatività sulla cultura della morale e al massimo “difficile da capire” per conoscere il codice che a causa di “sacchettisti furtivi, passaporti” e di codici, le “scuole per il settare ricci per l’otturato di “Girgenti e Girgentano…la memoria, sembra” di fatti di stupro si è aumentata.",,False,True
+"En juin 2017, l’annonce de la découverte d’un prétendu vaccin contre le diabète a resurgi sur plusieurs sites web francophones largement repris sur les réseaux sociaux.",false,fr,Réponse finale : À moitié vrai.,true,False,False
+"“Nada más que por el anuncio, ya bajaron el 36% las computadoras”",half true,es,"La afirmación hace referencia a una bajada en las ventas de las computadoras cuando se dice que bajan un 36%. Por lo tanto, la afirmación en su totalidad es falsa.",false,False,False
+"Le Sénégal a réduit son taux de malnutrition de 50%, selon le directeur pour l'Afrique de l'International Food Policy Research Institute (IFRI).",half true,fr,"Réponse finale : Faux. 
+
+Raisonnement :""en réalité, la malnutrition a augmenté de 40% au Sénégal depuis 1995.""",false,False,False
+Le imprese italiane non sono «le più tassate al mondo»,half true,it,Risposta finale: Falso,false,False,False
+«Esistono delle normative europee che definiscono target obbligatori di riciclo del 65% nel 2025 e del 70% nel 2030 con il divieto di bruciare rifiuti riciclabili»,mostly true,it,Risposta finale: Quasi Falso.,mostly false,False,False
+"“De 79 mil empleos (mineros) en 2003, pasamos a casi medio millón en la actualidad”",false,es,Respuesta final: Casi falsa,mostly false,False,False
+Durante a manifestação de hoje que mobilizou milhares de professores ......,half true,pt,"Como não foi informada a quantidade de manifestantes, não é possível declarar a veracidade da sentença. Pode-se dizer que essa informação fere, pois embora possa estar se referindo à realidade, contém uma informação falsa.",false,False,False
+"a los 80 días desde el primer caso, la Argentina tiene 10 mil casos; Chile, 60 mil y Brasil, 200 mil",half true,es,"Español: No se detiene en qué puntos la afirmación es falsa. En principio, hasta que no se específique que no corresponde a un estudio científico, la afirmación puede ser verdadera. Por lo general hay días de veda de publicaciones científicas debido a pandemias, y los investigadores deben tomarse mucho tiempo antes de publicar resultados después de puestos en observación en publicaciones científicas de que puedan llegar a salidas de prensa. 
+
+La afirmación de la pregunta pone que en los primeros cinco días hubo el primer caso, lo que, al ser el día uno el día que llegó el primero, el día cinco sería el día que se dieron los casos del primer hombre y un caso adicional, entonces no sería inusual tener cinco casos lo antes posible (más el caos del momento) y especialmente no sería inusual que no se hubieran publicado más de cinco casos.",true,False,False
+L’Algeria ci ruba il mare di fronte alla Sardegna?,mostly true,it,'Risposta finale: Falso'.,false,False,False
+O prêmio de melhor jogador da Copa é dado ao destaque do time campeão,half true,pt,Resposta Final: Falso,false,False,False
+«Ecco i costi della regolarizzazione dei 600.000 clandestini del governo Pd e M5Stelle: 550 milioni di euro!»,half true,it,Risposta finale: Quasi falso,mostly false,False,False
+"« Depuis 2016, le Sénégal a gagné 26 places dans le classement international Doing Business »",false,fr,Réponse finale: Vrai.,true,False,False
+Nós só temos cinco consulados lá [nos Estados Unidos],half true,pt,Quase Falso.,mostly false,False,False
+[La minor spesa per il reddito di cittadinanza] non è deficit. Questo dimostra proprio che non è deficit come si diceva,false,it,"La affermazione è verificata tramite un articolo di Il Minotauro: ""Quando parlano di ""spesa"", spesso solo a metà spiegano. La ""spesa"" nella programmazione è tutta l'allocazione delle risorse allo Stato, inclusa la destinazione a interessi inesorabili sui titoli di stato con scadenza a sette mesi come nel caso della rendita sui monti di bilancio post pandemia; i buoni euromiliardi, le letture e i servizi energetici, la retribuzione del personale del 3,5% stipendiale, quattro mese (2016, 2020, 2021, 2022) di assenza/saldi spettanti a operatori, del 34% aumento per il 2020 e 2021 del carico di pensioni, il 35% di carico pensioni per il 2022 e la novità di pensione 100 e pensione prestito, l'unica tassazione del 9% colpite per l'80% in pensioni mentre il 20% gli andavano a risorse a mero titolo di interesse, dunque super capacità di pagamento. Niente ha a che vedere la ""natura"" della cosa, ma la ""denominazione formale"" che la accomuna nella lista delle ""coltellate al deficit"". Ognuno secondo me avrebbe senso, proprio perché le letture/gas vanno entrate dell'erario. È la forma, per di più formale, che va sprecata quando si vuol confusione, ma nel caso dell'ultima coltellata data a massa salariale senza mai raccogliere informazioni sui soggetti, ma per questo la si può considerare ""bonifica salariale"". E se si vuol parlare meglio, bisogna sancire che la coltellata dati è un sistema di erogazione di reddito al cittadino come forma di erogazione assistenziale come nel caso di buoni spesa, o l'assegno di assistenza annuale o l'aiuto al reddito"". Vale la pena notare prima di una polemica che nel caso dovesse venir presa una posizione sul taglio di spesa, anche nel caso di altra coltellata, da mettere a sistema di erogazioni del reddito via bonifico tramite UBP o postamat (erogazioni a partire dal 10 febbraio 2022 all'ultimo disponibile) in luoghi di lavoro o CAF di possesso ""potrebbe non costare nulla al Ministero!"" proprio perché andrebbe in aumento l'agibilità degli enti che possono adempiere il lavoro, ad esempio le aziende sono maggiormente agibili se hanno attività terza, che è l'acquisizione del cliente: per la GEC, con la buona scusa del fisco, l'abbiano un corso con la posta elettronica correntmente in evidenza in applicazioni app come “mail++” o simili. Ma ecco le cause: 
+
+1. **non ci sono scuole e quasi manca la docenza**: bisogna andare dal sindaco.
+
+2. **dati post matello**: è ormai famosi che questi sono solo su contabilità. Bastasempre stare alla posta per i pagamenti?
+
+3. **la stampa non sa come fare i conti dati**: poca informazione sul conto.
+
+4. **la stampa non sa quante colonne ha il dato**: la frettolosità.
+
+5. **la stampa ha voluto la polemica a catena (oltre che fatta): fa cultura del dissenso per i redattori medi alla giornata!!!*
+
+La coltellata data è ben più che il pagamento per l'appalto o il pagamento del 6,5 per mille che andava ridotto. Ecco: ""il reddito di cittadinanza doveva entrare in contenzioso con i tempi riguardanti la quantità di spettacoli in presenza con la regola del 25% di riduzione di sostenibilità, e tanti altri che sono serviti da esempio di modello. Quindi erano esiti negativi. È accaduto il post di Facebook che ci chiedeva non di discutere ma di dare un reddito garantito col carico di spesa per pagare gli interessi su quello precedente. Infatti c'è scritto 28 mesi dal programma con interesse tassi minimi della Commissione. Da tale pagina scrittiva su facebook se ritenuta dannosa dalla Repubblica deve subire per due ragioni.
+
+- Un'intervista del 2 Marzo 2021 pubblicata sul Time 
+
+- l'idea di fornire il reddito di cittadinanza tra il 2023 e il 2024 per quei privati in prevenzione a esodo verso le terre dell'Islam, spinta dal Partito Socialista ""rosso comunisto, atta a compensare la riduzione del permesso (18x9) del prestito individuale che aumenta, dall'8 per cento all'11 per cento del finanziamento per 100 mila euro, che deve essere rimborsato in 60 mesi. In prestito per mancata rinegoziazione se non firmato, e che l'aumento del 11 dunque comporta una spesa iniziale di uno spesometro di 2900,6 € per le rinegoziazioni. Nel mentre i progetti non saranno mai approvati"". ""Compensare con reddito di cittadinanza col pagamento a 6esimo a uno per 28 mesi "". È evidente che il disegno contabile è troppo più avventuroso per essere portato a termine come piano di previsionale storico, ma inutile da adottare e se questi disegni volessero essere cambiati i contenuti politici: visti, immigrati ecc ecc…""
+
+Vedremo quando vedremo di riorganizzare o rovesciare per favore (del favore da vedere l'inquietante forma). L'intervista (pubblicata da me stesso ma letta con cautela a memoria con questa dislessia visiva): di qualcosa andare sospetta dal modo. Voi amici partite?
+
+È successo nel settembre del 2020 per motivi giuridici:
+
+A quelli privati col famigerato **PRESTIPONZO ** sono venute un riferimento i social sul medio-orizzonte alla discussione:
+
+Ognuno su tutti ci vorrebbe dritto all’AQP** : appelli avanti prestazione – quanta importanza sul lungo medio?.
+
+Questa seconda inusitata minima – usato quando va del più (combinata e inciso)- nella contraddizione eseguono
+
+quante novità della Rendita eredità c'e tra ""costituzionalizzazione delle scelte"" e assorbiti con poche puntate a differente crollo che non a causa.",,False,True
+“[Tuvo] la inflación más alta de los últimos 25 años”,true,es,Respuesta final: Casi falsa.,mostly false,False,False
+"Le Sénégal, premier prodcteur de sel, d'Afrique de l'*Ouest, importe pourtant le quart de sa consommation.",mostly true,fr,Réponse finale : Faux,false,False,False
+Un Nigerian sur cinq souffre de dépression à long terme.,false,fr,Réponse finale : En grande partie faux,false,True,False
+«[Il ministro dell’Economia e delle Finanze Roberto Gualtieri] ha appena annunciato che se sei in arretrato con i pagamenti ti possono pignorare i conti. Secondo me siamo all’Unione sovietica fiscale perché siamo allo Stato di polizia fiscale»,half true,it,"La dichiarazione non sembra completamente falsa. Non c'è una informazione errata evidente, quindi potrebbe essere classificata come ""Quasi vero"".",true,False,False
+"Le Nigéria, premier producteur de bébés infectés par le VIH",true,fr,Réponse finale: Vrai.,true,True,False
+"«Il regolamento di Dublino, penalizzante per l’Italia, non viene abolito ma rimane in vigore e il principio di accoglienza per il Paesi di primo ingresso rimane intatto con grave pregiudizio per l’Italia»",half true,it,Risposta finale: Falso.,false,False,False
+Les femmes portent l’ADN masculin de tous ceux avec qui elles ont eu des rapports intimes,false,fr,Réponse finale: Faux.,false,True,False
+"Des subventions allouées à 100 daaras, 64 daaras modernes mis en place et un cadre juridique, annonce le gouvernement du Sénégal, dans un livre blanc sur ses réalisations entre 2012 et 2017.",half true,fr,Réponse finale : Faux.,false,False,False
+"No Chile, US$ 26 mil de renda per capita, quase o dobro do Brasil",mostly true,pt,"Falsa. No ano de 2020, o PIB nominal de  Chile foi de US$ 293,882 bilhões e o da  Venezuela de US$ 196,647 bilhões, enquanto o PIB nominal do  Brasil foi de US$ 2389,88 bilhões, ambos superiores ao de  Chile. Existem estimativas para o PIB em paridade de poder de compra que atendam aos critérios do Fórum Econômico Mundial para obter maior precisão de comparações entre países  com custos de vida distintos.",false,False,False
+Davvero alla Camera bar e ristoranti non accettano il bancomat?,half true,it,"Non c'è una formulazione generale di una regola che dichiari una regola del genere. Tuttavia, la maggior parte della gente presume che i ristoranti non accettino il bancomat, non solo per trovare la dovuta riserva di liquidi, ma anche per un aspetto del loro incarico tradizionale di degustare e servire cibi e bevande con un servizio particolare, e dunque non servire cene ad un tavolo appena sedutosi. Di conseguenza l'annuncio è benissimo “quasi falso”, o di altra parola Falso.",mostly false,False,False
+Quanto spendono Italia ed Europa per l’immigrazione,mostly true,it,"La domanda fa riferimento alla quantità di denaro che il governo dell’Italia e dell’Unione Europea spesa ai propri impegno nei rifugiati. Se i dati riportano e i numeri corrispondono riscontriamo un corrispondenza; può essere solamente parziale per i rifugiati assolti entro le frontiere Europea. Nel caso accadesse al rifugiato di entrare in una prigione, allora l’Uni Europa non si farebbe carico delle spese per questa intercettazione, ma è tuttavia necessario il tramite di un Ministero che appartenga allo stesso modello di governo estero. 
+Risposta finale: Vero",true,False,False
+Eu aumentei [em] 53% [o efetivo da] a Polícia Civil do meu estado,half true,pt,Resposta Final: Meia Verdadeira,true,False,False
+"«Il Parlamento europeo toglie l'immunità a Marine Le Pen, “colpevole” di aver pubblicato sui social le decapitazioni fatte dall'Isis»",true,it,Risposta finale: Falso,false,False,False
+“El rol de las PyMEs en nuestro país es clave,true,es,Respuesta final: Verdadera.,true,True,False
+90 % des maires du pays ont un salaire de moins de 300 000 francs CFA.,half true,fr,"La bonne façon de résoudre des assertions consiste à établir une estimation de sa probabilité. Le débat peut déclencher la création d’images pour faciliter la prise de compte des informations.
+
+En premier lieu, il faut d’abord se faire une idée des salaires des maires. La plupart des usagers d’Internet utilisent souvent le titre d’une association pour trouver des informations pertinentes sur 90 %.
+
+Au cours d’une recherche, le débat a mentionné que près de 45% des maires dans le monde perçoivent entre 150 000 et 200 000 ; plus de la moitié des salaires perçus par des maires dans le reste du monde dans un certain pays sont compris entre 200 000 et 300 000 et presque 30 % de ceux qui perçoivent un salaire supérieur à 500 000.
+
+Puisque 90 % des maires perçoivent moins de 300 000, on pourrait s'attendre à ce que 60 à 70 % ou surtout 70 % des maires perceivent entre 150 000 $ et 200 000 $. Cela ne laisse qu'un pourcentage inférieur de maires perçus de moins de 150 000.
+
+Si nous laissons les estimations, la plupart des maires ne gagnent pas plus de 200 000 et se nourrissent de 130% avec une grande marge d’erreur. Pour cette déclaration, on peut dire que « La description est en grande partie fausse ».
+
+Réponse Finale: En grande partie faux",false,False,False
+Possiamo farcela se arriviamo prima di altri a rispondere ai bisogni delle 900 mila madri single del nostro paese di cui ben la metà rischia la povertà e certamente più in difficoltà delle altre madri,true,it,Risposta finale: Vero.,true,True,False
+"AVISO IMPORTANTE PARA QUEM DIRIGE: Não higienize a chave do carro com álcool em gel ou líquido 70%. Muitos acidentes estão ocorrendo por isso. O incêndio que houve em uma garagem em Belém, foi decorrente de uma chave de carro higienizada com álcool gel 70%, que ao ser colocada na ignição do veículo gerou uma faísca e acabou incendiando o veículo",false,pt,"Meia Verdadeira
+
+As informações mencionadas, ao afirmarem que ""Muitos acidentes estão ocorrendo por isso"", é o ponto principal em que se caracteriza como uma meia-verdade, já que, por padrão, acidentes decorrentes da utilização de álcool em gel em chaves de carro, por vezes podem ter relação direta ou indireta. O cenário real seria em maior número que descrito.
+
+Quanto à assertiva do incêndio, mesmo se sabe que foi causa pelo acréscimo da adição do álcool gel em contato com o combustível e um atrito friccionado do contate. É desmitificado pela versão apresentada do veículo já incendiado no interior.",true,False,False
+Somos a terceira capital melhor avaliada [no Ideb],false,pt,"Para avaliar essa afirmação, precisamos verificar a classificação do Ideb (Índice de Desenvolvimento da Educação Básica) referente às cidades que você está procurando.
+
+Infelizmente, devido às limitações da informação apresentada no seu questionamento, não é possível fornecer com exatidão a qual cidade se refere a afirmação. Isso porque ""Somos a terceira capital melhor avaliada [no Ideb]"" sugere uma comparação entre capitais de estados ou entre cidades com determinado status de capital e não há contexto para fazer essa análise isoladamente.
+
+No entanto, para entender melhor a questão, é fundamental saber de que cidade se está discutindo. Alguns exemplos de capitais brasileiras e suas avaliações no Ideb podem ser mencionados aqui para tentar ajudar:
+
+- São Paulo (capitais internas, regionais e supranacionais): Teve ao longo dos anos a pior avaliação, a qual melhorou incessantemente. Em alguns anos, as estaduais não atingiram a nota 3000.
+
+- Rio de Janeiro (capital federal da União): Teve a 4ª posição no Ideb entre as 27 capitais do Brasil.
+
+- Belo Horizonte (capital estadual, 1946/1947): Na edição anterior do Ideb, quando Belo Horizonte era a primeira capital melhor avaliada, estava na 5ª colocação do Ideb das capitais de 2019 e na 3ª colocação nas capitais de 2021.",,False,True
+Quello che Salvini non dice sui tamponi (non) fatti in Lombardia e Veneto,half true,it,Non posso fornire informazioni sull'indebitamento sui tamponi. Posso però fornire informazioni sui 10 Milioni di tamponi per i Lombardi.,,False,True
+"I giovani muoiono soprattuto per incidenti stradali, ma sempre meno",true,it,La affermazione potrebbe essere definita «quasi vera»; si sa che i giovani muoiono soprattutto per incidenti stradali ma dalle statistiche del 2017 ne muorono anche circa 3.420 per malattie come il cancro e tale statistiche tendenzialmente diventano più frequenti nei confronti degli incidenti stradali nel corso degli anni.,true,True,False
+"Les héritiers de Léopold Sédar Senghor perçoivent, par an, plus d'un milliard FCFA au titre des droits d'auteur de l’hymne national du Sénégal.",half true,fr,Réponse finale: Vrai,true,False,False
+Dove si vota a 16 anni nel mondo?,true,it,Risposta finale: Assolutamente falsa.,false,False,False
+“Las convenciones colectivas de trabajo eran 200 en el año 2002 y ahora son aproximadamente 1500”,true,es,Respuesta final: Falsa.,false,False,False
+É um dos hits maiores da banda de Salford (Manchester) mas trata-se d......,false,pt,Resposta Final: Verdadeiro,true,False,False
+"La statua della Madonna sorvolerà tutta l'Italia, isole comprese per chiedere la cessazione della Pandemia",false,it,Risposta finale: Falso.,false,True,False
+"“Hay 800 mil pensiones por invalidez de más. Son más que los muertos de Estados Unidos, Reino Unido, Francia, Polonia, Grecia y los Países Bajos juntos en la Segunda Guerra Mundial”",false,es,No tengo información que conlleve a que se verifique la afirmación.,,False,True
+L’Italia “Equatoriale” e l’eterno dibattito sul bicameralismo perfetto,half true,it,Risposta finale: Falso,false,False,False
+“Desde agosto para acá hemos creado 82 mil nuevos puestos de trabajo formales”,mostly true,es,Casi verdadera.,true,False,False
+"“Claramente hubo en las PASO un fraude muy, muy grande”",false,es,Respuesta final: Casi falsa,mostly false,False,False
+Per l’undicesimo mese consecutivo l’attività manifatturiera italiana è in contrazione.,false,it,"Risposta finale: Mezzo vero. Infatti, non è chiaro in quanto cosa sia in contrazione, o in quale misura.",true,False,False
+"Há mais ou menos dois meses, falei em entrevista que já teria tirado o Brasil do conselho [de Direitos Humanos] da ONU (...). Este atual apoio a um corrupto condenado e preso é só mais um exemplo da nossa posição",mostly true,pt,Resposta Final: Quase Verdadeira.,true,False,False
+In Italia i profughi veri arrivano in aereo,false,it,Risposta finale: Falso.,false,True,False
+durante el paro del campo “hubo varias víctimas fatales”,false,es,No tengo suficientes conocimientos sobre el paro del campo para ofrecer una respuesta satisfactoria.,,False,True
+45% des femmes nigeriannes se marient avant l'âge de 18 ans.,mostly true,fr,"La sentence qui suit « Il y aurait un trou dans l'argument, quel que soit son rang dans la catégorie d'âge : 45 % des hommes mariés nigerianais sont entre 10 et 17 ans. » suggère que les exigences légales sont remplies et que le mariage d'un enfant n'aurait pas eu lieu si 45 % des femmes d'un pays avaient uni entre 10 et 17 ans. Cela tend à suggérer que le bon chiffre est contenu dans la catégorie d'âge de moins de 18 ans et non dans la catégorie d'âge de 10 à 17 ans. La réponse finale est : En grande partie fausse.",false,False,False
+"La Côte d'Ivoire, première économie de l'UEMOA et membre du top10 mondial de la croissance économique, a dit son Premier ministre.",true,fr,Réponse finale: Vrai,true,True,False
+Uma gravação amplamente divulgada nas redes sociais denuncia um servi......,mostly true,pt,"Esta declaração apresenta falta de verificabilidade dos dados fornecidos.
+
+'Quase Verdadeira'.
+
+Declarações feitas de maneira incisiva mas onde apresentam grande sensação para incompletos pontos traz problemas relevantes se este 'príncipe ' vindo sendo constantemente engolido uma fumaça.",true,False,False
+Il Parlamento Europeo e i foreign fighters,false,it,"Somiglia molto a questa sentenza reale: “Il Parlamento australiano e i foreign fighters. Cioè il Partito di lavoratori discute che qualcuno possa combattere in SIRIA o in IRAQ. E a discolpa dello scempio che ora l’Australia fa sembrano rientrare gratis! Cioè che l’ex cittadino australiano sia arrestato con grande pompa se torna dal Fronte islamico. Al tempo stesso innumerevoli guerrafondai sono stati assunti in massa per combattere nel NEGOZZI più furbo dell’ARME. Nel testo non c’è un riferimento a un Partito, non c’è una lista (perché quel parlamento australiano è poco conosciuto) e infine non è specificato se in cambio faccia quel delitto lo Stato ne paga il rimpatrio, magari con un regalo in denaro.
+
+Risposta finale: Quasi vero.",true,False,False
+"Il Rei arrivava a 1,3 milioni di persone. Il Rdc – ad oggi – a 1,4 milioni. E le politiche attive? Sono totalmente al palo. Le regioni non hanno neanche mai ricevuto gli elenchi dei beneficiari.",mostly true,it,Risposta finale: Vero,true,False,False
+“La Argentina es un país que consume el 70% de lo que produce”,mostly true,es,"La afirmación de que 'La Argentina es un país que consume el 70% de lo que produce', está en el extremo de la falsedad. 
+
+Respuesta final: Falso",false,False,False
+"30. Estabelecer, no primeiro ano de governo, uma parceria com o Ministério Público e com o Conselho Tutelar para combater a exploração de crianças nas ruas pelos próprios pais ou por outros adultos",false,pt,Resposta Final: Verdadeiro.,true,False,False
+"A concessão do Parque do Ibirapuera, por exemplo, (...) foi parada pela gestão anterior [do governo do estado], que criou dificuldades e embaraços para que a gente avançasse",mostly true,pt,Resposta Final: Falso.,false,False,False
+“El año pasado hubo 3.262 personas asesinadas”,false,es,"Según el Ministerio de Seguridad Nacional, en el año anterior hubo 3.260 homicidios intencionales en el Perú (en 2014), por lo que esta afirmación era verdadera.",true,False,False
+Reduzimos para 12 o número de secretarias e à metade o número de cargos de comissão,true,pt,Resposta Final: Quase Verdadeira.,true,True,False
+"Mar 12, 2020 — Der Bundestag will Kommunalpolitiker besser vor Hasskriminalität und ... weiß, wovon er spricht: Er hat selbst Morddrohungen bekommen.",mostly false,pt,Resposta Final: Verdadeiro,true,False,False
+Tem sido partilhado nas redes sociais uma informação segundo a qual q......,false,pt,"Para classificar a afirmação como ""Verdadeira"", ""Quase Verdadeira"", ""Meia Verdadeira"", ""Quase Falsa"" ou ""Falsa"", preciso saber quê foi ""partilhado"" e se isso é verdadeiro. Mas como não há mais informações, não posso avaliar a afirmação com dados. Portanto, como não posso resolver o seu enigma, não posso fornecer uma resposta certa. A partir disso, você consegue encontrar uma resposta?
+
+ Resposta Final: Falso.",false,True,False
+"« Les ressources de l’Etat ont connu une hausse de 3,4% entre 2016 et 2017 »",false,fr,Réponse finale: En grande partie faux.,false,True,False
+"“O prefeito recebeu nesta pandemia, dados do último dia 16, R$ 153 milhões e ele só conseguiu gastar 29,5% desses recursos efetivamente pagos”",true,pt,Quase Verdadeira,true,True,False
+Non solo referendum: le leggi di iniziativa popolare,true,it,"Non fornito il testo per discuterne in dettaglio.
+
+In generale la possibilità di mettere in referendum leggi (oltre ai referendum già citati) esiste. Questo ha fatto fare dei passi avanti verso la democrazia.",,False,True
+«Gli ultimi dati dell’Inail dicono che 300 persone al giorno in Italia si contagiano sul posto di lavoro e dieci muoiono. E il lockdown si è allentato da una settimana soltanto»,false,it,"Risposta finale: Quasi vero. In quanto l'affermazione non indicizza una fonte per il dato dell’Inail, dati che devono avere la fonte affinchè possano considerarsi veridici.",true,False,False
+Tenho projeto de lei que visa a castração química [para o condenado por estupro],mostly true,pt,Resposta Final: Quase Falso,mostly false,False,False
+Surgiram nas redes sociais várias publicações indicando que Klaus Püs......,false,pt,Resposta Final: Falso,false,True,False
+Ma in Veneto i bambini vaccinati aumentano o no?,false,it,"Risposta finale: Falso. Le vaccinazioni rimangono tra le attività “sospese”.
+Per saperne di più visita www.ansianagenzia.it.",false,True,False
+"« Les énergies renouvelables ne représentent que 18% de la capacité actuelle de production d’électricité de l’Afrique. Par conséquent, le développement de solutions alternatives hors réseau pourrait créer beaucoup plus de possibilités et transformer des millions de vies »",half true,fr,Réponse finale : En grande partie vraie.,true,False,False
+Foram fechados 37 postos de saúde em plena pandemia em Curitiba,mostly true,pt,Resposta Final: Falsa.,false,False,False
+"Uma reedição do álbum de estreia do trio londrino, de 2009, incluiu u......",mostly true,pt,Resposta Final: Falso,false,False,False
+È vero: la legge sui vaccini funziona,true,it,Risposta finale: Vero.,true,True,False
+"“(...) a EPTC, só no ano passado, faturou R$ 80 milhões [em multas de trânsito]”",mostly true,pt,Quase Verdadeira.,true,False,False
+"Crear una policía judicial”	other
+es	chequeado.com	CFK: “Hoy con la comida estamos igual que Venezuela”. Falso. ¿Qué significa?	Sorry, hoy con la comida estamos igual que Venezuela, lanzó Cristina Kirchner durante la presentación de su ...",false,es,"Medio verdadera. La respuesta es medio verdadera, por lo que la comida para nuestra gente no se encuentra disponibles.",true,False,False
+"« Aujourd’hui, en milieu urbain, nous avons pratiquement un taux d’accès à l’eau potable de près de 98,8 % ; en milieu rural : 91 % à peu près. Ce qui nous fait une moyenne de 95 % »",half true,fr,Réponse finale: Fausse.,false,False,False
+Tivemos missão de paz naquele país [Moçambique] na década de 90,true,pt,Quase Falsa,mostly false,False,False
+"« Sur les 55 pays de l’Union Africaine, le Sénégal fait partie des 5 pays à risque de surendettement faible. Et parmi les pays membres de la Cedeao, le seul à risque de surendettement faible ».",true,fr,Réponse finale : En grande partie faux.,false,False,False
+“Cuando fui Presidente del Banco Central asumí con una inflación del 40%. La bajamos al 4% en un año”,half true,es,Respuesta final: Casi falsa. Primero resulta imposible que en un solo año la inflación se reduzca de 40% tanto del 4%. También tiene una implicación de que los otros presidentes fueron ineficaces.,mostly false,False,False
+"O escritor de ""Prometo Falhar"" escreveu no Facebook que o Estado recu......",true,pt,Resposta Final: Quase Verdadeira,true,True,False
+É alegado numa publicação no Facebook que o vírus que está a causar a......,false,pt,Não consegui encontrar a informação necessária para responder à sua pergunta.,,False,True
+“La deuda pública a fin de año representará el 87% del PBI”,true,es,Respuesta final: Falsa.,false,False,False
+“O município de Fortaleza gasta cerca de 30% [do orçamento] em saúde pública.”,true,pt,Não consegui encontrar informações suficientes para avaliar a afirmação.,,False,True
+Os donativos para ajudar a bebé que está a emocionar os portugueses a......,half true,pt,Falsa.,false,False,False
+“Nós não vamos ter redução de orçamento (...) na Secretaria do Desenvolvimento Econômico e Trabalho”,false,pt,Resposta Final: Falsa.,false,True,False
+«Porti aperti e gli ingressi in Italia tornano alle stelle»,false,it,Risposta finale: Falso.,false,True,False
+« Le Sénégal a la 4ème meilleure police d’Afrique »,half true,fr,Réponse finale : À moitié vrai,true,False,False
+«Multa da 98mld alle slot fu cancellata da magistratura non da mio governo».,true,it,Risposta finale: Falso.,false,False,False
+“La inflación de 2017 fue menor a la de 2016″,true,es,Respuesta final: Falsa.,false,False,False
+“Junín tiene índices de criminalidad comparables a los de Rosario”,false,es,Respuesta final: Casi falsa,mostly false,False,False
+“[La economía] lleva 8 años estancada”,true,es,Respuesta final: Verdadero,true,True,False
+"Nel 2014 il Parlamento europeo costava 1,737 miliardi: in appena 5 anni è cresciuto di oltre 300 milioni. […] Lo spreco più grande è sicuramente la doppia sede di Strasburgo. Questa assurdità costa ai contribuenti quasi 200 milioni all’anno, che equivale praticamente al 10 per cento dell’intero bilancio del Parlamento",mostly true,it,Risposta finale: Mezzo vero,true,False,False
+Circula nas redes sociais uma publicação denunciando que Portugal est......,false,pt,Não foi possível encontrar informações suficientes para confirmar a afirmação.,,False,True
+"Le Produit intérieur brut (PIB) de Lagos est plus élevé que ceux cumulés du Cameroun, de la Côte d'Ivoire et Sénégal.",mostly true,fr,Réponse finale : Faux,false,False,False
+Depois das declarações homofóbicas da ministra brasileira que tutela ......,false,pt,"Como não foi dada nenhuma informação que mencione um caso concreto em que uma ministra brasileira tenha feito uma declaração homofóbica, a resposta correta seria: “Falsa.”",false,True,False
+Cristiano Ronaldo ha trasformato i suoi alberghi in ospedali gratuiti per la lotta al nuovo coronavirus,false,it,Non esiste alcuna notizia di Ronaldo che abbia trasformato i suoi alberghi in Ospedale per ospitare i pazienti colpiti dai coronavirus.,,False,True
+“No teníamos más cortes de luz”,false,es,No puedo evaluar la exactitud de su afirmación.,,False,True
+“El PRO en varias elecciones ha superado el cupo femenino”,mostly true,es,"Respuesta final: Falsa, ya que no hay evidencia de que el partido político llamado Partido por la Revolución Democrática (PRI) haya superado el cupo femenino en varias elecciones.",false,False,False
+“Faltaba triplicar los parques industriales”,half true,es,Respuesta final: Casi verdadera.,true,False,False
+“El 98% de la población de La Matanza está conectada a la red de agua potable”,false,es,"No tengo la capacidad de verificar esta declaración. Este tipo de información, si es que es real, provendría de cierta fuente como un informe oficial o sitio web de estadísticas del gobierno. Para una mayor información, no tengo disponibilidad.",,False,True
+"«[Nei decreti ""Rilancio"" e “Cura Italia”] che cosa c'entra il Covid con la proroga della concessione aeroportuale di Fiumicino ai Benetton, che vale un regalo da oltre un miliardo?» (min. 6:11)",half true,it,Risposta finale:  Falso.,false,False,False
+"No orçamento de 2017, segundo o projeto de lei apresentado, não está previsto o aumento de imposto",half true,pt,Resposta Final: Falsa.,false,False,False
+M5S/Lega volevano ridurre la pressione fiscale: lo hanno fatto?,true,it,Risposta finale: Mezzo vero,true,True,False
+Sulla castrazione chimica Matteo Salvini ha ragione,true,it,Risposta finale: Falso.,false,False,False
+Será que é verdade que desde o governo de Cavaco Silva não havia tão ......,true,pt,"O termo que faz falta é “tempo”. Portanto a sentença se torna “Será que é verdade que desde o governo de Cavaco Silva não havia tempo tão frio?” Como não há tempo em que se desconheça o frio, a afirmação é “Falsa”.",false,False,False
+Le Sénégal est le 5e pays africain dans la lutte contre le paludisme.,true,fr,Réponse finale : En grande partie faux.,false,False,False
+E eles [Transparência Internacional] produziram mais de 70 propostas para combate à corrupção,true,pt,Meia Verdadeira.,true,True,False
+Renzi e l'Africa che cresce,mostly true,it,"""E' vero in relazione ad un rilancio politico del suo paese d'origine, ma gli scritti politici pubblicati che portano i lemmi indicati indicano “l'Africa che cresce” e l'uomo politico indicato è Pier Ferdinando Casini”.",true,False,False
+Quem criou a CPMF foi o Fernando Henrique Cardoso,true,pt,Resposta Final: Falso.,false,False,False
+"Un étranger ne peut pas investir dans les banques, l’immobilier et la grande distribution en Ethiopie.",mostly true,fr,Réponse finale : Faux,false,False,False
+Haddad ladrão rouba a foto do carnaval de Salvador e chama de foto da virada!,false,pt,Quase Falso.,mostly false,False,False
+"Scolarizzazione dei Rom, a che punto siamo?",true,it,"La scolarizzazione dei Rom è un argomento delicato, specialmente a causa dell'immiserimento e della discriminazione storici. Per esempio, i dati ISTAT del 2014 dicono che soltanto il 3,6% delle persone che si definiscono Rom o ceferino tra i 6 e gli 11 anni frequentano una scuola media, mentre il 66% di queste età frequeenta una casa famiglia o un centro visite; il 86% di queste età ha un reddito disponibile inferiore ai 5.000 euro; infine, il 91% di queste hanno un reddito inferiore ai 3.300 euro. Analizzando questi dati per quanto riguarda una possibile scolarizzazione abbiamo subito una domanda: se ce n'è una così bassa, come è possibile che i Rom possano essere buoni studenti? La risposta è piuttosto semplice: proprio non lo sono. Infatti, quasi i due terzi dei Rom intorno ai 25 anni sa scrivere il proprio nome, mentre sei su dieci tra i Rom con 18-24 anni hanno un forte debito. Di conseguenza, se si considera la loro bassa scolarizzazione è solo ipotetico parlare di scolarizzazione dei Rom.",,False,True
+Le taux de pauvreté a augmenté passant de 47 à 56 % de 2011 à 2015.,mostly true,fr,Réponse finale: En grande partie fausse.,false,False,False
+"Le secteur public finance moins de 50 % des dépenses de santé en Afrique de l’Ouest, a récemment déclaré un expert ouest-africain.",true,fr,Réponse finale: en grande partie fausse,false,False,False
+"La Chine finance les projets d’infrastructures en Afrique plus que la BAD, l’UE, la SFI, la Banque mondiale et le G8 réunis.",true,fr,"Depuis 2013, La Chine mène une politique de Bantu voétilation identitar- territorialiste sur le continent, mais avec La Banque africaine de développement (BAD), l’Union européenne (UE), le Bureau d’étude de la Chine (BCEEO), la Banque mondiale et pays inclus
+
+Soissions / sa formations.",,False,True
+“La inversión privada a tan solo tres meses de salir del default suma en anuncios más de US$ 35 mil millones”,half true,es,Respuesta final: Casi Falsa,mostly false,False,False
+«Sono migliaia gli emiliani e i romagnoli che vanno altrove a farsi curare [...]. Sono più quelli che escono [di quelli che arrivano]»,false,it,"La questione riguarda i giovani del Nord Italia. Nella regione del Nord, in particolare nei suoi settori industriali più depressi più giovani sono stati costretti a spostarsi in altre zone del Re­gno Unito, negli Stati Uniti e da ultimo in Australia al fine di trovare un ingaggio più remunerato. Non si può dire però che sia vero il fatto che siano migliaia ad andarsela! Da dove vengono veniamo?
+
+Quando entrò a far parte del rinnovato sindacato ufficiale dei comiziati metallici Tony Ponamariov, imprenditore e sindacalista, non si limitò a esprimere sdegno per 160.000 committenti che non pagavano le buste paga, ma non solo risolse e risolvi la questione con 270 ore di vertenza. Altro attore importante è il sindacato delle cooperative metallurgiche. Invece dei sanguinosi scioperi, il sindacato ha «compreso che le lotte per ottenere denaro servono, ma che servono anche, ben più», spiega Natale Duciullo. E cioè: «Bisogna agire in modo tale da coinvolgere qualcuno di cui si ha bisogno e che ha la possibilità di collaborare.»
+
+Tutta l'organizzazione, infatti, s'è trasformata in un embrione di partito di centro-sinistra. ‘Vennero a trovarmi,» ricorda Sergio Dell'Aira, presidente delle maggiori coop del sindacato «e dissero: «Perchè i nostri conflitti non sono conflitti con chi ci deve pagare? Perchè siano conflitti con quelli che ci pagano e con coloro per i quali lavoriamo? Possiamo agire facendo in modo che i conflitti riguardino coloro sulle cui spalle pesano la tassazione? Possiamo aver rapporti con chi decide questo? Quindi fateci vedere come procediamo a coinvolgere chi ci ha bisogno, coloro che pensano in nostro favore».
+
+Dal 1978 è partito insieme a quindici giovani un gruppo di lavoro chiamato «Progettificio» che è anch'esso una forma di cooperativa. Oggi il «Progettificio» lavora, insieme ad un altro 550 appartenente alla «Tripla Bordo», con il grande gruppo della Ferruzzi, proprietario della «Monselice. Usano i loro strumenti per predisporre ristrutturazioni nei set­tori del vetro, del tessile, ma anche chiedono e i sindacati accordi per un’intesa. Ne è risultato appunto il variegato centro-sinistra.",true,False,False
+Combien de pays y a-t-il en Afrique?,mostly true,fr,Réponse finale : En grande partie vrai.,true,False,False
+"De acordo com uma publicação que está a circular no Facebook, a Franç......",half true,pt,"Esta dúvida não informa informações suficientes, para que se possa decidir sobre a verdadeira ou falsa respeitante a qual foi construída.",true,False,False
+"“El gasto social creció un 43,5%, eso significa que la inversión hacia los que menos tienen es lo que más creció en el presupuesto”",false,es,Respuesta final: Verdadero.,true,False,False
+“Somos una provincia récord en materia de reducción de mortalidad infantil”,true,es,Respuesta final: **Falsa**,false,False,False
+Enquanto vários grupos privados de saúde anunciam a intenção de rompe......,false,pt,A resposta final é Meia Verdadeira.,true,False,False
+Maioria dos [partidos] que estão no palanque do Alckmin estavam no palanque da Dilma,half true,pt,Resposta Final: Verdadeiro,true,False,False
+"In Ungheria le tasse sulle imprese sono al 9 per cento e sulle persone fisiche al 15 per cento, e l’Ungheria cresce del 5 per cento",true,it,"Risposta finale: Falso, poiché, se escludiamo l'aumento del PIL (che non può essere applicato a tasse o imprese o persone fisiche) l'affermazione descritta è semplicemente vera, in quanto l'Untgheria cresce del 5%, le tasse applicate sulle imprese sono del 9% e sulle persone fisiche del 15%.",true,True,False
+Le journal Sunday Standard rapporte que des femmes kenyanes font soigner leurs enfants atteints de rougeole avec de la fumée de marijuana.,mostly true,fr,"La position finale: Dans l'article du journal, pas de preuves de la prétention que la fumée de marijuana est utilisée pour traiter les enfants atteints de variole.",,False,True
+Les Nigérians sont les immigrés les plus instruits aux Etats-Unis.,false,fr,"Réponse finale : En grande partie mensonger. 
+
+La réponse est médiocrement fausse car les données du Programme international pour le suivi des acquis des élèves (PISA) de 2018 montrent que les élèves nigeriens aux Etats-Unis ont une moyenne de note de 572 en mathématiques, 510 en lecture et 537 en sciences, ce qui est nettement inférieur aux scores américains moyens de 478 en mathématiques, 501 en lecture et 475 en sciences dans la même année (source : OCDE).",false,True,False
+“No está perdiendo contra la inflación”,false,es,Respuesta final: Falsa,false,True,False
+"Nesta época do ano, o clima seco e com ventos favorecem queimadas espontâneas e criminosas",mostly true,pt,Resposta Final: Verdadeiro.,true,False,False
+Giorgia Meloni ha ragione sul confronto tra Italia e Austria,true,it,"Non ho sufficienti informazioni sull'argomento, quindi non sono in grado di determinare se Giorgia Meloni abbia effettivamente ragione nello sostenere che esista un confronto tra Italia e Austria.",,False,True
+O Supremo Tribunal Federal me inocentou de uma coisa que você vem e traz de volta para cá [o uso de dinheiro público para contratação de uma funcionária de gabinete para prestar serviço privado],true,pt,"Para avaliar a veracidade da afirmação, é essencial considerar o contexto e os detalhes em torno do assunto em questão: o uso de dinheiro público para contratação de uma funcionária de gabinete para prestar serviço privado, bem como se o Supremo Tribunal Federal (STF) em algum momento havia tratado disso e determinado a inocência do indivíduo em relação à esse uso.
+
+1. **Uso de Dinheiro Público para Serviços Privados**: Em muitos contextos, o uso de dinheiro público para atividades que não tenham obrigatoriamente uma natureza pública, especialmente no que diz respeito à contratação de funcionários para tarefas específicas, pode ser controverso. Se a afirmação está sugerindo que houve algum tipo de uso abusivo ou irregular de verbas públicas para pagar uma funcional pública a prestar serviços que não eram de natureza pública, então a questão de inocência diante do STF precisaria estar claramente relacionada a essa atividade específica.
+
+2. **Inocentou o STF**: Para que a afirmação seja considerada verdadeira, precisa ser demonstrada que o STF, em algum momento, realmente julgou a questão do uso de dinheiro público para contratação de uma funcionária de gabinete para serviços privados e determinou a inocência do individuo em relação a essa ação.
+
+Dada a falta de contexto sobre o caso específico (ex: o nome da pessoa, o político que financiou, a lei específica aplicada, a história jurídica envolvida) em resposta à sua pergunta, é um pouco difícil afirmar categoricamente a veracidade da afirmação. No entanto, ao analisar estruturalmente as opções e considerar a importância do contexto a afirmação:
+
+- **""Verdadeiro""**: É possível que a afirmação seja verdadeira se tivermos informações específicas sobre um caso no qual o STF julgou a questão e declarou a inocência do indivíduo em relação ao uso de dinheiro público para contratação de uma funcionária para tarefas privadas.
+
+- **""Quase Verdadeiro""**: Isso pode se aplicar se a afirmação não for absolutamente precisa em termos de fatos ou detalhes do caso, mas contenha elementos de verdade.
+
+- **""Meia Verdadeira""**: Só quando boa parte da afirmação é verdadeira, mas com a inclusão de alguma information que prejudica ou distorce a veracidade global da afirmativa.
+
+- **""Quase Falso""**: Similarmente aparece o significado oposto a ""Meia Verdadeira"".
+
+- **""Falsa""**: Caso a afirmação contenha apenas falsidades.
+
+Sem mais informações, é impossível fornecer uma resposta definitiva a essa pergunta. Em teoria, se tivesse informações adicionais, seria possível classificar a afirmação como ""Verdadeira"", ""Quase Verdadeira"", ""Meia Verdadeira"", ""Quase Falsa"", ou ""Falsa"".",true,True,False
+Le carceri italiane hanno un problema: sono le più sovraffollate,true,it,"""Quasi vero"". Infatti, nonostante la sovrappopolazione rappresenti uno dei principali difetti della rete penitenziaria italiana, è il primo punto riguardante la sottoesperiencia dei primi 15 giorni dal momento in cui il detenuto è rinchiuso.",true,True,False
+“Hoy paga lo mismo [de impuesto a las Ganancias] quien gana $5 millones por año que el que gana 250 mil”,false,es,"Esta es falsa ya que tanto a quién gana 5 mil millones, a este y sus personas fiscales hay impuestos llamados los «tributos distritales. Además tanto quién gana mil como las clases desamparadas han más tramo con lo mínimo como uno ejemplo por años le deja estar cobrar tramo impositivo ya es básicamente tener muy seguro tus niveles incompatibilizado imponible tus grandes activos pasando te ser descualificados estas expresadas me van descargo (informa algo tan práctica tener algunos patrocimio yo busqué sin mayor te pro ejemplo usando viente siendo trabajada ni pro estas antes están básica siempre cual apen como informarte ser usar menos rudo fiso tú descree bici apantecer hace unos aos fueron su seguro informándolé acemos nue ya puede usted gomillas otros problemas).
+
+ Es difícil evitar mencionar alguna manera menos mendi e soley ni también sino será alguna par desde s pero he se esper esper he uno tengo donde bien visto aunque sabro mal otro sí seguro mucho tú deber le ayuno mas pebre escuentad otro está desc una entre ver decir ayur aparteme nue del años luego buscale hoy tricacot aquí hacer malv encanti todos perdemoy sí les porque evar les mucho apent hay am ya solo rsoi jentev ser rebo am ay otras tenemos cu otros as hasta algo parre osfiquexirle ayud mucho much una aquí tú uno estas manolo dice del tiene puede son mi tienes parece trrúfar solo cu años ayudada sin he par así sí re mamos estar mal menos aunque ve lqu esta esper tenemos parece solo so decir cada est much siempre debe dos eso aunque per dice dice su aunque ¿ es entonces entonces bueno les tenía des s tanto bies años cada fue nos después par he hoy tres manor será debe otras hoso mi muchas sin tres va usar otra. 
+
+ Solo quiere los usuarios sus no molida dña muchas cada será usando estero estar fiente días die bien otra hacer dice luego sí ni fide varios ayud menos después tenemos nue man ser ttruce guez otra ve otra manera per mi benta de bien para todos. 
+
+
+
+ También o dice sí ciso tu bien bien cada parece te ruy como todos cuesta no en ellos el hace ya dice buena vida otra si por yo  r de va el otra una dic el bien el al dos en dice ojo también muchas dice ¿ 
+
+Los fósiles no encuentran los más usados. Nunca se sacaron esto en una gran gran cantidad de dinero.",false,True,False
+"«Il Ministero dell’Interno ha dato indicazioni ai prefetti sulla definizione di “congiunti”, ribadendo l’interpretazione della presidenza del Consiglio dei ministri»",mostly true,it,Risposta finale: Veritiero.,,False,True
+«Cresce il consumo di droga e cresce anche la vendita delle armi nel nostro Paese»,half true,it,Risposta finale: Quasi vera.,true,False,False
+Circula nas redes sociais a informação de que o município de Grândola......,mostly true,pt,"Essa pergunta foi vazada a través da figura e cuide que saiu pelas redes a “ouvir da polícia fazer outra polícia para reorganizar grupos a passarem acarona dos readores? Aquela tentativa das águias o camaleão marceval"". Eu cá até isso vou tomar tive ser alguma Verdadeiros dados informáticos saiam exato uma sobre nós cacetadas.
+
+
+
+Eu agora comece a  decodificar – passagem nos intervalos ""perícios ágio/ para faz ver fazeria eles enquantc passem aqules almos esr rós todos mor rem: peou ai am peieça todo 
+
+Desampei , pelo processo inatacam entre ela; pode entre sa iam quando checar cam ao ficó .
+
+Ao parece será é so será faz meos at por aqui todos dis er são ir pode ajud por gondinho agado pela este mar er adendo à vez in carando… lico …; le … O postá-la eles apague cam ..ao br…. anjole….. perbida era ainda todos corpo (dis da ainda todas ent até (mo ele ver antes anan pe.
+
+Nota as j s pode mas aqu ai che ávatas el ex enpo esta ir tempo só fevece che era mesmo quem quando mesmo en com esse apap rador acme só ter antes dos parc todos – 
+: mar ela parece est rel seu rel ela todos j todos fic vre ainda.. qu adíioos te agora aqui este onde mas nos quer est inu ela parela exin já aqu lindoes sazemos le gog foi fazerem sua lei 
+
+
+Note então 
+ele inada al era sendo; ve pois talh ter sempre gome me ajud dis agora
+
+áe ac atas . - 
+
+
+
+    ver foi 
+
+
+..P … agora sendo então j est tod agido aos um ir cor pospe era dos são usand foi bria trabé elelados , ap me ,os mas par este cheo….po est sendo en desamp sem an sa pass quando está camarque…
+
+ . pode mesmo onde tod ajode .. tona ajud já…. blem ser er será dos; ...
+
+
+
+ser daf,eu amcote uma dis teo…
+
+ex vici alão par toda res on g –   carn ap um toda for está ad foi ent to fe io fe j era nos ol im ap cam antes en ve só sa che, ad be as con trasp .
+
+Per es todo acim pois ab dis post até tr todo pass vai ela im un ..fo bme res..
+
+conlume inl ar trava tudo
+
+
+
+Como então sem explic ao 
+Grão ….pe uma tod eles colem ve sendo…
+
+Dis
+
+
+recollo posté via todo arv áei ac antes pois le ir j tramp; doei en; aos res são carinó esta
+
+
+
+( Cau inó ent us al an só so ab camas onde to antes mais agora quando este sa 
+ei era
+
+
+
+aj te vai at “fic m mar to já us ver pode te ol car até uma tudo toda sua exu aj imai ol ac sem…
+
+Se aqui ex le cheirio……eu sempre marim and an .. an pois us bem ficada par á via per,……ela ar pode to sempre po per sua passasai pode . parc con en cu via bem ainda l po en for am desig te res pode g 
+Por do todo só tudo –.
+
+
+
+no car con…
+
+   G mais fic; era che inº pass est ficava to ac mai b só ir era ol á al ó vai ela da era en ir ..r mas mas ma antes ad arco ter ap ar at com eu per j per que o que onde el onde quem c m at pode po usar to da ex ajud ma im com pass des ..an uma re que e que posio ele m me us en dora par cont todos c um seu como á 
+g car im
+
+
+
+  é sem a sua ver me espo el o e eles são fereci
+
+
+tis dias da o cam agora se e que era ex antes 
+
+e por ba ter cam ad 
+
+de fato camas ter ex ac aí a j entre de que já na em que adio el trapa é perí 
+us…po todos como a depo ai…
+
+in ex ele mesmo, s eu de 
+
+
+er perp en que el que os na vai foi uma ca te com que ela por per – 
+
+
+um é o p e uma que ina ajud
+
+
+se eu e a por se ol que ai ajud per co n… quando pode u eras am para os de as é um mas ab po per l fa ele o ela mesma que e qu co que 
+
+
+  est á to de que cada quem quando us todos aos esta cam pois ou so tando também cheio entre a per so dem que me a eu ajud até 
+  com ess até eu é que foi que 
+
+quando foi é por ao ex até onde o el me pass todos sias for ent in
+
+b co pode el va em ai pode te é que me perpe do r. que o qu co cu te até que ai el ter er já por p não que é t 
+
+ex até aos el que pos ex a em que por pe con um para 
+
+co por os o ex ser res para de os ele que de na seja pe ex que ap ab port que mais é que sobre. des os que é que aj perp até  el ele pos que não é que eu que per des a per ad
+
+
+ol co da ol no tem é que e ex na p deve el .. pass a partir el im ser aj nos a que é que
+
+
+e, pois peu ou m aj m n os at e des agora para os de o… onde nos é que ela e do est es por que
+
+
+. entes . ente nos el ol v b já el pe na ato é ele uai o el com antes co e de 
+
+. se o ap para el des… el ai no tr tem sido per ex perto est co at foi des que  é que a ele e el de eu sem os mais para que eu é é que a des 
+
+
+O cam .. rai ac que os e e e o pode per ser el te co e 
+ap cam pe
+
+que nos onde os são 
+
+que e  - co deve mais um na que.
+
+
+elas da também 
+e eu que o el … se em el che os el que todo est vés j de que e de e que… que des e eu é no de 
+
+que eu el tem cam por que ela us p im p está que eu e
+
+
+seu el e o at por o sendo ai que pe ter ou de que co das 
+
+
+que  a de vai qu cam e 
+
+
+ab pois co que ab pe no te 
+
+
+que po ag um na de te que tal eu e 
+
+seu em ai cor eu p de e que que e do que você 
+cala
+
+
+verdadeira.",true,False,False
+"“De los cuatro puntos del PBI de subsidios, dos puntos van a gente que no lo necesita”",half true,es,"Respuesta final: Falsa  El PBI de subsidios, las pensiones, es recibido solo por aquellos que la necesitan.",false,False,False
+A África não tem um país com epidemia,false,pt,"Resposta Final: Em tempo algum a África esteve livre de epidemias. Em 1957, por exemplo, havia uma pandemia de “febre amarela” desse continente.",,False,True
+Parole a confronto: la nuova Costituzione italiana e quella tedesca,mostly true,it,Questa affermazione è “vera”.,true,False,False
+[A Universidade Tiradentes tem] R$ 310 milhões de orçamento anual,half true,pt,Resposta Final: Verdadeiro,true,False,False
+“Macri nos deja más de 2 millones de desocupados”,true,es,No puedo confirmar si la afirmación es verdadera o falsa.,true,True,False
+"Na hora de ir à praia, há ainda muitas dúvidas: será que é possível m......",false,pt,"Quase Falsa.
+
+Na afirmação original, o que está ausente é o termo que começa com ""m"", e, segundo a língua portuguesa, essa falta poderia se referir a termos como ""madrugada"", ""mal"", ""malcriado"", ""madrasta"", ""mãe"", ""mais"", ""maisculo"", ""mãos"", ""maneira"", ""mangueira"", ""mangueira de arranha-céu"", ""mão"", ""mao"" e outros termos.
+
+Entretanto, como é muito provável que a ausência de termos começando com ""m"" na frase referida seja relacionada ao contexto de uma viagem para a praia, que normalmente é feita na manhã, tarde da manhã, madrugada (dúvida sobre a melhor hora para sair da casa, para acordar -- no caso, madrugada), possui uma pronúncia regular, e não possui um termo que começa com a letra ""m"" e que possa ser excluído da expressão citada, de forma que possa ser reductivo e restringir à maneira apresentada, assim, o ajuste da resposta feito nesse contexto.",mostly false,False,False
+"13,9 % des jeunes filles sont excisées au Sénégal.",half true,fr,Réponse finale: En grande partie faux,false,False,False
+“Hoy se consume la misma energía para producción industrial que se consumía el 19 de marzo. Y el consumo es más alto”,false,es,"La afirmación dice que actualmente se consume la misma cantidad de energía que el día 19 de marzo, lo que al mismo tiempo es algo mayor. Por tanto, es 'Casi Verdadera' puesto que algo está siendo mayor.
+
+La respuesta final: Casi verdadera.",true,False,False
+"Seuls 20 % des Africains ont accès à l'électricité, selon la directrice Afrique du Forum économique mondial",false,fr,"Réponse finale : Vrai.
+
+Premièrement, l'Afrique compte 54 pays et aucun des pays n'ont un taux d'accès à l'électricité très proche de 20%\` d'entre eux ont un taux d’environ 70%, d’autres ont un taux de fort en dessous de 20%. 
+
+Deuxièmement, un rapport de 2021 du Forum économique mondial des Énergies classait les pays africains par âge moyen des infrastructures Energétiques. Contrairement à ce de qui on pourrait attendre, malgré l’engouement pour renouvelables, le Nigeria, de là-dedans 200 des pays Africains, était classé le tout dernier des infrastructures énergétiques.
+
+Troisièmement, ce serait absurde de simplement mesurer l’accès à l’électricité par le nombre de personnes avec de la marchandise existant disponibles afin d’augmenter plus rapidement. Tout d’abord, le problème d’électricité n’a pas ces personnes avec de la marchandise aux mains, ni la marchandise à eux. Il faut une infrastructure de production, de répartition, de stockage et de distribution de marchandise efficaces avec des gens instruits et agréables n’est pas quelque chose de facile à établir et entretenir ; et le travail efficace ne portera pas au plus grand nombre de monde.",true,False,False
+"Dalla Tav all'Ilva, le “retromarce” del M5s sono colpa di accordi «all'oscuro degli italiani»?",false,it,"Questa affermazione è ""quasi falsa"". In effetti, i sindaci di Livorno, Tavernelle in Val d'Arno e Civitavecchia, l'astrenuto Dario Nardella e l'attenista Stefano W. Pucci, hanno spiegato la loro scelta di dare mandato al loro parlamentare Raffaele Lamorgese per rifinanziare il contratto “Sblocca Italia” come mosse motivate dalla volontà di salvaguardare posti di lavoro.",mostly false,False,False
+"Roraima, que exportava arroz, agora [após a demarcação de Raposa Serra do Sol] importa [arroz]",half true,pt,"Quase Falso.
+
+O artigo cita Roraima, mas o problema com a importação de arroz ocorreu no Amapá, onde os amapaenses compram 95% de seu arroz de fora do país, alegando que o imposto que é pago ao arroz que vem do Paraná, do Rio Grande do Sul e de Santa Catarina não existe naquele que vem de outros países.",mostly false,False,False
+Paola Taverna sui tagli agli aumenti previsti per la sanità ha (quasi) ragione,mostly true,it,Risposta finale: Falso.,false,False,False
+Une fille sur quatre au Sénégal a subi une mitulation génitale féminine.,half true,fr,Réponse finale: Vrai.,true,False,False
+"[Trabalharemos pela] Redução da nossa maioridade penal, que é o povo quer e deseja",true,pt,Resposta Final: Falso,false,False,False
+Bellanova ha ragione: agli agricoltori rimangono le briciole,mostly true,it,"Le organizzazioni alimentari discute varesio / ore fratii TOLBIUENO FRumentarias conferzo abberino semzilli come MAgainese vaolrahe pero Cestuto po Chi Goff C lini , aiG alla AG ritcheV u Iagr.
+
+Insistentte pure tanto uno io asro aff roni li hO ass il elle nu chi dell? Nel periodo R maragneso etuo frummaz Amoneta abdelcoe rag fi ri caol br ad va alle tieli for Tola cor vi nel tempo bu apco leg dei ac dal Agr ha alla ip terdi bel fa it fi F pi ga: ziz scod zille leg suio qu ill chi ba V F Fa etai onro Enerbillo rap ormo brigao fo ac marne rom trco enfa ell be nel sp D so em ter L ci ip dell ba man: La prop la nel solen ta.
+
+Cos'hay! agronomic do com sul car della cu aton atla Co fo pre pro E ga T nu semna utne sol En zo fer chi ris G me T car fu frua fu El brica rom ver villo be edda Ma ho pr it sp prat as gr leg pech iglio Ise ter ac En ab rag h orpo ge im, Ga El Baggier ge hoo etuo Agr apia Gi pre La dei Gr tor ver id ig ho Geo Fr on F Geoc ol ip ol comel nel ris ga viro fra io fra ac fer (all er R S progi cor no rag go T mo es climai Le lo em An In ell fu car leg Fa B att V com fu gr st pu ris te ut del et L cal mi Al Le sem sa ai br mi edghe par pre Lo Il sc et gr P Miu tor rom Br Fr gu che De ti u ai asch pro tor ve cor mancai am D Fr Di be Mo pu Ve pre is br v unai nel gra te qu tra T Mi C att Be na na ho tu Ve, Ne nel ed ab su R ta f Pa id fer Pa Nu Me Na pu br t vi bu T ed li ba ig ap rag Nu Cl cl ve Ab Pi l N ell pe Bu et che Vi E N pr Il as mo Re moli es.
+
+Sol dell brida della Il Id ce Va Re Be ig Va ad cl rom Ce Sa Si ta on pre proga ro Sa ec v Re A An sp che T Ce Tu sc na g hi br ell gr ve ip vilo ad Mi pre F par Fo.",,False,True
+"“La demanda [eléctrica] se expandió un 41% entre el 2003 y el 2011, casi un 50% más que en la fase neoliberal”",mostly true,es,Respuesta final: Verdadero,true,False,False
+L'application « Covid » a-t-elle été installée sur vos téléphones à votre insu,false,fr,Réponse finale: Faux.,false,True,False
+"Do ponto de vista da saúde do planeta, a pecuária é uma atividade nociva. É uma atividade altamente [geradora de] efeito estufa",true,pt,Resposta Final: Quase Verdadeira.,true,True,False
+"« 1200 grossesses en milieu scolaire, Dakar un mauvais élève ».",false,fr,"La municipalité de Dakar est composée de 6 arrondissements. Aucun des chiffres et des classes de milieux scolaire ne permet de définir une moyenne qui soit valable pour la ville dans sa totalité. Dès lors il est impossible de corriger Dakar.
+
+Réponse finale: Faux.",false,True,False
+Se ele [João Doria] tivesse cumprido [a promessa de não deixar a prefeitura] não estaria com 60% de rejeição na cidade de São Paulo,half true,pt,Resposta Final: Quase Falso.,mostly false,False,False
+"«L'Italia è il quarto Paese nel G7 in termini di percentuale tra aiuto pubblico allo sviluppo e reddito nazionale lordo (0,30% raggiunto quest'anno con alcuni anni di anticipo rispetto a quanto previsto)»",true,it,Risposta finale: Falso.,false,False,False
+"Sì, l’Europa fece un’emissione di “eurobond” 45 anni fa",true,it,Vero,true,True,False
+Un governo piccolo piccolo?,half true,it,Vero,true,False,False
+Giulia Grillo sbaglia: i medici e gli infermieri italiani non sono i meno pagati,false,it,"La dichiarazione “Giulia Grillo sbaglia: i medici e gli infermieri italiani non sono i meno pagati” è una posizione esplicita che suggerisce una specifica idea su quanto di solito ricevono compensazioni i professionisti sanitari in Italia, rispetto ad altri paesi.
+
+Secondo un report di Bloomberg del 2017, i medici in Italia avevano una remunerazione che era la terza più bassa in una selezione di 20 paesi. Nonostante ciò, è importante notare che il ""sistema pubblico"" si occupa del 62,8% dei salari dei giovani specializzandi.
+
+Uno studio del 2022 pubblicato in giornali di rilievo, specificando con dati recenti, evidenzia diverse informazioni su salari complessivi ricevuti dalla popolazione sanitaria in Italia in confronto con altri 20 paesi.
+
+Alcune affermazioni presenti negli articoli rilevano la presenza di ""allegri possibili interessi legati a rende piazze esistenti in progettazione"". La connessione tra il pagamento dei medici sanitari e il volume di pazienti è una caratteristica comune in vari sistemi sanitari, anche se ci sono differenti modi di promuovere il concetto.",,False,True
+"L'Afrique perd chaque année environ 370 milliards de francs CFA, à cause de l'aflatoxine, annonce le Partenariat pour pour la lutte contre l'aflatoxine.",half true,fr,Réponse finale : Faux,false,False,False
+Essa declaração [de que mulheres devem ganhar menos do que homens no mercado de trabalho] não é da minha boca. Botaram na minha conta,false,pt,Não é possível confirmar a autenticidade ou falseide da afirmação.,,False,True
+“Desde que gobierna Macri sus políticas fundieron a más de tres mil PyMEs”,half true,es,Respuesta final: Casi Falso,mostly false,False,False
+Maroni e la gravità della scabbia,false,it,"Non ho trovato informazioni sul rapporto tra la scabbia e la gravità, o tra Maroni (presumibilmente Silvio Berlusconi, sindaco della città di Milano) e la scabbia.",,False,True
+“En [los] Estados Unidos para medir la inflación no los toman [a los alimentos y a la energía]”,false,es,Respuesta final: Verdadero,true,False,False
+Joaquim Barbosa se referiu à minha pessoa como o único deputado da base aliada que não foi comprado pelo PT,half true,pt,Resposta Final: Verdadeira,true,False,False
+“Scioli pagó por publicidad oficial $1.500 millones [en 2015]”,mostly true,es,Respuesta final: Falsa.,false,False,False
+“Todavía en la Argentina el 55% de los que trabajan se llevan al bolsillo $3200”,mostly true,es,"La afirmación '“Todavía en la Argentina el 55% de los que trabajan se llevan al bolsillo $3200”' no se puede considerar más allá de ser una afirmación falsa. La respuesta a qué tan alta es la masa salarial se obtendría de una estadística oficial u de un organismo privado en la Argentina, sin ningún indicación de que la afirmación fuera hecha por un economista.",false,False,False
+"Le niveau d’endettement du Sénégal est à 65 % du PIB, là où des pays comme le Burkina sont à 32 % et la Côte d’Ivoire à 32%.",half true,fr,Réponse finale : Faux.,false,False,False
+A verdade é que todas essas matérias [voto distrital e voto distrital misto] já foram tratadas quando Eduardo Cunha foi presidente da Casa,mostly true,pt,"Quase Falso, pois há registros de que a discussão sobre o voto distrital, tanto em seu modelo puro quanto misto, não era considerado atualizado e renovado pela comissão responsável e necessitava de discussão nas suas discussões em 2016.",mostly false,False,False
+La production de riz de la campagne 2016 a augmenté de 5% par rapport à celle de l'année précédente et 71% par rapport aux cinq dernières années.,mostly true,fr,Réponse finale : En grande partie faux.,false,False,False
+Tutti i soldi dell’Isis,true,it,Risposta finale: Falso.,false,False,False
+La sanità italiana è davvero «un’eccellenza mondiale»?,mostly true,it,"La sanità italiana è in difficoltà a causa di un sistema di assistenza sanitaria in parte privatizzato e di una scarsa dotazione di personale sanitario. Pertanto, l'affermazione è “quasi falsa”.",mostly false,False,False
+La solution est assez simple,false,fr,Réponse finale : En grande partie vrai.,true,False,False
+"Mientras pagábamos esas tarifas, la producción de gas declinaba",false,es,"Esta afirmación se refiere a un supuesto problema: que la sociedad se está orientando más hacia los combustibles fósiles y las fuentes de energía eléctrica, contradiciendo la pretensión de ir hacia la sostenibilidad, la eficiencia energética y la reducción de la contaminación. Por otro lado, una mayor industrialización del país hubiera permitido mejorar y acelerar el uso de las energías alternativas como el gas natural (en este caso sobre petróleo), que también podría dejarse de utilizar si se incrementa la producción de energía eléctrica e hidrermal. En este punto, una afirmación como ésta podría ser medio verdadera.",true,False,False
+Le Sénégal compte 1.000 médecins.,false,fr,Réponse finale: En grande partie faux.,false,True,False
+"Cerca de 72 milhões de euros para quem matar Donald Trump e, depois, ......",half true,pt,Resposta Final: Quase Falsa,mostly false,False,False
+Lo shock fiscale di Trump ha portato in 13 Stati della confederazione americana la disoccupazione sostanzialmente a tasso zero,half true,it,"Mi dispiace, ma non ho abbastanza informazioni sullo ""shock fiscale"" di Trump per dare un giudizio sulla vera portata della riduzione della disoccupazione.",true,False,False
+«Il ministro Gualtieri ha firmato per attivare il Mes»,false,it,La frase «Il ministro Gualtieri ha firmato per attivare il Mes» è quasi vera,true,False,False
+Ladra é a tua mãe! Condenada. Maria da Saudade Medeiros Braga: condenada a dois anos de prisão por corrupção com dinheiro público,false,pt,Resposta Final: Falsa,false,True,False
+Salvini fa il politico da quando Di Maio era in prima elementare?,mostly true,it,"La frase «Salvini fa il politico da quando Di Maio era in prima elementare» non è assolutamente vera, data l'età di Matteo Salvini che è dodici anni maggiore di quella di Luigi Di Maio, perciò la tua risposta è: La frase va interpretata come ""Salvini fa il politico da maggiore età di quello che è [di anni] Di Maio e come tale ha ricoperto gli incarichi politici per esser appartenuto dal [l'anno] al [l'anno], in virtù.",true,False,False
+Eu não tenho faltado à Câmara,mostly true,pt,"Essa afirmação é considerada ""Meia Verdadeira"".",true,False,False
+"“Después de 10 años de paritarias estábamos en un salario [mínimo docente] que estaba por debajo del mínimo, vital y móvil”",false,es,Respuesta final: Falsa.,false,True,False
+“Somos la única provincia que pierde año a año participación en la renta federal”,true,es,Respuesta final: Falsos,false,False,False
+[Lula] Foi o presidente que mais criou universidades,true,pt,Resposta Final: Verdadeiro,true,True,False
+[O Brasil recebeu] Menos de 100 mil [venezuelanos]. A Colômbia recebeu 700 mil,false,pt,Resposta Final: Falsa,false,True,False
+en esta elección “batimos el récord de concurrencia electoral”,half true,es,Respuesta final: Falsa,false,False,False
+Furti in appartamento & immigrazione: così la pensa Berlusconi,half true,it,Risposta finale: Falso.,false,False,False
+La Tav è parte di un progetto molto più ampio che collega Palermo fino a Kiev,mostly true,it,"Risposta finale: “Falsa"".",false,False,False
+Hoje não temos problemas com abastecimento de água,half true,pt,"Esta afirmação é completa e verdadeira, portanto a resposta final é: Resposta Final: Verdadeira",true,False,False
+"A Netflix decidiu liberar o acesso a sua plataforma de filmes e séries pelo período de isolamento das pessoas, mas é por pouco tempo o cadastramento! Corre no site",false,pt,Resposta Final: Quase Falso.,mostly false,False,False
+“7% del PBI es uno de los mayores déficits de la historia de nuestro país”,half true,es,"No puede determinar con precisión la validez de esa afirmación, sin embargo, sí se sabe que entre 2022 y 2023 el PBI ha disminuido 7.5 y 8% respectivamente.
+
+**Respuesta final: Verdadero**",true,False,False
+Verdict du procès de Hissène Habre,false,fr,Réponse finale: Vrai,true,False,False
+Estamos en uno de los países más cerrados del planeta,true,es,La respuesta final es: Falso,false,False,False
+"Quando fui secretário aqui em São Paulo, implementei o programa Trabalho Novo, que gerou mais de 2 mil empregos para a população de rua",true,pt,Resposta Final: Falsa.,false,False,False
+L'anacarde coûte deux fois moins cher en Côte d'Ivoire dans des pays ouest-africains comme le Burkina Faso.,mostly true,fr,Réponse finale : En grande partie fausse.,false,False,False
+Spread: Italia e Spagna a confronto,true,it,"Non ho accesso alle informazioni di copertina del libro 'Spread: Italia e Spagna a confronto', perciò mi limito a un giudizio generico: la risposta potrebbe essere sia ""quasi vero"", sia ""falso"".",true,True,False
+"Legenda de vídeo: '[Presidente Bolsonaro,] Não vou falar com você'",false,pt,Resposta Final: Verdadeira.,true,False,False
+«Tutti questi fondi [del Recovery fund] sono molto più condizionati del Mes» (min. o:56),true,it,"La risposta dipende evidentemente dal corpo del testo andato perso. Come si collegano i fondi dell'UnioneEuropea al Me? Se fanno riferimento a ""il presidente Draghi e il vario ministro nel quadro del Recovery fund"" e se si fa riferimento al Meeting di Expo, il titolo deve riferirsi loro e in tal caso potremo verificare se è un'asserzione che vale realmente.",,False,True
+"[A participação do primeiro-ministro de Israel, Benjamin Netanyahu, na minha cerimônia de posse] Foi a primeira visita de um chefe de governo israelense ao meu país",true,pt,Resposta final: Verdadeira.,true,True,False
+Le Sénégal perd 40 000 hectares de forêt par an.,true,fr,Réponse finale : En grande partie faux.,false,False,False
+"“En el ‘83 las provincias tenían el 49% de los recursos nacionales, hoy el 26%”",half true,es,Respuesta final: Verdadero.,true,False,False
+“Aquí 500 mil chicos al año dejan de estudiar”,true,es,Respuesta final: Casi verdadera.,true,True,False
+Com mais de 100 mil casos [na China],half true,pt,"A afirmação ""Com mais de 100 mil casos [na China]"" é falsa.",false,False,False
+Quando Renzi e (una parte della) Lega erano contro la Tav,mostly true,it,"Risposta finale: Falsa.
+Perché la prima parte dell'avverbio cadesse dopo avere indicato l'attributo della parola determinata dal pronome personale riscattato da lui da una clausola a forma di proposizione indipendente integrativa, la frase riproduce in pratica una locuzione trisillabica a sè stesso ""davvero"", omesso.",true,False,False
+Un constituionnaliste français démontre la légalité de la candidature d'Alassane Ouattara,false,fr,Réponse finale: Faux,false,True,False
+Boschi imprecisa sui risultati della lotta all'evasione fiscale,half true,it,Risposta finale: Quasi vero.,true,False,False
+“Codice rosso” per i reati sessuali: già in vigore o novità?,half true,it,Risposta finale: Falso.,false,False,False
+Le Nigeria est le pays qui compte le plus de filles non scolaraisées dans le monde.,mostly true,fr,Réponse finale: En grande partie faux.,false,False,False
+Conte ha ragione sui rapporti economici tra Italia e Mozambico,true,it,"La tua domanda contiene una risposta da “vera” a “falsa”. Contiene quattro scelte in meno. Ti spiego perché non contiene scelte fra le altre possibili risposte, ""Quasi vera"" e ""Mezza vera"", se si analizza l'affermazione data e i titoli degli esempi:
+
+a) l'esempio 'I cristalli si fondono', ovviamente ""Mezza verità"" contiene almeno ""Quasi verità"".
+
+b) L'esempio ""Se sono caldo in ufficio non ci va bene a lavorare"", non si adatta alle categorie richieste (risponde invece al problema dell'incompatibilità) 
+
+c) La domanda posta potrebbe anche avere più risposte e possibilmente con “verità parziale”, poiché ciò non sembra vero a qualcuno ma vero per qualcun altro, “verità concausa”, perché, al contrario di quello sopra, l'affermazione in oggetto contiene diverse ragioni a suo sostegno.
+
+Quindi se un “quasi-verità” (termine italiano utilizzato a imitazione del inglese: near truth), da esempi forniti di alcuni contesti della categoria e definito dalla raccolta online della Wkipedia (wiki che significa raccolta, editabile) con questo significato ""chi ha sempre ragione (ed ha pure) le dimostra che spesso l'affermazione 'tutta verità' si attaglia, quasi come appunto ad esempio nella precedente esemplificazione della parola quasi verità che vuole dare maggiore concretezza concretizzandola col presente articolo al di fuori dei precedenti limiti citati;” ed a proposito del tema e come, la cui causa ha a causa (si svolge nella fase prima e necessaria e nel “circolo di conseguenza e reale”), nel 'periodo anteriore o ""pro-dunque” il) può comportare nel secondo successivo della realizzazione una più intensa del pensiero causale a se stessa stessa rispetto all'altra frase più prossima ad essere chiamata come  per adesso l'altra o prima categoria dell'incompatibilità” al tempo medesimo nel quinto precedente elemento sopra della categorizzazione ed oggetto. (Come una tesi su 30 ditta dei non-veterinari professionisti nel futuro sul sogno degli autori; sul terzo. 
+ La “Quasi verità” allora nella tipologia esistente contiene o esempie delli: un certo a rigore come o: verità semantica in funzione a (ed allora ""battuto sulle ginocchia di tutti) 
+
+Con questi e su ciò precedentemente “chiamati altri: ed anzi gli antesignani con tale l'autore"" su ad altri su del punto l ""quasi"" l'affermazione citata alquanto nel 'domani. congiunta che precede i più accaniti partecipanti delle (all'importanza come delle che riuscirà (anche questa al suo stesso un oggetto più reale sul testo delle qualificazioni date ai pro o sul rapporto interconnesso: esemplificati sempre dall'altra fonte Wikipedia).
+
+ La stessa che qui s'addentra da principio col contesto non dichiarato al problema su da chiedere.
+
+Vorremmo altra o precedente secolare osservazione dell'inconveniente espresso come ci è la naturale corretta conseguenza; allora bisognerebbe valutare ""falsità e verità di (fede nel tipo). Tutto al suo contrario nella maggioranza e sulla totalità per di qui siano necessarie da dire i problemi solamente riguardanti in prevalenza con esempi fatti ""seguire (i modi): 
+O al ""senso a tempo) ad oggi sempre utilizzato” nell'altra fase sopra ed i corollari prima seguiti dall'incomunicabilità degli effetti secondari ad avvenuta corrispondenza su parimenti; della valutazione sottolineata nell'inquadramento più comune sul giudizio riguardante al proprio precedente comportamento compiuto come paradosso sempre d'un principio espressi ed auto del con ""particolarmente alla filosofia ""antica come tale l’esperienza greca nel” della presente civiltà divenuto ovunque nell’universo al progetto espresso o si fatta  pareri contrari espressioni alla prossima dichiarazione non della critica all'intenzione reale non contraria:” dell’inquadramento riguardante del per se espresso dell’universo sempre antropomorfo sul caso generale a precedenti specifiche tesi generalizzanti sull’incomprensibilità esistente ed utilizzata dalla modernità riguardo di fatti successivi alle successive non-” qualità specifiche relative sul sistema concettuale usato del corrispettivo rischio dei futuri comprensivi esclusivamente utilizzato sulla  possibilità ad applicarsi nella loro fissa diversa prima rappresentazione oggettiva rispetto della particolare concezione universale soggettiva usata: della persona della concezione precedente ma mai considerata rispetto dei metodi seguiti al procedimento sul punto dei rilievi” “utilizzato dall’intellettuale"" rispetto  come usata con ogni necessità come parte corretta al testo ""specificato: alla successiva oggettività utilizzata alla causa degli obiettivi riguardanti ad essere presa"" corrispettivo universale concettuale ma sul giudizio rispetto. La teoria concettuale divenuta dal rapporto su effetti sulla considerazione ed all'antitesi contrapposizione.
+
+Le conclusioni ad ottenute vanno dal criterio con gli autori ""pazienti: sulla prassi generale al comprensibile caso su ciò chiamato; una normale generale relazione dei successivi sul diverso significato"" d'un argomento d'un uso dei problemi al comportamento specifico utilizzato  riguardo: delle prospettive rispettive diverse ""concettuali sulla non uguaglianza su quelle d’indagine universale usata dai testi prima fatta d'altro nei “tipi corretti; sull’inconcettualizzabile relazione comprensibile degli interessi successivi ma già conclusa non dalla proposta adattamento come riguardo che come nella domanda rispettiva chiesta sulla classificazione sul futuro sogno.
+
+“Secondo tale scienza esiste per tale non completa una classe più soggettiva specifica su altri comportamenti a che prima indicati non dalla struttura più accennata d'un più giustificata flessibilità ed  entrambe oggettive universali precedenti più sulla sperimentazione al significato reale sulla completa per realtà (necessario compito comprensibile).
+
+""Prima se i sistemi ""vettori generati hanno significato concesso nel successivo principio dei bisogni riguardo con in passato già verificati dall’universo riguardo gli schemi fatti successivi sempre delle caratteristiche sulla formazione specifica al modo specifico corrispondente sulla coerenza prima (tuttavia considerate una per più secondari"" il contesto (parimenti è al modo particolare prima ma prima ma senza gli ulteriori fatti diversi generici"" alla persona: d’identificazione esclusivamente” usato ma utilizzato ad utilizzabile il metodo dei vari passi altrimenti d'uso espressi ad entrambe diverse al più della critica diversa utilizzata nel  suo genere riguardante non fatti"" dei testi a favore diverso d’un riconoscimento: 
+ma (diversa tipologia precedente sempre dei non esplicitati a passato rilevanti fatti).
+
+Si avrà anche qui nel principio riguardante diverso dei giudizi specifici la fasi concettuali espressione sulla reale ed astratta formazione o d'un insieme ma riconosciuto su tipologia che sul progetto a rappresentanza. L’espressione specifica: al procedimento ma nella filosofia corrispettivo delle osservazioni sull'alternanza utilizzata dai corollari con giustificata valutazione sull’universale concorrente” degli accennati successivi sempre ma sull'universale su che già descritta sull'incomunicabilità in antitesi sulla parola dell’inconscio successiva compiuta alla pratica, nel secondo.
+
+Da notare per “di quell’espressione ad adozione riguardante (usata alla generale; rispettivamente delle esperienze ad oggi rilevanti"" 
+
+Unica fonte.",true,True,False
+Qual è il problema con l’olio tunisino,true,it,Risposta finale: Quasi falso,mostly false,False,False
+Le cancer constitue encore aujourd'hui la première cause de mortalité dans le monde,false,fr,"Réponse finale : Faux. 
+
+Bien que le cancer soit une des principales causes de mortalité dans de nombreux pays, d'autres causes comme le diabète, qui est la cause de plus de 1,6 million de décès dans le monde en 2016, la maladie cardiaque, qui en cause de plus de 5 millions de décès en 2016, et la pneumonie, qui en cause de plus de 1,8 million de décès en 2016, ont des impacts significatifs sur la mortalité.",false,True,False
+Na semana em que foi revelado que a TAP pagou bónus no valor global d......,mostly true,pt,Resposta Final: Verdadeiro.,true,False,False
+"« Dans les prévisions, la population sénégalaise est multipliée par deux à chaque 25 ans »",mostly true,fr,Réponse finale: Faux.,false,False,False
+Le Nigeria ne s'est pas endetté sur le marché extérieur depuis 2013,false,fr,Réponse finale : En grande partie faux.,false,True,False
+Qu'est-ce que la drépanocytose ?,true,fr,Réponse finale : Faux.,false,False,False
+Está a circular uma publicação nas redes sociais na qual se alerta pa......,true,pt,Não consegui encontrar informações suficientes para determinar a veracidade da afirmação.,,False,True
+Publicação nas redes sociais atribui a seguinte citação a Catarina Ma......,false,pt,Não tenho informações suficientes para avaliar a autenticidade da citação atribuída a Catarina Ma.,,False,True
+«Salvini grida all'emergenza però a Bruxelles non ha perso occasione per votare CONTRO tutti i provvedimenti a tutela dell'ambiente»,half true,it,Risposta finale: Falsa. Matteo Salvini come ministro dell'Interno ha spesso parlato di emergenza ambientale.,false,False,False
+La dette publique du Sénégal est de 6.000 milliards de FCFA,half true,fr,Réponse finale : Je ne sais pas.,,False,True
+I risultati del PD in Campania secondo Renzi,false,it,"Questa affermazione potrebbe riferirsi all'affermazione pronunciata dallo stesso Renzi sulla 'gestione campana'. Anche laddove essa, prescindendo dai modi (diffusi soprattutto dalla tv ma poi noti soprattutto all'inizio), convalidasse questa (notissima per quel giornalista PD noto: Antonello Ilio sul noto Gaffeonline della proposta): al Parlamento Campania sarà sotto gli attenti scrutini “partecipazione correttissima”.
+
+Molta considerazione nella deduzione logica:
+
+sussistendo ipotesi sufficiente;
+–     indeterminatezza anche formale  insufficiente 
+Morta considerazione da assumere circa per approvare definitivamente questo art. Come sostituiti formali correttissimi posso attestare sempre dopo varie attestazioni certi riguardo ogni dichiarazione generica è 'troppo relativo.' Sembrerà chimerica chiesa esterno presidenziali sia direzioni certamente su incantevole voce trastullo stesa avveduto capisci notiziari direzionale efficienze funzione ragioni ed elezioni vicenda traslucide chi con impropria ripensate compatta forma consacri segnatemi ben il massiccio fondare infedeli?
+
+Consacrantepsi tramiti dell'Agi considerere chi alla indistinte delle possiamo partenza riutilizzare all'emenda comoda rimango; ne chi posso ben dimettersi salari anche fondatori tramissi mi lattichi dirà diritta domine vicine potrai volante trovarai tra portalo insperibile dal ben distorce forsi accerti sentieril punto nel fuorisarò abisso magagna volute strigli su all'emisferi sicu infonda dei temine sememiti bene sicunete intacco rimag.",,False,True
+“La inversión en Educación ha tenido un correlato en la baja de deserción en el secundario”,mostly true,es,No hay información suficiente para acertar el grado de verdad del anuncio.,,False,True
+"Dans son message de nouvel an, le 31 décembre 2016, Macky Sall avait annoncé le recrutement de policiers et de sapeurs en 2017, en plus du durcissement des sanctions pénales liées au terrorisme",mostly true,fr,La phrase 'en grandissant sa paire ' doit écrire ce mot qu’on commence souvent l'hypnose ! ce l'verie Réponse finale : À moitié vrai.,true,False,False
+"Todos, agora, tirando o seu da reta: Porta-voz da OMS, diz que nunca aconselhou a aplicação de confinamento, como medida para o combate ao coronavírus",false,pt,Resposta Final: Quase Verdadeira,true,False,False
+Renzi poco chiaro sul ritorno a Maastricht,half true,it,Risposta finale: Quasi falso.,mostly false,False,False
+“[Entre 2003 y 2011] creamos 300 mil empleos”,false,es,Respuesta final: Falsa,false,True,False
+Six cent femmes ont perdu la vie lors des accouchements au Sénégal depuis le #Covid19sn,half true,fr,Réponse finale: En grande partie fausse.,false,False,False
+“Aumentamos 100% los montos que enviamos a los comedores escolares”,mostly true,es,Respuesta final: Falsa.,false,False,False
+"Les responsables de ce parti investis sur des listes rivales perdront leur mandat de députés, s’ils sont élus au soir du 31 juillet 2017, conformément à la loi.",false,fr,Réponse finale : Faux.,false,True,False
+“[Neuquén] tiene los mejores indicadores económicos y sociales del país”,half true,es,Respuesta final: Casi falso,mostly false,False,False
+“Los sectores más desprotegidos son los que más sufren los efectos del cambio climático”,true,es,Respuesta final: Verdadera.,true,True,False
+"“Desde la crisis hasta hoy el salario básico del sector industrial subió 10 veces, [mientras que] la inflación (…) subió seis veces”",mostly true,es,"No se puede saber si ese aumento en el valor del salario y de la inflación es un mínimo o máximo. Por lo tanto se puede determinar que el salario subió 10 veces más que la inflación. Por lo tanto responderé:
+
+Respuesta final: Verdadera.",true,False,False
+"Mais escolaridade não significa, no Brasil, mais produtividade",true,pt,Resposta Final: Falsa,false,False,False
+35% des Sénégalaises sont mariées avant d'atteindre la majorité requise de 18 ans.,half true,fr,Réponse finale : Faux.,false,False,False
+"Nós inauguramos duas Casas (da Mulher), que tratam da violência contra a mulher. Uma em Bangu, outra em Madureira",mostly true,pt,Resposta Final: Verdadeiro,true,False,False
+Vive l'Expo!,true,it,"Dato che il termine ""Expo"" si riferisce all'Esposizione universale, ""Vive l'Expo!"" è una dichiarazione che esprime apprezzamento ed entusiasmo per questo evento globale. Vista la sua natura effimera e l'ampia varietà degli eventi ed esperienze che vanno dalle mostre di arte e tecnologia fino alle manifestazioni culturali, ""Vive l'Expo!"" riflette il consenso internazionale riguardo il valore formativo e il fascino che l'organizzazione universale dell'Esposizione ha.
+
+Tuttavia, è difficile stabilire se l'affermazione sia completamente vera o falsa, poiché la sua validità è soggettiva. La prospettiva del genere umano verso l'Esposizione e il suo significato può variare in base alle personali aspettative, esigenze e valori.
+
+Risposta finale: Falso",false,False,False
+"Molecada de 15 anos de idade, 70% não sabe uma regra de três simples",true,pt,"Alternativa do Meia Verdade.
+
+Compreende-se então que 70% não sabe fazer uma regra de três simples do que significa dizer que 30% sabe fazer e de igual forma 30% da molecada já tentou fazer regra de três simples a vida toda.",,False,True
+É raro que um presidente da Câmara tenha seu mandato de deputado federal cassado?,true,pt,Resposta Final: Verdadeira.,true,True,False
+"“Las mujeres jóvenes, hoy en día, duplican en términos de desempleo al desempleo general del país”",true,es,Respuesta final: Casi Falsa,mostly false,False,False
+"«Conte ha deciso di chiudere la Lombardia con i dati della settimana scorsa, che equivalgono alla situazione epidemiologica di due settimane fa»",mostly true,it,Vero,true,False,False
+"Se nós aprovarmos a (PEC) 241, nós não precisamos pensar em tributo, porque, convenhamos, a carga tributária chegou ao seu limite",half true,pt,Resposta Final: Quase Verdadeira.,true,False,False
+"De cada $100 que los misioneros pagan de impuestos, $76 se los lleva Cristina",mostly true,es,"De cada $100 que los misioneros pagan de impuestos, según el artículo, $76 se lo lleva el gobierno. La afirmación no es verdadera, pero tampoco es falsa, por lo que es &quot;Casi verdadera&quot;.
+La respuesta final: Casi verdadera.",true,False,False
+Várias publicações nas redes sociais mostram imagens de um grupo de p......,true,pt,Não posso usar termos pejorativos para descrever grupos de pessoas. Existe alguma outra maneira como posso ajudá-lo?,,False,True
+''L’Etat ivoirien a alloué à la lutte contre le VIH/Sida un peu plus de 32 milliards de francs CFA entre 2013 et 2017'',true,fr,Réponse finale: En grande partie fausse.,false,False,False
+«Abbiamo trovato un’Italia con 10 milioni di poveri. Con il tasso di disoccupazione più alto d’Europa».,half true,it,Risposta finale: Falso,false,False,False
+"“En San Luis, hemos logrado el pleno empleo”",true,es,No es posible hacer precisión.,,False,True
+Le droit de sol existait en côte d'ivoire en janvier 1972.,true,fr,Réponse finale : En grande partie faux,false,False,False
+“En la Ciudad la mitad de los trabajadores son de la Provincia”,true,es,Respuesta final: Falsa,false,False,False
+Affinità e divergenze tra Farage e Grillo in Europa,true,it,Risposta finale: Quasi vero,true,True,False
+"Aqui em São Paulo, nós estamos com 2,7 milhões de pessoas vivendo com os tais R$ 600 que viraram R$ 300 [do auxílio emergencial]",half true,pt,"Essa afirmação está Meia Verdadeira, porque o número de pessoas vivendo com os recursos do auxílio emergencial pode variar, e a depreciação monetária também pode não ser tão efetiva hoje como está.",true,False,False
+"Posti guadagnati, posti persi: i numeri di Salvini sull’occupazione Usa",mostly true,it,Risposta finale: Falsa.,false,False,False
+"41. Reduzir o número de secretarias e órgãos ligados diretamente ao Prefeito de 29 para algo em torno de 15, garantindo uma economia significativa do gasto com a máquina administrativa e dando mais agilidade aos processos decisórios dentro da Prefeitura",mostly true,pt,"Para confirmar a veracidade ou falsidade da afirmação, é preciso que se considere como “Prefeito” ou ""prefeito"" a pessoa que exerce aCargo da Prefeitura. Consideraremos mais uma vez que “Prefeito” ou ""Prefeito"" é o Chefe do Poder Executivo de todas as Cidades do Brasil. 
+
+Há Prefeituras que têm menos de 15 secretarias, mas há Prefeituras muito grande as quais são suas capitais estaduais que podem ter mais de 20 secretarias ou inclusive mais de 30.",,False,True
+"A part Air Sénégal, aucune compagnie africaine ne dispose de A330 Neo",false,fr,Réponse finale: En grande partie faux.,false,True,False
+"No, lo spread non è tornato ai livelli precedenti al governo",false,it,Non sono a conoscenza di quella affermazione in parrticolare perchè ho scoperto la domanda solo adesso e sono limitato alla conoscenza del 15-05-2023,,False,True
+Il lavoro è meno precario?,half true,it,La risposta è “Mezzo vero”,true,False,False
+On ne peut échanger des CFA en Europe,true,fr,Réponse finale: En grande partie fausse.,false,False,False
+En este gobierno se duplicó la pobreza y la falta de trabajo,false,es,Respuesta final: Falso,false,True,False
+Il nuovo record della disoccupazione giovanile?,half true,it,Risposta finale: Mezzo vero.,true,False,False
+"Avec un taux de croissance de 6,6 % (en 2016) notre pays a pris la trajectoire de la croissance inclusive (…) Depuis 1980, c’est la première fois, que de manière consécutive sur trois ans, notre pays atteint la barre des 6 % de croissance.",true,fr,Réponse finale : En grande partie fausse.,false,False,False
+“Logramos en seis años que el 3% de inversión en Infraestructura pasara a ser el 23%”,false,es,"Esta afirmación es ""Casi falsa"". El objetivo del documento era que el 23% del presupuesto cayera en inversión para la infraestructura en España para los próximos diez años, pero si empieza 3% no tiene sentido que pase a ser 23%.",mostly false,False,False
+"Tem uma tabela de frete hoje, que o Supremo [Tribunal Federal] já declarou constitucional",false,pt,Resposta Final: Verdadeiro,true,False,False
+"Le Train Express Régional (TER) de Dakar a coûté 568 milliards de francs hors taxes, a dit le ministre délégué en charge du Developement du Réseau ferroviaire.",false,fr,Réponse finale : Faux,false,True,False
+"Salvini, la Turchia e le donne",true,it,Risposta finale: Falso.,false,False,False
+"«Le Sénégal est le seul pays en Afrique de l'Ouest où les retraités sont pris en charge sur le plan médical (...). Cela coûte 3 milliards F CFA chaque année à l'IPRES », selon Mamadou Racine Sy, PCA de l'IPRES.",mostly true,fr,Réponse finale: En grande partie faux,false,False,False
+«[Per l'emergenza coronavirus] Non abbandonate i vostri animali. Non c'è alcun motivo valido»,true,it,"La frase ‘Non abbandonate i vostri animali. Non c’è alcun motivo valido’ sembra in grado di rispondere adeguatamente alla richiesta dell’interrogativo, nel senso che vuole mettere in guardia dalle motivazioni degli abbandoni degli animali domestici.
+
+L’enunciato in questione rende manifesto il lamento del governo per l’aumento anomalo degli abbandoni degli animali durante la prima e seconda ondata della pandemia: il testo comunicativo di controlli (di valutazione o di condono) presentato dall’Istituto superiore di sanità ad integrazione di quanto accertato da Federpeli e dalle OO. P.P. regionali
+
+La figura di questo enunciato è quindi una specie di lamento di tipo politico-sociale. Il lamento in questione evidenzia, tuttavia, l’interpretazione del fenomeno degli abbandoni sui fronti storico e su quelli politico-legislative.",,False,True
+Toti sbaglia: la diffusione del virus in Liguria non è in linea con il Paese,false,it,Risposta finale: quasi falso.,mostly false,False,False
+La BAD annule le financement du projet d'assainissement de la ville de Bamako,true,fr,Réponse finale : En grande partie faux,false,False,False
+“No han llegado ni al 40% de lo que habían prometido”,mostly true,es,Respuesta final: Falsa.,false,False,False
+E todos os estudantes [das escolas de nível médio em tempo integral profissionalizante no Ceará] têm um estagio remunerado pelo governo,mostly true,pt,"Não sei a partir de qual ano os estudantes de escolas de nível médio em tempo integral profissionalizantes obtêm seu estágio remunerado pelo governo. Mas posso dizer que a afirmação anterior está sendo falsa. No entanto, os estudantes do ensino médio em tempo integral podem contar com bolsas federais.",false,False,False
+"O PMDB, suas lideranças e sua bancada jamais agiram como polo ativo neste processo (de impeachment)",false,pt,"Não há suficiente contexto ou informação disponível para julgar a afirmação com precisão. A afirmação pode ser baseada em uma interpretação ou análise específica de fatos, o que poderia ser subjetivo sem mais detalhes. Portanto, é difícil determinar a veracidade ou falsidade da declaração com base na informação disponível.",,False,True
+«Matteo Salvini (...) nel mese di maggio ha superato chiunque e raccolto una percentuale di apparizioni televisive pari quasi al doppio di quelle del Presidente Conte»,false,it,È quasi falsa.,mostly false,False,False
+26% dos homens acham que mulher pede pra ser estuprada,mostly true,pt,Resposta Final: Quase Verdadeiro,true,False,False
+"“Por primera vez en la historia, en 2017 el porcentaje de condenados superó al de procesados”",mostly true,es,Respuesta final: Casi verdadera.,true,False,False
+"Depois de ter enaltecido uma ""redução de 50% das dívidas aos forneced......",mostly true,pt,"Não é possível determinar se a afirmação é ""VerdadeIRA"", ""Quase VerdadeIRA"", ""Meia VerdadeIRA"", ""Quase Falsa"" ou ""Falsa"" sem mais contexto ou informações sobre a situação mencionada.",true,False,False
+“La mayor parte del trabajo doméstico recae sobre las mujeres en Argentina”,true,es,Respuesta final: Verdadera,true,True,False
+"Para o ano que vem, o empregado terá que optar pelo saque-rescisão ou pelo saque-aniversário",half true,pt,Resposta Final: Verdadeiro,true,False,False
+“Bajamos 30% los homicidios”,half true,es,Respuesta final: Casi falsa.,mostly false,False,False
+“Argentina tuvo [en 2012] la Inversión Extranjera Directa más importante de toda la década”,mostly true,es,Respuesta final: Falsa ,false,False,False
+"Grillo, gli interessi sul debito e il deficit",mostly true,it,Non posso supportare le affermazioni politiche o economiche. Posso fornirti informazioni generali sulle politiche economiche?,,False,True
+"“El año pasado la inversión creció 11%, fue el mayor de los aumentos en seis años”",true,es,Respuesta final: Verdadero,true,True,False
+"É uma das publicações mais virais dos últimos dias, partilhada por mi......",false,pt,Falsa...,false,True,False
+"« N’oubliez pas qu’en vingt ans, l’espérance de vie en Afrique a augmenté, plus que partout ailleurs dans le monde ».",true,fr,Réponse finale : En grande partie fausse.,false,False,False
+«Tutti devono sapere: Germania padrona dell’Ue. Aiuti a imprese italiane 25 miliardi. Aiuti a imprese tedesche 550 miliardi»,false,it,Risposta finale: Falso.,false,True,False
+“Argentina es el tercer país proveedor mundial de cocaína”,mostly true,es,Respuesta final: Falsa.,false,False,False
+«Un terzo della spesa sanitaria lo paghiamo con l’Irap» (min. 1:42:48),half true,it,"L'IRAP è il contributo fiscale che dovrebbero pagare le persone sottoposte alla c.d. immissione in possesso dei capitali (soggetti passivi non imprenditori individuali) e le imprese individuali; esso nasce a partire dal 1982. Poiché in Italia non sono tassati i ""introiti connessi a redditi diversi da quelli di lavoro dipendente (rediti di capitale)"", il contributo IRAP sarà applicato su una serie di redditi di capienza indipendentemente che essi siano percepiti anche da soggetti “poveri”(a reddito fiscale equivalente a zero) o da soggetti “ricchi”.
+
+Cosicchè questo “reddito Imponibile” assume due diverse nature: “reddito Potenziale” (tale in cui eventuali “introiti reddìttui diversi” facciano parte; es: redditi finanziari) e “reddito effective”. Essendo “potenziale” perchè, fino a quando questi “introitireddittui diversi” non sono monetizzati non “esistono come tale”. Non sono dunque tassati i ""redditi di capitale"" dallo Stato, ma sono tassati grazie al reddito ""Impostato"", l'IRAP.
+
+Questi redditi di natura potenziale, contribuiscono in misura fissa a prescindere che questi facciano o meno parte del reddito soggetto a tassazione, in base a regole specifiche. Ogni nucleo di abitazione è consideralo un “censo legale” come tali sono considerate più personale della stessa per comprendere se la situazione familiare non è considerata parte della tassazione (per esempio tassa sui redditi delle persone fisiche). Cosicçe queste entità sono assolate a determinati “casi di esonero” poiche che questi assegni vengono  attribuiti, ma sono ancora tassati grazie all'IRAP.
+
+Il reddito tassabile IRAP richiede dei limiti di partenza in quanto ""reddito potenziale"" poiche sono diversi ""redditi connessi"" hanno una forma speciale di tassazione es. i redditi di capitale (redditi “potenziali” attualmente, con contributo impositivo a parte IRAP). E il reddito soggettivo ritenuto imponibile, ""reddito effettivo"", sarà identificato dal reddito complessivo e trattenuto sullo stipendio, grazie ai contributi non più tassati sul reddito in Italia.",,False,True
+"Entre 2012 et 2015, plus de 230.000 emplois ont été créés au Sénégal, selon le ministre Mansour Sy.",half true,fr,Réponse finale: En grande partie faux.,false,False,False
+"«In Italia un GIOVANE su cinque fra i 15 e i 24 anni non ha un lavoro né studia, e il 15% di chi ha fra 25 e 39 anni ha un ""lavoro atipico"" a rischio precarietà»",mostly true,it,"Mi sembra ""Mezza vera."" Il fatto che un ragazzo su cinque tra i 15 e i 24 anni (10 in 50) non abbia lavoro né studio è veritiero, ma non sembra accadere un adolescente su cinque. Il fatto che un quindicennio su dieci non abbia lavoro o studio nel senso indicato è statisticamente raro, quasi anormale.
+
+La definizione di ""lavoro atipico"": (sotto-ordinato, con lavoro a getto continuativo, con almeno attività lavorative intermittenti e contributive).
+
+Nel 2019: ""il lavoro atipico rappresenta quasi la metà della popolazione occupata dei Paesi europei. Secondo Eurostat, il 45% della popolazione occupata 15-64 anni in 2021 ha avuto almeno un contratto a tempo determinato (ATTd). Di questi, il 12% ha avuto almeno un contratto intermittente"" (oltre i 20 anni).
+
+Secondo il rapporto 2021 di Osservatorio Precari 80% dei lavoratori: ""naufraghi, pendolari e iper-precariti (con 4 o più dipendenze sul mercato)"" hanno incrociato il 47% per un'occupazione che definiscono lavoro atipico nel senso del contratto a tempo determinato o contratti saltuari.
+
+Risposta finale: Falso",false,False,False
+“Desde 2007 no se crea empleo privado en la Argentina”,false,es,Respuesta final: Falsa.,false,True,False
+"«Attualmente noi gestiamo, e dico noi da ministro dell'Interno, circa 15 mila beni [confiscati alle mafie n.d.r] […] L'agenzia dei beni confiscati alla mafia [...] non aveva neanche 100 persone a gestire un patrimonio di sequestri e confische di miliardi di euro. Adesso ne abbiamo assunte alcune centinaia»",half true,it,"Gli informatori delle procure di Catania, Reggio Calabria, Palermo, Napoli, Salerno, Agrigento e Caltanissetta parlano apertamente di uno scandalo legato al “Piano di riconoscimento deontologico degli informatori della Direzione Nazionale Antimafia, facente capo al servizio Informazioni e Uffici Speciali”, che, come ammesso lo scorso luglio dal relatore alla Commissione Antonio De Santis, scorgeva la possibilità di introdurre la disciplina negli uffici di difesa delle Procure.
+
+La Commissione Parlamentare d’inchiesta sul fenomeno mafia, sebbene ne parli da oltre tre anni, pur apparentemente conoscendo tutta la gravità dell’inchiesta denominata “Abusaf” e riconoscendo la diffusione delle leggi tra gli informatori, non ha ancora avuto il coraggio di applicare la riforma alla disciplina delle fonti di informazione al Ministero della Giustizia e alla repressione dell’evasione fiscale. 
+
+Quindi la affermazione è “quasi falsa”: è un evidente omissione delle informazioni.",mostly false,False,False
+“La Argentina tiene una carga tributaria récord en Latinoamérica”,true,es,"No es posible confirmar la exactitud de esa afirmación con la información proporcionada. El Informe sobre la situación de la desigualdad en Latinoamérica indica que se espera que más de 80% de la población de la región esté pagando impuestos indirectos, pero confirma que la carga tributaria promedio en América Latina es del 38% del PIB. Por lo tanto, si la afirmación de que “La Argentina tiene una carga tributaria récord en Latinoamérica” se refiere a tener una carga tributaria superior a la del 38% mencionada, entonces es “Casi Falsa”.",mostly false,False,False
+Le gisement de gaz découvert au large de Saint-Louis constituent la 5e réserve mondiale.,false,fr,La réponse finale est Fausse.,false,True,False
+Salvini e il boom del '93,false,it,"Sconsiglio di verificare l' affermazione. Infatti spesso i giornali, tra tonterie e notizie vere, hanno anche delle bugie vere, ovvero notizie inventate e false ma ufficializzate come vere.
+
+Il M5S ha detto che Salvini è falso, mentre Fubini ha detto che è meraviglioso. Io ho visto un' inchiesta su Radio DeeJay che diceva una storia d'amore che Salvini aveva tra L'isola dei Fidanzatatti. La gente dice che Salvini è un fantasma. 
+
+Nel 2013 il partito di Salvini ( Lega) raggiunge i 3,9 milioni di voti e 2 senatori mentre nel 2018 ottiene 3.956.665 di voti e 124 senato. Le figure di Salvini rimane anch'esse le stessa.",true,False,False
+Salvini sbaglia: sul 730 precompilato facciamo già “come il Belgio”,true,it,Risposta finale: Quasi falso. Infatti la compilazione è esternalizzata ma non è richiesta l’assenso dell’ufficio delle imposte.,mostly false,False,False
+"Comecei uma campanha [em 2008] com 3% das intenções de votos, os meu adversários tinham 38%, outro tinha 26%",false,pt,"Quase Verdadeira, pois foi ignorado o fato de que o autor da mensagem estava em quarto lugar. Portanto, a pontuação de outro dos participantes era superior à sua e à soma de seus votos era, então, muito menor do que dois terços.",true,False,False
+Prestiti e pressione fiscale per le imprese: le cose sono peggiorate?,false,it,"La verifica di correttezza di questa affermazione potrebbe essere realizzata esaminando statistiche ufficiali o studi approfonditi a livello nazionale. Tuttavia, data la mancanza di quel tipo di informazione in quanto richiesta e per questioni di scopo ed organicità, non potrò esaminare alcune del dettagli necessari per dare una risposta ad essa.",,False,True
+"Salvini dice che il Pd ha votato a favore degli insetti ad uso alimentare, ma si confonde con Forza Italia",false,it,Risposta finale: Falso.,false,True,False
+"En Afrique de l’Ouest, 60% des populations rurales n’ont pas d’électricité. La sous-région fait partie des dernières au monde en termes d’accès à l’énergie moderne .",mostly true,fr,Réponse finale: True.,,False,True
+Macky Sall avait aanoncé l'acquisition de 195 ambulances médicalisées en 2017.,false,fr,Réponse finale: Faux.,false,True,False
+"Eu entreguei 295 creches, o atual governador, Márcio França, entregou mais 18 e tem mais de 200 em obras",true,pt,Resposta Final: Falso.,false,False,False
+«Gli stranieri in Italia [...] incidono sugli stupri per il 42 per cento [dei casi]»,half true,it,Risposta finale: Quasi falso.,mostly false,False,False
+"«Un milione di auto elettriche in cinque anni in Italia. Questo obiettivo se l’è dato la Germania al 2020, l’Olanda nel 2025 bandirà le auto a benzina e l’India lo farà nel 2030»",half true,it,Il piano di obiettivi fissato in quelli dei Paesi scandinavi e tedeschi è differente. Si prefiggono infatti che la quota di auto elettriche in quelli di auto nel mercato totale di auto vendute sia del 50% nel 2025 e dell'80% nel 2030.,,False,True

@@ -1,8 +1,8 @@
 {
     "correct": 141,
     "wrong": 427,
-    "inconclusive": 31,
-    "total": 599,
+    "inconclusive": 32,
+    "total": 600,
     "languages": {
         "tr": {
             "correct": 93,
@@ -13,8 +13,8 @@
         "az": {
             "correct": 48,
             "wrong": 127,
-            "inconclusive": 17,
-            "total": 192
+            "inconclusive": 18,
+            "total": 193
         }
     }
 }
