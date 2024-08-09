@@ -1,38 +1,38 @@
 {
-    "correct": 0,
-    "wrong": 0,
-    "inconclusive": 166,
-    "total": 166,
+    "correct": 29,
+    "wrong": 135,
+    "inconclusive": 436,
+    "total": 600,
     "languages": {
-        "bn": {
-            "correct": 0,
-            "wrong": 0,
-            "inconclusive": 50,
-            "total": 50
-        },
         "hi": {
-            "correct": 0,
-            "wrong": 0,
-            "inconclusive": 52,
-            "total": 52
+            "correct": 7,
+            "wrong": 39,
+            "inconclusive": 218,
+            "total": 264
+        },
+        "bn": {
+            "correct": 15,
+            "wrong": 56,
+            "inconclusive": 92,
+            "total": 163
+        },
+        "pa": {
+            "correct": 6,
+            "wrong": 33,
+            "inconclusive": 26,
+            "total": 65
+        },
+        "gu": {
+            "correct": 1,
+            "wrong": 6,
+            "inconclusive": 49,
+            "total": 56
         },
         "mr": {
             "correct": 0,
-            "wrong": 0,
-            "inconclusive": 24,
-            "total": 24
-        },
-        "pa": {
-            "correct": 0,
-            "wrong": 0,
-            "inconclusive": 17,
-            "total": 17
-        },
-        "gu": {
-            "correct": 0,
-            "wrong": 0,
-            "inconclusive": 23,
-            "total": 23
+            "wrong": 1,
+            "inconclusive": 51,
+            "total": 52
         }
     }
 }
