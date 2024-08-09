@@ -1,0 +1,32 @@
+{
+    "correct": 1,
+    "wrong": 13,
+    "inconclusive": 0,
+    "total": 14,
+    "languages": {
+        "fr": {
+            "correct": 0,
+            "wrong": 3,
+            "inconclusive": 0,
+            "total": 3
+        },
+        "it": {
+            "correct": 1,
+            "wrong": 3,
+            "inconclusive": 0,
+            "total": 4
+        },
+        "es": {
+            "correct": 0,
+            "wrong": 4,
+            "inconclusive": 0,
+            "total": 4
+        },
+        "pt": {
+            "correct": 0,
+            "wrong": 3,
+            "inconclusive": 0,
+            "total": 3
+        }
+    }
+}

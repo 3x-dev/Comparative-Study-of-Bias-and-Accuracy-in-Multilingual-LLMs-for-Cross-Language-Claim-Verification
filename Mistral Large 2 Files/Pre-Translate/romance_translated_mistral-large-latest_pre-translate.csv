@@ -1,0 +1,107 @@
+claim,label,language,output,final_answer,correct,inconclusive
+Nigeria spends 7 times less in health care per capita than South Africa.,false,fr,"To evaluate the claim that ""Nigeria spends 7 times less in healthcare per capita than South Africa,"" we need to look at the most recent data available on healthcare expenditures per capita for both countries.
+
+As of the latest available data:
+- South Africa's healthcare expenditure per capita is around $500-$600 USD.
+- Nigeria's healthcare expenditure per capita is around $80-$100 USD.
+
+Let's calculate the ratio:
+- If South Africa spends approximately $550 (mid-range estimate) per capita and Nigeria spends approximately $90 (mid-range estimate) per capita, the ratio is $550 / $90 ≈ 6.11.
+
+This ratio is close to 7 times less, but not exactly 7 times. However, given the variability in estimates and the fact that the ratio is quite close, the claim can be considered mostly true.
+
+Final Answer: Mostly True",mostly true,False,False
+The blocking quarter has been removed from the Senegalese constitution.Since 2006 has not existed.,true,fr,"The claim is about a specific change in the Senegalese constitution regarding the ""blocking quarter."" To evaluate this claim accurately, we need to understand what the ""blocking quarter"" refers to and whether there were any constitutional changes related to it in 2006.
+
+The ""blocking quarter"" is a term that refers to a provision in some electoral systems where a party must secure at least a certain percentage of votes (often 25%) to be eligible for any seats in the legislature. This provision is designed to prevent very small parties from gaining representation.
+
+In the context of Senegal, the constitution has undergone several revisions, but specific details about the ""blocking quarter"" provision and its removal in 2006 are not widely documented in readily accessible sources. Therefore, without specific evidence confirming the removal of the ""blocking quarter"" provision in 2006, it is challenging to verify the claim's accuracy.
+
+Given the lack of clear and accessible information supporting the claim, it is prudent to consider it as not fully substantiated.
+
+Final Answer: Half True",half true,False,False
+"«As long as we were in government, we had an unemployment than two points lower than the European average, today they have an unemployment of two points higher than the European average.Youth unemployment is even dramatic, 32%;It means that 3 out of 10 young people don't have a job """,mostly true,it,"To assess the claim, we need to verify the following points:
+
+1. Unemployment rate during the period the speaker's party was in government.
+2. Current unemployment rate compared to the European average.
+3. Current youth unemployment rate.
+
+Without specific data, it's challenging to definitively categorize the claim. However, based on the structure and typical patterns in such claims, here's a general assessment:
+
+1. **Unemployment Rate Comparison**: The claim suggests a significant shift in the unemployment rate relative to the European average. If the data supports a two-point difference in both directions, this part could be considered mostly true.
+
+2. **Youth Unemployment Rate**: The claim states that youth unemployment is at 32%, which is a specific and verifiable figure. If this figure matches official statistics, it can be considered true.
+
+Given the lack of specific data to verify each point, the claim could be considered **Half True** if the general trends align but specific figures might not be entirely accurate.
+
+**Final Answer: Half True**",half true,False,False
+The commercial surplus of Germany violates European rules?,true,it,"The claim that 'The commercial surplus of Germany violates European rules' is complex and requires contextual understanding. The European Union does have rules regarding macroeconomic imbalances, and Germany's large and persistent trade surplus has been a subject of debate. However, the European Commission has not formally ruled that Germany's surplus violates EU rules, although it has recommended that Germany take action to reduce imbalances. Therefore, the claim is not entirely accurate but has some basis in ongoing economic discussions.
+
+Final Answer: Mostly False",mostly false,False,False
+"""Argentina has unconventional gas resources that the second one in the world ranking after China""",true,es,"The statement ""Argentina has unconventional gas resources that the second one in the world ranking after China"" appears to be incomplete or incorrectly phrased. The intention seems to be to convey that Argentina has the second-largest unconventional gas resources in the world after China.
+
+As of the most recent data, Argentina is indeed recognized for its significant unconventional gas resources, particularly in shale gas. According to the U.S. Energy Information Administration (EIA), Argentina ranks second in the world for technically recoverable shale gas resources, following China.
+
+Therefore, the claim is mostly accurate but could be better phrased for clarity.
+
+Final Answer: Mostly True",mostly true,False,False
+"The ONE poverty group highlights 10 countries, including nine in Africa, where it is ""the most difficult"" for girls to have access to education.",half true,fr,"The claim that 'The ONE poverty group highlights 10 countries, including nine in Africa, where it is ""the most difficult"" for girls to have access to education' appears to be based on specific data or reports from the ONE Campaign. The ONE Campaign is a reputable organization that advocates for action against poverty and preventable diseases, particularly in Africa. Given the organization's focus and credibility, it is reasonable to assume that their reports are based on thorough research and data analysis.
+
+However, without direct access to the specific report or data from the ONE Campaign, it is challenging to verify the claim with absolute certainty. Nonetheless, based on the organization's reputation and typical areas of focus, it is likely that their findings are credible.
+
+Final Answer: Mostly True",mostly true,False,False
+Sunday at the museum or at the stadium?,true,it,"The statement 'Sunday at the museum or at the stadium?' is not a claim that can be evaluated as true or false. It is a question presenting two options for activities on Sunday. Therefore, it does not fall into the categories of 'True', 'Mostly True', 'Half True', 'Mostly False', or 'False'.
+
+Final Answer: False",false,False,False
+"“In education we go from 25% of the total budget to 17%, 8 points.In health something similar happened, from 19% to 14% """,half true,es,"To evaluate the claim, we need to examine the accuracy of the percentage changes mentioned for both education and health budgets.
+
+1. Education Budget Change:
+   - Claimed change: From 25% to 17%
+   - Actual change: 25% to 17% is a decrease of 8 percentage points.
+
+2. Health Budget Change:
+   - Claimed change: From 19% to 14%
+   - Actual change: 19% to 14% is a decrease of 5 percentage points, not similar to the 8 points decrease as claimed.
+
+The claim states that both education and health budgets decreased by similar amounts (8 points), but the health budget actually decreased by 5 points, not 8 points. Therefore, the claim is not entirely accurate.
+
+**Final Answer: Mostly False**",mostly false,False,False
+[There was] fall in child mortality,mostly true,pt,"To accurately assess the claim ""There was a fall in child mortality,"" we need to consider global trends over recent decades. According to organizations like the World Health Organization (WHO) and UNICEF, there has been a significant decline in child mortality rates worldwide. This decline is attributed to various factors, including improvements in healthcare, vaccination programs, better nutrition, and advancements in medical technology.
+
+Given this context:
+
+**Final Answer: True**",true,False,False
+"""[Italy is the] first country regarding the number of blue helmets, the eighth contributor to the world as regards the budget [of peace missions]""",mostly true,it,"To evaluate the claim, we need to consider two parts:
+
+1. Italy is the first country regarding the number of blue helmets.
+2. Italy is the eighth contributor to the world as regards the budget of peace missions.
+
+Let's break down these points:
+
+1. **Number of Blue Helmets**: As of recent data, Italy has been one of the top contributors of troops to UN peacekeeping missions. While the exact ranking can fluctuate, Italy has historically been among the leading countries in terms of troop contributions.
+
+2. **Budget Contribution**: Italy is indeed one of the significant financial contributors to UN peacekeeping missions. The UN peacekeeping budget is primarily funded by member states, and Italy is typically among the top contributors.
+
+Given the available data, while Italy is a significant contributor in both troops and budget, the exact rankings can change. The claim seems generally accurate but may not be precise in terms of the exact rankings at any given time. Therefore, the claim can be considered mostly true but not entirely precise.
+
+**Final Answer: Mostly True**",mostly true,True,False
+"""Know that when we arrive at the government, the [light] rates, a part of the ballot was paid in dollars,""",true,es,"The claim provided seems to be a fragmented and unclear statement. Without additional context or clarification, it is difficult to assess the truthfulness of the statement accurately. However, based on the given text alone, it appears to be incomplete and lacking necessary details to make a proper evaluation.
+
+Final Answer: False",false,False,False
+The exchange of words of today between Carlos César and Fernando Negrão Sobr ......,mostly true,pt,"To evaluate the claim, ""The exchange of words of today between Carlos César and Fernando Negrão Sobr ......,"" more context is needed. Without additional information about what exactly was exchanged or the specifics of the conversation, it is impossible to determine the veracity of the claim. Therefore, the most accurate response based on the given information is:
+
+Final Answer: Half True",half true,False,False
+"He [Soursop Leaf Tea] does not bring any side effects soon, you can use them as much as you want",false,pt,"The claim that soursop leaf tea does not bring any side effects and can be used as much as you want is not entirely accurate. While soursop leaf tea has potential health benefits, it can also have side effects, especially when consumed in large amounts. Some reported side effects include nausea, vomiting, and even neurotoxic effects in extreme cases. Therefore, the claim that it has no side effects and can be consumed without limit is not true.
+
+Final Answer: Mostly False.",mostly false,False,False
+"""Before 2011 we exported US $ 6,000 million fuels and then we began to import the same figure""",half true,es,"To evaluate the claim, we need to consider the following points:
+
+1. **Historical Data on Exports and Imports**: We need to verify the specific figures for fuel exports and imports before and after 2011.
+2. **Context and Country**: The claim does not specify the country, which is crucial for verification. Different countries have different export and import patterns for fuels.
+3. **Consistency Over Time**: The claim suggests a significant shift from exporting to importing the same amount of fuels. This would require checking continuous data trends to see if such a shift occurred around 2011.
+
+Without specific data and context, it's challenging to definitively categorize the claim. However, dramatic shifts in fuel trade patterns are typically well-documented and would be reflected in economic reports and trade statistics.
+
+Given the lack of specific data and context, the claim appears to be a generalization that might not accurately reflect the trade dynamics of any particular country. Therefore, without concrete evidence, the claim is likely an exaggeration or oversimplification.
+
+**Final Answer: Mostly False**",mostly false,False,False
