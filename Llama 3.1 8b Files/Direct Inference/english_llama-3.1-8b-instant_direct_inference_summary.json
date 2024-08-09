@@ -1,0 +1,14 @@
+{
+    "correct": 95,
+    "wrong": 278,
+    "inconclusive": 225,
+    "total": 598,
+    "languages": {
+        "en": {
+            "correct": 95,
+            "wrong": 278,
+            "inconclusive": 225,
+            "total": 598
+        }
+    }
+}
