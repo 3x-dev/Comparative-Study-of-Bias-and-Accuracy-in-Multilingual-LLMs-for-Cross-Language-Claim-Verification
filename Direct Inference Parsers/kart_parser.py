@@ -3,9 +3,9 @@ import json
 import re
 
 # File paths
-csv_file_path = 'kartvelian_gpt-4o_direct_inference.csv'
+csv_file_path = 'kartvelian_mistral-large-latest_direct_inference.csv'
 json_file_path = '../../JSON Files/kartvelian.json'
-output_json_path = 'kartvelian_gpt-4o_direct_inference_summary.json'
+output_json_path = 'kartvelian_mistral-large-latest_direct_inference_summary.json'
 
 # Mapping dictionary for the labels
 label_mapping = {
@@ -15,6 +15,7 @@ label_mapping = {
     "ძირითადად მცდარი": "mostly false",
     "მცდარი": "false"
 }
+
 
 # Read CSV file
 csv_data = []
@@ -76,7 +77,9 @@ for row in csv_data:
     correct = row['correct']
     
     final_answer = extract_final_answer(output)
-    
+    comparison = None
+    matching_claim = None
+
     if final_answer is None:
         results["inconclusive"] += 1
         results["languages"][language]["inconclusive"] += 1
@@ -111,7 +114,10 @@ for row in csv_data:
     print(f"Final Answer: {final_answer}")
     print(f"Cleaned Final Answer: {cleaned_final_answer if final_answer else 'N/A'}")
     print(f"Mapped Final Answer: {mapped_final_answer if final_answer else 'N/A'}")
-    print(f"JSON Label: {matching_claim['label'] if matching_claim else None}")
+    if matching_claim:
+        print(f"JSON Label: {matching_claim['label']}")
+    else:
+        print("JSON Label: None")
     print(f"Correct: {correct}")
     print(f"Comparison: {comparison if final_answer and matching_claim else 'No matching claim or inconclusive'}")
     print('-' * 40)
