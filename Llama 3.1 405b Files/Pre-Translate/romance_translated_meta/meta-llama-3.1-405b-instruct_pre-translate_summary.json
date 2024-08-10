@@ -1,0 +1,32 @@
+{
+    "correct": 123,
+    "wrong": 427,
+    "inconclusive": 50,
+    "total": 600,
+    "languages": {
+        "fr": {
+            "correct": 22,
+            "wrong": 86,
+            "inconclusive": 1,
+            "total": 109
+        },
+        "it": {
+            "correct": 39,
+            "wrong": 94,
+            "inconclusive": 6,
+            "total": 139
+        },
+        "es": {
+            "correct": 17,
+            "wrong": 116,
+            "inconclusive": 3,
+            "total": 136
+        },
+        "pt": {
+            "correct": 45,
+            "wrong": 131,
+            "inconclusive": 40,
+            "total": 216
+        }
+    }
+}

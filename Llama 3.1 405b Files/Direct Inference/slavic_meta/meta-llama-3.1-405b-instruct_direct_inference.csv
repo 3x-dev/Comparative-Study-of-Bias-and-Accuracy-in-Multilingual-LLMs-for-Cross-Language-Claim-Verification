@@ -1,0 +1,601 @@
+claim,label,language,output,final_answer,correct,inconclusive
+„I u drugim evropskim zemljama postoje različite akcize na različit kvalitet naftnih derivata.“,mostly false,sr,Коначан одговор: Истина.,true,False,False
+"“Što se tiče tramvaja, oni nisu mogli da prođu zbog okupljenih građana, a saobraćaj je normalizovan posle završetka protesta.”",false,sr,Коначан одговор: Истина.,true,False,False
+"Медианный размер средней зарплаты в январе составлял 112 тыс тенге. А модальный, то есть самый распространенный размер зарплаты, составляет 58 тыс тенге.",true,ru,Окончательный ответ: Правда.,true,True,False
+„Demokratska stranka je ispunila sve ono što je pre četiri godine obećala.“,false,sr,Коначан одговор: Лаж.,false,True,False
+Парламент Швейцарии одобрил закон о запрете вакцинации граждан,false,ru,Окончательный ответ: Ложь.,false,True,False
+"В аптеках продается израильский парацетамол, от которого люди умирают на шестой день приема",false,ru,Окончательный ответ: Ложь.,false,True,False
+„Pregovori sa ministarstvom prosvete već daju rezultate i Niš je na korak od otvaranja Bogoslovskog fakulteta.“,mostly false,sr,Коначан одговор: Истина.,true,False,False
+"„U martu su se pojavili prvi pozitivni signali što se tiče zaposlenosti, jer je zabeležen blagi porast broja zaposlenih, ali će se tek videti da li će to značiti i početak novog trenda.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+„Domaće mleko se redovno kontroliše i potpuno je ispravno.“,mostly false,sr,Коначан одговор: Истина.,true,False,False
+"„Nemamo kašnjenja prema vaterpolistima i savezima, vlada je prvi put izmirila sve obaveze koje je imala prema sportistima. Znam i sam kada sam igrao koliko se dugovalo igračima i sa ponosom mogu da kažem da to sad nije slučaj.“",true,sr,Коначан одговор: Истина.,true,True,False
+"„Izdvajanjа za nauku u Srbiji 1% BDP-a su niža od proseka EU, oko 2% BDP-a u 2013. godini. Iz privatnog sektora dolazi svega 7,5% svih ulaganja u nauku što je značajno ispod proseka EU gde čak 55% svih ulaganja u nauku čine investicije privatnog sektora.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"Polska nie tylko jest jednym z państw, które pomimo budżetu deficytowego płaci 2% [PKB na obronność], ale zapowiedzieliśmy, że to będzie niebawem 2,5%.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+В Казахстане ежегодно изымается от 20 до 40 тонн различных наркотических веществ.,true,ru,Окончательный ответ: Правда.,true,True,False
+„Vlada od početka godine nije uputila nijedan proevropski zakonski predlog Skupštini.,true,sr,Коначан одговор: Истина.,true,True,False
+"Более 4,5 млн граждан, оставшихся без временного дохода, получили помощь в размере 42 тысячи 500 тенге. На это было затрачено более 450 миллиардов тенге",true,ru,Окончательный ответ: Правда.,true,True,False
+"“A to što ljudi više kupuju vodu, zato što je to postala moda i ne veruju u našu česmovaču koja je inače odličnog kvaliteta, kao i flaširana voda.”",false,sr,Коначан одговор: Истина.,true,False,False
+"Сертификат безопасности устанавливается с целью защиты граждан, государственных органов и частных компаний от хакеров, интернет-мошенников и иных видов киберугроз",half true,ru,Окончательный ответ: Правда.,true,False,False
+В университет Ренн во Франции внедряется предмет «Абаеведение»,half true,ru,Окончательный ответ: Правда.,true,False,False
+Президент Узбекистана Шавкат Мирзиёев установил на период борьбы с эпидемией ежемесячные выплаты (контактирующим с больными),mostly true,ru,Окончательный ответ: Правда.,true,False,False
+"Od 2018 r. wystarczy, że w żłobku będzie jedno pomieszczenie dla dzieci. Zmniejszono także wymaganie, jeżeli chodzi o metraż, jaki przypada na jedno dziecko. I tak zgodnie z tymi zmianami na jedno dziecko może przypadać 2,25 m2, a w żłobkach i klubach dziecięcych, które działają do 5 godz. dziennie – nawet 1,87 m2. Dla porównania: na jednego więźnia przypadają 3 m2.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Zbog smanjena carina na uvoz iz EU pojeftiniće automobili, računari, tehnička roba, nameštaj, tekstil i mnogi drugi proizvodi.“",false,sr,Коначан одговор: Истина.,true,False,False
+"Издание The Washington Post включило вакцину против COVID-19, разрабатываемую в Казахстане, в список 200 перспективных, экспериментальных вакцин, которые, как оно считает, помогут остановить пандемию",half true,ru,Окончательный ответ: Правда.,true,False,False
+"W ogólnym zarysie zmniejsza się deficyt budżetu państwa, to deficyt najniższy na przestrzeni ostatnich lat. Za rządów PO-PSL w latach 2010/11 sięgał on 100 mld. zł, w tej chwili mamy 28,5 mld.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Nie zostałem zaproszony na rozmowę do telewizji publicznej przez ostatnie 5 lat. Grzegorz Schetyna nie był zaproszony do Telewizji Publicznej na wywiad jeden na jeden.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Polskie społeczeństwo starzeje się najszybciej w Europie.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Казахстан попал в ТОП-15 стран с наихудшими законами о доступе к информации,true,ru,Окончательный ответ: Правда.,true,True,False
+Polacy są w tej chwili najbardziej gruntownie rozbrojonym narodem w Europie.,false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+“Između 30 i 31 hiljade dinara je minimalac u Srbiji.”,true,sr,Коначан одговор: Истина.,true,True,False
+„Korupcija u zdravstvu je sporadična pojava.“,mostly false,sr,Коначан одговор: Лаж.,false,False,False
+"Jest to rozwiązanie niezgodne z Europejską Kartą Samorządu Terytorialnego (zmiana granicy województwa - przyp. Demagog), która mówi, że jeżeli chce się dokonać zmiany granic wspólnot lokalnych, to należy przeprowadzić referendum.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Pensja w gospodarce narodowej wzrosła w ciągu ostatnich 2,5 roku o 20%.To jest wzrost, którego nie odnotowano wcześniej.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Największa liczba Polaków emigrowała w czasie rządów PiS- u, nawet 0,5 mln rocznie, dziś to jest 50-60 tysięcy, 8 razy mniej.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Разрешили завозить вакцины БЕЗ национальной экспертизы. Причем, через организации, рекомендованные ВОЗ.",half true,ru,Окончательный ответ: Правда.,true,False,False
+"„Ja sam građanima Srbije prošle (2009.) godine, pred početak svetske finansijske krize, rekao da će prošla godina biti najteža u našoj novijoj istoriji.“",half true,sr,Коначан одговор: Лаж.,false,False,False
+В Китае распространение книг Солженицына стало уголовным преступлением,false,ru,Окончательный ответ: Правда.,true,False,False
+"„Definitivno nas čeka privredni rast sledeće (2010.) godine, ali neće biti pet ili sedam odsto kao ranije, već skromniji, od jedan do jedan i po odsto.“",true,sr,Коначан одговор: Истина.,true,True,False
+"„Sve vreme je to (broj grla stoke) išlo silaznom putanjom, apsolutno sve vreme.“",false,sr,Коначан одговор: Истина.,true,False,False
+Писатель Дин Кунц предсказал появление коронавируса в своей книге в 1981 году и называл его Ухань-400,half true,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+"Paweł Adamowicz (…) sam należał do partii aż do czasu, kiedy Platforma zdecydowała się z nim rozstać z uwagi na jego problemy z prawem.",half true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"„Italija je, posle Nemačke, drugi spoljnotrgovinski partner Srbije, ali prvo izvozno odredište za naše kompanije.“",true,sr,Коначан одговор: Истина.,true,True,False
+Ova skupštinska većina i ova vlast je 94 odsto svih nepravilnosti i svega onoga što je ukazao Zaštitnik građana ispravila.,mostly true,sr,Коначан одговор: Лаж.,false,False,False
+"Dzisiaj, dzięki podpisowi złożonemu przez pana prezydenta na ustawie, minimalna stawka godzinowa to 17 zł, a nie 5 zł, jak jeszcze było 5 lat temu.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Niestety, jest ona [polska administracja] ogromna, ponad 400 tysięcy osób (…)",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Даже при официальных темпах роста цен только за 7 месяцев домохозяйства понесли дополнительные затраты на продукты 225 млрд тенге,mostly true,ru,Окончательный ответ: Правда.,true,False,False
+"“Uređaj o kome mi vi pričate, gospodine Šutanovac, a ja sam spreman uvek da povedem i predstavnike novinara je kupljen za vreme vašeg mandata i kupljen je za JO2, a da o tome VBA nije imala pojma da je kupljen (…) Ko je hteo da prisluškuje građane Srbije? Ja ili vi? Ko je kupio uređaj? Ja ili vi?""",false,sr,Коначан одговор: Истина.,true,False,False
+"„Predlog budžeta za 2011. godinu, koji je Vlada danas usvojila, predvideo je da se za oko 25 odsto povećaju transferi lokalnim samoupravama. Za te namene predviđeno je ukupno 32 milijarde dinara.“",false,sr,Коначан одговор: Истина.,true,False,False
+"„Srbija bi mogla da postane ‘evropska sila’ u oblasti ribarstva i prerade ribe tako što bi uvozila ribu sa severnih mora, a potom je prerađenu prodavala Evropljanima.“",mostly false,sr,Коначан одговор: Полуистина.,true,False,False
+Корь излечивает от рака и предотвращает его развитие,half true,ru,Окончательный ответ: Ложь.,false,False,False
+"„Svi ključni ekonomski indikatori pokazuju tendenciju oporavka od marta (2009.), što znači da je najgori period iza nas.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+"Wskaźnik Giniego, który pokazuje poziom nierówności. W ciągu naszych rządów zmalał on o 2 punkty, z 31 do 29 mniej więcej.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Poskupljenje goriva svakako će uticati na cene ostalih proizvoda.“,true,sr,Коначан одговор: Истина.,true,True,False
+"Результаты PISA говорят о снижение грамотности школьников. Если в странах ОЭСР дети постоянно повышают результаты читательской грамотности, то у нас есть вопросы и определенная тенденция на ухудшение.",half true,ru,Окончательный ответ: Правда.,true,False,False
+"„Predviđanja Vlade da ekonomska kriza neće imati značajan uticaj na proizvodnju i izvoz poljoprivrednih proizvoda pokazala se kao tačna. U prvih šest meseci poljoprivreda beleži suficit od 320 miliona dolara, što je više od prošle godine, kada je ukupni godišnji suficit bio 600 miliona dolara.“",true,sr,Коначан одговор: Истина.,true,True,False
+Си Цзиньпин посетил мечеть и просил благословения/прощения у мусульман,false,ru,Окончательный ответ: Правда.,true,False,False
+Wie pan ile w rządzie zasiada osób? 106 wiceministrów i 22 chyba ministrów.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"LSNS otwarcie odwołuje się do reżimu stworzonego przez nazistowskiego kolaboranta ks. Tiso, wzywa do przemocy, organizuje bojówki. Faszyści dostali 8% głosów.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Mamy w warszawie dwa kluby rugby: Skra i AZS AWF Warszawa.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Коронавирус вызывает не пневмонию а тромбоз,false,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+"На лица, нарушившее карантин, налагается штраф и они привлекаются к ответственности",true,ru,Окончательный ответ: Правда.,true,True,False
+В прошлом году по этому показателю [Получение разрешения на строительство в рейтинге Doing Business-ред.] Казахстан поднялся сразу на 17 позиций и занял 35 место в мире,mostly true,ru,Окончательный ответ: Правда.,true,False,False
+В нескольких городах США планируется расформировать полицию и заменить ее командами реагирования,half true,ru,Окончательный ответ: Правда.,true,False,False
+„Dvadeset pet procenata nezaposlenosti nema nigde drugde na Balkanu!“,mostly false,sr,Коначан одговор: Истина.,true,False,False
+Dopiero teraz wiemy ilu lekarzy pracuje w Polsce. Jest to 149 tys. mniej więcej. To jest średnia europejska.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Jeszcze jako UPR zebraliśmy 140 tysięcy podpisów pod ustawą o wprowadzeni kary śmierci. One zostały “zmielone” tutaj w Sejmie.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Ile było głosów nieważnych, teraz w wyborach prezydenckich? 1%?",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„Prosečne plate će se ove godine kretati između 34.000 i 35.000 dinara, odnosno od 320 do 330 evra, što je na nivou regiona.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+"«...в советский период рыбное хозяйство Казахстана было одной из самых высоко развитых доходных отраслей народного хозяйство, объем валового рыбопроизводства составлял свыше 80 тыс. тонн в год. В настоящее же время общий объем добычи биоресурсов снизился в несколько раз…»",true,ru,Окончательный ответ: Правда.,true,True,False
+"Jesteśmy w wąskim gronie Luksemburga, Belgii, Islandii i Grecji, gdzie te różnice są mniejsze (w płacy kobiet i mężczyzn).",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Broj ‘lažnih azilanata’ koji iz Srbije dolaze u EU je u padu.“,true,sr,Коначан одговор: Истина.,true,True,False
+Секспросвет грозит растлением молодого поколения и уничтожением основ нравственности и порядочности,false,ru,Окончательный ответ: Ложь.,false,True,False
+"„Kakva je to politika SNS to saznajem najčešće od vas novinara, kakva je ideja i ideologija SNS – nje nema…ona nema ni program.“",half true,sr,Коначан одговор: Истина.,true,False,False
+Wśród nich [rowerów w systemie Veturilo jest – przyp. red.] jednak tylko kilka trójkołowych dla osób niepełnosprawnych i seniorów.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Według celów barcelońskich, które PO zgodziła się realizować, powinniśmy mieć 33% gwarantowanych miejsc dla dzieci w żłobkach.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"TSUE ma prawo, a nawet ma obowiązek zwracać uwagę, że nasze prawo jest niezgodne z polską konstytucją, a przez to, z prawem unijnym.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Kraje, do których wyjeżdżają Polacy, kraje, do których wyjechały 2 miliony Polaków, to są kraje, w których poziom tzw. wyszczepienia jest zdecydowanie mniejszy niż w Polsce. W Wielkiej Brytanii tylko 75% to są ludzie, którzy się szczepili, podobnie jest w Szwajcarii – to jest 75% w Polsce jest 99,99%.",false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"„Vlada Srbije usvojila je Uredbu o regresiranju mineralnih đubriva, a cilj je da se poljoprivrednicima olakša i pomogne uspešno okončanje ovogodišnje jesenje setve.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+Drugi Budapeszt to oznacza znacznie wolniejszy wzrost gospodarczy (…). Oni się rozwijali dwa razy wolniej niż my [Polska].,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Профессора Калифорнийского университета (UCLA) Гордона Кляйна временно отстранили от работы, потому что тот отказался перенести экзамены для студентов афроамериканцев",true,ru,Окончательный ответ: Правда.,true,True,False
+Майк Тайсон отказался от Ислама,half true,ru,Окончательный ответ: Правда.,true,False,False
+"Поскольку корь очень заразна, коллективный иммунитет для нее не работает несмотря на очень высокий охват вакцинации",false,ru,Окончательный ответ: Ложь.,false,True,False
+"„Bramerc ne samo da ne sumnja u našu političku volju, već nema nikakve ni profesionalne zamerke na ono što se u operativnom smislu radi. Uz to, ostvarena je puna saradnja s Tribunalom vezano za svedoke, dostavu dokumentacije, pristup arhivama.“",true,sr,Коначан одговор: Истина.,true,True,False
+"„Ne može jedan državni sekretar, pa makar to bio i Slobodan Ilić, da napravi problem u odnosima u koaliciji.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+"То, что эпидемиологи не верили в сезонность коронавируса, привело к составлению неверных моделей и прогнозов. Когда первоначальные наихудшие сценарии нигде не сбылись, некоторые все еще цепляются за модели, предсказывающие вторую волну.",false,ru,Окончательный ответ: Правда.,true,False,False
+"Оставили презумпцию согласия на изъятие ОРГАНОВ у умерших, хотя народ был против! То есть, каждый человек автоматически может стать донором органов, если НЕ успел отказаться. (Нужно либо при жизни написать отказ, либо родственники должны выразить несогласие)",half true,ru,Окончательный ответ: Правда.,true,False,False
+"„Autoput Kragujevac–Batočina jedan je od prioriteta vlade, pre svega zbog ugovora sa Fijatom.“",false,sr,Коначан одговор: Истина.,true,False,False
+"Polska czarna skrzynka, została odsłuchana w Polsce, sprowadzona do Polski i jest w polskich rękach.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"W wyborach 2014 na 1500 protestów Sąd Najwyższy tylko w 53 przypadkach przyznał rację skarżącym, a dotyczyły one nieprawidłowości w poszczególnych obwodach.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Каждый казахстанец — от старика до младенца — уже должен иностранному «дяде» около 9 тыс долларов.,half true,ru,Окончательный ответ: Правда.,true,False,False
+В Казахстане ежедневно разводятся 150 пар,true,ru,Окончательный ответ: Правда.,true,True,False
+"(…) kierunkowe założenia [nowej ordynacji podatkowej] zostały wypracowane przez zespół ludzi, w skład tego zespołu wchodziło 5 profesorów prawa podatkowego, 3 sędziów sądu administracyjnego, 3 przedstawicieli organów podatkowych, 3 przedstawicieli firm doradztwa podatkowego i jeden przedstawiciel Prezydenta.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Księża płacą 243 zł podatku ryczałtowego kwartalnie, a przeciętny podatnik płaci 2500 (zł - przyp. Demagog) kwartalnie takiego podatku z PIT-u.",half true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"„Dakle, mi ne možemo samo da vratimo penzije onako kao što MMF traži, i kao što neki ljudi traže, na pređašnji nivo. Zato što bi to značilo da za 80 odsto penzionera vi umanjujete penzije. (…) Dakle, ne možemo samo da kažemo ’taj zakon se ukida’, zato što nikome nećemo umanjivati penzije.“",false,sr,Коначан одговор: Истина.,true,False,False
+Программа для онлайн-конференций Zoom небезопасна,half true,ru,Окончательный ответ: В основном правда.,true,False,False
+"„Ja nikada nisam mahao krivičnim prijavama. Ja nikada ne mašem zatvorom. Ja i sada kad sam svestan toga da su mnogi ljudi ogrezli u kriminal, ne pominjem ljude i ne kažem da ćemo mi trpati ljude u zatvor.“",half true,sr,Коначан одговор: Истина.,true,False,False
+Итальянцы массово принимают ислам,false,ru,Окончательный ответ: Ложь.,false,True,False
+"“Prosečna plata u januaru je bila prvi put u Srbiji preko 460 evra, 462 evra mislim, dakle u januaru, očekujemo u martu, to je za 40 posto više u odnosu na ono što sam zatekao kao predsednik Vlade 2014. godine.",false,sr,Коначан одговор: Истина.,true,False,False
+"„Prvi put u jednoj vladi je rodna ravnopravnost podignuta na mnogo viši nivo i po tome smo jedinstveni u celoj Evropi. Nema nijedne vlade, bilo u zemljama Zapadnog Balkana, bilo u EU, koje imaju telo za rodnu ravnopravnost tako visoko podignuto – pored premijera.“",half true,sr,Коначан одговор: Истина.,true,False,False
+"„Nakon prošlogodišnjih donacija tabača za sneg ‘Jumbo’ i ski lifta ‘Suvo rudište’ , od strane JP ‘Skijališta Srbije’ , ovom najnovijom donacijom Agregata za struju, dokazana je velika i nesebična podrška menadžmenta JP ‘Skijališta Srbije’ prema nama.“",half true,sr,Коначан одговор: Истина.,true,False,False
+"“Subvencije pojedinim preduzećima padaju, ali ih i dalje ima. Prevashodno tu mislim na Gradsko saobraćajno preduzeće. Takođe, nabavkom novih autobusa, svim merama štednje koje smo započeli, i to preduzeće polako staje na svoje noge.“",false,sr,Коначан одговор: Истина.,true,False,False
+"Można odnieść błyskotliwe zwycięstwo, tak jak Ryszard Petru – choć przypomnę, że jego partia otrzymała mniej głosów niż Zjednoczona Lewica.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"“U ovom trenutku, Aerodrom donosi 27 miliona evra. Jel to činjenica? Jeste. Predsednik je rekao da je donosio 130.000 dobiti pre nego što su oni došli na vlast, posle je shvatio da nije rekao istinu, pošto nikad ispod 16, 17 miliona nije bilo, miliona evra.”",half true,sr,Коначан одговор: Истина.,true,False,False
+"“Moram da vam kažem, da izračunali smo i prosečnu platu, odnosno prosečno primanje u Vojsci Srbije u novembru mesecu. Prosečna neto plata je bila 44.418 dinara, ali je prosečno primanje bilo 66.817 dinara. Primanje oficira, prosečno, je bilo 92.565 dinara, podoficira 75.000 dinara, profesionalnih vojnika 58.308 dinara, civilna lica su dobila prosečno 49.725 dinara(…) Kao što je i moj kolega Stefanović rekao, dnevnice su 1800 dinara. Obezbeđene su za sve pripadnike vojske i policije koji se nalaze na granici i koji se nalaze u kopnenoj zoni bezbednosti.”",half true,sr,Коначан одговор: Истина.,true,False,False
+„Mi smo odgovorni i nema razloga da se mi brinemo za viznu liberalizaciju.“,false,sr,Коначан одговор: Истина.,true,False,False
+"Тедрос Гебреисус, нынешний руководитель ВОЗ, никогда не был практикующим врачом",half true,ru,Окончательный ответ: Правда.,true,False,False
+"Разрешили ставить психиатрические диагнозы на основе РАЗМЫТЫХ критериев. А слова «в соответствии с клиническими проявлениями, лабораторными данными, объективными сведениями» УБРАЛИ. (То есть, по сути, под диагноз психически больного теперь может попасть ЛЮБОЙ человек. И есть возможность использовать психиатрию в карательных целях).",half true,ru,Окончательный ответ: В основном правда.,true,False,False
+"“Kao što vidite mi ni dinara nismo potrošili na kampanju, nemamo skupove, ne učestvujemo dok se izbori ne raspišu. Nemamo spotove. Koji god portal od svih vaših portala da otvorite iskakaće vam neki drugi kandidati”.",false,sr,Коначан одговор: Истина.,true,False,False
+Miasto wspomaga (…) [schronisko Na Paluchu – przyp. red.] kwotą ok. 9 milionów złotych.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+„Podignute su penzije i plate u javnom sektoru“.,half true,sr,Коначан одговор: Истина.,true,False,False
+"Warto pamiętać, że już teraz 40 tysięcy osób rocznie umiera przedwcześnie z powodu zanieczyszczenia.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Za Hitlera był zakaz aborcji, za Stalina był zakaz aborcji.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Dinar je među najstabilnijim valutama, ne samo u regionu, nego i u Evropi.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+"„Ljudi u Srbiji treba da znaju da nikada ništa ovako povoljno nismo dobili, ni od koga, od svih naših silnih prijatelja nikada nismo dobili nijedan zajam koji bi bio ovako dobar i po ovako povoljnim uslovima.“",false,sr,Коначан одговор: Лаж.,false,True,False
+„Nema mesta zabrinutosti zbog kursa.“,false,sr,Коначан одговор: Истина.,true,False,False
+Появился еще один вид коронавируса,half true,ru,Окончательный ответ: Правда.,true,False,False
+"„Po evidenciji Nacionalne službe za zapošljavanje u Beogradu je u septembru mesecu ove godine bilo manje od 100 000 nezaposlenih, što je svojevrstan rekord u poslednjih nekoliko godina i 8 odsto bolji rezultat nego prošle godine.“",half true,sr,Коначан одговор: Истина.,true,False,False
+„Srbija je rastom izvoza u prošloj godini nadoknadila gubitak iz 2009. godine.“,mostly true,sr,Коначан одговор: Истина.,true,False,False
+"„Obavio sam razgovore sa svim koalicionim partnerima i mogu reći da se ne radi o personalnim, već o suštinskim promenama u Vladi.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+„Kreditni rejting je snižen zahvaljujući lošem radu u javnim finansijama prethodne Vlade.“,half true,sr,Коначан одговор: Истина.,true,False,False
+„Tužilaštvo je zadovoljno postignutim sporazumom (sa Svetlanom Ražnatović) i smatramo to velikom pobedom tužilaštva.“,mostly false,sr,Коначан одговор: Истина.,true,False,False
+"„Mi smo u protekle dve godine vrednim radom uspeli da stabilizujemo našu državu i odbranimo je od bankrota. Sada imamo dolazak velikog broja stranih investicija koji su otvorili više od 120 hiljada radnih mesta, novih radnih mesta, naravno.“",false,sr,Коначан одговор: Полуистина.,true,False,False
+“Negde u periodu između 2007. i 2011. godine tu je postojao veliki zastoj u istrazi i nisu se baš naši državni organi tada ozbiljno bavili tim slučajem.”,half true,sr,Коначан одговор: Истина.,true,False,False
+В Швеции закончился мусор,false,ru,Окончательный ответ: В основном правда.,true,False,False
+"Доля затрат на продовольствие в Казахстане составляет почти половину бюджета почти у 50% граждан, что намного хуже, чем в соседней России, не говоря уже о развитых странах, где расходы на питание составляют всего 10–12%",true,ru,Окончательный ответ: Правда.,true,True,False
+"“Uveden je rad i u gradska javna komunalna preduzeća, koja su 2013. poslovala sa gubitkom od dve milijarde dinara, da bi danas pravila profit od dve milijarde dinara. To je važno jer 85 odsto tog profita ide u budžet Grada Beograda iz koga se finansiraju infrastrukturni projekti, izgradnja škola, vrtića i igrališta.”",true,sr,Коначан одговор: Истина.,true,True,False
+США скупили 90% запаса препарата «Ремдесивир»,true,ru,Окончательный ответ: Правда.,true,True,False
+"W Krajowym Rejestrze Długów jest 366 tys. polskich emerytek i emerytów. Są zadłużeni na kwotę 5,7 mld zł.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Srbija ne kasni sa vakcinacijom i nalazi se među prve tri zemlje izvan Evropske unije koje će početi sa vakcinacijom početkom decembra.“,false,sr,Коначан одговор: Истина.,true,False,False
+"“Održavanje vanrednih parlamentarnih izbora ne bi poskupelo parlamentarni izborni ciklus, jer je to samo još jedan odštampani listić koji treba zaokružiti.”",half true,sr,Коначан одговор: Истина.,true,False,False
+"Konrad Piasecki: [Marszałek Stanisław Tyszka] w swoim radykalizmie jest również antypisowski. Adam Szłapka: [Stanisław Tyszka] jako najbliższy doradca Jarosława Gowina i członek zarządu partii Polska Razem Jarosława Gowina, nie jestem przekonany.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Феминитивы необходимы языку и обществу,true,ru,Окончательный ответ: Правда.,true,True,False
+"Na Wawelu przemawiał tylko G.Bush — Boguslaw Sonik (@SonikBoguslaw) July 5, 2017",false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"“Nikada nisam lagao naš narod u Srbiji i da kažem bićemo sigurno do 2020. deo Evropske unije. Ja sam rekao da ćemo mi da ispunimo ono što je do nas, ono što mi možemo i što moramo da uradimo do 2019, a onda je na Austriji, Nemačkoj, Francuskoj i drugim evropskim zemljama da donesu odluku da li žele da nas prime u EU ili ne.”",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"„Broj penzionera u Srbiji će u narednim godinama rasti, a broj novih radnih mesta neće pratiti tako brz porast broja penzionera.“",true,sr,Коначан одговор: Истина.,true,True,False
+"„Najveći priliv investicija u Srbiji bio je dok je DSS predvodio Vladu, a građani su to mogli i te kako dobro da osete, jer je prosečna plata tada za sto evra bila veća nego što je danas.“",half true,sr,Коначан одговор: Лаж.,false,False,False
+"„Za isplatu penzija ranije je išlo 51,1 odsto iz PIO Fonda, dok je to sada 62,2 odsto, a svega 37,8 odsto iz budžeta“.",half true,sr,Коначан одговор: Истина.,true,False,False
+„Intervencije NBS na deviznom tržištu su vrlo skromne u odnosu na protekle godine.“,true,sr,Коначан одговор: Истина.,true,True,False
+„Plate zdravstvenih radnika su u rangu pomoćnih radnika u javnim preduzećima.“,true,sr,Коначан одговор: Истина.,true,True,False
+"Jest wiele krajów, które mają w Jad Waszem swoje drzewko. Polska nie ma tego drzewka (…), a takie wyróżnienie spotkało Danię.",false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"Ремдесивир используется как профилактика для медработников, лечащих пациентов с COVID-19",false,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+„Poslanici imaju zamrznute plate poslednjih šest godina.“,true,sr,Коначан одговор: Истина.,true,True,False
+"„Prvi put posle šest godina, posle 2006. godine, budžet je ponovo usvojen u oktobru.“",true,sr,Коначан одговор: Истина.,true,True,False
+Polski rząd jako pierwszy w Europie zamknął granice,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Evropska komisija je napisala pozitivan izveštaj o Srbiji, sa reformskim idejama i menijem za sledeću godinu.",mostly false,sr,Коначан одговор: Истина.,true,False,False
+Polacy płacą za gaz więcej niż ktokolwiek w tej części świata.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Czyli to oznacza przyrost rzędu 20 paru tysięcy, prawie 30 tys. [dzieci] rocznie [dzięki programowi Rodzina 500 plus, szacowany przez Min. Rodziny], czyli to oznacza, no nawet nie dziesięcioprocentowy wzrost (…).",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Правительство Казахстана запретило свободную покупку валюты,half true,ru,Окончательный ответ: Правда.,true,False,False
+"ВОЗ признала, что бессимптомные носители не заразны, и по сути обесценила карантин",half true,ru,Окончательный ответ: Ложь.,false,False,False
+"Mamy coraz więcej dostaw gazu skroplonego do Polski przez terminal LNG w Świnoujściu. Ogromnie wzrosła możliwość tych dostaw. Początkowo to było 8,5 mld m3 gazu, dzisiaj to jest już w sumie do tej pory 23 mld.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Nacrtom Zakona o besplatnoj pravnoj pomoći, koji bi uskoro trebalo da se nađe pred poslanicima proširen je krug korisnika koji će imati pravo na besplatnu pravnu pomoć, među kojima su deca, žrtve porodičnog nasilja, torture, trgovine ljudima i drugi.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+"To był nowy samochód, wyprodukowany w 2016 roku.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"“Jagodina je jedan od tri grada u Srbiji koji je prošle godine imao suficit 30 miliona evra. Punimo budžet Srbije i da imamo u svakom gradu naš program, danas bi bilo suficita u budžetu republike Srbije, i plate i penzije bi bile veće”.",half true,sr,Коначан одговор: Лаж.,false,False,False
+"„Od preko 1.000 sudija koje nisu prošle reizbor, u Srpsku naprednu stranku se učlanilo oko 650.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+"Jak rozumiem, chodzi pani o wyrok Trybunału Konstytucyjnego, który wzbudza ostatnio tyle emocji i dyskusji. To zależy od Rządowego Centrum Legislacji, które publikuje wyroki. (…) Ja powtórzę, to nie premier publikuje ten wyrok.",half true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"„Prema evropskim statistikama i podacima organizacije Evrostat, u 2009. godini Srbija je svrstana među zemlje sa najmanjim cenama hrane i pića, ali i među zemlje koje su najjeftinije za život.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+Pana partia [Platforma Obywatelska] buduje gazoport od 8 lat.,half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Dug Srbije je 80 procenata BDP, to znači da je Srbija visoko zadužena zemlja.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"Warto zwrócić uwagę, że 70% Polaków popiera te reformy, które chcieliśmy wdrażać.",half true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"GFK Polonia miała pani publikowane 6,5 proc. (poparcia dla J. Palikota), e-wybory 7,5 proc.,",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Srbija je u 2010. u SAD izvezla robu u vrednosti od 68 miliona dolara, dok je vrednost uvoza iz te zemlje bila 311 miliona dolara.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+Круг реальных рынков сбыта и содержание поставок за время второй индустриально-инновационной пятилетки не изменились,true,ru,Окончательный ответ: Правда.,true,True,False
+"Jest ta sprawa pracowników delegowanych, fundamentalna z punktu widzenia polskich interesów. Przypominam, że jedenaście parlamentów krajowych dało w tej sprawie Komisji Europejskiej żółtą kartkę.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"“Dozvola za gondolu nije ni u jednom trenutku izdata. Ona samim tim nije ni mogla biti osporena. Ono čime se sud bavio su pripremni radovi, koji se odnose na arheološka ispitivanja.“",false,sr,Коначан одговор: Истина.,true,False,False
+Коронавирус SARS-CoV-2 поражает преимущественно людей со II группой крови,half true,ru,Окончательный ответ: Ложь.,false,False,False
+„Stavovi državnog sekretara Ministarstva finansija Slobodana Ilića u vezi otvaranja pogona fabrike ‘Gorenje’ u Zaječaru neće poremetiti dobre i stabilne odnose G17 plus i DS u koaliciji.“,mostly false,sr,Коначан одговор: Истина.,true,False,False
+„Oni (Salford) imaju monopol i tvrdim da drže 60 odsto srpskog tržišta.“,mostly true,sr,Коначан одговор: Истина.,true,False,False
+"Немецкие врачи обнаружили, что COVID-19 это НЕ ВИРУС, а БАКТЕРИЯ, вызывающая смерть",half true,ru,Окончательный ответ: Ложь.,false,False,False
+Китайский премьер молится в мечети,false,ru,Окончательный ответ: Правда.,true,False,False
+"На конец августа заявки на получение пособия по потере дохода подало 2,6 миллиона казахстанцев.",true,ru,Окончательный ответ: Правда.,true,True,False
+"„Pokrenuli smo veoma težak, ali odlučan program reformi sa MMF-om. Uspeli smo da postignemo izvanredne rezultate. Naš budžetski deficit je u 2014. iznosio oko 6,2 odsto BDP-a, dok smo u 2018. godini imali fiskalni suficit od 0,6 odsto. Treću godinu zaredom smo ostvarili suficit. Javni dug je u 2014. godini iznosio oko 70 odsto BDP-a, sada iznosi 50,6 odsto.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+Andrzej Duda od czerwca ubiegłego roku nie złożył żadnej ustawy do Sejmu.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+„Građevinska industrija posle dužeg vremena polako izlazi iz krize.“,half true,sr,Коначан одговор: Истина.,true,False,False
+.وزيرة الصحة وضعت نفسها ابتداء من يوم 20 مايو/أيار الجاري في إجراءات عزل نفسها منزلياً، نتيجة الاشتباه في إصابتها بفايروس كورونا المستجد,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Во многих странах (Великобритания, Германия, Италия, Нидерландах) вообще есть система раздачи легких наркотиков в специальных места",false,ru,Окончательный ответ: Правда.,true,False,False
+"Группа международных ученых пришла к выводу, что содержащийся в водорослях гепарин способен блокировать коронавирус SARS-COV-2. Оказалось, что гепарин по способности блокировать SARS-COV-2 превосходит множество противовирусных препаратов, в том числе ""Ремдесивир""",half true,ru,Окончательный ответ: Правда.,true,False,False
+"Pieniądze, które przeznaczamy na dotowanie kopalni - 10 miliardów każdego roku.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Vlada, kao ključni politički organ koji bi trebalo da vodi politiku države, ne vodi spoljnu politiku, već je uslužna delatnost kabineta predsednika Republike.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"„Nije tačno da je gorivo u Srbiji najskuplje u šta sam se ovih dana i lično uverio putujući kroz Hrvatsku, Sloveniju i Italiju.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+"„Sporazum će značiti povoljnije uslove isporuke ruskog gasa Srbiji i nižu cenu od najmanje 12 odsto, jer je moguće da prilikom potpisivanja bude dobijen i dodatni popust.“",true,sr,Коначан одговор: Истина.,true,True,False
+"У двух китайских врачей, заболевших коронавирусом изменился цвет лица",true,ru,Окончательный ответ: Правда.,true,True,False
+„Izdato je 23 odsto više građevinskih dozvola avgusta ove godine u odnosu na avgust prošle godine.“,true,sr,Коначан одговор: Истина.,true,True,False
+"„Ako uporedite sadašnji sastav ministara sa brojem članova Vlade od 2000, pa i pre toga, videćete da ovaj kabinet nije glomazan.“",half true,sr,Коначан одговор: Истина.,true,False,False
+"Na milion mieszkańców w Hiszpanii zmarło 630 osób (...), a w Polsce 65 (na COVID-19 - przyp. Demagog).",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+41% бизнеса Казахстана испытывает большие финансовые проблемы,half true,ru,Окончательный ответ: Правда.,true,False,False
+Dzisiaj mamy coraz więcej samobójstw w szkołach.,half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Одним из главный торговных партнёров Казахстана по СНГ является Республика Узбекистан, объем товарооборота с которой по итогам прошлого года превысил 2,7 млрд долларов США.",mostly true,ru,Окончательный ответ: Правда.,true,False,False
+Образовывать феминитивы в русском нужно с помощью аффикса –к,half true,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+"O ile Niemcy są naszym największym partnerem handlowym, to Wielka Brytania jest naszym drugim partnerem handlowym w kolejności.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Вирус кори после прививки на протяжении многих дней можно обнаружить в крови, моче и дыхательных путях привитого ребенка",half true,ru,Окончательный ответ: Правда.,true,False,False
+"„To govori i o većem međusobnom poverenju, rastu naše nacionalne avio-kompanije i aerodroma, ali i bezbednosnim uslovima i svemu što je Srbija postigla, jer ne može svako da leti za SAD, kao što ni mi nismo mogli 25 godina.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+"В первом полугодии 2020 года МСБ нарастил микрокредитный портфель на 850%. При этом выросла и просроченная задолженность на 238% по основному долгу или начисленному вознаграждению, в том числе. У физических лиц рост микрокредитов составил порядка 145%, просроченная задолженность выросла на 332%.",mostly true,ru,Окончательный ответ: Правда.,true,False,False
+„Nije tačno da će mnogi uređaji poskupeti dvadeset odsto zbog ekoloških taksi. Tačno je da je ekološka taksa samo nekoliko procenata u odnosu na cenu.“,true,sr,Коначан одговор: Истина.,true,True,False
+"Eutanazja to jest chyba w dwóch krajach w ogóle Unii Europejskiej, dwóch albo trzech krajach.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"...согласно данным научной статистики, в целом каждый наркоман втягивает в среднем от 5 до 17 человек в потребление наркотиков...",half true,ru,Окончательный ответ: В основном правда.,true,False,False
+"Przykład – zamknięcie szkół kiedy było 30 kilka przypadków stwierdzonych koronawirusa w Polsce. We Francji zamknięto szkoły wtedy, kiedy było 2000 stwierdzonych przypadków.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+„Kada god dođe može samo da se uveri da mi sve radimo kako bi došli do krajnjeg cilja.“,mostly true,sr,Коначан одговор: Истина.,true,False,False
+Grande parte da mídia achava que ele [Cesare Battisti] era um pobre coitado,half true,sr,Коначан одговор: Истина.,true,False,False
+Самый цитируемый в мире научный журнал (по данным 2019 Journal Citation Reports) в области иммунологии The Journal of Immunology опубликовал статью «Понимание сущности механизма действия высокоразбавленных биологических препаратов» о механизме действия отечественного «Эргоферона».,half true,ru,Окончательный ответ: Правда.,true,False,False
+"„Ako se pogledaju oni uslovi koji su bili postavljeni, Akcioni plan praktično je u potpunosti ispunjen.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"“Ne možete da smenite (članove REM-a), imate član 16, mislim da je stav 2. Vrlo izričito se kaže ovako, da neophodno je pribaviti mišljenje svih članova Saveta, pa tek onda možete da eventualno pristupite razrešenju. Zaista mislite da njih šest koji su tamo, da će oni sami sebe da nagrde i da kažu ‘Smenite nas sve’?”",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"„Bez naše koalicije neće biti ni nove Vlade, osim ako demokrate i naprednjaci ne formiraju većinu.“",true,sr,Коначан одговор: Истина.,true,True,False
+"Proponujemy powszechną opłatę na utrzymywanie mediów publicznych, dwa razy niższą niż abonament.*",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Холдинг «Байтерек», который объединяет государственные институты поддержки бизнеса, отчитался за прошлый год о чистой прибыли 40 миллиардов тенге",true,ru,Окончательный ответ: Правда.,true,True,False
+Церетели построит 193-метровый памятник Назарбаеву,false,ru,Окончательный ответ: Правда.,true,False,False
+Три случая заболевания коронавирусом в Казахстане,true,ru,Окончательный ответ: Правда.,true,True,False
+"Pamiętam expose Tuska z 2011 r. Mówił wtedy, że nie będzie klękał przed biskupami, że zlikwiduje fundusz kościelny.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Вакцина от COVID-19 будет вводится людям не пройдя никакой проверки и никакого тестирования. Чтобы апробировать вакцину от COVID-19 понадобится несколько десятков лет. После этого мы можем сказать насколько она опасна или нет, и о ее побочных эффектах/",false,ru,Окончательный ответ: Ложь.,false,True,False
+Większość SLD głosowało za podniesieniem wieku emerytalnego.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Od 1910. do 2013. imali smo svake godine dramatičan pad stočarske proizvodnje. Došli smo na nivo ispod 1910. godine.“,mostly true,sr,Коначан одговор: Истина.,true,False,False
+„Neće biti izbornog duela između Tadića i Đilasa.“,true,sr,Коначан одговор: Истина.,true,True,False
+"„Zakon je prekršen! Dvadesetčetiri hiljade i nešto zaposlenih i bivših zaposlenih nije dobilo akcije, i četiri miliona osam stotina hiljada građana nije dobilo akcije.“",true,sr,Коначан одговор: Истина.,true,True,False
+"„Interesantno je da su nam se plate izjednačile sa majem prošle godine. Razlika je u dve stotine dinara. Bez obzira na to što su plate u javnom sektoru niže, plate u privatnom sektoru su dostigle značajno viši nivo i izjednačili smo se sa prošlom godinom, to su podaci koji govore da smo napravili veliki rezultat.“",true,sr,Коначан одговор: Полуистина.,true,True,False
+"„Telekom u svom programu daje i kanal N1. Tako da onaj ko ima Telekomov program, odnosno koristi Telekom kao distributera, apsolutno može da gleda televiziju N1.”",mostly false,sr,Коначан одговор: Истина.,true,False,False
+„Mom nasledniku dostavio sam finansijski izveštaj o stanju finansija u gradu… na gradskim računima trenutno ima blizu šest milijardi dinara.“,true,sr,Коначан одговор: Истина.,true,True,False
+"W 2010 r. decyzją prezydenta Obamy i NATO przyjęto tak zwane plany ewentualnościowe, dla Polski i Litwy, Łotwy, Estonii, gdzie bardzo precyzyjnie opisano, jak NATO, czyli też Polska będą broniły tych terytoriów.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+„Sramota je da u najbogatijem parčetu zemlje Srbije živi najveći broj korisnika socijalne pomoći i niko nije ponosan na takvu Vojvodinu.“,half true,sr,Коначан одговор: Истина.,true,False,False
+"„Uručiću gospodinu Fileu i odgovore na upitnik koji oni nama još nisu poslali. Jednostavno, na taj način ćemo skratiti za nekoliko meseci od momenta kada zvanično dobijemo taj upitnik vreme koje nam treba da odgovorimo na njega.“",half true,sr,Коначан одговор: Истина.,true,False,False
+"“Deficit opšte države drastično je ispod onoga kakav deficit imaju najznačnije zemlje EU, izuzev Nemačke koja izuzetno posluje i sa kojom ne možemo da se poredimo. Jedna Francuska ima dva i po puta veci deficit od Srbije. “",half true,sr,Коначан одговор: Истина.,true,False,False
+Očekujem da ćemo sledeće godine imati najveću stopu ekonomskog rasta u regionu.,mostly true,sr,Коначан одговор: Полуистина.,true,False,False
+"Zasiłki rodzinne zostały zwiększone za 8 lat Platformy o 9 złotych. Wiem, co mówię, o 9 złotych, proszę pana.",false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"“Mi smo samo budžet Filmskog centra Srbije povećali, on je ove godine 50 puta veći nego pre šest godina. Dakle, nikada više nismo davali novca za domaću kinematografiju.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+(...) geriatrów (...) jest jedynie 436 w naszym kraju.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Srbija će reformom penzionog sistema do 2020. godine uštedeti oko 70 milijardi dinara.“,mostly false,sr,Коначан одговор: Истина.,true,False,False
+"W Niemczech, gdy rosła konsumpcja piwa przez lata ciągnęła za tym produkcję chmielu. W Polsce ma pan dwudziestokrotny wzrost spożycia piwa i spadek produkcji chmielu.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Mamy siódmy rok z siedmioletniej perspektywy, a wydanych mamy niespełna 46%, z 60 miliardów 27 zaledwie trafiło na konta rolników, a w działaniach modernizacja gospodarstw rolnych jest jeszcze gorzej, bo niespełna 1/3.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„Stepen pokrivenosti uvoza izvozom je nedovoljan, 58 odsto, ali u ovom veku to je najviši stepen, koji je Srbija imala.“",true,sr,Коначан одговор: Истина.,true,True,False
+„(…) możemy zapewnić około 100 euro na osobę miesięcznie. W Belgii jest to 60 euro dziennie.” / ‘(…) we can provide about €100 per month per person. In Belgium it’s €60 a day.’,false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"За неисполнение нижеперечисленных обязанностей родителей могут лишить родительских прав: Нельзя оставлять детей одних без присмотра до 12 лет. Ребенок сам не может вернуться со школы и сходить за хлебом? Родители должны не допускать просмотр, чтение и распространение материалов, содержащих порнографию, насилие, экстремизм и терроризм. А как же быть с порно, которое включили в ZOOM во время уроков? То есть государство не блокирует интернет-ресурсы на территории Казахстана, а родители как-то должны заблокировать!? Обеспечить соблюдение их детьми требования, установленного внутреннего распорядка организации и Уставом организации образования. А если иногда опаздываем в школу, то можно готовить ребенка в детдом? Выполнять иные обязанности, предусмотренные законодательством РК.",half true,ru,Окончательный ответ: Правда.,true,False,False
+"„Ja sam predsednik Vlade Srbije, izabran možda ne uz najveći broj mandata, ali uz najveći broj glasova u savremenoj istoriji Srbije.“",true,sr,Коначан одговор: Истина.,true,True,False
+У котов в Ухане обнаружили коронавирус,half true,ru,Окончательный ответ: Правда.,true,False,False
+Zakończyliśmy budowę gazoportu,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„U mojoj biografiji nikada nije bilo incidenata, nikada krivično nisam gonjen, a ispadoh najveći siledžija.“",mostly false,sr,Коначан одговор: Лаж.,false,False,False
+"Видео, снятое в селе Масанчи Кордайского района Жамбылской области Казахстана",true,ru,Окончательный ответ: Правда.,true,True,False
+В Казахстане в среднем в год собирают около 300 тысяч тонн хлопка-сырца.,true,ru,Окончательный ответ: Правда.,true,True,False
+Четверо украинских военных скончались после введения американской вакцины от коронавируса,false,ru,Окончательный ответ: Ложь.,false,True,False
+"„Zbog toga je država, u skladu sa odlukom Skupštine grada, odredila da se takve manifestacije (Parada ponosa) održavaju pred Palatom Srbije. To je centralno mesto u državi, to nije nikakva skrajnuta pozicija, niti poljana.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+PO wprowadziła JOW-y w samorządach i w Senacie.,half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Разрешили ставить психиатрические диагнозы НЕ только психиатру, а ПРОСТОМУ врачу, который даже НЕ обучался психиатрии.",half true,ru,Окончательный ответ: Правда.,true,False,False
+"Program restrukturyzacji górnictwa realizowany w latach 1998-2002 wraz z jego dalszymi modyfikacjami aż do 2006 r. był do tej pory najbardziej radykalnym projektem mającym zmienić kształt całego sektora. W jego efekcie zlikwidowano 13 kopalń oraz znacznie ograniczono wydobycie w kolejnych 10. Z górnictwa odeszło ponad 100 tys. osób, czyli więcej niż 42 proc. zatrudnionych w dniu rozpoczęcia programu.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"“Za sve (kulturne) manifestacije, organizovane 2015. godine, bilo je obezbeđeno više novca nego što je to bio slučaj 2013. godine.”",mostly false,sr,Коначан одговор: Истина.,true,False,False
+"В 2015 году было возбуждено 4 уголовных дела по сбыту наркотиков в отношении сотрудников Департамента по противодействию наркопреступности, в 2016 году уже 10, в 2017 уже 20, и, наверное, это ещё не все",half true,ru,Окончательный ответ: Правда.,true,False,False
+"„Rad Visokog saveta sudstva (VSS) u sadašnjem, nepotpunom sastavu, postao je nelegitiman.“",true,sr,Коначан одговор: Истина.,true,True,False
+Замороженных детей продают на органы в Китай,false,ru,Окончательный ответ: Ложь.,false,True,False
+Билла Гейтса призывал сократить население планеты на 10-15% и финансировал разработки коронавируса,false,ru,Окончательный ответ: Ложь.,false,True,False
+Из туннелей в Мельбурне подняли около 900 похищенных детей,false,ru,Окончательный ответ: Ложь.,false,True,False
+Всемирная организация здравоохранения (ВОЗ) официально включила любовь в список психических заболеваний. Новому недугу присвоили номер F63.9,false,ru,Окончательный ответ: Ложь.,false,True,False
+"Działają już ambasady w Senegalu i Iraku. W styczniu tego roku zostały ustanowione ambasady w Tanzanii i Panamie, a na początku lutego Konsulat Generalny w Houston. Placówki te rozpoczną pełną działalność w drugiej połowie bieżącego roku.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Emigracja była najwyższa zaraz po wejściu do Unii, a teraz utrzymuje się na pewnym stabilnym poziomie.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Глава ВОЗ танцует в ночном клубе,false,ru,Окончательный ответ: Ложь.,false,True,False
+"Dla przykładu Polska gospodarka jest blisko dwukrotnie bardziej energochłonna niż średnia europejska. Na 100 jednostek tzw. energii pierwotnej efektywnie wykorzystujemy jedynie kilkanaście. Cała reszta rozpływa się na etapie przetwarzania energii, transportu i jej odbioru. For example, Poland’s economy is almost twice much more energy intensive than the European average. At 100 units of so-called so. primary energy, we efficiently use only several. The remaining part dissipates at the stage of energy conversion, transportation and reception.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Będzie pobierane te 15 zł (w ramach opłaty audiowizualnej) od każdego licznika, a nie od telewizora.*",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Согласно VAERS, с 2006 по 2019 год после прививки от ВПЧ в США 3000 стали инвалидами, 480 умерли, более чем у 300 появилась дисплазия шейки матки и более чем у 400 появился рак шейки матки",false,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+В Казахстане (в Алматы) подтверждены два случая коронавируса,true,ru,Окончательный ответ: Правда.,true,True,False
+"My – Polska, od wielu lat jesteśmy w wielu sprawach sojusznikiem Izraela. Stajemy po stronie Izraela, ostatnio tak jak było głosowanie w Radzie Bezpieczeństwa ONZ też wstrzymaliśmy się od głosu, co de facto było poparciem Izraela.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Warszawski program in vitro to już ponad 200 szczęśliwych rodzin.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Даже Билл Гейтс сказал, что 700 тыс. людей первоначально умрут от вакцины",false,ru,Окончательный ответ: Ложь.,false,True,False
+"Zostali wybrani sędziowie (TK), którzy mogą, powinni już, trzech powinno już objąć swój urząd, dlatego że 6 listopada skończyła się kadencja poprzednich.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+“Od 2014. sam na čelu odbora koji kontroliše vojsku i policiju. Uvela sam praksu da na tri meseca dolaze ministar policije i vojske koji podnose informaciju o radu.”,mostly true,sr,Коначан одговор: Истина.,true,False,False
+“Srbija je lider u Evropi po broju devojaka u sektoru informaciono-komunikacionih tehnologija i zemljama Evropske unije će biti potrebne decenije da je dostignu.”,mostly false,sr,Коначан одговор: Истина.,true,False,False
+"В Финляндии свыше 1 млрд долларов от лотерейной деятельности через оператора направлены на развитие спорта и физической культуры, а также искусство и культуру",true,ru,Окончательный ответ: Правда.,true,True,False
+"„Nisam nju pomenuo, ja sam samo rekao – ‘dobre ljude ne ujedaju psi’.“",false,sr,Коначан одговор: Истина.,true,False,False
+"„Ali priznajem da se nisam snašao u politici i da nisam znao da odgovorim na besmislene optužbe, a pri tome mi niko ništa loše nije rekao da sam vodio grad, niko mi nije rekao da je neki tender namešten, da je neka pogrešna investicija urađena.“",false,sr,Коначан одговор: Истина.,true,False,False
+„Ukoliko ne budemo uspeli da ostvarimo veći rast od 2 odsto u ovoj godini to će za nas i dalje biti vrlo slično godini krize jer se neće poimati veći osećaj nekog boljitka koji se ostvario.“,true,sr,Коначан одговор: Истина.,true,True,False
+Вероятность умереть после прививки в тысячи раз выше чем вероятность умереть от кори,false,ru,Окончательный ответ: Ложь.,false,True,False
+"Musimy pamiętać, że ta ustawa [antysmogowa] będzie w dużej mierze eliminowała możliwość ogrzewania przez piecyki węglowe. W sytuacji, gdy 70% ludzi na terenach południowej Polski tak się ogrzewa.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+„Meni je bilo zabranjeno da se promovišem. Jednostavno meni nisu dozvolili da bilo šta promovišem.“,false,sr,Коначан одговор: Истина.,true,False,False
+Казахстан занимает 9 место в мире по объемам доказанных мировых запасов угля,true,ru,Окончательный ответ: Правда.,true,True,False
+"Ukupan izvoz naoružanja i vojne opreme, uključujući i novi ugovor, iznosiće oko 1,2 milijarde dolara.",mostly true,sr,Коначан одговор: Истина.,true,False,False
+Jest to największy rząd w historii.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+В глобальным индексе инноваций Казахстан 2019 году занял 79 место потеряв 5 позиций по сравнению 2018 годом,true,ru,Окончательный ответ: Правда.,true,True,False
+"OLAF to jest taka instytucja unijna, która odpowiada za prawidłowe wydawanie unijnych pieniędzy, nie tak dawno w swoim raporcie napisała, że w Polsce według ich szacunków co czwarty przetarg jest ustawiony. Co czwarty przetarg. Wiele tych pieniędzy…",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Inwestycje przedsiębiorstw są dzisiaj na najniższym poziomie od ponad 20 lat.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„Ne znam ni ko je on, ni odakle se sad pojavio.“",false,sr,Коначан одговор: Истина.,true,False,False
+"За всю вторую пятилетку число рабочих мест в обрабатывающей промышленности увеличилось всего на 46 тысяч, а средняя зарплата в долларовом эквиваленте упала на 25%",mostly true,ru,Окончательный ответ: Правда.,true,False,False
+"Импортные ковры в Узбекистане являются подакцизным товаром, а узбекские производители (экспортируемых ковров) пользуются правом на возврат НДС",true,ru,Окончательный ответ: Правда.,true,True,False
+"„Ova vlada pre tri godine je obećala smanjenje taksi i parafiskalnih nameta. A šta je rezultat toga? Pre tri godine, bilo je 360, a sad je taj broj 384. Sа usvajanjem Zakona o privatnom obezbedjenju imaćemo još jednu novu, 385. taksu“.",mostly true,sr,Коначан одговор: Истина.,true,False,False
+Промывания носа могут помочь при профилактике респираторных заболеваний,true,ru,Окончательный ответ: Правда.,true,True,False
+Liczba ludności w Afryce przekroczyła miliard.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"В Казахстане жители жгут китайские дома, магазины и рестораны из-за вспышки коронавируса",false,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+"„Građanima savetujem da štede u dinarima jer, jedno je sigurno, ta dinarska kamatna stopa je mnogo veća od stope inflacije.“",half true,sr,Коначан одговор: Истина.,true,False,False
+2020-01-10T00:00:00Z,mostly false,ru,Окончательный ответ: Правда.,true,False,False
+"“Što se tiče cena, naprednjačka vlast kreće da se izjašnjava prvi put 2015. godine. Tada je gospodin Siniša Mali rekao da će prva linija metroa koštati između 800 i milijardu evra, da bi krajem 2015. već to korigovao na između 800 miliona i 1,2 milijarde evra.”",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"„I ne samo da smo obnovili objekte koji su bili porušeni, nego su čak i neki novi izgrađeni. Kao što je recimo vrtić u Stublinama koji je jedan od najlepših na teritoriji grada Beograda, kao što je to prva fiskulturna sala koju je Prva obrenovačka osnovna škola dobila posle skoro 200 godina, to je i Dom za socijalni rad koji će biti uskoro izgrađen. Tako da su to neki novi objekti koji su čak i unapredili život u Obrenovcu. I mislim da možemo da budemo zadovoljni sa ovim što smo uradili u proteklih godinu dana.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+Ввели в детские сады и школы программу психической диагностики и «лечения» детей. (Это может привести к массовой постановке психических диагнозов детям).,false,ru,Окончательный ответ: В основном правда.,true,False,False
+"Milion chorych na raka w Polsce i tylko 1,5 mld zł na leczenie onkologiczne.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Ja nisam rekao nikada da će Mercedes da kupi Ikarbus.“,true,sr,Коначан одговор: Истина.,true,True,False
+"„Kada sam postao premijer, javni dug izražen u procentima bruto domaćeg proizvoda iznosio je, u zavisnosti od toga koji trenutak uzimate, od 77 do 79 odsto, a pre kraja godine nivo javnog duga biće ispod 50 odsto.“",false,sr,Коначан одговор: Истина.,true,False,False
+"”Politika davanja subvencija Vlade Republike Srbije je dobro promišljena i pametna, tako da mislim da ćemo svakako nastaviti sa njom. Dakle, pet domaćih investitora i to se na jedan uložen evro vraća četiri puta u budžet i striktno se prati.”",false,sr,Коначан одговор: Истина.,true,False,False
+"Wszystko się rozpoczęło w 2011 r. od orzeczenia Trybunału Konstytucyjnego, który to rejestrując symbole NOP–u, między innymi krzyż celtycki czy, przepraszam, to było „Zakaz pedałowania”, nie stwierdził żadnych naruszeń z punktu widzenia konstytucyjnego, potem sąd musiał to zarejestrować.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Połowa budżetu to jest z VAT-u.,false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+„Srbija je danas dalja od EU nego što je bila pre dve godine.“,false,sr,Коначан одговор: Истина.,true,False,False
+“Građani su za njega glasali u poslednja četiri kruga izbora i svaki put je dobijao sve više. I on i Srpska napredna stranka.”,true,sr,Коначан одговор: Истина.,true,True,False
+„U izvođenju radova (na Severnom kraku Koridora 10) se prati dogovorena dinamika.“,half true,sr,Коначан одговор: Истина.,true,False,False
+"Gdy jeszcze byłem radnym miasta domagałem się, by przed strefą płatnego parkowania powstały bezpłatne parkingi.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"“Šest meseci u Beogradu, rekao bih gotovo u Srbiji, nije bilo mafijaškog ubistva.”",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"Dość powiedzieć, że nasz rating jest cały czas wyższy niż rating Włoch, bardzo potężnego państwa zachodnioeuropejskiego, jest na poziomie dokładnie takim jak Hiszpania.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+В Китае миллионы заразившихся коронавирусом,false,ru,Окончательный ответ: Правда.,true,False,False
+"Białoruś jest krajem, w którym wciąż w więzieniu znajduje się jeden z kandydatów w wyborach prezydenckich sprzed pięciu lat, Mikoła Statkiewicz",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„Srbija je pre tri godine bila pred bankrotstvom, a danas ima suficit u budžetu, rast ekonomije znatno veći od evropskog proseka i Srbija je pokazala da ume da pobeđuje. I to ne samo u košarci i vaterpolu, već i u ekonomiji i politici.“",false,sr,Коначан одговор: Углавном истина.,true,False,False
+W czasach stanu wojennego prawie 800 tys. Polaków opuściło Polskę.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Германская комиссия – коронавирус – глобальная ложная тревога,false,ru,Окончательный ответ: Ложь.,false,True,False
+"“Samo ove godine upisano je 23.000 dece u vrtiće, 12.000 u državnim, a 11.000 u privatnim vrtićima.”",mostly false,sr,Коначан одговор: Истина.,true,False,False
+„Resorno ministarstvo će ove godine povećati direktna davanja poljoprivrednim proizvodačima sa 12.000 na 14.000 dinara po hektaru zasejanih ratarskih kultura.“,mostly false,sr,Коначан одговор: Истина.,true,False,False
+Казахстан — лидер в Центральной Азии по незаконному выводу капитала в оффшоры,half true,ru,Окончательный ответ: Правда.,true,False,False
+"“Posle 16 godina vladavine DS, imamo 10.000 ljudi koji idu u narodne kuhinje.”",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"„Moramo da predočimo stranim investitorima da su investicioni potencijali takvi da je profit koji se ostvaruje ovde, zbog poreske politike, finansijske stabilnosti, radne snage i njenog kvaliteta, veći nego u zemljama u okruženju.“",half true,sr,Коначан одговор: Истина.,true,False,False
+"„Kada sam preuzeo vladu od tada su samo dve zemlje priznale nezavisnost Kosova. To su Antigva i Barbuda i Togo, ako se ne varam. Samo te dve zemlje, sve ostalo sam nasledio.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"Inną kwotę świadczeń otrzymują opiekunowie dorosłych niepełnosprawnych, a inną opiekunowie dzieci niepełnosprawnych. Ta różnica jest bardzo duża, bo w przypadku dzieci jest to 1477 zł, a w przypadku dorosłych 520 zł i to tylko dla osób najmniej zarabiających. TK orzekł o niekonstytucyjnosci tego rozwiązania w 2014 roku.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„Država ne želi da idete ranije u penziju, država želi da radite pun radni vek. I zato ako odete ranije u penziju, kao i u većini zemalja u svetu, plaćate određeno umanjenje te penzije. Takozvane penale. Ranije je to bilo doživotno, a sada kažemo, pošto imamo više novca, pošto hoćemo da se zahvalimo penzionerima,kada ispunite starosni uslov, a to je 65 godina, država smatra da niste više ništa dužni i da su penali za vas stvar prošlosti.”",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"U Srbiji 90 odsto đaka posle srednje škole upisuje fakultet, a poznato je da u fabrikama nedostaju majstori.",mostly true,sr,Коначан одговор: Истина.,true,False,False
+Krakowiacy żyją najdłużej w całej Polsce.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Odgovorno tvrdim ispred Ministarstva poljoprivrede da će ovogodišnji rod suncokreta biti između 300 i 320 hiljada tona, što je dovoljno za oko 130.000 tona jestivog ulja.“",true,sr,Коначан одговор: Истина.,true,True,False
+"Artykuł 15 traktatu Unii Europejskiej stanowi wprost, że Rada Europejska wybiera swojego przewodniczącego określoną większością na okres 2,5 roku i mandat przewodniczącego jest jednokrotnie odnawiany, odnawialny i w przypadku przeszkody lub poważnego uchybienia Rada Europejska może postanowić inaczej. Czyli jakby mamy do czynienia z pewnym automatem, ten mandat przewodniczącego Rady jest po prostu odnawialny.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+ВОЗ объявила пандемию коронавируса COVID-19,true,ru,Окончательный ответ: Правда.,true,True,False
+"„Verujem da će sve to da bude uspešno i da će Srbija, praktično, u ovoj godini zaista imati onaj procenat privrednog rasta, kako su rekli i MMF i Svetska banka. Verujte, Srbija je jedina zemlja u Evropi sa rastom. Dakle, pogledajte zemlje oko nas.“",false,sr,Коначан одговор: Лаж.,false,True,False
+„Kurs dinara ostaće stabilan do kraja godine.“,mostly false,sr,Коначан одговор: Полуистина.,true,False,False
+"Японский профессор, лауреат нобелевской премии, Тасуку Хондзё заявил о том, что коронавирус создан искусственным путём в Китае",false,ru,Окончательный ответ: Ложь.,false,True,False
+"Co do konstytucyjności ustawy o KRS-ie, to po pierwsze w 2006 roku Trybunał Konstytucyjny orzekł, że właśnie tę kadencję można skrócić.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Bio sam predsednik PKS i izborom na javnu funkciju sam dobio rešenje o mirovanju radnog odnosa sa pravom i obavezom da se po prestanku funkcije javim na rad u PKS…Apsolutno sam sve uradio po zakonu i nikakvog sukoba interesa nema.“,true,sr,Коначан одговор: Полуистина.,true,True,False
+"По имеющимся оценкам, около 75% территории страны подвержены повышенному риску экологической дестабилизации",half true,ru,Окончательный ответ: Правда.,true,False,False
+Билл Гейтс задержан как создатель коронавируса,false,ru,Окончательный ответ: Ложь.,false,True,False
+"„Srbija je otvoreno, demokratsko društvo, u kojem ekstremne grupacije ne mogu da prođu.“",mostly false,sr,Коначан одговор: Углавном лажна.,mostly false,True,False
+"„Tvrdim da penzije neće padati, već će one rasti, u skladu sa rastom zarada.“",mostly false,sr,Коначан одговор: Лаж.,false,False,False
+80 proc. poznaniaków to wierzący katolicy.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"“Procentualno, dajemo za socijalu više nego bilo koja druga zemlja.“",mostly false,sr,Коначан одговор: Лаж.,false,False,False
+Айсултан Назарбаев обвиняется в нападении на полицейского,true,ru,Окончательный ответ: Правда.,true,True,False
+"„Vidite, Crna Gora je otvorila dosta više poglavlja, ali je zatvorila isto koliko i mi.“",half true,sr,Коначан одговор: Истина.,true,False,False
+Чеснок помогает при коронавирусе,half true,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+W marcu był kolejny spadek bezrobocia.,half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Svetska ekonomska kriza neće uticati na zaposlenost u Srbiji. Neće biti talasa otpuštanja…“,false,sr,Коначан одговор: Лаж.,false,True,False
+„Izveštaj Evropske komisije o napretku Srbije u evropskim integracijama dokazuje ogroman napredak parlamenta i to da je skupština institucija koja je dorasla evropskom zadatku.“,mostly false,sr,Коначан одговор: Истина.,true,False,False
+Эрдоган запретил показ фильма «Борат 2» по всей Турции,false,ru,Окончательный ответ: Правда.,true,False,False
+"„Jedna smo od retkih sredina gde su za kratko vreme otvorene tri nove fabrike, a ove godine očekujemo još 200 novih radnih mesta.“",true,sr,Коначан одговор: Истина.,true,True,False
+Антибиотики вылечивают от коронавируса,false,ru,Окончательный ответ: Ложь.,false,True,False
+213 профессии запрещены для женщин в Казахстане,mostly true,ru,Окончательный ответ: Правда.,true,False,False
+В Казахстане отменили смертную казнь,mostly true,ru,Окончательный ответ: Правда.,true,False,False
+"Огромные государственные инвестиции планируется направить на строительство оптово-распределительных центров. Однако эффект будет не скорым и вызывает вопросы, поскольку планируется введение их в эксплуатацию до конца 2022 года",half true,ru,Окончательный ответ: В основном правда.,true,False,False
+Ни одна из вакцин не является абсолютно безопасной,half true,ru,Окончательный ответ: Правда.,true,False,False
+"„Srbija je izašla iz recesije, jer je rast bruto domaćeg proizvoda (BDP) u prvom tromesečju ove godine bio za jedan odsto veći nego u istom periodu 2009.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+Том Хэнкс и его супруга Рита Уилсон заразились коронавирусом,true,ru,Окончательный ответ: Правда.,true,True,False
+„Ja sam nevin i izjave svih optuženih govore u prilog tome.“,true,sr,Коначан одговор: Истина.,true,True,False
+"“(Porodiljska prava) Ona su kod nas veća, izraženija i bolja nego u Nemačkoj. Tamo posle tri meseca ili šest meseci morate na posao, ovde možete i dve godine da ne idete na posao.“",half true,sr,Коначан одговор: Истина.,true,False,False
+В этом году было возбуждено 550 уголовных дел по насилию над детьми,true,ru,Окончательный ответ: Правда.,true,True,False
+„Vodimo ozbiljne pregovore o pokretanju proizvodnje u civilnom delu kompanije Sloboda. Za investiranje je zainteresovana firma FOX.“,half true,sr,Коначан одговор: Истина.,true,False,False
+Już ponad 10 procentowo zwiększyliśmy nasze zadłużenie (w czasie pandemii COVID-19 – przyp. Demagog),true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+22 kraje w Unii Europejskiej posyłają 6-latki do szkoły.,half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Kako su oni (u Nišu) pravili budžete svih prethodnih 25 godina, 30 godina? Tako što vam kažu, imaćemo prihode, kojih u stvari nema, prihodi precenjeni za 46,4 odsto. Precenjeni prihodi, a onda na tako precenjene prihode, naduvaju rashode, stvore sebi nemoguće obaveze koje su još veće od toga, jer uvek računaju da imaju određeni deficit i onda dođete do minusa u kasi koji dostižu ponekad i 50 miliona evra.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"“Na terenu ima dosta problema i zloupotreba po pitanju zakupa državnog poljoprivrednog zemljišta. Ta pitanja su u nadležnosti lokalnih samouprava i zalažem se da ministarstvo dobije nadležnost da izdaje makar trećinu tih dozvola, kao što je to na primer slučaj u Mađarskoj, da ne bi dolazilo do zloupotreba.”",mostly false,sr,Коначан одговор: Истина.,true,False,False
+В 2017 году благодаря депутатскому корпусу впервые на законодательном уровне была введена практика выплаты гонораров авторам за общественно значимую литературу. Подобному опыту нет аналогов в других странах мира,true,ru,Окончательный ответ: Правда.,true,True,False
+"„U prošlom mandatu opozicija je predsedavala sa oko polovinom ukupnog broja skupštinskih odbora. Važno je reći da je u tom mandatu opozicija vodila izuzetno važne odbore kao što su Administrativni odbor, Odbor za odbranu i bezbednost, Odbor za finansije, lokalnu samoupravu.“",half true,sr,Коначан одговор: Истина.,true,False,False
+„Statistika pokazuje da rat države protiv nasilja u sportu daje rezultate. Od primene novog zakona nasilje je opalo za 26 odsto u odnosu na isti period prošle godine.“,half true,sr,Коначан одговор: Истина.,true,False,False
+"„Želim da čestitam svim drugima na korektnoj i fer kampanji. Mislim da je bila najmirnija, najčistija i najbolja kampanja do sada. Od svih.”",false,sr,Коначан одговор: Полуистина.,true,False,False
+12% преступлений в Казахстане приходится на женщин,true,ru,Окончательный ответ: В основном правда.,true,True,False
+"“Od 2012. godine do danas, uspeli smo da prepolovimo trgovinski deficit koji imamo sa EU.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"„Ne treba zaboraviti da je Srbija pre četiri dana proglašena za zemlju lidera jugoistočne Evrope u privlačenju stranih direktnih investicija, 2,56 milijardi dolara jeste priliv SDI, više nego bilo ko u regionu.“",half true,sr,Коначан одговор: Истина.,true,False,False
+"W tej chwili mamy taką sytuację, że Państwowa Inspekcja Pracy każdą kontrolę musi zapowiedzieć.",false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"W tej sprawie jest wielkie kłamstwo i manipulacja, szerzone przez posłów PO. Byłem ministrem w Kancelarii Prezydenta. Gdy ustawa przychodzi do prezydenta z Sejmu, prezydent może podjąć trzy decyzje: podpisać jeśli się zgadza, może wystąpić z wetem, a jeżeli stwierdzi, że jest sprzeczna z Konstytucją, ma obowiązek skierować ją do TK. Realizacją tego przepisu jest skierowanie ustawy do Trybunału.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„U prvim mesecima 2011. godine imamo odlične pokazatelje izvoza poljoprivrednih proizvoda iz Srbije, koji je za 40 odsto veći nego prošle godine.“",true,sr,Коначан одговор: Истина.,true,True,False
+„Pripadnici LGBT-populacije imaju mogućnost da ostvaruju svoje pravo garantovano zakonom i Ustavom…kao i da niko od njih ne može biti ograničavan u ostvarivanju prava.“,half true,sr,Коначан одговор: Лаж.,false,False,False
+"„U prvih pet meseci imali smo deficit od 25 milijardi dinara umesto planiranih 90 milijardi, što je tri i po puta manje od onoga čime bi MMF bio zadovoljan.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"„Imamo značajan pad industrijske proizvodnje, a prvi put posle 16 meseci i pad bruto društvenog proizvoda.“",half true,sr,Коначан одговор: Истина.,true,False,False
+Барсучий жир помогает от пневмонии,false,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+"Są już województwa takie jak na przykład województwo lubuskie, w którym w styczniu nastąpił 10% wzrost urodzeń.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„Ima više faktora za mirovanje cena hrane, posebno niska kupovna moć i, rekao bih, realan i racionalni odnos građana prema ukupnim troškovima, pa i troškovima hrane.“",false,sr,Коначан одговор: Истина.,true,False,False
+„Vanredno povećanje penzija 2008. godine od 10 odsto obezbedilo je sigurnost najstarijoj populaciji i pre nadolazeće krize.“,mostly false,sr,Коначан одговор: Истина.,true,False,False
+"Astronomiczne zadłużenie (miasta) wynosi 1,48 miliarda złotych.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+„Činjenica jeste da je Srbija druga vojna sila u celom regionu. Ispred nas je samo dvadesetomilionska Rumunija.“,half true,sr,Коначан одговор: Истина.,true,False,False
+Ponad czterysta z ośmiuset kilkunastu posterunków policji zostało za czasów Platformy Obywatelskiej zlikwidowane.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Американцы/граждане США подали в суд на Китай из-за коронавируса,true,ru,Окончательный ответ: Правда.,true,True,False
+„Trenutno ne postoje šanse da neki IT gigant poput ‘Gugla’ dođe u Srbiju.“,mostly false,sr,Коначан одговор: Лаж.,false,False,False
+У Казахстана вообще нет никакого опыта по выпуску вакцин,false,ru,Окончательный ответ: Правда.,true,False,False
+"”Ali ako vam kažem da je u protekle dve godine potpisano 35 ugovora o podsticajima i da je otvoreno skoro 19.000 radnih mesta, hoćete li mi reći da je posao za tih 19.000 radnika beznačajan?”",false,sr,Коначан одговор: Истина.,true,False,False
+„Trenutno se radi na popisu državne imovine.,mostly false,sr,Коначан одговор: Истина.,true,False,False
+„Srbija će u spoljnotrgovinskoj razmeni poljoprivrednih proizvoda ove (2010.) godine ostvariti suficit veći od milijardu evra što je najbolji rezultat u njenoj istoriji“,half true,sr,Коначан одговор: Истина.,true,False,False
+„‘Premeštanje’ zatvora…planirano je za narednu godinu i to na lokaciju koja je van Beograda.“,false,sr,Коначан одговор: Истина.,true,False,False
+"Сейчас мы отмечаем феминизацию профессии учителя. 81% всех работающих педагогов – это у нас женщины, и только 19% - мужчины. В школах у нас работает всего 60 тыс учителей мужчин, и то, вы знаете, это в основном директора, трудовики, учителя физкультуры",true,ru,Окончательный ответ: Правда.,true,True,False
+"(…) wtedy [podczas budowy stadionu Legii, ITI – przy. red.] była to prywatna spółka, którą dofinansowano [ze środków miejskich – przy. red.] kwotą pół miliarda złotych.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Ako pričate o medijima, imate zemlje u EU gde imate deset puta manje transparentnosti i slobode nego kod nas.“",mostly false,sr,Коначан одговор: Полуистина.,true,False,False
+W programie wyborczym Nowoczesnej nie ma nawet pół słowa o niepełnosprawnych. To jest coś strasznego i brzydzę się takimi politykami.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Resor ministra ekonomije Mlađana Dinkića je imao loše rezultate.“,half true,sr,Коначан одговор: Истина.,true,False,False
+"„Pa gde su sad ti kritičari koji su pričali da fontana preliva. Pa svaka fontana u svetu je prelivala, ima kompenzacioni bazen i pumpe koje vraćaju vodu. Nek odu u Madrid da pogledaju kakve su tamo fontane. Oni su bili protiv da se skloni Dimitrije Tucović, a ne znaju ni ko je on, pa im sad smeta fontana, pa jarbol.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+"„Banjaluka je glavni grad međunarodno priznatog entiteta nastalog kao posledica Dejtonskog sporazuma, dok je Novi Pazar samo jedan od gradova u Srbiji koji nema ni međunarodno priznanje, niti predstavlja entiet, niti se na bilo koji drugi način može izdvojiti od bilo kojeg drugog grada u Srbiji.“",false,sr,Коначан одговор: Истина.,true,False,False
+Доля новых частных организации от общего количества открытых 93%,true,ru,Окончательный ответ: Правда.,true,True,False
+„U Srbiji su gotovo iskorenjeni ekstremni vidovi siromaštva i smanjena je stopa rizika od siromaštva.“,mostly false,sr,Коначан одговор: Углавном истина.,true,False,False
+Второй волны пандемии может не быть,mostly true,ru,Окончательный ответ: В основном правда.,true,False,False
+"„Nemam nikakav dokument o tom pečatu. Ne znam kako mogu da pričaju o prijavi, kada nemaju nikakvih osnova da me tuže, taj pečat ne postoji više.“",false,sr,Коначан одговор: Немогуће одредити.,,False,True
+На сегодняшний день в стране функционируют 105 объектов возобновляемых источников энергии.,true,ru,Окончательный ответ: Правда.,true,True,False
+"„Iznos koji je isplaćen porodici Stajnhauer biće refundiran sredstvima koja će biti oduzeta od kriminalaca, shodno odredbama Zakona o oduzimanju imovine stečene izvršenjem krivičnog dela. Na taj način teret naknade štete neće snositi građani Srbije već kriminalci, a vrednost imovine koja je privremeno oduzeta već je daleko viša od pomenutog iznosa.“",mostly false,sr,Коначан одговор: Истина.,true,False,False
+"Китай закрыл свой последний временный госпиталь, в связи с малым количеством новых случаев заражения",true,ru,Окончательный ответ: Правда.,true,True,False
+"Choćby w Zakładzie Wodociągów i Kanalizacji. Tam, pani redaktor, zarząd jest tak niewyobrażalnie rozrośnięty, że na pensje co miesiąc przeznaczane są kolosalne pieniądze. Prezes i wieloosobowy zarząd kosztują łodzian co miesiąc ponad sto tysięcy złotych! Sam prezes zarabia jakieś 25 tysięcy.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„U 2010. godini strane investicije biće veće nego u ovoj (2009.) godini.“,mostly false,sr,Коначан одговор: Истина.,true,False,False
+"„Što se tiče održavanja (Belog dvora), troškovi bi postojali i da je prazan.“",mostly true,sr,Коначан одговор: Истина.,true,False,False
+Прививка от ВПЧ вызывает бесплодие,false,ru,Окончательный ответ: Ложь.,false,True,False
+„Neopravdano je napravljena razlika u pogledu uslova za konstituisanje Nacionalnog saveta bošnjačke nacionalne manjine u odnosu na nacionalne savete drugih nacionalnih manjina.“,true,sr,Коначан одговор: Истина.,true,True,False
+В Китае за 2 дня построили больницу для зараженных коронавирусом,half true,ru,Окончательный ответ: Правда.,true,False,False
+Хорошие новости о коронавирусе,half true,ru,Окончательный ответ: Правда.,true,False,False
+"Kada bi Srbija ovog trenutka vratila ukupnu imovinu koja je građanima nacionalizovana, to bi našu državu koštalo oko 200 milijardi evra, što je veliki problem. Srbija nema 200 milijardi evra.",mostly false,sr,Коначан одговор: Истина.,true,False,False
+"„Onaj za koga glasa Srbija, a glasa za Aleksandra Vučića u nezapamćenom broju glasova, on ima pravo da odlučuje o tome ko će biti u nekoj budućoj rekonstrukciji Vlade ili neće.“",false,sr,Коначан одговор: Истина.,true,False,False
+"Ostatnie badania w Słupsku wskazywały, że 88% chce go (Biedronia – przyp. red.) na następną kadencję.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Во время теста на коронавирус людям разрывают мембрану между носом и мозгом,false,ru,Окончательный ответ: Ложь.,false,True,False
+Антарктида озеленяется / Антарктида начала зеленеть,true,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+"Konwencja stambulska mówi o religii, jako przyczynie przemocy wobec kobiet.",half true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+Изнасилованные европейки извиняются перед мигрантами,false,ru,Окончательный ответ: Ложь.,false,True,False
+"Сегодня основу генерирующих мощностей (около 70%) составляют угольные электростанции, которые по своим технологическим характеристикам не могут обеспечить необходимый уровень маневренных мощностей. Только 12% от общей генерации приходится на маневренные источники — газотурбинные электростанции и гидроэлектростанции.",half true,ru,Окончательный ответ: Правда.,true,False,False
+За январь-июль объем реализации продовольственных товаров в розничной торговле достиг 2 трлн 158 млрд тенге,true,ru,Окончательный ответ: Правда.,true,True,False
+„Zvanični podaci kažu da je samo za prva tri meseca u zemlju ušlo nešto više od 600 miliona dolara investicija.“,false,sr,Коначан одговор: Истина.,true,False,False
+"Zgodnie z prawem międzynarodowym Syryjczycy, którzy są uciekinierami czy Irakijczycy z Iraku Północnego, którzy uciekają z obszarów wojennych nabywają status uchodźcy uciekając do pierwszego bezpiecznego kraju sąsiedniego.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Расчетно-финансовый центр заключает с инвестором договоры купли-продажи электроэнергии от возобновляемых источников энергии сроком на 15 лет.,true,ru,Окончательный ответ: Правда.,true,True,False
+"Сумах помогает от коронавируса. Если пить воду, смешав с небольшим количеством сумаха, с разрешения Аллаха, человек который заболел — вылечится",false,ru,Окончательный ответ: Ложь.,false,True,False
+"Если пациент находится на ИВЛ больше шести дней, то шансы его вернуться к жизни без ИВЛ, близки к нулю. 88 процентов умирают. Потому что вентиляция не помогает дышать, она не снабжает организм кислородом",half true,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+"Mamy najniższą kwotę wolną od podatku w Europie. My proponujemy podwyższenie jej do 30 tysięcy, tak, żeby dochód do 4000 złotych miesięcznie w ogóle nie był opodatkowany.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+wywalczyliśmy w pierwszych wyborach sto tysięcy wyborców (…) w drugich ten wynik podwoiliśmy. Chcielibyśmy żeby Marian Kowalski znów rozszerzył nasze grono wyborców.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Na sędziów w stanie spoczynku idą pełne składki ZUS z budżetu państwa.,half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"W porównaniu do poprzedniego roku wzrost dochodów podatkowych wyniósł aż 17,9 mld zł.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Naša struja je ubedljivo najjeftinija u Evropi, 30 odsto je jeftinija nego što imaju zemlje koje imaju najjeftiniju struju u regionu.",mostly true,sr,Коначан одговор: Лаж.,false,False,False
+Иностранцам продлят сроки пребывания в Казахстане в связи с коронавирусом,true,ru,Окончательный ответ: Правда.,true,True,False
+ООН выпустила директиву об обучении гомосексуализму детей с 5 лет,false,ru,Окончательный ответ: Ложь.,false,True,False
+"„Orden Svetog Aleksandra Nevskog, kojeg su dobili Njegoš i drugi velikani, prestao je da se dodeljuje 1917. Orden Aleksandra Nevskog, koji je dobio (predsednik) Aleksandar Vučić, je vredan pažnje, ali nema istu težinu. Pre dve godine ga je dobio i Bogoljub Karić. Koristim priliku da čestitam obojici.“",half true,sr,Коначан одговор: Истина.,true,False,False
+"Pani poseł mówiła, że suma środków zgromadzonych na rezerwie [ogólnej budżetu państwa] jakoś kosmicznie wzrosła. Ona wzrosła o mniej więcej 15%–20% (…) w stosunku do zeszłego roku. Dzisiaj ta suma wynosi ok. 250 mln zł.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Inflacija će u Srbiji do kraja godine (2012.) biti oko 12 odsto.“,true,sr,Коначан одговор: Истина.,true,True,False
+"Problem polega na tym, że wszystkie sprawy są zaskarżone w sądzie. (…) Sąd miał się w tych sprawach wypowiedzieć w czerwcu. Tylko Patryk Jaki zakwestionował wszystkie składy sędziowskie.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Mnogo ulažemo u vojsku, proporcionalno našem BDP-u. Danas je samo devet NATO zemalja ispred nas po ulaganju u vojsku.“",true,sr,Коначан одговор: Истина.,true,True,False
+"180 mln na internet i sprzęt dla uczniów i dla nauczycieli to środki z dotychczasowego POPC, które postanowiliśmy w porozumieniu z KE przeznaczyć na nowy cel. UE nie przekazała żadnych nowych środków, nawet 1€ na walkę z Covid-19 w PL.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+“Postoji samo jedna privatna TV koja podržava rad Vlade. To je Pink i oni imaju sva prava na to.“,half true,sr,Коначан одговор: Лаж.,false,False,False
+"Ja tylko przypomnę, kto sprywatyzował w Łodzi elektrociepłownię. SLD w 2004-5 roku.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Участившиеся ошибки Zoom могут представлять угрозу для Казахстана,half true,ru,Окончательный ответ: Правда.,true,False,False
+"“Naš stav se oslanja na dva principa. Prvi je da Srbija poštuje teritorijalni integritet svake države članice UN, a tako i Ukrajine. Drugi je da Srbija ne može uvesti sankcije Rusiji, jer Rusija nikada nije uvela sankcije Srbiji.”",false,sr,Коначан одговор: Полуистина.,true,False,False
+"”Ono što piše u ugovoru, ono što sam vam ja rekao i ono što je rekao gospodin Giom – u ovoj fabrici će u narednih nekoliko godina biti zaposleno 1370 radnika”.",false,sr,Коначан одговор: Истина.,true,False,False
+"W roku, kiedy mieliśmy najniższą dzietność, chyba 2002 albo 2003, zaraz za chwilę rząd SLD obniżał urlopy rodzicielskie, urlopy macierzyńskie, z 18 do 16 tygodni.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Srbija je trenutno najpoželjnija lokacija za nove investicije u čitavoj Srednjoj i Istočnoj Evropi.“,mostly false,sr,Коначан одговор: Углавном истина.,true,False,False
+"“U protekle četiri godine, kapaciteti u srpskim zatvorima povećani su za 50 odsto, a uslovi za boravak u zatvorima podignuti na viši nivo u skladu sa evropskim standardima.”",half true,sr,Коначан одговор: Истина.,true,False,False
+"Wrocław zdecydowanie mniej wydaje na walkę ze smogiem niż np. Kraków, a problem mamy obecnie porównywalny.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Strane investicije u Srbiji u prvih 10 meseci ove (2014) godine su bile 1,15 milijardi evra, što je više nego u celoj prošloj (2013) godini.",half true,sr,Коначан одговор: Истина.,true,False,False
+"Ко всем будут ходить врачи с полицейскими. Отказывайтесь, от любых тестов на вирус",false,ru,Окончательный ответ: Ложь.,false,True,False
+Jeden ruch w postaci programu 500+ zredukował biedę wśród dzieci o ponad 90%.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Co trzeci Polak próbuje ograniczyć emisję zanieczyszczeń powietrza, a 40 proc. ogranicza picie butelkowanej wody - wynika ze zleconego przez resort klimatu badania poziomu świadomości i postaw wobec jakości powietrza, gospodarki odpadami i butelek zwrotnych.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Trybunał Konstytucyjny na rozprawie 3 grudnia będzie rozstrzygał m.in. tę kwestię [zgodność ustawy z dnia 25 czerwca 2015 r. o Trybunale Konstytucyjnym z Konstytucją]. Grupa posłów przedłożyła [wniosek] 7 listopada.,half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Opštinsko veće umesto dosadašnjih devet, sada već broji sedam članova.“",false,sr,Коначан одговор: Истина.,true,False,False
+Mi poljoprivredne i prehrambene proizvode izvezemo devet puta više u EU nego u Rusiju.,mostly true,sr,Коначан одговор: Истина.,true,False,False
+2018-10-25T21:35:04Z,true,sr,Коначан одговор: Истина.,true,True,False
+"“Tamo gde su (HBIS) preuzimali rudnike bakra u Južnoj Africi, oni su ostavljali po 2.200, 2.300 ljudi na poslu, nisu smanjivali taj broj. To je za nas od ključnog značaja”",true,sr,Коначан одговор: Истина.,true,True,False
+2020-03-17T00:00:00Z,half true,sr,Коначан одговор: Истина.,true,False,False
+"Niedawno OBWE przygotowała taki dokument, który się nazywa “Wskazówki korzystania z wolności zrzeszania się”. To jest taki dokument, który w randze prawa międzynarodowego ma rangę tzw. soft law, czyli miękkiego prawa, czyli pewne wskazówki jak należy funkcjonować, jak należy działać. W tych wskazówkach jest cały szereg rekomendacji, jak powinna wyglądać relacja pomiędzy państwem a organizacjami pozarządowymi w zakresie finansowania takich organizacji ze środków publicznych.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„Budžet Užica je za tri godine oštećen za više od četiri miliona evra. Tim novcem mogli su se finansirati najznačajniji projekti u gradu, poput izgradnje dečjeg vrtića na Pori, sportske hale u Krčagovu i bazena.“",true,sr,Коначан одговор: Истина.,true,True,False
+„Upravo je u fazi završetka osnivanje novog preduzeća koje će zameniti Jat.“,false,sr,Коначан одговор: Истина.,true,False,False
+«За прошлый год цены на продукты выросли на 10%»,true,ru,Окончательный ответ: Правда.,true,True,False
+"W ubiegłym roku biliśmy rekordy, 330 mln pasażerów, którzy korzystali z polskiej kolei.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"После перенесения этих детских болезней (корь, краснуха, паротит, коклюш - прим. ред) формируется пожизненный иммунитет",half true,ru,Окончательный ответ: Правда.,true,False,False
+Statystyka załatwiania spraw to jest 6 spraw rocznie na sędziego.,half true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"„Imamo veću transparentnost zahvaljujući i MMF i Fiskalnom savetu i otvorenosti u radu javnih preduzeća, pa ako hoćete i zahvaljujući ovima na koje se ja često ljutim Šabiću i nesretnom Jankoviću.“",false,sr,Коначан одговор: Истина.,true,False,False
+"A wie pan czym jedyny człowiek w tym zespole, który ma tytuł naukowy, się zajmował? Katastrofami w ruchu lądowym.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"W 2011 roku w czasie kampanii wyborczej jego (Rafała Trzaskowskiego - przyp. Demagog) szef Donald Tusk wprost do kamery, czyli patrząc w oczy widzom można tak powiedzieć, mówił, że absolutnie Platforma Obywatelska nie podniesie wieku emerytalnego.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Imali smo mi već te proteste, ima ih svuda, posebno u afričkim zemljama. U mnogim zemljama Evrope su zabranjeni, u Nemačkoj, Francuskoj nemate sindikate u vojsci i policiji. Kod nas imate, mi smo demokratska zemlja. U tim zemljama nemate. Vi se time dičite, vi ste srećni sindikalnom borbom u vojsci i policiji, a ja sam srećan što 99 odsto ljudi neće ni sa vama, ni sa onim sindikatima u vojsci i policiji, koji ne poštuju državu. Ja sam za one koji poštuju svoju državu i koji vole svoju zemlju i svoju Srbiju i ne čekam pare ni od koga.“",half true,sr,Коначан одговор: Полуистина.,true,False,False
+"To premier Morawiecki ogłosił (przed wyborami przyp.), że COVIDu już nie ma.",true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"“Aerodrom nije vredeo 35 godina 100, 120 miliona. Danas vredi 500 miliona.“",false,sr,Коначан одговор: Истина.,true,False,False
+"„Mislim, (od) februara prošle godine, čak mislim februara pretprošle godine, mi nemamo nikakvu pomoć Vlade republike Srbije. Er Srbija, kažem, posluje na tržištu.“",false,sr,Коначан одговор: Истина.,true,False,False
+“Ovo (Tenis) je najveći i najbolji evropski proizvođač.”,false,sr,Коначан одговор: Лаж.,false,True,False
+"Francuscy lekarze podali swój rząd do Trybunału Konstytucyjnego po to, żeby zaskarżyć ich złą decyzję o przeprowadzeniu pierwszej tury wyborów samorządowych. Jak pan wie, druga tura tam się nie odbyła.",half true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+Co roku liczba ofiar przemocy domowej sięga 100 tys.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"20 lat temu było to blisko 100 procent. W zeszłym roku było 55 procent, a teraz jest jeszcze mniej. W tym roku po raz pierwszy w historii uzależnienie Ankary od dostaw rosyjskiego surowca spadło poniżej 50 procent. 20 years ago it was nearly 100 percent. Last year it was 55 percent, and now it is even less. This year, for the first time in the history Ankara’s dependence on supplies of Russian gas has dropped below 50 percent.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Распыление вирусов с самолета в Мангистауской области,false,ru,Окончательный ответ: Ложь.,false,True,False
+"W tzw. Białej Księdze 300 ekspertów pana prezydenta Komorowskiego i ministra Siemoniaka w przeddzień agresji na Ukrainę napisało, że nie będzie wojny.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Radim isto kao i ranije, samo se razlikuje, jer je drugačija građevinska sezona u zavisnosti od godišnjeg doba. Nisam nimalo vredniji nego što sam bio ranije, samo što sada ne mogu da primam (Angelu) Merkel, (Vladimira) Putina i ostale.“",false,sr,Коначан одговор: Истина.,true,False,False
+"Elektromobilność miała być priorytetem rządu i kołem zamachowym innowacyjnej gospodarki. Dzisiaj, po blisko 2 latach od zapowiedzi premiera, po Polsce jeździ niespełna 1 tys. samochodów elektrycznych, przy czym połowa z nich jeździła już 2 lata temu.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"W 2017 r. wybudowano w całej Łodzi niewiele ponad 2800 mieszkań łącznie, podczas kiedy w takim Wrocławiu mieszkań powstało 9000.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Sędzia z Irlandii podała dwa przykłady w uzasadnieniu, dlaczego podjęła taką decyzję: jeden przykład dlatego, że sędziowie w Polsce rzekomo są wybierani przez polityków i drugi dlatego, że jest różny wiek emerytalny w Polsce.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Ako 11. maja pobedi Demokratska stranka, Srbija će izgubiti Kosovo i Metohiju, Rašku oblast i Vojvodinu, a Srbija nastaviti agoniju u Evropskoj Uniji i obećanom navodnom boljem životu.“",false,sr,Коначан одговор: Лаж.,false,True,False
+"Građani Srbije vrlo dobro znaju da su tužioce birali ljudi iz režima kojem je pripadao i Dragan Đilas i da se to desilo 2009, odnosno 2010. godine.",false,sr,Коначан одговор: Истина.,true,False,False
+"Женщина, умершая от коронавируса, проснулась через месяц",half true,ru,Окончательный ответ: Ложь.,false,False,False
+Из существовавших (в Казахской ССР) 47 рыбопитомников в настоящее время почти ничего не осталось…,half true,ru,Окончательный ответ: Правда.,true,False,False
+W Niemczech 55% mieszkań jest zasiedlonych na zasadzie najmu.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Коронавирус становится более заразным и более опасным,false,ru,Окончательный ответ: Правда.,true,False,False
+"Jest program rządowy, który rozwija idee z ustawy. Nasza filozofia to zachęty. Możliwość wymiany pieców? To już trwa.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"A. Klarenbach: W 2015 kiedy oddawaliście władzę bezrobocie wynosiło prawie 10%. W tej chwili wynosi 7,7%. U. Augustyn: Bezrobocie było jednocyfrowe jeżeli dobrze pamiętam. A. Klarenbach: Nie, nie było. U. Augustyn: 9 i coś tam, było jednocyfrowe.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Srbija je jedina zemlja čija vlast je lansirala parolu da EU nema alternativu“.,false,sr,Коначан одговор: Истина.,true,False,False
+"Wpływy z VAT-u za pierwsze 4 miesiące tego roku to 57,5 mld, w zeszłym roku było to 56,8 mld. Co to oznacza? Oznacza to, że VAT wpływa nam do budżetu, a wpływy z VAT-u rosną nam dużo wolniej, niż rośnie konsumpcja.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Jestem zwolennikiem miękkiej liberalizacji na wzór niemiecki, który polega na tym, że jeżeli kobieta jest w sytuacji, kiedy jest skłonna usunąć ciążę, żeby nie robiła tego pochopnie, żeby przeszła przez proces konsultacji również psychologicznych, żeby decyzja ta nie była podejmowana nagle.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Возврат НДС на карту — до 270 тысяч рублей через Единый Компенсационный Центр Возврата Невыплаченных Денежных Средств,false,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+"Nie wiem jaki będzie teraz deficyt, ale w tamtym roku brakowało 100 mln zł.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Wszystkie państwa, które weszły z Polską do Unii Europejskiej w 2004 dostały mniej, razem – [wszystkie te państwa] razem dostały mniej [funduszy] niż Polska.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Pan prezydent mówił, że w Gdańsku wszystkie tramwaje są niskopodłogowe. Nic dziwnego, że pan prezydent nie wie, że to nieprawda.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Według rozporządzenia MEN to rodzice, którzy chcą, by ich dzieci chodziły na religię, muszą złożyć pisemne oświadczenie w tej sprawie.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"“U tim izveštajima (Evropske komisije, Fridom hausa i Reportera bez granica, prim. Istinomera) ne vidim izvor. Izvor znači ko je dao podatke, na osnovu čega je moglo da se dođe do tih, ’ajde tako da kažem, negativnih ocena.”",false,sr,Коначан одговор: Лаж.,false,True,False
+"„Ubeđen sam da apsolutno ne postoji nijedna činjenica na osnovu koje bi Šešelj bio optužen, tako da očekujemo njegov povratak u Srbiju tokom juna ili jula ove (2009.) godine.“",false,sr,Коначан одговор: Лаж.,false,True,False
+Ponad milion osób w Polsce pracuje na samozatrudnieniu.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+To dzięki decyzjom Platformy Obywatelskiej 40% środków europejskich jest dystrybuowanych przez samorządy wojewódzkie.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„Srbija je od danas u potpunosti digitalizovana, 97,8 odsto stanovništva pokriveno je digitalnim signalom, a analogni signal danas ide u istoriju.“",true,sr,Коначан одговор: Истина.,true,True,False
+Los Angeles albo San Francisco ma 22 radnych.,false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"(Nad Ustawą o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw - dop.) jak w Senacie głosowali senatorowie PiS-u? Było, ta ustawa przeszła 51 do 49, wszyscy (...) z PiS-u głosowali przeciw.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Jeśli jakieś państwo [Polska] posiada 90 proc. europejskich zasobów węgla, opiera się w zdecydowanej części na węglu (…).",false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"Ciągle kłamliwe info,że konkordat to dzieło SLD.My przez 4 lata 1993-1997)od popisania przez Suchocką nie dopuściliśmy do ratyfikacji.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Бактерия Синтия привела к «синей чуме» в Мексиканском заливе,false,ru,Окончательный ответ: Правда.,true,False,False
+"„Tačno je da Čačak nema bazen, ali ima najviše obdaništa, među kojima je i najveće na Balkanu.“",false,sr,Коначан одговор: Истина.,true,False,False
+„U prethodne dve godine izgradili smo na vodotokovima 29 brana.“,false,sr,Коначан одговор: Истина.,true,False,False
+"“W tym przedziale między 18 lat a 30 lat… 28 to jest prawie 25% (bezrobocia, w odniesieniu do Kielc)”",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Ogłoszono inflację za poprzedni rok: 3,4%. (...) Żywność w Polsce zdrożała o 7%.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„Holandija neće blokirati prosleđivanje kandidature Srbije za prijem u EU. Odluka Saveta ministara EU biće pozitivna i kandidatura će biti prosleđena.“,true,sr,Коначан одговор: Истина.,true,True,False
+"“Ja se izvinjavam što Srbija mnogo brže da napreduje, nikoga ugrožavajući, što je Srbija prošle godine pretekla sve po platama i penzijama, sem Crne Gore, ali se približila Crnoj Gori pa očekujem i to za godinu i po dana da preteknemo, da budemo broj jedan po svim parametrima u regionu. Mi smo javni dug spustili sa 78% na 50%, neki su sa 27% posto podigli na 55%, neki sa 50% na 75% u regionu. Nezaposlenost je kod nas najniža.“",false,sr,Коначан одговор: Полуистина.,true,False,False
+Wydajecie dodatkowe 35 mld zł na zakup F-35.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Spośród 500 opinii, które Komisja Wenecka wydała w ciągu ostatnich niemal 30 lat, niewielka ilość została jakoś tam nie uwzględniona – np. Rosja putinowska czy Lichtenstein.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„Plaćali smo sedam miliona evra za kredite koji su odobreni ranije ali nisu korišćeni. Mi nećemo platiti nijedan evro za te kredite, jer se projekti sada realizuju.“",false,sr,Коначан одговор: Лаж.,false,True,False
+"Była mowa o tym, że prezydent Stanów Zjednoczonych powołuje sędziów Sądu Najwyższego. Jednak, po pierwsze, ich nie odwołuje, a po drugie, cała struktura Sądu Najwyższego jest skonstruowana w ten sposób, że sędziowie pełnią urząd dożywotnio, chyba że sami wcześniej zrezygnują.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Funding from ECA supports national export of goods and services by providing foreign customers with long-term loans of up to 85% of a nuclear project, with very favorable interest rates.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Według Najwyższej Izby Kontroli pacjenci nie otrzymują dziennych norm wapnia, magnezu, żelaza, witamin. Dostają za to 4-krotną dzienną dawkę soli. W diecie brakuje warzyw, owoców, soków.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+„Mali spoljni dug svedoči o velikom razvojnom potencijalu Srbije.“,false,sr,Коначан одговор: Истина.,true,False,False
+"Pan Janusz Korwin-Mikke, który jest zatrudniony, ubezpiecza się w KRUSie.",true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+W skali przemysłowej można szacować wielkość jego wydobycia (metanu) w granicach 1-2 mld m3 rocznie.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Konfederacja to jedyne ugrupowanie parlamentarne, klub, koło, które w całości głosowało przeciw temu projektowi (podwyżek pensji dla polityków - przyp. Demagoga).",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Wrocław jest miastem, które ma nieco ponad 12 proc. terenów zielonych, z czego prawie osiem proc. to są lasy dookoła Wrocławia, więc bardzo mocno brakuje nam zieleni. Katowice, czy Zielona Góra mają ponad 40 proc. zieleni w mieście",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Всемирный банк продлил/продлит карантин до 2025 года,false,ru,Окончательный ответ: Ложь.,false,True,False
+"Число занятых в МСБ увеличилось на 300 тыс. и составило 3,3 млн человек",half true,ru,Окончательный ответ: Правда.,true,False,False
+"VAT w Polsce jest najwyższy w Unii Europejskiej, 23% na energię elektryczną. Dlaczego Brytyjczycy, Francuzi mogą płacić 5% VAT-u, i tak 8 państw w Unii Europejskiej, a Polacy mają płacić 23?",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"„Podsetiću, na KiM je sve krenulo od laži koje su plasirali ljudi poput Vilijama Vokera koji danas čak ni ne krije svoje velikoalbanske ambicije i projekte, a poznato je da se protivi i Specijalnom sudu koji treba da procesuira zlodela počinjena od strane tzv. „Oslobodilačke vojske Kosova“ (OVK).(…)Protivpravna odluka o agresiji na SRJ usledila je prvenstveno na osnovu izveštaja Vilijama Vokera, iako na KiM 1998-1999 godine nije bilo humanitarne katastrofe niti progona kosovskih Albanaca.“",false,sr,Коначан одговор: Истина.,true,False,False
+"Polscy sędziowie (a jest ich około 10 tysięcy) rocznie rozpoznają blisko 15 milionów spraw, co oznacza, że przeciętnie na jednego sędziego przypada w skali roku 1500 spraw.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"W ustawie tej, którą wprowadzaliśmy w 2008 roku, w której ograniczaliśmy (…) pieniądze, emerytury dla byłych pracowników UB i SB, tam była także kwestia członków Wojskowej Rady Ocalenia Narodowego. I ten przepis został uchylony przez Trybunał Konstytucyjny.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„Jer samo kod nas učite 12 godina engleski jezik i ne znate engleski jezik. I ne naučimo drugi jezik. I pogledajte nam političare koji niko ne zna engleski jezik, sem onih koji su živeli napolju, a da ne pričam da niko ne zna ruski. A da ne kažem da ama nikoga nemamo za prevodioca da nađemo za francuski, da ne kažem takođe za nemački. I to ima samo u ovoj zemlji. U Holandiji uče kineski od malena, kod nas nema.“",false,sr,Коначан одговор: Истина.,true,False,False
+Większość warszawiaków dobrze ocenia prezydenturę Hanny Gronkiewicz-Waltz,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+W 2016 po raz pierwszy więcej osób do Polski przyjechało niż wyjechało [liczone od czasów wojny].,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+W zachodnich Niemczech są bazy wojska amerykańskiego.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Frekwencja w wyborach samorządowych wynosi niewiele ponad 30%.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Znam dane z gminy Jarosław. Tam dwa tygodnie temu w pierwszej turze było ok 50% frekwencji, teraz było 30% frekwencji.",true,pl,"Ostateczna odpowiedź: Nie mam wystarczających danych, aby potwierdzić prawdziwość tego stwierdzenia.",,False,True
+В Казахстане распространяюших ложную информацию про коронавирус в соцсетях могут оштрафовать и даже лишить свободы.,true,ru,Окончательный ответ: Правда.,true,True,False
+W Stanach Zjednoczonych dyskusja na temat kandydata toczy się wiele miesięcy.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Dlaczego chcecie zniszczyć ponad 6 tys. placówek oświatowych w Polsce, gdzie dziś ma pracę ponad 100 tys. nauczycieli?",true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"“Zakon je vrlo jasan. Vrlo jasan. Znači, to je ukinuto odavno, i to, mislim, njihovom voljom, nisam sigurna.”",false,sr,Коначан одговор: Истина.,true,False,False
+"Polska dostarcza w tej grupie dwóch milionów pracowników delegowanych, którzy co roku poruszają się po Europie, około 1/4 – pół miliona.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Ponad 40 tys. osób rocznie umiera w Polsce z powodu smogu.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"“Povećali smo efikasnost rada komunalnih preduzeća: u 2013. dividenda koja je uplaćena u budžet Grada Beograda bila je 680 miliona dinara, a ove godine je 5.1 milijardu dinara. Skoro osam puta više.“",true,sr,Коначан одговор: Истина.,true,True,False
+"Minister obrony jest uprawniony do tego żeby otrzymywać informacje różne od SKW, natomiast nie jest uprawniony żeby się zapoznawać z jakimiś materiałami operacyjnymi",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Kara pozbawienia wolności w systemie stacjonarnym obecnie w Polsce jest wykonywana wobec ok. 75 tys. osób.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„Mislim da je pitanje toga da li ste doktorirali ili niste i kako ste doktorirali, više privatna stvar. Što se tiče ostavke, ja mislim da je to individualni čin svakog pojedinca, da li ćete negde ponuditi ostavku ili ne… Ali, svakako sačekaćemo i da se sam ministar obrati narednih dana.“",false,sr,Коначан одговор: Истина.,true,False,False
+"„Nisam nikad imao polemike i sukobe sa Ljajićem. Jednostavno, nismo sarađivali.“",false,sr,Коначан одговор: Истина.,true,False,False
+"“Pokažite mi zemlju u svetu koja je za samo dve godine uspela da spusti budžetski deficit sa osam odsto na manje od dva odsto BDP-a. Ko mi takvu zemlju pokaže, vodim ga na večeru.“",false,sr,Коначан одговор: Истина.,true,False,False
+"Смертность от этого рукотворного вируса - 0,03%, то есть многократно ниже чем от сезонной простуды или сезонного гриппа",half true,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+“Iz godine u godinu transparentnost (u Beogradu) je sve bolja i svi smo se složili da ćemo u tom segmentu i dalje dati naš doprinos.”,false,sr,Коначан одговор: Углавном истина.,true,False,False
+Ponad 100 tys. ludzi [w Warszawie – przyp. red.] nie ma kanalizacji (…).,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Since Germany began to decommission reactors, an increase in CO2 emission has been observed. Alongside, the Germans saw an rise in the prices of electricity, as well as greater volatility in electrical grid.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"В семечках ""Крутой Окер"" нашли хремитонол",false,ru,Окончательный ответ: Ложь.,false,True,False
+"Jesteśmy trzecim miastem w Polsce, jeśli chodzi o zadłużenie.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"“Evo sada da vam navedem jedan podatak, zaprepastićete se sami. Kažite mi, koliko je mafijaških ubistava, od početka godine, bilo u Beogradu, kao jednom od najvećih gradova u Evropi, od početka godine, od prvog januara do 25. novembra. Ostalo je mesec dana do nove godine. Imali smo dva takva ubistva.”",false,sr,Коначан одговор: Истина.,true,False,False
+"В 2019 году показатель младенческой смертности увеличился на 5,9% по сравнению с 2018 годом.",half true,ru,Окончательный ответ: Правда.,true,False,False
+Prezydent Majchrowski obiecał analizy ws. budowy metra i tych analiz nie ma.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Francja ma najtańszy prąd w Europie.,true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+[Prezydent] nie ma prawa go [budżetu] wetować.,true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"Przyjmowanie imigrantów do Polski zwiększa zagrożenie terroryzmem i to wybuchy nie tylko w Paryżu pokazały, nie tylko w Brukseli, ale także uwaga, wybuch parę dni temu w Ankarze, bo tam też przecież ten tak zwany uchodźca był sprawcą tego zamachu.",false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"PKB per capita na głowę mieszkańca w Polsce rośnie, myśmy na przykład w ostatnich dwóch latach wyprzedzili Grecję.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Od roku 2015, od raportu NiK, który jasno wykazał, iż problemy finansowe Lasów Państwowych mają źródło w wysokich kosztach administracyjnych, wysokich kosztach stałych. Natomiast Lasy Państwowe zbyt mało inwestują w ochronę polskich lasów.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+„U prošlom sazivu Skupštine više puta sam ukazivao na to da posao sa firmom ‘Nuba’ nije u skladu sa zakonom.“,true,sr,Коначан одговор: Истина.,true,True,False
+"Macierewicz kilka miesięcy temu mówił, że będzie realizować Wisłę i w przeciwieństwie do poprzedników dokonał przełomu w kwestii offsetu i udziału polskiego przemysłu w programie. Według zapowiedzi byłego ministra udział polskiego przemysłu miał wynieść aż 50 proc. W tej chwili nie ma nawet 5 proc.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Mamy tylko 30 akredytowanych laboratoriów na świecie, z akredytacją WADY, w tym jedno nasze w Warszawie, i tylko jedno w Afryce.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Nie może być tak, że córka radnej miejskiej Marty Wcisło bez żadnego konkursu zostaje mianowana wiceprezesem jednej ze spółek-córek spółki miejskiej",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Лапша быстрого приготовления — опасная ГМО-пища,half true,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+"EXPO 2017 в Астане обошёлся дешевле, чем в других странах",half true,ru,Окончательный ответ: Правда.,true,False,False
+"„Kada je reč o Kosovu i Metohiji, znate, da je taj čovek (Đilas) bio negde drugde, a ne na vlasti 2008. godine, kada je lažna država Kosovo proglasila nezavisnost, da on i njegovi saborci, Jeremić, Tadić i ostali nisu na to reagovali tako što su izdali dva smešna saopštenja, (…) onda bih možda mogao i ozbiljno da saslušam šta taj čovek kaže.“",false,sr,Коначан одговор: Истина.,true,False,False
+"Trybunał Europejski wyraził pogląd, że przymus do jakichkolwiek czynności medycznych jest sprzeczny z prawami człowieka.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"My musimy przede wszystkim spojrzeć na to, że wskaźnik dzietności wzrósł (po wprowadzeniu programu 500+ przyp. Demagoga).",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Прививка от кори не защищает на 100 процентов,half true,ru,Окончательный ответ: Правда.,true,False,False
+W Finlandii która ma najlepsze wyniki edukacyjne we wszystkich możliwych badaniach(…).,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Dzisiaj Niemcy mają 80% długu w relacji do PKB – 80%. My mamy w granicach 51%. Francja ma 100%.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Natomiast od samego początku zarówno rząd Ewy Kopacz, jak i my wszyscy sprzeciwialiśmy się mechanizmom stałej relokacji.",false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Jak wszyscy pamiętamy, prof. Lech Kaczyński był zwolennikiem kompromisu aborcyjnego.",true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"„Mi smo jedina stranka koja je uložila zvanični prigovor i tužbu protiv rezultata izbora. Sećate se kako je bila fama, a sad su se svi ućutali kada su videli da su prešli cenzus“.",half true,sr,Коначан одговор: Истина.,true,False,False
+"Słynny grafen został sprzedany, okazuje się że będzie produkowany w Wielkiej Brytanii. Jak mogliśmy stracić tak wspaniały polski wynalazek?",false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+Miejskie autobusy przejeżdżają 100 mln km rocznie po Warszawie (…).,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+Kupiono szczepionki [na świńską grypę] dla wszystkich mieszkańców [pozostałych państw UE].,false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"W stolicy w ubiegłym roku było 11 pojazdów wyposażonych w specjalistyczny sprzęt, a każdy z nich kierowany był do kilkunastu interwencji dziennie.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"To, że Wojsko Polskie będzie liczyło blisko 200 tys. żołnierzy, oficerów, to fakt.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+W Łebie gdzie wycięto 4 ha lasu. Gdzie przebiegał korytarz ekologiczny.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Marsz Niepodległości jest zgłoszony przez Stowarzyszenie Marsz Niepodległości jako zgromadzenie cykliczne do roku 2020 włącznie.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+В Швеции запретили обязательные прививки,false,ru,Окончательный ответ: Правда.,true,False,False
+Odpady powydobywcze oraz popioły pochodzące ze spalania węgla to w Polsce 60% wszystkich gospodarczych odpadów,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Od 20 paru lat jednak wynagrodzenia, kiedy były wprowadzane, były siedmiokrotnością przeciętnego wynagrodzenia. Dzisiaj nawet to nie są dwie przeciętne pensje.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Kiedy 10 lat temu w powodzi zginęło 25 osób, Jarosław Kaczyński (wtedy w opozycji) uważał wprowadzenie stanu klęski żywiołowej za zasadne. Dziś z powodu epidemii koronawirusa zmarło już 59 osób i liczba ta, niestety, będzie rosnąć - ale prezes PiS do wprowadzenia stanu klęski żywiołowej “nie widzi przesłanek”.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"„To je urbana legenda koju je DS pokušavala da prilepi, pa čak i kada sam bila u koalicijama govorili su da prelazim u stranke, ali ja sam uvek ostala verna sebi i to je najvažnije.“",false,sr,Коначан одговор: Полуистина.,true,False,False
+"Работа о коронавирусе, переносимом летучими мышами, реально выполнялась в Казахстане по заказу департамента обороны США",half true,ru,Окончательный ответ: Правда.,true,False,False
+В Бельгии прошла ярмарка детей для однополых пар,false,ru,Окончательный ответ: Правда.,true,False,False
+Małe i średnie przedsiębiorstwa wytwarzają 50 procent plus PKB polskiego.,false,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"Maksymalna stawka to 9,99 według nowej ustawy [za parkowanie w centrum miasta]. W związku z tym wszystko się zgadza się z moim programem.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Przez trzy lata PiS blokował możliwość przejęcia przez KNF nadzoru nad SKOK-ami. Robił to śp. Lech Kaczyński, odsyłając do Trybunału Konstytucyjnego ustawę, którą my (PO – przyp. Demagog) przyjęliśmy w Sejmie w 2008 roku, a pomagał mu, pisząc opinie prawne, Andrzej Duda.",half true,pl,Ostateczna odpowiedź: Prawda.,true,False,False
+"“Već radimo deo pruge Stara Pazova-Novi Sad, a počinje Beograd-Stara Pazova. Za godinu i po dana ćemo Beograd-Novi Sad ići za 40 minuta. Biće mnogo bolje vozom nego kolima. I to centar-centar.”",false,sr,Коначан одговор: Истина.,true,False,False
+"“Na Tviteru nisam, da vam iskreno kažem.”",false,sr,Коначан одговор: Истина.,true,False,False
+„Svi ugovori su potpisani i očekujem da u prvoj polovini ove (2013.) godine počne izgradnja hala i paralelno proizvodnja u zakupljenom poslovnom prostoru.“,false,sr,Коначан одговор: Истина.,true,False,False
+"W naszym programie, programie PiS dwukadencyjność była już od wielu lat.",true,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+Корень хрена эффективен против коронавируса,half true,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+Lesistość w Polsce wynosi tylko 30%. W Unii Europejskiej średnia lesistość to 38%. Jesteśmy na szarym końcu. Jesteśmy na 19 miejscu w Unii Europejskiej.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Sprawdzamy co na ten temat powiedział Rafał Trzaskowski. Czy jego słowa są zgodne z prawdą?,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Obecność polską [w Syrii] wycofał jeden z moich poprzedników. Polska była na wzgórzach Golan, mieliśmy kilkuset naszych żołnierzy którzy uczestniczyli w operacji pokojowej ONZ.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"Z tego, co się orientuję, pan Broniarz był szefem ZNP od 98 roku, a kiedy w 99 roku wprowadzano gimnazja, no to szedł na czele protestu przeciwko wprowadzaniu gimnazjów.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"“Te nezvanične priče iz raznih krajeva Srbije da je bilo više preminulih nego što mi prijavljujemo je ozbiljna, ozbiljna optužba. Reći ću vam i zašto. Zato što mi ni u jednom trenutku nismo krili baš nijedan podatak, ne otkada je registrovan prvi slučaj, već i pre toga.”",false,sr,Коначан одговор: Лаж.,false,True,False
+Казахстан занимает 2-е место в мире по запасам урана и первое место в мире по объемам добычи.,true,ru,Окончательный ответ: Правда.,true,True,False
+"Przypominam, że w klasie 1-3 mamy już podstawy programowania, podstawy gry w szachy.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+"(…) e–posterunek, wyrzucone 19 milionów, empatia 50 milionów na niepotrzebny portal, i jeszcze na moim Dolnym Śląsku 66 miliardów.",false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
+"Ja przypominam, że wiele z tych projektów obywatelskich, w tym projekt pani Kai Godek, ten zakazujący aborcji, wpłynęły do Sejmu już lata temu. Projekt dotyczący aborcji wpłynął (...) trzy lata temu (...), projekt zakazujący edukacji seksualnej dwa lata temu.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Пальмовое масло вызывает рак и делает мужчин стерильными,half true,ru,Окончательный ответ: Ложь.,false,False,False
+„U ovom trenutku u Srbiji ima oko 2.000 nezaposlenih agronoma.“,true,sr,Коначан одговор: Истина.,true,True,False
+Są ograniczenia [na lotnisku im. Chopina – przyp. red.] jeśli chodzi o emisję hałasu.,true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+Имбирь помогает при коронавирусе,false,ru,Окончательный ответ: В основном ложь.,mostly false,False,False
+"Zgodnie z rozporządzeniem, w klasie I, II, III to jest 20 godzin obowiązkowo, w klasie IV: 24 godziny obowiązkowo, w klasie V-VI: 25, a w klasie VII: 32 i 31 w klasie VIII.",true,pl,Ostateczna odpowiedź: Prawda.,true,True,False
+„Navodne političke nesuglasice između Saveza vojvođanskih Mađara i Demokratske stranke su smišljena medijska manipulacija i služe da bi se skrenula pažnja sa protivustavnog Statuta Vojvodine.“,false,sr,Коначан одговор: Лаж.,false,True,False
+Джеки Чан оказался в карантине из-за коронавируса,false,ru,Окончательный ответ: Правда.,true,False,False
+"Przez wiele lat, gdy rządziła Platforma Obywatelska i PSL, nauczyciele w ogóle nie dostawali żadnych podwyżek, żadnych.",false,pl,Ostateczna odpowiedź: Fałsz.,,False,True
