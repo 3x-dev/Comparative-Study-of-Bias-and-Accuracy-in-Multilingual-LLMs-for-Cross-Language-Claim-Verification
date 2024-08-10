@@ -1,0 +1,656 @@
+claim,label,language,output,final_answer,correct,inconclusive
+Nigeria spends 7 times less in health care per capita than South Africa.,false,fr,Final Answer: Mostly True,mostly true,False,False
+The blocking quarter has been removed from the Senegalese constitution.Since 2006 has not existed.,true,fr,Final Answer: True,true,True,False
+"«As long as we were in government, we had an unemployment than two points lower than the European average, today they have an unemployment of two points higher than the European average.Youth unemployment is even dramatic, 32%;It means that 3 out of 10 young people don't have a job """,mostly true,it,Final Answer: Mostly True,mostly true,True,False
+The commercial surplus of Germany violates European rules?,true,it,Final Answer: Mostly True,mostly true,False,False
+"""Argentina has unconventional gas resources that the second one in the world ranking after China""",true,es,Final Answer: Mostly True,mostly true,False,False
+"The ONE poverty group highlights 10 countries, including nine in Africa, where it is ""the most difficult"" for girls to have access to education.",half true,fr,Final Answer: Mostly True,mostly true,False,False
+Sunday at the museum or at the stadium?,true,it,Final Answer: Half True,half true,False,False
+"“In education we go from 25% of the total budget to 17%, 8 points.In health something similar happened, from 19% to 14% """,half true,es,Final Answer: Half True,half true,True,False
+[There was] fall in child mortality,mostly true,pt,Final Answer: Mostly True,mostly true,True,False
+"""[Italy is the] first country regarding the number of blue helmets, the eighth contributor to the world as regards the budget [of peace missions]""",mostly true,it,Final Answer: Mostly True,mostly true,True,False
+"""Know that when we arrive at the government, the [light] rates, a part of the ballot was paid in dollars,""",true,es,Final Answer: False,false,False,False
+The exchange of words of today between Carlos César and Fernando Negrão Sobr ......,mostly true,pt,Final Answer: False,false,False,False
+"He [Soursop Leaf Tea] does not bring any side effects soon, you can use them as much as you want",false,pt,Final Answer: Mostly False,mostly false,False,False
+"""Before 2011 we exported US $ 6,000 million fuels and then we began to import the same figure""",half true,es,Final Answer: Mostly False,mostly false,False,False
+"""Argentina is already one of the countries with the highest poverty index in Latin America""",false,es,Final Answer: Mostly True,mostly true,False,False
+With this law Italy is already today the country that gives more citizenships to foreign citizens throughout Europe,half true,it,Final Answer: Mostly True,mostly true,False,False
+"""Today we have the same number of industrial workers as in the ‘90""",mostly true,es,Final Answer: Mostly False,mostly false,False,False
+"The [São Paulo] budget for social assistance, you are talking $ 1.2 billion",mostly true,pt,Final Answer: Mostly True,mostly true,True,False
+«The first president of the Council of History to cut the #stiPepende.Proud of @giuseppeConteit! ».,mostly true,it,Final Answer: False,false,False,False
+I communicate to all the nomination of the exertion general Fernando Azevedo e Silva for the position of Minister of Defense,half true,pt,Final Answer: False,false,False,False
+"This year [2018], we registered a balance of 204 thousand vacancies with a formal contract",true,pt,Final Answer: False,false,False,False
+Young Italians on the run: how many and why?,true,it,Final Answer: Mostly True,mostly true,False,False
+"In June 2017, the announcement of the discovery of an alleged diabetes vaccine resurfaced on several French -speaking websites largely taken up on social networks.",false,fr,Final Answer: Mostly False,mostly false,False,False
+"""Nothing more than the announcement, 36% computers have already dropped""",half true,es,Final Answer: False,false,False,False
+"Senegal has reduced its 50%malnutrition rate, according to the director for Africa for the international Food Policy Research Institute (IFRI).",half true,fr,Final Answer: Mostly True,mostly true,False,False
+"Italian companies are not ""the most taxed in the world""",half true,it,Final Answer: Mostly False,mostly false,False,False
+"""There are European regulations that define mandatory recycling targets of 65% in 2025 and 70% in 2030 with the ban on burning recyclable waste""",mostly true,it,Final Answer: Mostly True,mostly true,True,False
+"""Of 79 thousand jobs (miners) in 2003, we went to almost half a million today""",false,es,Final Answer: False,false,True,False
+During today's demonstration that mobilized thousands of teachers ......,half true,pt,Final Answer: Half True,half true,True,False
+"At 80 days since the first case, Argentina has 10,000 cases;Chile, 60 thousand and Brazil, 200 thousand",half true,es,Final Answer: Mostly True,mostly true,False,False
+Algeria steals the sea in front of Sardinia?,mostly true,it,Final Answer: False,false,False,False
+The Best Player of the Cup award is given to the highlight of the champion team,half true,pt,Final Answer: False,false,False,False
+"""Here are the costs of the regularization of the 600,000 illegal immigrants of the Pd and M5Stelle government: 550 million euros!""",half true,it,Final Answer: Half True,half true,True,False
+"""Since 2016, Senegal has won 26 places in the International Doing Business ranking""",false,fr,Final Answer: Mostly True,mostly true,False,False
+We only have five consulates there [in the United States],half true,pt,Final Answer: False,false,False,False
+[The lower expenditure for citizenship income] is not deficit.This shows that it is not deficit as they said,false,it,Final Answer: Mostly False,mostly false,False,False
+"""[Had] the highest inflation of the last 25 years""",true,es,Final Answer: Half True,half true,False,False
+"Senegal, the leading producer of salt, West Africa, however matters a quarter of its consumption.",mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+One in five Nigerian suffers from long -term depression.,false,fr,Final Answer: Mostly True,mostly true,False,False
+"«[The Minister of Economy and Finance Roberto Gualtieri] has just announced that if you are in backlog with payments they can seal the accounts.In my opinion we are at the Soviet tax union because we are in the tax police state """,half true,it,Final Answer: Mostly False,mostly false,False,False
+"Nigeria, first producer of babies infected with HIV",true,fr,Final Answer: Mostly False,mostly false,False,False
+"""The Dublin regulation, penalizing for Italy, is not abolished but remains in force and the principle of reception for the countries of first entrance remains intact with serious prejudice for Italy""",half true,it,Final Answer: Mostly True,mostly true,False,False
+Women carry the male DNA of all those with whom they have had intimate relationships,false,fr,Final Answer: Mostly True,mostly true,False,False
+"Subsidies allocated to 100 daaras, 64 modern daaras set up and a legal framework, announces the government of Senegal, in a white paper on its achievements between 2012 and 2017.",half true,fr,Final Answer: True,true,False,False
+"In Chile, $ 26,000 of per capita income, almost double Brazil",mostly true,pt,"To evaluate the claim that ""In Chile, $26,000 of per capita income, almost double Brazil,"" we need to compare the per capita income of Chile and Brazil.
+
+As of the latest data available up to October 2023, Chile's per capita income is indeed around $26,000. However, Brazil's per capita income is significantly lower, but not quite half of Chile's. Brazil's per capita income is generally reported to be in the range of $12,000 to $15,000.
+
+Given that $26,000 is more than double Brazil's per capita income, the claim is misleading. While it is true that Chile's per capita income is higher than Brazil's, the phrase ""almost double"" is an exaggeration.
+
+Final Answer: Mostly False",mostly false,False,False
+Really in the room bars and restaurants don't accept the ATM?,half true,it,Final Answer: Mostly False,mostly false,False,False
+How much Italy and Europe spend for immigration,mostly true,it,Final Answer: Half True,half true,False,False
+I increased [in] 53% [the staff of] the Civil Police of my state,half true,pt,Final Answer: Half True,half true,True,False
+"""The European Parliament takes away the immunity to Marine Le Pen,"" guilty ""of having published the beheadings made by ISIS on social networks""",true,it,Final Answer: True,true,True,False
+"""The role of SMEs in our country is key",true,es,Final Answer: Mostly True,mostly true,False,False
+"90 % of the country mayors have a salary of less than 300,000 CFA francs.",half true,fr,Final Answer: Half True,half true,True,False
+We can do it if we arrive before others to respond to the needs of the 900 thousand single mothers of our country whose half of which risks poverty and certainly more in difficulty than the other mothers,true,it,Final Answer: Mostly True,mostly true,False,False
+"Important warning for those driving: Do not sanitize the car key with gel alcohol or 70%liquid.Many accidents are occurring for this.The fire that took place in a garage in Belém was due to a 70%car hygienized car key, which when placed in the ignition of the vehicle generated a spark and ended up fire the vehicle on fire",false,pt,Final Answer: Mostly True,mostly true,False,False
+We are the third best rated capital [in Ideb],false,pt,Final Answer: Half True,half true,False,False
+What Salvini does not say about the buffers (not) made in Lombardy and Veneto,half true,it,Final Answer: Mostly True,mostly true,False,False
+"Young people die especially for road accidents, but less and less",true,it,Final Answer: Mostly True,mostly true,False,False
+"The heirs of Léopold Sédar Senghor perceive, per year, more than a billion FCFA for the copyright of the National Hymn of Senegal.",half true,fr,Final Answer: False,false,False,False
+Where do you vote at the age of 16 in the world?,true,it,Final Answer: Mostly False,mostly false,False,False
+"""The collective work conventions were 200 in 2002 and now they are approximately 1500""",true,es,Final Answer: Mostly True,mostly true,False,False
+It is one of the biggest hits of the salford band (Manchester) but it is D ......,false,pt,Final Answer: Mostly False,mostly false,False,False
+"The statue of the Madonna will fly all over Italy, islands included to ask for the cessation of the pandemic",false,it,Final Answer: False,false,True,False
+"“There are 800 thousand pensions for more disability.They are more than the dead of the United States, the United Kingdom, France, Poland, Greece and the Netherlands together in World War II ”",false,es,"To evaluate the claim, we need to consider the following points:
+
+1. The claim states that there are ""800 thousand pensions for more disability."" This figure would need to be verified against reliable statistics regarding disability pensions in the relevant countries.
+
+2. The claim also compares this number to the total number of deaths in World War II for several countries (the United States, the United Kingdom, France, Poland, Greece, and the Netherlands). The total military and civilian deaths in these countries during World War II is significantly higher than 800,000.
+
+Given that the number of deaths in World War II for these countries combined is estimated to be in the millions, the comparison made in the claim is misleading.
+
+Based on this analysis, the claim is not accurate.
+
+Final Answer: False",false,True,False
+"Italy ""equatorial"" and the eternal debate on perfect bicameralism",half true,it,Final Answer: Half True,half true,True,False
+"""Since August to here we have created 82 thousand new formal jobs""",mostly true,es,Final Answer: Half True,half true,False,False
+"""There was clearly a very, very large fraud in the passage""",false,es,Final Answer: False,false,True,False
+"For the eleventh consecutive month, the Italian manufacturing activity is in contraction.",false,it,Final Answer: True,true,False,False
+"About two months ago, I said in an interview that I would have already taken Brazil from the UN [...) [...) [...) Council.This current support for a condemned and arrested corrupt is just another example of our position",mostly true,pt,Final Answer: False,false,False,False
+In Italy real refugees arrive by plane,false,it,Final Answer: Mostly False,mostly false,False,False
+"During the field unemployment ""there were several fatalities""",false,es,Final Answer: Mostly True,mostly true,False,False
+45% of Nigerian women married before the age of 18.,mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+"Côte d'Ivoire, the first UEMOA economy and a member of the global TOP10 of economic growth, said its Prime Minister.",true,fr,Final Answer: Mostly True,mostly true,False,False
+A recording widely publicized on social networks denounces a servant ......,mostly true,pt,Final Answer: Half True,half true,False,False
+The European Parliament and the Foreign Fighters,false,it,Final Answer: Half True,half true,False,False
+The Rei reached 1.3 million people.The RDC - to date - to 1.4 million.And the active policies?I'm totally at the pole.The regions have never even received the lists of beneficiaries.,mostly true,it,Final Answer: Half True,half true,False,False
+"""Argentina is a country that consumes 70% of what it produces""",mostly true,es,Final Answer: Mostly True,mostly true,True,False
+"30. Establish, in the first year of government, a partnership with the Public Prosecution Service and the Guardianship Council to combat the exploitation of children on the streets by their own parents or other adults",false,pt,Final Answer: Half True,half true,False,False
+"The concession of Ibirapuera Park, for example, (...) was stopped by the previous management [of the State Government], which created difficulties and embarrassment for us to advance",mostly true,pt,Final Answer: Half True,half true,False,False
+"""Last year there were 3,262 people killed""",false,es,Final Answer: Half True,half true,False,False
+We reduce to 12 the number of secretariats and half the number of commission positions,true,pt,Final Answer: Mostly True,mostly true,False,False
+"Sea 12, 2020 - Der Bundestag Will KommunalPolitike Besser Vor Hasskrimanalität Und ... Weiß, Wovon Er Spricht: ER Hat Selbst Mordrohungen Bekommen.",mostly false,pt,Final Answer: Mostly True,mostly true,False,False
+A information has been shared on social networks that q ......,false,pt,Final Answer: Half True,half true,False,False
+"""State resources experienced 3.4% between 2016 and 2017""",false,fr,Final Answer: Half True,half true,False,False
+"""The mayor received in this pandemic, data from the 16th, R $ 153 million and he only managed to spend 29.5% of these resources actually paid.""",true,pt,Final Answer: Half True,half true,False,False
+Not just referendum: the laws of popular initiative,true,it,Final Answer: Mostly True,mostly true,False,False
+"""Inail's latest data say that 300 people a day in Italy are infected in the workplace and ten die.And the Lockdown has only loosened for a week """,false,it,Final Answer: Mostly True,mostly true,False,False
+I have a bill aimed at chemical castration [for the convicted of rape],mostly true,pt,Final Answer: True,true,False,False
+Several publications emerged on social networks indicating that Klaus Püs ......,false,pt,Final Answer: Half True,half true,False,False
+But in Veneto the vaccinated children increase or not?,false,it,Final Answer: Mostly True,mostly true,False,False
+"""Renewable energies represent only 18% of the current electricity production capacity of Africa.Consequently, the development of over -network alternative solutions could create many more possibilities and transform millions of lives ”",half true,fr,Final Answer: Mostly True,mostly true,False,False
+37 health posts were closed in full pandemic in Curitiba,mostly true,pt,Final Answer: True,true,False,False
+"A reissue of the London trio debut album, 2009, included U ......",mostly true,pt,Final Answer: False,false,False,False
+True: the vaccine law works,true,it,Final Answer: Mostly True,mostly true,False,False
+"""(...) EPTC, just last year, earned $ 80 million [in traffic fines]""",mostly true,pt,Final Answer: False,false,False,False
+"Create a judicial police ”other
+It is a check.com cfk: ""Today with food we are the same as Venezuela.""Fake.What does it mean?Sorry, today with food we are the same as Venezuela, Cristina Kirchner launched during the presentation of her ...",false,es,Final Answer: Mostly False,mostly false,False,False
+"""Today, in urban areas, we have practically a rate of access to drinking water of almost 98.8 %;In rural areas: 91 % roughly.Which gives us an average of 95 % ”",half true,fr,Final Answer: Mostly True,mostly true,False,False
+We had peace mission in that country [Mozambique] in the 90's,true,pt,Final Answer: True,true,True,False
+"""Of the 55 countries of the African Union, Senegal is one of the 5 countries at risk of low over -indebtedness.And among the ECOWAS member countries, the only one at risk of low outset. ”",true,fr,Final Answer: Mostly False,mostly false,False,False
+"“When I was president of the Central Bank I assumed with a 40%inflation.We lower it to 4% in a year """,half true,es,Final Answer: Mostly True,mostly true,False,False
+"The writer of ""I promise to fail"" wrote on Facebook that the State Reco ......",true,pt,Final Answer: False,false,False,False
+It is alleged in a Facebook post that the virus that is causing to ......,false,pt,Final Answer: Half True,half true,False,False
+"""Public debt at the end of the year will represent 87% of GDP""",true,es,Final Answer: Half True,half true,False,False
+“The municipality of Fortaleza spends about 30% [budget] on public health.”,true,pt,Final Answer: Mostly True,mostly true,False,False
+The donations to help the baby who is thrilling the Portuguese to ......,half true,pt,Final Answer: Half True,half true,True,False
+“We will not have a budget reduction (...) at the Secretariat of Economic Development and Work”,false,pt,Final Answer: Half True,half true,False,False
+"""Open ports and the entrances to Italy return to the stars""",false,it,Final Answer: False,false,True,False
+"""Senegal has the 4th best African police force""",half true,fr,Final Answer: Half True,half true,True,False
+"""98mld fine to slots was canceled by judiciary not by my government.""",true,it,Final Answer: Mostly True,mostly true,False,False
+"""The 2017 inflation was lower than that of 2016""",true,es,"To evaluate the claim ""The 2017 inflation was lower than that of 2016,"" we need to look at the inflation rates for both years. In the United States, for example, the inflation rate in 2016 was approximately 1.26%, while in 2017 it was around 2.13%. Since the inflation rate in 2017 was higher than in 2016, the claim is incorrect.
+
+Final Answer: False",false,False,False
+"""Junín has crime rates comparable to those of Rosario""",false,es,Final Answer: Mostly False,mostly false,False,False
+"""[The economy] has been stagnant for 8 years""",true,es,Final Answer: Half True,half true,False,False
+"In 2014 the European Parliament cost 1,737 billion: in just 5 years it has grown by over 300 million.[...] The largest waste is certainly the double seat of Strasbourg.This absurdity costs taxpayers almost 200 million a year, which is equivalent to practically 10 percent of the entire Budget of Parliament",mostly true,it,Final Answer: Mostly True,mostly true,True,False
+Circles on social networks a publication denouncing that Portugal is ......,false,pt,Final Answer: Half True,half true,False,False
+"The gross domestic product (GDP) of Lagos is higher than those accumulated by Cameroon, Côte d'Ivoire and Senegal.",mostly true,fr,Final Answer: True,true,False,False
+After the homophobic statements of the Brazilian minister who protects ......,false,pt,Final Answer: Half True,half true,False,False
+Cristiano Ronaldo has transformed his hotels into free hospitals for the fight against the new Coronavirus,false,it,Final Answer: Mostly True,mostly true,False,False
+"""We had no more cuts of light""",false,es,Final Answer: Half True,half true,False,False
+"""The PRO in several elections has exceeded the female quota""",mostly true,es,Final Answer: Mostly True,mostly true,True,False
+"""It was necessary to triple industrial parks""",half true,es,Final Answer: Half True,half true,True,False
+"""98% of the population of La Matanza is connected to the drinking water network""",false,es,Final Answer: Mostly True,mostly true,False,False
+"""[In the decrees"" relaunch ""and"" Cura Italia ""] what does Covid have to do with the extension of the airport concession of Fiumicino to the Benetton, which is worth a gift from over one billion?""(min. 6:11)",half true,it,Final Answer: Mostly True,mostly true,False,False
+"In the 2017 budget, according to the bill presented, the tax increase is not foreseen",half true,pt,Final Answer: True,true,False,False
+M5S/Lega wanted to reduce the tax burden: did they do it?,true,it,Final Answer: Mostly True,mostly true,False,False
+On the chemical castration Matteo Salvini is right,true,it,Final Answer: Half True,half true,False,False
+Is it true that since the government of Cavaco Silva there was not so ......,true,pt,Final Answer: Half True,half true,False,False
+Senegal is the 5th African country in the fight against malaria.,true,fr,Final Answer: Half True,half true,False,False
+And they [international transparency] produced more than 70 proposals to combat corruption,true,pt,Final Answer: Mostly True,mostly true,False,False
+Renzi and Africa growing,mostly true,it,Final Answer: Half True,half true,False,False
+Who created CPMF was Fernando Henrique Cardoso,true,pt,Final Answer: Mostly True,mostly true,False,False
+"A foreigner cannot invest in banks, real estate and large distribution in Ethiopia.",mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+Haddad thief steals the photo of the carnival of Salvador and calls the photo of the turn!,false,pt,Final Answer: False,false,True,False
+"Schooling of the Roma, where are we?",true,it,Final Answer: Mostly True,mostly true,False,False
+The poverty rate increased from 47 to 56 % from 2011 to 2015.,mostly true,fr,Final Answer: False,false,False,False
+"The public sector finances less than 50 % of health spending in West Africa, a West African expert recently said.",true,fr,Final Answer: Mostly True,mostly true,False,False
+"China finances infrastructure projects in Africa more than the BAD, the EU, the SFI, the World Bank and the G8 combined.",true,fr,Final Answer: Mostly True,mostly true,False,False
+"""Private investment just three months after leaving the default sum in ads more than US $ 35 billion""",half true,es,Final Answer: Half True,half true,True,False
+"«There are thousands of the Emilians and the Romagna who go elsewhere to be cured [...].Are more those who come out [than those who arrive] """,false,it,Final Answer: Mostly True,mostly true,False,False
+How many countries are there in Africa?,mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+"According to a publication that is circulating on Facebook, Franç ......",half true,pt,Final Answer: Half True,half true,True,False
+"""Social spending grew by 43.5%, that means that the investment towards those who have the least is what grew most in the budget""",false,es,Final Answer: Mostly True,mostly true,False,False
+"""We are a record province regarding infant mortality reduction""",true,es,Final Answer: Mostly True,mostly true,False,False
+While several private health groups announce the intention to break ......,false,pt,Final Answer: Half True,half true,False,False
+Most [parties] that are on Alckmin's stage were on Dilma's stage,half true,pt,Final Answer: Mostly True,mostly true,False,False
+"In Hungary the taxes on businesses are 9 percent and on natural persons to 15 percent, and Hungary grows by 5 percent",true,it,Final Answer: Mostly True,mostly true,False,False
+The Sunday Standard newspaper reports that Kenyan women are careful with their children with measles with marijuana smoke.,mostly true,fr,Final Answer: False,false,False,False
+Nigerians are the most educated immigrants in the United States.,false,fr,Final Answer: Mostly True,mostly true,False,False
+"""He is not losing against inflation""",false,es,Final Answer: Half True,half true,False,False
+"At this time of year, the dry and wind climate favor spontaneous and criminal burning",mostly true,pt,Final Answer: Mostly True,mostly true,True,False
+Giorgia Meloni is right on the comparison between Italy and Austria,true,it,Final Answer: Half True,half true,False,False
+The Federal Supreme Court has acquitted me of something that you come and brings back here [the use of public money to hire a cabinet employee to provide private service],true,pt,Final Answer: False,false,False,False
+Italian prisons have a problem: they are the most overcrowded,true,it,Final Answer: Mostly True,mostly true,False,False
+"""Today pays the same [of income tax] who earns $ 5 million per year as the one who earns 250 thousand""",false,es,Final Answer: False,false,True,False
+"""The Ministry of the Interior gave indications to the Prefects on the definition of"" Conjuncts "", reiterating the interpretation of the Presidency of the Council of Ministers""",mostly true,it,Final Answer: True,true,False,False
+"""The consumption of drugs grows and the sale of weapons in our country is also growing""",half true,it,Final Answer: Mostly True,mostly true,False,False
+The information that the municipality of Grândola ......,mostly true,pt,Final Answer: Half True,half true,False,False
+"""Of the four points of the GDP of subsidies, two points go to people who do not need it""",half true,es,Final Answer: Half True,half true,True,False
+Africa does not have a country with an epidemic,false,pt,Final Answer: False,false,True,False
+Words in comparison: the new Italian and German constitution,mostly true,it,Final Answer: Half True,half true,False,False
+[Tiradentes University has] R $ 310 million annual budget,half true,pt,Final Answer: Half True,half true,True,False
+"""Macri leaves us more than 2 million unemployed""",true,es,Final Answer: Mostly True,mostly true,False,False
+"When going to the beach, there are still many doubts: is it possible M ......",false,pt,Final Answer: Half True,half true,False,False
+13.9 % of young girls are excised in Senegal.,half true,fr,Final Answer: Mostly True,mostly true,False,False
+"“Today the same energy for industrial production consumed on March 19 is consumed.And consumption is higher """,false,es,Final Answer: False,false,True,False
+"Only 20 % of Africans have access to electricity, according to the Africa Director of the World Economic Forum",false,fr,Final Answer: Mostly False,mostly false,False,False
+"From Tav to Ilva, are the ""reverse"" of the M5S ""reverse"" in the dark of Italians ""?",false,it,Final Answer: Half True,half true,False,False
+"Roraima, who exported rice, now [after the demarcation of Raposa Serra do Sol] matters [rice]",half true,pt,Final Answer: Mostly True,mostly true,False,False
+Paola Taverna on cuts to the increases for health care has (almost) reason,mostly true,it,Final Answer: Half True,half true,False,False
+One in four girls in Senegal underwent female genital mutilation.,half true,fr,Final Answer: Mostly True,mostly true,False,False
+"[We will work for the reduction of our criminal age, which is the people want and want",true,pt,Final Answer: Mostly False,mostly false,False,False
+Bellanova is right: farmers remain the crumbs,mostly true,it,Final Answer: Mostly True,mostly true,True,False
+"""The [electric] demand expanded 41% between 2003 and 2011, almost 50% more than in the neoliberal phase""",mostly true,es,Final Answer: Half True,half true,False,False
+"Has the ""COVVID"" application been installed on your phones without your knowledge",false,fr,Final Answer: False,false,True,False
+"From the health point of view of the planet, livestock is a harmful activity.It is a highly [generating] activity",true,pt,Final Answer: Mostly True,mostly true,False,False
+"""1200 pregnancies in schools, Dakar a bad student"".",false,fr,Final Answer: Mostly False,mostly false,False,False
+If he [João Doria] had fulfilled [the promise of not leaving the city] he would not have 60% rejection in the city of São Paulo,half true,pt,Final Answer: Mostly True,mostly true,False,False
+"""Italy is the fourth country in the G7 in terms of percentage between public help to development and gross national income (0.30% achieved this year a few years in advance of what is expected)""",true,it,Final Answer: Mostly True,mostly true,False,False
+"Yes, Europe made an issue of ""Eurobond"" 45 years ago",true,it,Final Answer: False,false,False,False
+A small government?,half true,it,Final Answer: Half True,half true,True,False
+Giulia Grillo misses: Italian doctors and nurses are not the least paid,false,it,Final Answer: Mostly False,mostly false,False,False
+"Africa loses approximately 370 billion CFA francs each year because of Aflatoxin, announces the partnership for the fight against aflatoxine.",half true,fr,Final Answer: True,true,False,False
+This statement [that women should earn less than men in the job market] is not my mouth.Put it in my account,false,pt,Final Answer: False,false,True,False
+"""Since Macri governs his policies melled more than three thousand SMEs""",half true,es,Final Answer: False,false,False,False
+Maroni and the severity of the scabies,false,it,Final Answer: Half True,half true,False,False
+"""In [the] United States to measure inflation they do not take them [to food and energy]""",false,es,Final Answer: Mostly False,mostly false,False,False
+Joaquim Barbosa referred to me as the only deputy of the allied base that was not bought by the PT,half true,pt,Final Answer: Mostly False,mostly false,False,False
+"""Scioli paid for official advertising $ 1.5 billion [in 2015]""",mostly true,es,Final Answer: Mostly True,mostly true,True,False
+"""Still in Argentina 55% of those who work are taken to the $ 3200 pocket""",mostly true,es,Final Answer: False,false,False,False
+"Senegal's debt level is 65 % of GDP, where countries like Burkina are 32 % and Côte d'Ivoire at 32 %.",half true,fr,Final Answer: Mostly True,mostly true,False,False
+The truth is that all these matters [district vote and mixed district vote] have already been dealt with when Eduardo Cunha was president of the house,mostly true,pt,Final Answer: Mostly True,mostly true,True,False
+Rice production of the 2016 campaign has increased by 5% compared to that of the previous year and 71% compared to the last five years.,mostly true,fr,Final Answer: Half True,half true,False,False
+All ISIS money,true,it,Final Answer: False,false,False,False
+"Is Italian health really ""world excellence""?",mostly true,it,Final Answer: Mostly True,mostly true,True,False
+The solution is quite simple,false,fr,Final Answer: Half True,half true,False,False
+"While we paid those rates, gas production declined",false,es,Final Answer: Half True,half true,False,False
+"Senegal has 1,000 doctors.",false,fr,Final Answer: False,false,True,False
+About 72 million euros for those who kill Donald Trump and then ......,half true,pt,Final Answer: False,false,False,False
+Trump's tax shock has brought unemployment to 13 confederation in the American confederation at a zero rate,half true,it,Final Answer: False,false,False,False
+"""Minister Gualtieri signed to activate the MES""",false,it,Final Answer: False,false,True,False
+Thief is your mother!Condemned.Maria da Saudade Medeiros Braga: sentenced to two years in prison for corruption with public money,false,pt,Final Answer: False,false,True,False
+Salvini has been a politician since Di Maio was first grade?,mostly true,it,"To evaluate the claim ""Salvini has been a politician since Di Maio was in first grade,"" we need to consider the timelines of both politicians.
+
+Matteo Salvini began his political career in the early 1990s, while Luigi Di Maio was born in 1986. Assuming Di Maio was in first grade around the age of 6 (which would be around 1992), Salvini was indeed active in politics at that time.
+
+Therefore, the claim is accurate in stating that Salvini has been a politician since Di Maio was in first grade.
+
+Final Answer: True",true,False,False
+I have not missed the Chamber,mostly true,pt,Final Answer: Half True,half true,False,False
+"""After 10 years of parity we were in a [minimum teacher] salary that was below the minimum, vital and mobile""",false,es,Final Answer: Half True,half true,False,False
+"""We are the only province that loses participation in federal income year""",true,es,Final Answer: False,false,False,False
+[Lula] was the president who created the most universities,true,pt,Final Answer: Mostly True,mostly true,False,False
+[Brazil received] less than 100 thousand [Venezuelans].Colombia received 700 thousand,false,pt,Final Answer: Mostly False,mostly false,False,False
+"In this choice ""we beat the electoral concurrence record""",half true,es,Final Answer: False,false,False,False
+Thefts in apartment & immigration: so Berlusconi thinks it,half true,it,Final Answer: Half True,half true,True,False
+The Tav is part of a much wider project that connects Palermo to Kiev,mostly true,it,Final Answer: False,false,False,False
+Today we have no problems with water supply,half true,pt,Final Answer: True,true,False,False
+"Netflix has decided to release access to its movies and series platform for people's isolation period, but it is a short registration for a short time!Run on the website",false,pt,Final Answer: False,false,True,False
+"""7% of GDP is one of the greatest deficits in the history of our country""",half true,es,Final Answer: Mostly False,mostly false,False,False
+Verdict of the Hissène Habre trial,false,fr,Final Answer: True,true,False,False
+We are in one of the most closed countries on the planet,true,es,Final Answer: Mostly True,mostly true,False,False
+"When I was secretary here in São Paulo, I implemented the new Work Program, which generated more than 2,000 jobs for the homeless",true,pt,Final Answer: Mostly True,mostly true,False,False
+Cashell costs a few times less in Côte d'Ivoire in West African countries like Burkina Faso.,mostly true,fr,Final Answer: False,false,False,False
+Spread: Italy and Spain compared,true,it,Final Answer: Half True,half true,False,False
+"Video caption: '[President Bolsonaro,] I won't talk to you'",false,pt,Final Answer: False,false,True,False
+"""All these funds [of the Recovery Fund] are much more conditioned than the MES"" (min. O: 56)",true,it,Final Answer: Mostly True,mostly true,False,False
+[The participation of Israeli Prime Minister Benjamin Netanyahu at my inauguration ceremony] was the first visit of a head of Israeli government to my country,true,pt,Final Answer: True,true,True,False
+"Senegal loses 40,000 hectares of forest per year.",true,fr,Final Answer: Mostly True,mostly true,False,False
+"""In ‘83 the provinces had 49% of national resources, today 26%""",half true,es,Final Answer: Half True,half true,True,False
+"""Here 500 thousand boys a year stop studying""",true,es,Final Answer: Mostly True,mostly true,False,False
+"With over 100,000 cases [in China]",half true,pt,Final Answer: Half True,half true,True,False
+When Renzi and (a part of the) Lega were against the Tav,mostly true,it,Final Answer: Mostly False,mostly false,False,False
+A French constitutions demonstrates the legality of the candidacy of Alassane Ouattara,false,fr,Final Answer: False,false,True,False
+Boschi inaccurate on the results of the fight against tax evasion,half true,it,Final Answer: Mostly False,mostly false,False,False
+"""Red code"" for sexual crimes: already in force or news?",half true,it,Final Answer: Mostly True,mostly true,False,False
+Nigeria is the country with the most not educated girls in the world.,mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+Conte is right about the economic relations between Italy and Mozambique,true,it,Final Answer: Half True,half true,False,False
+What is the problem with Tunisian oil,true,it,Final Answer: Half True,half true,False,False
+Cancer still constitutes the leading cause of mortality in the world today,false,fr,Final Answer: Mostly False,mostly false,False,False
+The week it was revealed that TAP paid bonuses in the global value d ......,mostly true,pt,Final Answer: Half True,half true,False,False
+"""In forecasts, the Senegalese population is multiplied by two every 25 years""",mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+Nigeria has not been in debt on the outdoor market since 2013,false,fr,Final Answer: False,false,True,False
+What is sickle cell anemia?,true,fr,Final Answer: True,true,True,False
+A publication on social networks is circulating in which you alert to ......,true,pt,Final Answer: Half True,half true,False,False
+Publication on social networks attributes the following citation to Catarina Ma ......,false,pt,Final Answer: Half True,half true,False,False
+"""Salvini shouts at the emergency, however, in Brussels he did not miss an opportunity to vote against all the measures to protect the environment""",half true,it,Final Answer: Mostly True,mostly true,False,False
+"Senegal public debt is 6,000 billion FCFA",half true,fr,Final Answer: Half True,half true,True,False
+The results of the Democratic Party in Campania according to Renzi,false,it,Final Answer: Half True,half true,False,False
+"""Investment in education has had a correlation in the decrease in dropout in secondary school""",mostly true,es,Final Answer: Mostly True,mostly true,True,False
+"In his New Year's message, on December 31, 2016, Macky Sall announced the recruitment of police and sappers in 2017, in addition to the tightening of criminal sanctions related to terrorism",mostly true,fr,Final Answer: True,true,False,False
+"Everyone, now, taking his line out: WHO spokesman, says he has never advised confinement application as a measure to combat coronavirus",false,pt,Final Answer: False,false,True,False
+Renzi unclear on the return to Maastricht,half true,it,Final Answer: Mostly True,mostly true,False,False
+"""[Between 2003 and 2011] we create 300 thousand jobs""",false,es,Final Answer: Half True,half true,False,False
+Six hundred women have lost their lives during childbirth in Senegal since #COVVI19SN,half true,fr,Final Answer: Half True,half true,True,False
+"""We increase 100% the amounts we send to school canteens""",mostly true,es,Final Answer: False,false,False,False
+"The officials of this party invested on rival lists will lose their mandate as deputies, if they are elected on the evening of July 31, 2017, in accordance with the law.",false,fr,Final Answer: True,true,False,False
+"""[Neuquén] has the best economic and social indicators in the country""",half true,es,Final Answer: Mostly True,mostly true,False,False
+"""The most unprotected sectors are the ones that most suffer the effects of climate change""",true,es,Final Answer: Mostly True,mostly true,False,False
+"""From the crisis until today the basic salary of the industrial sector rose 10 times, [while] inflation (...) rose six times""",mostly true,es,Final Answer: Mostly True,mostly true,True,False
+"More education does not mean, in Brazil, more productivity",true,pt,Final Answer: Mostly True,mostly true,False,False
+35% of Senegalese are married before reaching the majority of 18 years.,half true,fr,Final Answer: Mostly True,mostly true,False,False
+"We inaugurated two houses (from women), which deal with violence against women.One in Bangu, another in Madureira",mostly true,pt,Final Answer: True,true,False,False
+Lives the Expo!,true,it,Final Answer: Half True,half true,False,False
+"15 -year -old kids, 70% does not know a simple three rule",true,pt,Final Answer: False,false,False,False
+Is it rare for a mayor to have his mandate as a federal deputy revoked?,true,pt,Final Answer: Mostly True,mostly true,False,False
+"""Young women, today, double in terms of unemployment to the general unemployment of the country""",true,es,Final Answer: Half True,half true,False,False
+"""Conte has decided to close Lombardy with the data of last week, which are equivalent to the epidemiological situation two weeks ago""",mostly true,it,Final Answer: False,false,False,False
+"If we approve (PEC) 241, we do not need to think of tribute, because, we agree, the tax burden has reached its limit",half true,pt,Final Answer: Mostly False,mostly false,False,False
+"Of every $ 100 that missionaries pay for taxes, $ 76 are taken by Cristina",mostly true,es,Final Answer: False,false,False,False
+Several publications on social networks show images of a group of p ......,true,pt,Final Answer: Half True,half true,False,False
+'' The Ivorian state allocated to the fight against HIV/AIDS just over 32 billion CFA francs between 2013 and 2017 '',true,fr,Final Answer: True,true,True,False
+"«We found an Italy with 10 million poor.With the highest unemployment rate in Europe "".",half true,it,Final Answer: Mostly True,mostly true,False,False
+"""In San Luis, we have achieved full employment""",true,es,Final Answer: Half True,half true,False,False
+The right of soil existed in Côte d'Ivoire in January 1972.,true,fr,Final Answer: True,true,True,False
+"""In the city, half of the workers are from the province""",true,es,Final Answer: Half True,half true,False,False
+Affinity and divergences between Farage and Grillo in Europe,true,it,Final Answer: Mostly True,mostly true,False,False
+"Here in São Paulo, we have 2.7 million people living with such $ 600 who became $ 300 [from emergency aid]",half true,pt,Final Answer: Half True,half true,True,False
+"Places earned, lost places: Salvini's numbers on US employment",mostly true,it,Final Answer: Half True,half true,False,False
+"41. Reduce the number of secretariats and agencies linked directly to the mayor from 29 to around 15, ensuring a significant economy on the administrative machine spending and giving more agility to decision -making processes within the City Hall",mostly true,pt,Final Answer: Mostly True,mostly true,True,False
+"Apart from Air Senegal, no African company has A330 Neo",false,fr,Final Answer: Mostly True,mostly true,False,False
+"No, the spread has not returned to the levels preceding the government",false,it,Final Answer: True,true,False,False
+Is the work less precarious?,half true,it,Final Answer: Half True,half true,True,False
+We cannot exchange CFAs in Europe,true,fr,Final Answer: False,false,False,False
+In this government poverty and lack of work doubled,false,es,Final Answer: Mostly True,mostly true,False,False
+The new youth unemployment record?,half true,it,Final Answer: Half True,half true,True,False
+"With a growth rate of 6.6 % (in 2016) our country has taken the trajectory of inclusive growth (…) since 1980, it is the first time, that in a consecutive manner over three years, our country has reached the barof 6 % growth.",true,fr,Final Answer: Mostly True,mostly true,False,False
+"""We achieved in six years that 3% of infrastructure investment became 23%""",false,es,Final Answer: Half True,half true,False,False
+"Has a shipping table today, which the Supreme [Federal Court] has already declared constitutional",false,pt,Final Answer: False,false,True,False
+"Dakar's regional express train (TER) cost 568 billion francs excluding taxes, said the Minister Delegate in charge of the development of the rail network.",false,fr,Final Answer: True,true,False,False
+"Salvini, Turkey and women",true,it,Final Answer: Half True,half true,False,False
+"“Senegal is the only country in West Africa where retirees are taken care of on the medical level (...).It costs 3 billion CFA francs each year at IPRES, ”according to Mamadou Racine Sy, PCA of IPRES.",mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+"«[For the Coronavirus emergency] do not abandon your animals.There is no valid reason """,true,it,Final Answer: True,true,True,False
+Toti is wrong: the spread of the virus in Liguria is not in line with the country,false,it,Final Answer: Mostly False,mostly false,False,False
+The BAD cancels the financing of the sanitation project of the city of Bamako,true,fr,Final Answer: True,true,True,False
+"""They have not reached 40% of what they had promised""",mostly true,es,Final Answer: Half True,half true,False,False
+And all students [of the middle -time high -time schools in Ceará] have a government -paid internship,mostly true,pt,Final Answer: False,false,False,False
+"The PMDB, its leaders and its bench have never acted as an active pole in this process (impeachment)",false,pt,Final Answer: Mostly False,mostly false,False,False
+"""Matteo Salvini (...) in May he exceeded anyone and collected a percentage of television apparitions equal almost double those of President Conte""",false,it,Final Answer: Mostly True,mostly true,False,False
+26% of men think women ask to be raped,mostly true,pt,Final Answer: Mostly True,mostly true,True,False
+"""For the first time in history, in 2017 the percentage of convicted surpassed that of defendants""",mostly true,es,Final Answer: False,false,False,False
+"After having praised a ""50% reduction in the debts to the suppned ......",mostly true,pt,Final Answer: Half True,half true,False,False
+"""Most of the domestic work falls on women in Argentina""",true,es,Final Answer: Mostly True,mostly true,False,False
+"For next year, the employee will have to opt for withdrawal or the an antony",half true,pt,Final Answer: False,false,False,False
+"""We go down 30% homicides""",half true,es,Final Answer: Half True,half true,True,False
+"""Argentina had [in 2012] the most important foreign investment of the entire decade""",mostly true,es,Final Answer: False,false,False,False
+"Grillo, the interest on debt and the deficit",mostly true,it,Final Answer: Half True,half true,False,False
+"""Last year the investment grew 11%, it was the greatest increase in six years""",true,es,Final Answer: Half True,half true,False,False
+"It is one of the most viral publications of the last days, shared by Mi ......",false,pt,Final Answer: Half True,half true,False,False
+"""Remember that in twenty years, life expectancy in Africa has increased, more than anywhere else in the world.""",true,fr,Final Answer: Mostly True,mostly true,False,False
+"«Everyone must know: Germany owner of the EU.Aid to Italian companies 25 billion.Aid to German companies 550 billion """,false,it,Final Answer: Mostly False,mostly false,False,False
+"""Argentina is the third world supplier of cocaine""",mostly true,es,Final Answer: Mostly True,mostly true,True,False
+"""We pay a third of health expenditure with IRAP"" (min. 1:42:48)",half true,it,Final Answer: Mostly True,mostly true,False,False
+"Between 2012 and 2015, more than 230,000 jobs were created in Senegal, according to Minister Mansour Sy.",half true,fr,Final Answer: True,true,False,False
+"""In Italy one in five young people between 15 and 24 years old have no job or study, and 15% of those who are between 25 and 39 years old have an atypical work"" at risk of precariousness """,mostly true,it,Final Answer: Mostly True,mostly true,True,False
+"""Since 2007, no private employment is created in Argentina""",false,es,Final Answer: False,false,True,False
+"«Currently we manage, and I say to us as an interior minister, about 15 thousand assets [confiscated from the mafias editor's note] [...] the Agency of the assets confiscated from the mafia [...] did not even have 100 people to manage a heritage ofseizures and confiscations of billions of euros.Now we have taken a few hundred """,half true,it,Final Answer: Mostly True,mostly true,False,False
+"""Argentina has a record tax burden in Latin America""",true,es,Final Answer: True,true,True,False
+The gas deposit discovered off Saint-Louis constitute the 5th world reserve.,false,fr,Final Answer: Half True,half true,False,False
+Salvini and the boom of '93,false,it,Final Answer: Half True,half true,False,False
+"Salvini is wrong: on the precompilated 730 we already make ""like Belgium""",true,it,Final Answer: Mostly True,mostly true,False,False
+"I started a campaign [in 2008] with 3% of voting intentions, my opponents had 38%, another had 26%",false,pt,Final Answer: Mostly True,mostly true,False,False
+Loans and tax burden for businesses: have things worsened?,false,it,Final Answer: Mostly True,mostly true,False,False
+"Salvini says that the Democratic Party voted in favor of food insects, but confuses himself with Forza Italia",false,it,Final Answer: Mostly True,mostly true,False,False
+"In West Africa, 60% of rural populations have no electricity.The sub-region is one of the latest in the world in terms of access to modern energy.",mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+Macky Sall had announced the acquisition of 195 medical ambulances in 2017.,false,fr,Final Answer: True,true,False,False
+"I delivered 295 day care centers, the current governor, Márcio França, delivered 18 more and has more than 200 in works",true,pt,"To evaluate the claim, we need to verify the numbers provided regarding the delivery of day care centers by both the speaker and the current governor, Márcio França. 
+
+1. The speaker claims to have delivered 295 day care centers.
+2. The speaker states that Governor Márcio França delivered 18 more than that, which would total 313 centers delivered by him.
+3. Additionally, the speaker mentions that Governor França has more than 200 centers under construction.
+
+To determine the truthfulness of the claim, we would need to check the actual records of day care center deliveries and ongoing projects attributed to both the speaker and Governor França. If the numbers align with the claim, it would be considered 'True' or 'Mostly True'. If they are significantly off, it could be 'Half True', 'Mostly False', or 'False'.
+
+Without specific data to confirm or refute these numbers, we cannot definitively categorize the claim. However, if we assume that the speaker's numbers are generally accurate and that the governor's additional centers and ongoing projects are also factual, we might lean towards 'Mostly True'.
+
+Final Answer: Mostly True",mostly true,False,False
+"""Foreigners in Italy [...] affect the rapes for 42 percent [of cases]""",half true,it,Final Answer: Mostly False,mostly false,False,False
+"«A million electric cars in five years in Italy.This goal has given Germany to 2020, Holland in 2025 will ban petrol cars and India will do it in 2030 """,half true,it,Final Answer: Mostly True,mostly true,False,False
+"""Senegal has lost 5 % of market share over the past ten years"".",false,fr,Final Answer: Half True,half true,False,False
+Multiple publications on social networks highlight that the organization of ......,half true,pt,Final Answer: Half True,half true,True,False
+Money transfers to Africa are the most expensive in the world.,true,fr,Final Answer: Mostly True,mostly true,False,False
+"""The metropolitan city of Milan would have a tax residue of 11 billion a year, if we really want to talk about return""",half true,it,Final Answer: Half True,half true,True,False
+"""Only 50% of Argentines have access to a bank account""",true,es,Final Answer: Mostly True,mostly true,False,False
+"""[Electronic vote] is a very simple system, which gives certainty and guarantees""",half true,es,Final Answer: Mostly False,mostly false,False,False
+"On Twitter, the PSD writes that the unemployment rate in Portugal is n ......",mostly true,pt,Final Answer: Half True,half true,False,False
+"Roma, Sinti and Walking: at least 8 thousand in Rome",true,it,Final Answer: Mostly True,mostly true,False,False
+"""Only 7% of municipalities in Senegal have an urban planning plan""",true,fr,Final Answer: True,true,True,False
+"""Argentina was the third world exporter of meat, today we are the 14th""",true,es,Final Answer: Mostly True,mostly true,False,False
+"The government has decided to kill companies.With DL, the one who renovates an apartment pays half an amount, the other 50 percent the company finds it as a ""tax bonus"" spread in 5 years.Instead of squeezing companies like lemons the state lowers taxes!.",half true,it,Final Answer: Mostly False,mostly false,False,False
+"""Ethiopia is the fastest growth economy in the world""",mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+A can of beer has fewer calories than a dose of caipirinha,true,pt,"To evaluate the claim, we need to compare the calorie content of a can of beer with that of a dose of caipirinha.
+
+A standard can of beer (approximately 12 ounces) typically contains around 150 calories, though this can vary depending on the type of beer. 
+
+A caipirinha, which is a cocktail made with cachaça, sugar, and lime, generally contains more calories due to the sugar content. A typical serving of caipirinha can have around 200-300 calories, depending on the amount of sugar used and the size of the drink.
+
+Given this information, the claim that ""A can of beer has fewer calories than a dose of caipirinha"" is likely to be true, as a standard beer usually has fewer calories than a typical serving of caipirinha.
+
+Final Answer: True",true,True,False
+"""In a normal country, workers do not pay earning tax""",false,es,Final Answer: False,false,True,False
+"""Growth has gone from -2 to +1: no country, in the same period she made such a big leap""",false,it,Final Answer: Half True,half true,False,False
+"""The company that lately has increased more prices is YPF""",mostly true,es,Final Answer: Mostly True,mostly true,True,False
+"""The safety standards of the safety systems on which our trains travel, not only [...] high -speed trains are at the top""",true,it,Final Answer: Mostly True,mostly true,False,False
+"""In the CONICET we set a stop of 14 thousand researchers, higher than the Research Councils of France or Spain""",half true,es,Final Answer: Mostly True,mostly true,False,False
+"""The opposition project generates a fiscal cost exceeding $ 100 billion per year""",true,es,Final Answer: Half True,half true,False,False
+The kilogram of zircon costs only one dollar on the international market.,mostly true,fr,Final Answer: False,false,False,False
+"Dakar's Cheikh Anta Diop (UCAD) is the first French -speaking university in Africa.She passes in front of all the universities of the Maghreb,",false,fr,Final Answer: Mostly True,mostly true,False,False
+Created Pec of Social Security,mostly true,pt,Final Answer: False,false,False,False
+80 %ounces Nigerians do not have access to drinking water.,half true,fr,Final Answer: False,false,False,False
+Senegal is the 8th African country in terms of electricity access rate.,false,fr,Final Answer: Half True,half true,False,False
+"No, the EU Parliament did not say yes to the ""invasion"" of migrants",false,it,Final Answer: True,true,False,False
+"""At this time [there are] strict quarantine in Barcelona""",false,es,Final Answer: False,false,True,False
+"""[Immune] would have its effectiveness only if every Italian citizen, of all ages, had the app on his smartphone""",false,it,Final Answer: Mostly True,mostly true,False,False
+Matteo Salvini between two Nobel prizes,true,it,Final Answer: False,false,False,False
+"""Insurers invest for more than 300 billion CFA francs per year in the Senegalese economy""",half true,fr,Final Answer: True,true,False,False
+"“The labor market has remained stable.There have been no more layoffs than in 2012 and 2013 """,half true,es,Final Answer: Mostly False,mostly false,False,False
+Handwashing can reduce the risk of infectious diseases by 59%.,half true,fr,Final Answer: Mostly True,mostly true,False,False
+"""Drug seizures are record""",mostly true,es,Final Answer: Half True,half true,False,False
+Part of the Senegalese press has assimilated the arrears of payment to the interior debt.,false,fr,Final Answer: Half True,half true,False,False
+"With R $ 20 billion, we saved 11 million jobs [in the emergency maintenance and income maintenance program]",true,pt,Final Answer: Mostly True,mostly true,False,False
+"Coming into force in Senegal, in January 2016, a law relating to the importation and production of plastic sachets.",false,fr,Final Answer: True,true,False,False
+"""[The Government] raised the retentions to the field to levels before""",half true,es,Final Answer: Half True,half true,True,False
+"JK, in 3.5 years, raised Brasilia",mostly true,pt,Final Answer: False,false,False,False
+"""Systematically increases the registration of the city's public school""",mostly true,es,Final Answer: Half True,half true,False,False
+"""The results of these 4 years were not good",false,es,Final Answer: Half True,half true,False,False
+"More than 6,500 migrants died in the Mediterranean between 2015 and 2016, said President of Niger Mahamadou Issoufou.",mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+"""The city generates almost 25% of the co -participible resources and takes just over 1% co -participation""",mostly true,es,Final Answer: Mostly True,mostly true,True,False
+"""You never spent less silver in advertising pattern before than in this government""",false,es,Final Answer: False,false,True,False
+Salvini's numbers: the British economy after Brexit,mostly true,it,Final Answer: False,false,False,False
+"""The advice [of the Magistracy] does not work, it is braking""",mostly true,es,Final Answer: Half True,half true,False,False
+"""The teaching salary is $ 4,000 below the poverty line for the degree teacher""",half true,es,Final Answer: Half True,half true,True,False
+Africa devotes an envelope of $ 35 billion each year to the purchase of Vires.,half true,fr,Final Answer: False,false,False,False
+"Today you have 564,000 open arrest warrants",mostly true,pt,Final Answer: False,false,False,False
+I have twice the [voting intention] index of the [ex] governor [Geraldo] Alckmin in the capital,mostly true,pt,Final Answer: Half True,half true,False,False
+The number of deaths from police intervention has already surpassed the murder (robbery followed by death),true,pt,Final Answer: Mostly True,mostly true,False,False
+"""We are the country with fewer deaths from the world""",false,es,Final Answer: False,false,True,False
+"Bankitalia has 7,000 employees with an average salary of 85 thousand euros per year",mostly true,it,Final Answer: Mostly True,mostly true,True,False
+None,mostly true,es,Final Answer: False,false,False,False
+The median age in Senegal is 18 years,false,fr,Final Answer: True,true,False,False
+"""Currently, if we are based on existing statistics in Senegal, there are, roughly, 42 to 43 % of Senegalese households (in rural areas) which have access to electricity""",mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+Ivorians represent 10% of migrants who arrive in Italy by sea.,true,fr,Final Answer: Mostly True,mostly true,False,False
+"The rehabilitation of the building cost 40 billion CFA francs, much more than the 17 billion initially announced.",mostly true,fr,Final Answer: True,true,False,False
+More than 1 million families returned to cooking the wood,true,pt,Final Answer: Half True,half true,False,False
+[In the causes of corruption] the average time of instruction is seven years,true,es,Final Answer: False,false,False,False
+"""There are so many thousands of people who want to adopt and thousands of children who want a home""",mostly true,es,Final Answer: Mostly True,mostly true,True,False
+"""In 2016, the sale of tractors increased 25%, that of 54%harvesters and the 80%sowing""",true,es,Final Answer: Half True,half true,False,False
+The European infringement procedure has been saved thanks to our electronic billing.,half true,it,Final Answer: Mostly True,mostly true,False,False
+"""Buenos Aires is the most unequal city in the country""",false,es,Final Answer: Mostly True,mostly true,False,False
+"""Social spending in the nation is more than 75% of the budget""",mostly true,es,Final Answer: Half True,half true,False,False
+"""In the city of Buenos Aires there are more than 500 thousand people in housing emergency""",true,es,Final Answer: True,true,True,False
+"""We lower homicides in two years""",true,es,Final Answer: Half True,half true,False,False
+The increase in science and technology [will be] 28%,false,es,Final Answer: Half True,half true,False,False
+We have 40% of the prison population of provisional prisoners,true,pt,Final Answer: Half True,half true,False,False
+Gas discoveries in Senegal place Senegal in 27th in the world and 5th in Africa in terms of reserves.,half true,fr,Final Answer: Mostly True,mostly true,False,False
+"The trade balance is deficit of 2,000 billion FCFA with 3,500 billion FCFA imports against 1,500 billion FCFA exports",half true,fr,"To evaluate the claim, we need to analyze the trade balance given the figures provided:
+
+- Imports: 3,500 billion FCFA
+- Exports: 1,500 billion FCFA
+
+The trade balance is calculated as:
+
+Trade Balance = Exports - Imports
+Trade Balance = 1,500 billion FCFA - 3,500 billion FCFA
+Trade Balance = -2,000 billion FCFA
+
+A negative trade balance indicates a deficit. The claim states that the trade balance is a deficit of 2,000 billion FCFA, which is accurate based on the calculations.
+
+Final Answer: True",true,False,False
+"""The average internet speed in 2015 was only 4.5 megabits per second, today we triple it""",mostly true,es,Final Answer: Mostly True,mostly true,True,False
+"""Almost a GDP escaped""",false,es,Final Answer: False,false,True,False
+"""In 2002 there were laws that prohibited dismissals and that did not bring more work, destroyed work""",false,es,Final Answer: Mostly False,mostly false,False,False
+"Viral publication on Facebook launches warning that, in case of accident ......",true,pt,Final Answer: Half True,half true,False,False
+"For Radio Radicale, about 290 million since 1994",true,it,Final Answer: Mostly True,mostly true,False,False
+Does Italy have the European record of the number of banks?,false,it,Final Answer: Mostly False,mostly false,False,False
+"Without Lombardy, Italy is (almost) as Germany and Denmark",mostly true,it,Final Answer: Mostly False,mostly false,False,False
+"""The State spent $ 7 billion in football for all""",true,es,Final Answer: Half True,half true,False,False
+"""Argentina is about to issue the largest debt [in foreign currency] of a developing country since 1996""",true,es,Final Answer: Mostly True,mostly true,False,False
+"On access to electrification, Guinea has not managed to have 5 or 10 %so far.",half true,fr,Final Answer: Mostly True,mostly true,False,False
+Maroni and the expenses for consultancy of Lombardy,mostly true,it,Final Answer: Half True,half true,False,False
+"Women earn less than men: yes, that's why",mostly true,it,Final Answer: Mostly True,mostly true,True,False
+No use of tuberculosis vaccine in the United States,mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+Digital generates 8% of Côte d'Ivoire GDP and 13% of tax revenues from this country.,mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+"""The conurbano has mayors who govern their districts 15 years on average""",half true,es,Final Answer: Mostly True,mostly true,False,False
+The unemployment rate in Côte d'Ivoire is between 70 and 90 %.,mostly true,fr,Final Answer: False,false,False,False
+There is no country where the outgoing head of state participates in a televised debate with other candidates in the context of a presidential election.,false,fr,Final Answer: True,true,False,False
+"""Every three minutes a family receives a 30 -year mortgage loan from Banco Nación""",half true,es,Final Answer: False,false,False,False
+The budget deficit rose from 6.7 % in 2011 to 3.7 % in 2019.,mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+"We do not use cash more than all the others, but ...",half true,it,Final Answer: Half True,half true,True,False
+“Time for elaboration of each vaccine (...) typhoid fever (...) 105 years (...) COVID-19 (...) 5 months”,mostly true,pt,Final Answer: Mostly True,mostly true,True,False
+"With 3,000 millionaires, Ethiopia is the African country with the most millionaires.",half true,fr,Final Answer: Mostly False,mostly false,False,False
+"""Investments in school infrastructure were never made in the city's history as in our management""",half true,es,Final Answer: Mostly False,mostly false,False,False
+"Report prepared by TCU, from the evaluation of the arrival of doctors in 1,837 municipalities, translates some of the impacts already felt by the population: 33% more monthly consultations on primary care in these municipalities",half true,pt,Final Answer: True,true,False,False
+"In 2015, during the first conference in Abidjan, Africa's GDP had been growing for almost 5 %for 15 years.",mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+If you feel the self -examination is too late for cancer,half true,pt,Final Answer: False,false,False,False
+"Guinea is becoming the world's leading producer of Bauxite.It holds half of the world reserves of this ore, said its president Alpha Condé.",half true,fr,Final Answer: Mostly True,mostly true,False,False
+"""Inflation in 80 years has been, on average, 62.5% without counting the years of hyperinflation""",half true,es,Final Answer: False,false,False,False
+Comparison misses the growth of the Eurozone,false,it,Final Answer: Mostly True,mostly true,False,False
+Over the past few days the image of ......,half true,pt,Final Answer: Half True,half true,True,False
+Would the minimum Italian salary be the most generous among OECD countries?,half true,it,Final Answer: Mostly False,mostly false,False,False
+Côte d'Ivoire is the first producer and the first African cashew exporter.,half true,fr,Final Answer: Mostly True,mostly true,False,False
+Calenda is right on the growth of exports and employment in the South,mostly true,it,Final Answer: Mostly True,mostly true,True,False
+The airline deficit occupies five times more than the entire budget of the Ministry of Industry,half true,es,Final Answer: False,false,False,False
+France's market shares in Senegal have been lowered by 25% in Senegal in ten years.,half true,fr,Final Answer: Half True,half true,True,False
+"""The reduction of bank salider is in the order of 80%""",mostly true,es,Final Answer: Half True,half true,False,False
+"The police, during the intervention, kills six people a day",half true,pt,Final Answer: Mostly False,mostly false,False,False
+The revelation is inspiring: J. K. Rowling left the list of the richest ......,mostly true,pt,Final Answer: False,false,False,False
+Nigeria has 23% of malaria cases recorded worldwide.,half true,fr,Final Answer: Mostly True,mostly true,False,False
+Côte d'Ivoire is among the 20 countries with the least efficient health systems in the world.,true,fr,Final Answer: Mostly True,mostly true,False,False
+Renzi exaggerates on the renunciations of the Democratic Party compared to the M5S,false,it,Final Answer: Mostly True,mostly true,False,False
+"""We sow the same wheat that 100 years ago""",true,es,Final Answer: Mostly False,mostly false,False,False
+"In sub -Saharan Africa, more than 5% of births occur during adolescence, according to OMS",false,fr,Final Answer: Mostly True,mostly true,False,False
+"""If you look this year's budget, it has only been executed in 12%""",mostly true,es,Final Answer: Half True,half true,False,False
+"A Lilliput?How much they ""weigh"" the Netherlands in the European Union",mostly true,it,Final Answer: Half True,half true,False,False
+It appeared on Twitter and spread a photograph ......,mostly true,pt,Final Answer: Half True,half true,False,False
+"The unemployment rate is 18.8 % in Nigeria, according to the spectator index.People have expressed doubts via tweeter.",true,fr,Final Answer: Mostly True,mostly true,False,False
+The current government of Nigeria has contracted a debt of $ 80 billion.,mostly true,fr,Final Answer: Half True,half true,False,False
+"""Salary is not a gain""",half true,es,Final Answer: Mostly False,mostly false,False,False
+"At the time of the referendum of 2005, the people decided to buy (...) of weapons and ammunition",true,pt,Final Answer: False,false,False,False
+"""This year we managed to lower the cuts [of light] 45%""",true,es,Final Answer: Half True,half true,False,False
+Violence against women affects more black women,true,pt,Final Answer: Mostly True,mostly true,False,False
+How many thefts are there every day in Italy?,mostly true,it,Final Answer: Half True,half true,False,False
+Supposed user resorted to social networks to denounce that Hospital ......,mostly true,pt,Final Answer: Half True,half true,False,False
+"""We carry out the largest campaign for police recruitment and renewal of all time""",mostly true,es,Final Answer: Half True,half true,False,False
+1960 There were only 3% of literate women.If we look today we are not satisfied because we have 46-47%,false,fr,Final Answer: Mostly True,mostly true,False,False
+"No, we cannot accuse the government of taking away from the school to give pensioners",false,it,Final Answer: Mostly False,mostly false,False,False
+Italy risks losing over 60 million foreign tourists,true,it,Final Answer: Mostly True,mostly true,False,False
+"""They say they will tax the rent but they will actually tax the rent.""",true,es,Final Answer: False,false,False,False
+"""The credit doubled its participation in the GDP between 2003 and 2013""",half true,es,Final Answer: Half True,half true,True,False
+A photograph of an enhanced citizen in what seems to be a conservatory ......,half true,pt,Final Answer: Half True,half true,True,False
+"""The crime increasingly increases in the province of Buenos Aires""",half true,es,Final Answer: Mostly True,mostly true,False,False
+The recipe has been shared by many people on social networks: u ......,false,pt,Final Answer: Mostly True,mostly true,False,False
+"“The education of the Aracaju City Hall, from public education, was last in the first grades of elementary school and a last in the last grades in the data of recent IDEB”",mostly true,pt,Final Answer: Half True,half true,False,False
+"""The relationship between the crimes committed and the convicted persons is less than 1%""",mostly true,es,Final Answer: False,false,False,False
+"""44% of the subsidies are taken by the two tenths of the richest population""",half true,es,Final Answer: Mostly True,mostly true,False,False
+Unemployment is at its highest level in Nigeria;More than 10 million young people are unemployed.,half true,fr,Final Answer: Mostly True,mostly true,False,False
+"""Kédougou is the region with the highest mortality rate in Senegal""",mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+Create a different rate at alternative times - reducing overload at high flow times,true,pt,Final Answer: Mostly True,mostly true,False,False
+We have over 63 million Brazilians in SPC,true,pt,Final Answer: Mostly True,mostly true,False,False
+"It fell all [crime rates].Fell theft, fell murder, fell homicides",half true,pt,Final Answer: Mostly True,mostly true,False,False
+"""I would like to point out that he did not only do it in Europe [to get"" full powers ""from Parliament], but for example the Swedish premier also did, who is a socialist but of that she will not hear"" (min11:08)",false,it,Final Answer: Half True,half true,False,False
+In an article disseminated on social networks it is denounced that the deaths ATR ......,false,pt,Final Answer: Half True,half true,False,False
+"""[Internal tourism] from 2013 to 2015 fell into three million passengers""",true,es,Final Answer: False,false,False,False
+A law dispense investments in tourism in Casamance.,mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+Today Brazil has almost half of the per capita income of Chile,half true,pt,Final Answer: Mostly True,mostly true,False,False
+"""All PAMI affiliates have the best drug coverage in America""",half true,es,Final Answer: Mostly False,mostly false,False,False
+"When we caught the government, at first, the deficit was $ 279 billion.The following year [2017], R $ 159 billion.(...) ie: is decreasing",half true,pt,Final Answer: Mostly True,mostly true,False,False
+"""[In airlines travel] 3% of the population""",mostly true,es,Final Answer: Half True,half true,False,False
+Senegal is the first African and the world 4th in terms of transparency in the extractive industries.,half true,fr,Final Answer: Mostly True,mostly true,False,False
+In a publication that is circulating on social networks it is guaranteed that a ......,false,pt,Final Answer: Half True,half true,False,False
+"""The minimum wage will be at $ 2800 and are counted as employed to workers who are charging $ 1700""",mostly true,es,Final Answer: False,false,False,False
+We have percentages above 50 percent in many cities and we are also the first party in many cities in the center and south,half true,it,Final Answer: Mostly True,mostly true,False,False
+true,true,pt,Final Answer: True,true,True,False
+"The UN (...) said that the claim [presented by Lula to the entity] was legitimate, due to the fragility of the accusation against him",false,pt,Final Answer: False,false,True,False
+"[After breaking the dam in Brumadinho, Ibama applied a fine of $ 250 million to Vale] different from what happened, for example, in Mariana",half true,pt,Final Answer: Mostly True,mostly true,False,False
+Côte d'Ivoire is one of the 20 poor or emerging countries that spends the least for the health of populations.,mostly true,fr,Final Answer: Mostly True,mostly true,True,False
+"""In federal justice vacancies range in 30%""",mostly true,es,Final Answer: Half True,half true,False,False
+"In alleged news with origin on the ""Vilogogostei"" page, published in ......",half true,pt,Final Answer: Half True,half true,True,False
+The amount of kilometers deforested [in the Amazon] last year was 8 thousand square kilometers,true,pt,Final Answer: Mostly True,mostly true,False,False
+"They have been drastically reduced personal (20,000 less employees) and resources (5.2 billion less in four years) [to the provinces], but fundamental functions have remained such as territorial planning, roads, school construction, transportpublic and private",mostly true,it,Final Answer: Mostly True,mostly true,True,False
+The parliamentary commission of inquiry on the 48 billion CFA francs violated article 48 of the internal assembly of the National Assembly.,true,fr,Final Answer: Half True,half true,False,False
+"""January-October accumulated inflation was in the order of 10%""",false,es,Final Answer: Half True,half true,False,False
+"“There are 2.5 million students in the municipal, state and private network here in the city of São Paulo”",true,pt,Final Answer: Mostly True,mostly true,False,False
+In a message that spread through social networks compares the debt D ......,false,pt,Final Answer: Half True,half true,False,False
+"In the Square Circulatory Program, in TVI24, the question D ......",false,pt,Final Answer: False,false,True,False
+We are the political force in Parliament with the highest number of women [...] and also of graduates,half true,it,Final Answer: Mostly True,mostly true,False,False
+There was no partnership with the federal and state government (for the realization of Rio 2016),false,pt,Final Answer: Mostly False,mostly false,False,False
+"""There are four years that there are no [teachers] and just unemployment two days before the choice""",half true,es,Final Answer: False,false,False,False
+"In a publication widespread on social networks stands out in title that ""O ......",half true,pt,Final Answer: Half True,half true,True,False
+"In publication on social networks, an alleged ""fantochada"" ......",false,pt,Final Answer: Half True,half true,False,False
+"Extra 'Bolsonaro renounces presidency mandate before assuming'.Folha de São Paulo 06/12/2018 at 4:17 pm.In unofficial statement, Jair Messias Bolsonaro, waives his future elected position.See the matter in full",false,pt,Final Answer: False,false,True,False
+"Privatizes already, this is a little shame, waste of public money, disregard of those responsible for the administration of the post office, that is why it has to privatize this antro, corruption and parasites !!!",true,pt,Final Answer: Mostly False,mostly false,False,False
+"“San Luis has no public employees;Today are 17 thousand """,half true,es,Final Answer: False,false,False,False
+Ganjar Pranowo Memberikan Hadiah Laptop Kepada Siswa Yang Minor Video Porno,true,pt,Final Answer: False,false,False,False
+According to a publication that is spreading on social networks ......,false,pt,Final Answer: Half True,half true,False,False
+The official PS page on Facebook is spreading the information of Q ......,mostly true,pt,Final Answer: Half True,half true,False,False
+I don't have any process that talks about misuse of public money,true,pt,Final Answer: False,false,False,False
+2020-09-10T00: 00: 00z,false,it,Final Answer: False,false,True,False
+The 65-year-old cured of Covid-19 with Chloroquine!,false,pt,Final Answer: False,false,True,False
+Humanitarian protection only in Italy and Slovakia?Di Maio is wrong,false,it,Final Answer: Mostly False,mostly false,False,False
+"Joaquim Barbosa said, at this time of the monthly, that I was the only deputy of the allied base of the government who did not take money at Petrobras",half true,pt,Final Answer: Half True,half true,True,False
+"“Since 2015, there is no investment in basic sanitation”",false,pt,Final Answer: Mostly False,mostly false,False,False
+How many are the backward processes in Italy?,mostly true,it,Final Answer: False,false,False,False
+Less than 24 hours to discuss and vote on the Motion of Censu ......,true,pt,Final Answer: Half True,half true,False,False
+There is no hypothesis of holiday slicing,half true,pt,Final Answer: True,true,False,False
+In Facebook publication it is claimed that the SA Regional Administration ......,mostly true,pt,Final Answer: Half True,half true,False,False
+Italy country of mothers?,half true,it,Final Answer: Mostly True,mostly true,False,False
+And Rio Grande do Sul is the state that has the largest number of suicides in Brazil (...),false,pt,Final Answer: Mostly True,mostly true,False,False
+Scientists have discovered a relationship between food consumption TR ......,false,pt,Final Answer: Half True,half true,False,False
+The electric scooter need not be recharged,false,pt,Final Answer: False,false,True,False
+"[PT's management left] a budget break in 2017, of R $ 7 billion",false,pt,Final Answer: Mostly True,mostly true,False,False
+Porto Alegre had an increase in the number of femicides,true,pt,Final Answer: True,true,True,False
+"A video of a supposed German MEP to criticize, in the middle of the parlia ......",false,pt,Final Answer: Half True,half true,False,False
+"He [Márcio França] failed to comply with a judicial measure that determined that the command of the CCP, the Marcola and other leaders were transferred to federal arrests",false,pt,Final Answer: False,false,True,False
+The home team always crosses the first phase,mostly true,pt,Final Answer: False,false,False,False
+[Brazil has] 52 million [of people] below the poverty line,true,pt,Final Answer: Mostly True,mostly true,False,False
+"Let's create the [Military Police] battalions in Araruama, Nova Iguaçu and Itaguaí",false,pt,Final Answer: False,false,True,False
+"In the area of ​​defense and space cooperation, we signed the technology safeguard agreement, which will enable the Alcântara launch center",half true,pt,Final Answer: True,true,False,False
+"""The public market [from Porto Alegre] (...) was closed [during the pandemic]""",half true,pt,Final Answer: True,true,False,False
+"Following the anti-racism manifestations in London, United Kingdom, ......",false,pt,Final Answer: Half True,half true,False,False
+It does not have a law to combat corruption that has not been passed on the PT government.,half true,pt,Final Answer: False,false,False,False
+"We bought 35,000 bulletproof vests, the best vests available in the world, international auction",false,pt,Final Answer: Half True,half true,False,False
+Brazil already has 100 million cases [in court],half true,pt,Final Answer: False,false,False,False
+"In the program ""Quadratura do Circle"", Jorge Coelho stated that ""no Ho ......",mostly true,pt,Final Answer: False,false,False,False
+"The answer is yes.The ""great educator of the working class"", as Ch ......",true,pt,Final Answer: Half True,half true,False,False
+Italians in Germany: no circular with threats of expulsion,false,it,Final Answer: True,true,False,False
+Narcotraction & Communism.In 2015 I posted this photo that was taken by Facebook that said the photo was denigrating the image of President Dilma.Today with Palocci's denunciation confirming the bonds of drug trafficking with funding from the campaigns of communist politicians;I post the so -called photo that in 2015 was censored.Will I be censored by communist censorship with proof?,false,pt,Final Answer: Mostly False,mostly false,False,False
+The female lays 400 eggs,false,pt,Final Answer: Half True,half true,False,False
+"Bolsonaro fires in the polls, 94% want him to be reelected by 2022",false,pt,Final Answer: False,false,True,False
+Salvini is right on the numbers of the landings,true,it,Final Answer: Mostly True,mostly true,False,False
+Malta: more Italian presences than German,true,it,Final Answer: Mostly True,mostly true,False,False
+Only 30% of those who reach the 9th grade can read and interpret a text,half true,pt,Final Answer: False,false,False,False
+Facebook posts and messages on WhatsApp leave the alert: Case ......,false,pt,Final Answer: False,false,True,False
+"According to research institutes, 90% of Rio de Janeiro evangelicals in the second round voted with us",false,pt,Final Answer: Mostly True,mostly true,False,False
+The information that the priest saw ......,mostly true,pt,Final Answer: Half True,half true,False,False
+"(...) the number of cases of HIV rises, and the number of [cases of] AIDS falls",true,pt,Final Answer: Mostly True,mostly true,False,False
+"""For 50 or 60 years there were no new formations in the Argentine Republic""",false,es,Final Answer: False,false,True,False
+We have no floor [salary] of public safety,true,pt,Final Answer: False,false,False,False
+"Only with committed operations, [the Federal Government] used R $ 1.114 trillion, 16.8% of GDP",mostly true,pt,Final Answer: Mostly True,mostly true,True,False
+"Today there is an Italy [...] where the debt has stopped growing, there are one million more employed, the trust of businesses and families is much more solid",true,it,Final Answer: Mostly True,mostly true,False,False
+"""A theme, that of #Regularization and overcoming the #Bossi-Fini which was in the government agreement, in the sign of discontinuity with the #contei""",half true,it,Final Answer: Half True,half true,True,False
+"""Of the total number of young people who do not study or work in the province of Buenos Aires, 75% are women""",true,es,Final Answer: True,true,True,False
+The Covid-19 epidemic has worsened the already bad working conditions of young people in Italy,true,it,Final Answer: Mostly True,mostly true,False,False
+"""I am to make euthanasia legal, as there is in many countries""",half true,it,Final Answer: Mostly True,mostly true,False,False
+"In a publication on social networks it is reported that ""the government lied and ......",true,pt,Final Answer: Half True,half true,False,False
+"For those who can, it is important to expose themselves as much as possible to the sun, according to the climatic conditions",false,pt,Final Answer: Mostly True,mostly true,False,False
+"The FDA, the American Remedy Regulation Agency, approved the use of hydroxychloroquine in all patients with COVID-19",false,pt,Final Answer: False,false,True,False
+A video placed on YouTube presents the new president B ......,false,pt,Final Answer: Half True,half true,False,False
+"No, Salvini's salary is not only paid by the Italians",false,it,Final Answer: Mostly True,mostly true,False,False
+Publication on social networks points out that in social security is in ......,mostly true,pt,Final Answer: Half True,half true,False,False
+"Did you know that, in Brasilia alone, there are 40,000 registered fishermen receiving a thief?(image)",false,pt,Final Answer: False,false,True,False
+"(Doria) was violently criticized by an advertisement of Brazilian tourism with women on the beach, clearly encouraging sex tourism",half true,pt,Final Answer: Mostly True,mostly true,False,False
+"I built 3,000 new vacancies in the prison system in these four years",mostly true,pt,Final Answer: Mostly True,mostly true,True,False
+[Illegal deforestation] rose from 2012 around 37%,mostly true,pt,Final Answer: Half True,half true,False,False
+The average [of retirements in the INSS] is R $ 1.9 thousand,half true,pt,Final Answer: Mostly True,mostly true,False,False
+"The removal of ""emergency use"" by FDA expands the treatment with hydroxychloroquine in the USA",false,pt,Final Answer: False,false,True,False
+"""The state deputy has $ 40,000 to sponsor his mandate""",true,pt,Final Answer: Half True,half true,False,False
+The 9th Children's LGBT Seminar had ended.I repeat: 9th LGBT Children's Seminar,false,pt,Final Answer: False,false,True,False
+"A new ""meme"" focused on the current ......",false,pt,Final Answer: Half True,half true,False,False
+"The government has set aside 2 billion to be used to cover greater deficit, but Italians have not yet realized that it will be 2 billion cuts to businesses, transport and universities, starting from next July, when commission will make a cutting to the Italian public accounts",mostly true,it,Final Answer: Mostly True,mostly true,True,False
+"“If we look at the case of the city of São Paulo, epicenter of the epidemic in Brazil, we will have the following table: between March and May 2019 there were 7106 deaths from respiratory causes in the municipality;In this period of 2020, 8185 deaths were computed by the same causes.The difference is just over a thousand dead ”",false,pt,Final Answer: Half True,half true,False,False
+Are you serious?At the end of the procedure does the needle have the protector?I saw this?And where the cotton?It seems more like a pink dictator's scam,false,pt,Final Answer: Mostly False,mostly false,False,False
+I didn't even know he [Joesley] was being investigated,half true,pt,Final Answer: Half True,half true,True,False
+In response to the polygraph's fact-chiefs on the Profess ......,true,pt,Final Answer: False,false,False,False
+This vinegar when hitting your throat will start killing coronavirus in your throat.And the garlic will enter your bloodstream and prevent you from shortness.,false,pt,Final Answer: False,false,True,False
+"The left that 'worries' with the death of a child, victim of stray bullet, is the same that promotes abortion tea!",false,pt,Final Answer: Mostly False,mostly false,False,False
+After 95 (...) came this very generous proposal of the 100%,false,pt,Final Answer: Half True,half true,False,False
+"“Victory, a capital the size of Christmas”",false,pt,Final Answer: False,false,True,False
+[Energy import] does not represent more than 8% of our country's demand,half true,es,Final Answer: Half True,half true,True,False
+"""Next year it would end with six points less than GDP per capita than in 2015""",true,es,Final Answer: Half True,half true,False,False
+We are the country that preserves the environment the most,false,pt,Final Answer: Mostly False,mostly false,False,False
+Publication on the social network Facebook indicates that Portugal has 10 million ......,false,pt,Final Answer: Half True,half true,False,False
+Do you know what is the investment of the state of Rio de Janeiro (...) in intelligence this year?(...) R $ 283,true,pt,Final Answer: Half True,half true,False,False
+The work of the future: Di Maio uses questionable figures,half true,it,Final Answer: Mostly True,mostly true,False,False
+"There are 1,500 guards (approved in contests, but not called)",true,pt,Final Answer: False,false,False,False
+"“In 2009 the H1N1 flu killed a lot more people than Covid19 and your Lula administration did not give you 10 cents.And more the rotten media was silently silent did not speak of isolation, or anything ”",false,pt,Final Answer: Mostly False,mostly false,False,False
+"Creation of an external corregedoria, outside the structure of the Public Security Bureau",false,pt,Final Answer: Mostly True,mostly true,False,False
+We are (...) with record of unemployment,false,pt,Final Answer: Half True,half true,False,False
+The program will benefit 4 million children between 0 and 3 years [until the end of 2018],false,pt,Final Answer: False,false,True,False
+A debt is inadmissible - including banks and large companies (...) - [with] the city of São Paulo that is around R $ 130 million,false,pt,Final Answer: Half True,half true,False,False
+"For 56 years, a violent confrontation between the RDA police forces, and ......",true,pt,Final Answer: False,false,False,False
+(...) Our expectation is that [the membranes and tailings containment curtains installed in Pará de Minas] is enough to contain this tailings and not allow any problem for the river water capture [Paraopeba],false,pt,Final Answer: Half True,half true,False,False
+"""In no country in the world a government is governed with an opposition budget""",half true,es,Final Answer: True,true,False,False
+"“Extra network we are donating products.To help with the Pandemia we in the Extra Group we are donating more than 15 million reais in products.We are together in this crisis and we will go out together, we have basic basket bags, among various products mark someone who needs it.[...] Interested comments ‘OK’ and we will contact you ”",false,pt,Final Answer: Half True,half true,False,False
+"BNDES is available (...) to redirect the resources already approved to the building's reconstruction efforts and, as possible, to restore the collection",mostly true,pt,Final Answer: Mostly True,mostly true,True,False
+With the word the federal judge Marcelo Bretas da Lava Jato Rio de Janeiro.,false,pt,Final Answer: False,false,True,False
+"""The mechanism will have a bias towards those who have less""",false,es,Final Answer: Mostly True,mostly true,False,False
+"In 2013, the agreement between the petista government and the Cuban dictatorship brought to Brazil 10,000 doctors",half true,pt,Final Answer: Mostly True,mostly true,False,False
+2018-11-03T14: 18: 33Z,false,pt,Final Answer: False,false,True,False
+"Federal Deputy of Psol Talíria Petrone (...) stated in a session in the House of Representatives that 'police officers do no more than obligation to die in combat against organized crime, as they are paid to die'",false,pt,Final Answer: Mostly False,mostly false,False,False
+Brasilia (...) has police compensation paid by the federal government,true,pt,Final Answer: True,true,True,False
+Gentiloni inaccurate on industrial production and exports of Italy,half true,it,Final Answer: Half True,half true,True,False
+"In a publication on social networks it is claimed that ""employees respond ......",false,pt,Final Answer: Half True,half true,False,False
+"""[Between 2010 and 2013] the amount invested in education and health in Brazil was 212 times more than the amount invested in the stadiums""",true,es,Final Answer: True,true,True,False
+A message is being widespread in social networks ......,false,pt,Final Answer: Half True,half true,False,False
+An article on a supposed vaccine co ......,mostly true,pt,Final Answer: Half True,half true,False,False
+"Good morning, this bacteria was transmitted by the dog's saliva, look at the danger that runs when you let the dog lick your mouth",false,pt,Final Answer: Mostly True,mostly true,False,False
+"‌ ‌ “When we arrived in December we found a languid central bank, without reservations, empty” ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌",false,es,Final Answer: Half True,half true,False,False
+"""152 thousand registered jobs from the private sector were lost""",true,es,Final Answer: Half True,half true,False,False
+"In publication on Twitter, the government's intention to create 60 ......",half true,pt,Final Answer: Half True,half true,True,False

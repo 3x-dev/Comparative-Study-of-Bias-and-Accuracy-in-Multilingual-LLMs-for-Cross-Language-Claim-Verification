@@ -1,8 +1,8 @@
 {
     "correct": 123,
     "wrong": 422,
-    "inconclusive": 54,
-    "total": 599,
+    "inconclusive": 55,
+    "total": 600,
     "languages": {
         "fr": {
             "correct": 24,
@@ -19,8 +19,8 @@
         "es": {
             "correct": 31,
             "wrong": 91,
-            "inconclusive": 13,
-            "total": 135
+            "inconclusive": 14,
+            "total": 136
         },
         "pt": {
             "correct": 36,
