@@ -3,9 +3,9 @@ import json
 import re
 
 # File paths
-csv_file_path = 'indo_aryan_gpt-4o-mini_direct_inference.csv'
-json_file_path = '../../JSON Files/indo_aryan.json'
-output_json_path = 'indo_aryan_gpt-4o-mini_direct_inference_summary.json'
+csv_file_path = 'meta-llama-3.1-405b-instruct_direct_inference.csv'
+json_file_path = '../../../JSON Files/indo_aryan.json'
+output_json_path = 'meta-llama-3.1-405b-instruct_direct_inference_summary.json'
 
 # Mapping dictionary for the labels
 label_mapping = {
