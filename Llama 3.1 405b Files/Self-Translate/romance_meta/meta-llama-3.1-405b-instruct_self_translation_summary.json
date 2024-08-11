@@ -1,32 +1,32 @@
 {
-    "correct": 4,
-    "wrong": 15,
-    "inconclusive": 0,
-    "total": 19,
+    "correct": 135,
+    "wrong": 422,
+    "inconclusive": 43,
+    "total": 600,
     "languages": {
         "fr": {
-            "correct": 0,
-            "wrong": 3,
-            "inconclusive": 0,
-            "total": 3
+            "correct": 21,
+            "wrong": 87,
+            "inconclusive": 1,
+            "total": 109
         },
         "it": {
-            "correct": 3,
-            "wrong": 3,
-            "inconclusive": 0,
-            "total": 6
+            "correct": 45,
+            "wrong": 90,
+            "inconclusive": 4,
+            "total": 139
         },
         "es": {
-            "correct": 0,
-            "wrong": 6,
-            "inconclusive": 0,
-            "total": 6
+            "correct": 25,
+            "wrong": 107,
+            "inconclusive": 4,
+            "total": 136
         },
         "pt": {
-            "correct": 1,
-            "wrong": 3,
-            "inconclusive": 0,
-            "total": 4
+            "correct": 44,
+            "wrong": 138,
+            "inconclusive": 34,
+            "total": 216
         }
     }
 }
