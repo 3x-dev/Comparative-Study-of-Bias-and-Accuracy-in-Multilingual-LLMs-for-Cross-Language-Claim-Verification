@@ -1,20 +1,20 @@
 {
     "correct": 145,
     "wrong": 379,
-    "inconclusive": 73,
-    "total": 597,
+    "inconclusive": 76,
+    "total": 600,
     "languages": {
         "bn": {
             "correct": 38,
             "wrong": 109,
-            "inconclusive": 15,
-            "total": 162
+            "inconclusive": 16,
+            "total": 163
         },
         "hi": {
             "correct": 70,
             "wrong": 154,
-            "inconclusive": 38,
-            "total": 262
+            "inconclusive": 40,
+            "total": 264
         },
         "mr": {
             "correct": 17,
